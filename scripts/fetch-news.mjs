@@ -25,14 +25,16 @@ async function pull(feed) {
   const xml = await res.text();
   return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].slice(0, 7).map(m => {
     const b = m[1];
-    const title = tag(b, "title");
-    return {
-      cat: feed.cat,
-      title,
-      blurb: tag(b, "description").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim().slice(0, 150) + "…",
-      src: tag(b, "source") || title.split(" - ").pop() || "News",
-      url: tag(b, "link")
-    };
+    const raw = tag(b, "title");
+    const src = tag(b, "source") || raw.split(" - ").pop() || "News";
+    // Google News titles end with " - Source"; the source is shown separately on the card
+    const title = raw.endsWith(" - " + src) ? raw.slice(0, -(" - " + src).length) : raw;
+    let blurb = tag(b, "description")
+      .replace(/<[^>]+>/g, " ").replace(/&[a-z#0-9]+;/gi, " ").replace(/\s+/g, " ").trim();
+    // Google News descriptions usually just repeat the headline — drop those
+    if (blurb.slice(0, 60) === (title + "  " + src).replace(/\s+/g, " ").slice(0, 60) || blurb.startsWith(title.slice(0, 60))) blurb = "";
+    if (blurb) blurb = blurb.slice(0, 150) + "…";
+    return { cat: feed.cat, title, blurb, src, url: tag(b, "link") };
   }).filter(x => x.title && x.url);
 }
 

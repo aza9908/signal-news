@@ -24,7 +24,7 @@ const I18N = {
     "sub.eyebrow":"03 — Subscribe","sub.head":"Three dollars. Done.","sub.sub":"No recurring charge, no account. Pay once, get the code, keep reading.",
     "sub.access":"Full access","sub.cyc":"one-time · lifetime feed access",
     "perk1":"The complete AI & robotics feed, always current","perk2":"Subscriber-only Telegram channel from Azamat & Kuanysh","perk3":"Field notes: what we're building in antibody ML & robotics","perk4":"No ads, no recurring billing, no data resale",
-    "sub.cta":"Unlock now via Tribute","pay.head":"How payment works","pay.tribute.d":"Handles the charge & channel access","pay.safe":"SAFE","pay.kaspi.d":"Via a Kaspi payment link — never a card number",
+    "sub.cta":"Unlock now via Tribute","pay.head":"How payment works","pay.tribute.d":"Handles the charge & channel access","pay.safe":"SAFE",
     "pay.note":"Tribute processes the $3 and adds you to the private channel automatically — no banking details ever touch this page. After paying, you'll receive your access code to unlock the feed here too.",
     "foot.writers":"Writers","foot.feed":"Feed","foot.subscribe":"Subscribe",
     "foot.fine":"© 2026 Azamat Armanuly & Kuanysh Magauin. Headlines are aggregated from public news feeds and link to their original publishers; summaries are our own. This is an independent channel and is not affiliated with the publishers or companies mentioned.",
@@ -52,7 +52,7 @@ const I18N = {
     "sub.eyebrow":"03 — Жазылу","sub.head":"Үш доллар. Болды.","sub.sub":"Қайталанатын төлем жоқ, тіркелу жоқ. Бір рет төлеп, кодты алып, оқи беріңіз.",
     "sub.access":"Толық қолжетімділік","sub.cyc":"бір реттік · өмір бойы қолжетімділік",
     "perk1":"ЖИ мен робототехника бойынша толық ағын, әрдайым өзекті","perk2":"Азамат пен Қуаныштан жазылушыларға арналған Telegram арнасы","perk3":"Далалық жазбалар: антидене ML мен робототехникада не жасап жатқанымыз","perk4":"Жарнама жоқ, қайталанатын төлем жоқ, деректі сатпаймыз",
-    "sub.cta":"Tribute арқылы ашу","pay.head":"Төлем қалай жүреді","pay.tribute.d":"Төлем мен арнаға кіруді басқарады","pay.safe":"ҚАУІПСІЗ","pay.kaspi.d":"Kaspi төлем сілтемесі арқылы — карта нөмірінсіз",
+    "sub.cta":"Tribute арқылы ашу","pay.head":"Төлем қалай жүреді","pay.tribute.d":"Төлем мен арнаға кіруді басқарады","pay.safe":"ҚАУІПСІЗ",
     "pay.note":"Tribute $3-ті өңдеп, сізді жеке арнаға автоматты түрде қосады — банк деректері бұл бетке ешқашан түспейді. Төлегеннен кейін ағынды осы жерде ашуға арналған кодты аласыз.",
     "foot.writers":"Авторлар","foot.feed":"Ағын","foot.subscribe":"Жазылу",
     "foot.fine":"© 2026 Азамат Арманұлы & Қуаныш Мағауин. Тақырыптар ашық жаңалық ағындарынан жиналып, түпнұсқа басылымдарға сілтейді; қысқаша мазмұны — біздікі. Бұл тәуелсіз арна және аталған басылымдармен немесе компаниялармен байланысты емес.",
@@ -80,7 +80,7 @@ const I18N = {
     "sub.eyebrow":"03 — Подписка","sub.head":"Три доллара. Готово.","sub.sub":"Без регулярных списаний и аккаунта. Заплатите один раз, получите код, читайте.",
     "sub.access":"Полный доступ","sub.cyc":"разово · доступ к ленте навсегда",
     "perk1":"Полная лента ИИ и робототехники, всегда актуальная","perk2":"Закрытый Telegram-канал от Азамата и Куаныша","perk3":"Заметки из практики: что мы строим в ML для антител и робототехнике","perk4":"Без рекламы, без регулярных списаний, без перепродажи данных",
-    "sub.cta":"Открыть через Tribute","pay.head":"Как проходит оплата","pay.tribute.d":"Обрабатывает платёж и доступ к каналу","pay.safe":"БЕЗОПАСНО","pay.kaspi.d":"Через ссылку Kaspi — без номера карты",
+    "sub.cta":"Открыть через Tribute","pay.head":"Как проходит оплата","pay.tribute.d":"Обрабатывает платёж и доступ к каналу","pay.safe":"БЕЗОПАСНО",
     "pay.note":"Tribute обрабатывает $3 и автоматически добавляет вас в закрытый канал — банковские данные никогда не попадают на эту страницу. После оплаты вы получите код доступа, чтобы открыть ленту и здесь.",
     "foot.writers":"Авторы","foot.feed":"Лента","foot.subscribe":"Подписка",
     "foot.fine":"© 2026 Азамат Арманулы & Куаныш Магауин. Заголовки собраны из открытых новостных лент и ведут к оригинальным изданиям; краткие описания — наши. Это независимый канал, не связанный с упомянутыми изданиями или компаниями.",
@@ -142,7 +142,8 @@ function cardHTML(it, free){
   return '<a class="card glass" href="'+esc(it.url)+'" target="_blank" rel="noopener">'
     +'<div class="kicker '+cls+'">● '+esc(label)
     +(free ? '<span class="free-badge">'+esc(t("u.free"))+'</span>' : '')+'</div>'
-    +'<h3>'+esc(it.title)+'</h3><p>'+esc(it.blurb)+'</p>'
+    +'<h3>'+esc(it.title)+'</h3>'
+    +(it.blurb ? '<p>'+esc(it.blurb)+'</p>' : '')
     +'<div class="src"><span>'+esc(it.src||host(it.url))+'</span><span class="arrow">'+esc(t("u.read"))+'</span></div></a>';
 }
 function render(items){
@@ -166,17 +167,26 @@ function stamp(){
   const d=new Date();
   $("#dateChip").textContent=d.toLocaleDateString(LANG==="en"?undefined:(LANG==="ru"?"ru-RU":"kk-KZ"),{month:"short",day:"numeric",year:"numeric"});
 }
-function cleanBlurb(s){
-  return (s||"").replace(/<[^>]+>/g,"").replace(/&[^;]+;/g," ").trim().slice(0,150)+"…";
+function cleanText(s){
+  return (s||"").replace(/<[^>]+>/g," ").replace(/&[a-z#0-9]+;/gi," ").replace(/\s+/g," ").trim();
+}
+/* Google News titles end with " - Source" and descriptions repeat the headline; tidy both. */
+function normItem(cat, rawTitle, desc, srcHint, url){
+  const raw=(rawTitle||"").trim();
+  const src=((srcHint||"").trim())||raw.split(" - ").pop()||"News";
+  const title=raw.endsWith(" - "+src)?raw.slice(0,-(" - "+src).length):raw;
+  let blurb=cleanText(desc);
+  if(title && blurb.startsWith(title.slice(0,60)))blurb="";
+  if(blurb)blurb=blurb.slice(0,150)+"…";
+  return {cat:cat,title:title,blurb:blurb,src:src,url:(url||"").trim()};
 }
 async function pull(feed){
   // Primary bridge: rss2json (free tier, occasionally rate-limited)
   try{
     const r=await fetch(BRIDGE+encodeURIComponent(feed.rss)); if(!r.ok)throw 0;
     const j=await r.json(); if(!j.items||!j.items.length)throw 0;
-    return j.items.slice(0,7).map(x=>({cat:feed.cat,title:x.title,
-      blurb:cleanBlurb(x.description),
-      src:(x.title.split(" - ").pop())||"News",url:x.link}));
+    return j.items.slice(0,7).map(x=>normItem(feed.cat,x.title,x.description,"",x.link))
+      .filter(x=>x.title&&x.url);
   }catch(e){}
   // Fallback bridges: raw CORS proxies + native XML parsing
   const proxies=[
@@ -188,11 +198,8 @@ async function pull(feed){
       const r=await fetch(proxy(feed.rss)); if(!r.ok)throw 0;
       const xml=new DOMParser().parseFromString(await r.text(),"text/xml");
       const items=[...xml.querySelectorAll("item")].slice(0,7).map(it=>{
-        const title=(it.querySelector("title")||{}).textContent||"";
-        return {cat:feed.cat,title:title.trim(),
-          blurb:cleanBlurb((it.querySelector("description")||{}).textContent),
-          src:((it.querySelector("source")||{}).textContent||title.split(" - ").pop()||"News").trim(),
-          url:((it.querySelector("link")||{}).textContent||"").trim()};
+        const g=n=>((it.querySelector(n)||{}).textContent||"");
+        return normItem(feed.cat,g("title"),g("description"),g("source"),g("link"));
       }).filter(x=>x.title&&x.url);
       if(items.length)return items;
     }catch(e){}
