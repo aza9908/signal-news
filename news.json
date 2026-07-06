@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-06T16:04:02.609Z",
+ "updated": "2026-07-06T22:16:02.523Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Britain should consider regulating AI models, FCA official says",
+   "title": "Illinois Governor Signs Nation’s Strongest Frontier AI Model Law",
    "blurb": "",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQnJ5cS12alZjNldER2xvZUx1WlFPb0p0Z0V2a1Rxa3BfNldGN19XQkdYeUVYbUhnVVdzSEVNTldsZjZ5YkYxTTlvdFB2bDRkaEdfS1dseWUzWHhCaXdCMjJjbmE2bWwwSkxLZEt1bTgycklJbGxvVk4zNUJlMXIyb0NaNXV5NTVqNk5aRFQ5bWVOd2doUWdlQWxmR3JhMGhtVVk4?oc=5"
+   "src": "Bloomberg Law News",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVpXY3ZVVFN5a084YmhhV2J6TGNzRzM4QnhZZUNVUVlPWFp4RVllM1JrNDRLMzN6QWVvREJqeG9TdU41VWZ1cEVrRExnd3I4N0JVdTBzM2dqRi1vUlNSNXZOVlgzMWZkRUpKbjJDSDVfY09yTUhyeXNJOFVmNjdKdXUxT2JUNnVCSk83TW9NZ3pTQW15Z2psU3FFeVR2QkxkOS1kdU1n?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +17,24 @@
   },
   {
    "cat": "ai",
-   "title": "AI model improves prediction of immunotherapy response across multiple cancers",
+   "title": "AI Location Bias; AI Missing Vocal Clues: USC Viterbi and USC Stevens at ICML 2026",
    "blurb": "",
-   "src": "The Pharma Letter",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmU5eUI4cEF2dWYxTlVvbHFZbmJ6X0NDTnpnSmxzc3EyRXYxWndLLVdjaXRLYzFyQWJCQVMwRnJJOG9jMHFWOVk4ZG5qU2JpNXRpQUVjYms5UFRVR0lFYzZqNDU0MHgwQkxGdUN2UWNnSDhCV1dMbGFDSE5rV0NOWUNFNDFHaHpOLWg2SkVhdjFaUU9EUFhnanlJWmVOYi1xN0d4dVJnNlNnV3duUVBTdmpUN0JMQkJ4VlMxTThlTFo?oc=5"
+   "src": "USC Viterbi School of Engineering",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjNGZmkybGxhZUJja29GSl9RQzRFY0JyWEV2Yl9EYVE4MjlTbjVhcEVtZC02NXF6alhQckdKYjVrSm1xZ2RrNXA4UEZLcm45UnR0LVU1OVZ6a2hlbDA3elR1YzFrVmFxVkU1TlVxYy1qOUJZeGpHVGc0MjlTSEtaS2FMcGNKS0M3WnE5S2FIMVJodjBuSWI2TzdwajA2ZG1McGJSZzkya1BUc3ZjbUNLcGNxRHdFSXgxOU1nb05tM1hzQQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Meet the humanoid robot that made a surreal cameo in the Norway-Brazil World Cup game",
+   "blurb": "",
+   "src": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUW5xM05ScnIxeUlDTDVkVjJFTTlzM1VFRGdlU0MxOEJDcnVUb3lybEZHbHRRcWpKZkNzSzJrQTBDQ2ZMN05JZnhVT2FzS3kzbkpiaDhtMUZaT2ZkTWdxcU50alBGWkN4YndsWG1CRDZyN1lJYmpkVUdnaWMzMnNHNld6YkdCQnYwb0Rod1R2RWE0Tkpnd1J5bDdybVlBc1phTjg1VGZnOA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Backlash to Bipartisan AI Omnibus Illustrates Preemption Impasse",
+   "blurb": "",
+   "src": "Inside Global Tech",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnEya1VvQ2VtY2tYUzdSM21pWDlIbkhrUmYyYzNvRDc5UDZFTmZGNjZyem95REhCcVgxMGd1TWNuSk9NM0YyV0dNT3BSNEIzLWg0QnlmV0RoV0JPdDBwblVxV1VSYXh6ZDNpeGgxQkx5YmsyQUhVUm9iZG1nWk0wNDljYjJMODhiVFFkenF1V2preG5QZURSY1dncm85azZRU2hoNHVhRDcxai1ERGc?oc=5"
   },
   {
    "cat": "robo",
@@ -31,24 +45,38 @@
   },
   {
    "cat": "ai",
-   "title": "China Becomes Biggest Enemy Of US AI",
+   "title": "The administration’s new AI framework includes something the government hasn’t had before",
    "blurb": "",
-   "src": "24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkhTekNCNC03NDdabjlrbWpRV25XVVVKVGpvUkZiSW5EMm14c1RSYWszeFR5MEtSQ1FlNTRFc1BkVXMzckVZVnY1VmxSbDVTRXJyeTc4OGVBN1lFdGdnaVNET1Mtamt1WngzT183WXNuX3REeUpfZTNqZmhmaEY2ZlgyNC1iTWs?oc=5"
+   "src": "Federal News Network",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc2dtbWgwRVZlYnlxQmpjSTRyMGNmNW9ZN25IUDVxOHZVWWdhcWd2NndwNXctbFJMNVM4UGY1RTdiTElxNDQyUTcwdGVtMzdnQ0l1cjl0SkdNWm1PYzg5V0xPMHp2dmJfbEV4MG9INE5pdWowaXNYOGVlTFZjd0pXekhndlJCeWVjNXVYTGVmcUk0bWpReTVLOHFHQ1M0eG5ROVRvYzRjZ243RkJ5NW51a1RObmh4dnZPNHplUE56QkVDSVd0SlpiWk0za2hVM1BMWTRhSWUwSEpCOW8wSTgyeUNqQnRaUQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Robot that will ‘never betray you’ is world’s first mass-produced humanoid",
+   "title": "North Carolina sheriff unveils humanoid robot that could soon help with hostage calls, crime scenes",
    "blurb": "",
-   "src": "Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdlMxbEkzX1BuMXpDeTBhcEZRcmJLSWxXVU1KZnlRRWIzOGx3b1lfNGk0TkE5Q0ppaHVicnVsRzNSbWtyWXNVRG9DZ0picm0xYlRuUWpKci1ZSE0zTGtIVUg2UWp2d2ROVjRuVjd3RUZ2U0R6aVNBYlVuMmU4S3hBRzJMckRDdw?oc=5"
+   "src": "Gulf Coast News and Weather",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmhxemQwcUMyQVppYUFJWkNVVTRmVGFfN3lOWkZOeHktZC1kOGNuM3A0RDloQlRNZFNWY0tjZEVzcklJOFRka0IyOW9CeFE3OTRhRC1zMFlyRzItRGpEckxuS0lQcmJoRDBHT05Vam42b3JsVEM2MDIyMms4em43VEtaN1N6QzRjY21PYm5kSmZTSTBPNHpJcGtvT1A?oc=5"
   },
   {
    "cat": "ai",
-   "title": "State-Subsidized and Dirt Cheap: The Chinese AI Threat to U.S. Model Makers",
+   "title": "Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
    "blurb": "",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1dXS1ducmw5TFB5T3VRSTBNaGhkNnFFN3cwWXUtNk41MVhsUElrazFIb3VtSkROYWRSdFhGRTNZZkc2UWJZWWJ5NmJoWGVtSWQyYUpYMEZiUUpjS3N2TENpRjhYYmhyUTBGckRvTWNjaEFwanUzejh5TG1obW5DMHhxUllCMHBlcTJlTmJfc3NUMTlhS2c?oc=5"
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wZ2pQY0szQ1ppaVBBLUpBVTQzc0stVExrOUVNZmFuME4zUHQtVkxZMUFVeTdVYmpLX0xWbE9xRk5JR01pXzd3QzlEdWUxeUFUM3hnb2pvb1NEOFh0anBBTTAzZy1Za05faElxZTl2VWtOdw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "How Humanoid Robots Are Expanding the Reach of Automation",
+   "blurb": "",
+   "src": "Design News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmFhTF9rX1NCMFZuNUppYVFFWGNTUTlVZm4wblhhYzVOUWZRR3BfMEx2Y3hScnppejliY281VThya0ppTGRIandIM3NnVzVTSUFVLUxzd25IZEZCaGFQTjZGV3R4WUdEaE10Ml81YlA0VHRPQjlfVnB0X2JoYXRCbGEwcldHaTJzSUNEaTRjZHVBbEhsRU8ybQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Pritzker signs landmark AI regulation bill that aims to mitigate risks",
+   "blurb": "",
+   "src": "Capitol News Illinois",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNm92TVVqUHEyZW1sX2lWU1Rlc3RGZW8tUi1YZFlNMVdSS3dvcUxKc0JscDVGYXREMjFHOXd2eDRTQm9WaHNmLVNORlhkNDVPUU8tRjlPdHdIZmtuaGlzeEoxT2NjcFliNmcxMEF6bG9nMU5qcVNYZ08xc0RGV3FxbW1CMzlRYmlqRTM1WFV4UEQ2TGlVY2RQYnVnTm54a0dxeDFkUUNORDFjYS1p?oc=5"
   },
   {
    "cat": "robo",
@@ -56,34 +84,6 @@
    "blurb": "",
    "src": "The Guardian",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFROY0V3Mld2MzU4LUZDbm0zM1duRUtRY3pZRXZFSDNVQUEwaVBSN0pSd1Y1SzlHclgwbkdFT0gzWlozMFBudU5wTWFRalpreVdHbUNGaXdYYWl4UlB5dUZQeU5NUl9ETktmRDdNR1lWaDZIRlFoaDFQOV9DNGF1NDBpcHRNeGw1YUU3Tnlja2UwSENmSlFUVEhKUzJnTWJtMlYwSXJR?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Trump restrictions on private AI models turn attention to open source",
-   "blurb": "",
-   "src": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3R4SjNhdDktdk9mME91S1JDcnFHWXo5NkVwd3BqNlU3eEdLcFRKQTh0d3phRkJsQnRiZzBSQzJSbmNZMjdkdVV4TWlLLW1ZWkptNVl2M0I1empwajd1THFMRjI2ZEMtVUFjaXdaai10bnhGejBmOUZGN0NvVEJFa1Rzd1gtR1RxLXVfeEItMFhsd2PSAZgBQVVfeXFMTlU3Mk9MSVZGUmdETnR3dm9YWEY2NE5idHBKWHJXbTdiUjRGRnpTV1FYcGNHaDZTRFg1X2xXQUlZSWVvbVg1LS1zM1FYQnBNNmp4NDlHUnhLVmwwREJnVkZicTJCSjNNQmNaUW5nM2UxZmhuVWF2aUhMMEk1anRqek5Uem5QTEcyN0pEWXhuUjM3WEZDVXRXYks?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Forsyth County Sheriff showcases humanoid robot with advanced capabilities",
-   "blurb": "",
-   "src": "WXII",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeklNNUxKZHRHQjJJYThfRjh6TjdWck42ZHlGUkExNUpnYVE5eGZVRWJMWHNtZXhDUzQ1SXZYMFh5ZEc1UmgyeHdQQ0xQd3FOejlNWWpfbzBONVNDUjgySXlLc2gyc0lNdjFwdGJZYWVIMEoyQW9KOGZMTl9HN01HX0FqNWVxUmlkQTNFMlRSUkM5RXpyTV9zeWVvMzN1SFd1QVd6dW43UVVVRzFrUm9YWC00VUQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Is artificial intelligence eroding human intelligence and mental health?",
-   "blurb": "",
-   "src": "Open Access Government",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdE9QMUlpR0ZMNkVLWUFWRndRX2FiMjFfOEFfdmdBcjNfTC1Jc2czWVY2VjcwQ1pHYVVPUVc1clRHRTQwR0lfYW9jTzZMOWpjX0ZKcllhSDZsVXRHc1Q0WDE2NlJ1RW9IbXZNYThLenY4TDVfWXBvaDFER1Q5eGZUOWRYaGFhMmZJdTE3bktibldLQTRDY09lOXk5cWJEMldSYTdJSTl5bnplV0NuS3FKdy1RQ3FpN2J3Qk9lS0RVSld5QQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Hyundai Motor Brings Atlas Humanoid Robot to FIFA World Cup 2026™ in First-Ever Live Match Environment Robotics Integration",
-   "blurb": "",
-   "src": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQUVVPMVNFVGs3WDMwR29pY3NMSExYOHU4bnhyd3M2cjVyMl9GcUZWSThUUlVSd2FTYUZnaXpWOHBnTjlSbHdaNUU1dGItZDBSLURWM3dod3IwOU1XUmE2cExiZmMxVlJUWFkzeDRFZzdkWE1QLUozUGJhalNGOEVPd28wYXk4VlRYNnI5ZXl3Q25KcU1NcHN5YXpNVjlpb2czbGE4aHZON2VsUUJkbktyQkNrMm05Qm92YUVXaTg0VGN6bGhiR2NKalFDWUpuWHZvdlR4TnN5alRtd3B6RlU0UTl6LU5MeHJLNzdGMUE5VnY4d1EtMVR1cjNUSmtuMmxzMTE5anlfclJrdw?oc=5"
   }
  ]
 }
