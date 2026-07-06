@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "signal.zip",
+      "README.md",
+      "package.json",
+      "package-lock.json",
+      "server.js"
+    ]
+  }
+}
