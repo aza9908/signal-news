@@ -176,9 +176,17 @@
   .paycard{padding:30px;display:flex;flex-direction:column;gap:16px}
   .paycard h3{font-size:18px;font-weight:640}
   .payopt{display:flex;gap:13px;align-items:center;padding:15px;border-radius:16px;
-    background:rgba(255,255,255,.03);border:1px solid var(--edge-soft)}
+    background:rgba(255,255,255,.03);border:1px solid var(--edge-soft);
+    text-decoration:none;color:inherit;cursor:pointer;
+    transition:transform .25s, background .25s, border-color .25s, box-shadow .25s}
+  .payopt:hover{transform:translateY(-2px);background:rgba(255,255,255,.07);
+    border-color:var(--edge);box-shadow:0 10px 26px -12px rgba(191,90,242,.55)}
+  .payopt:active{transform:translateY(0)}
   .payopt .ic{width:40px;height:40px;flex:none;border-radius:12px;display:grid;place-items:center;font-size:19px;
     background:var(--glass-strong);border:1px solid var(--edge-soft)}
+  .payopt .ic.apple{background:linear-gradient(160deg,rgba(255,255,255,.16),rgba(255,255,255,.05));
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.35)}
+  .payopt .ic.apple svg{display:block;filter:drop-shadow(0 1px 3px rgba(0,0,0,.45))}
   .payopt .t{font-size:14px;font-weight:600}
   .payopt .d{font-size:12.5px;color:var(--ink-faint)}
   .payopt.reco{border-color:rgba(64,200,224,.35);background:rgba(64,200,224,.06)}
