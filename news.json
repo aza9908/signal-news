@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T11:53:06.668Z",
+ "updated": "2026-07-07T17:18:53.156Z",
  "items": [
   {
    "cat": "ai",
@@ -10,10 +10,52 @@
   },
   {
    "cat": "robo",
+   "title": "UMA Unveils Its Vision for the Next Generation of Humanoid Robots",
+   "blurb": "",
+   "src": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2xmMkw4eXk0Um90X0twYmtha294UDJvOURGdURrYld6RXZSQTN5T05GejZlVElydkVkVVZFcFFnN0FPMURfeFJ6MGZfMkt3ZzkxQmdvS2Y0WmtoVXJHZzdvMDBMbXpVMHVsWlZkOE84VnBrcUt1YlRHdkt1UEcwcW9lUWZtYkR6OHRVUzBHWDdjeWczYXAtWnNhVEZZdDFXOEFfQU1NcVY5YVVscjJmaEo1cElzbTRyVEZlOVZRYw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow",
+   "blurb": "",
+   "src": "Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcUctbFlyTEtNRkExNTlJbHdMelFvUmY5MGcwQVh6M1dDUGFtR1lxMjRlNFoxVkM0WXBicFJTQllvTzRsdmN2WEZIZTZITXN6OHFoSjZ5MEZhWUFYTVJEX2NnMWRPSHNQamFYNkw4dHRTSGRWNXl5aTJMUE0wV1Q1VV9vQ2F3amItdEhnZEtJNHdPOFJRNFRGOTVlaGJ4c2JMY2VaZ0syaHNrQ1Zfa3BWNXRVVHQyUURMUnVFUw?oc=5"
+  },
+  {
+   "cat": "robo",
    "title": "The humanoid robot boom is here. These top Silicon Valley investors aren't buying it.",
    "blurb": "",
    "src": "Business Insider",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnBad3ZzRGZHOGl5SG1XbTJHUnNyUXN2MHU0OE1FdmFZWUU0VERUMjVYSHZ5dHc0WG00OURwVFkyMVpuS2x5NDk2dFlEZHIwUzZqUjREOXNYNUN2NXNoUnd2WWw3bXE4R1Q5NHJ6ZUowUzVKN1NyT2FKd0dmVlZmX0NOVGw2b2plc2VDNXhB?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+   "blurb": "",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDTSAYwBQVVfeXFMTWNWajVVa1E4LUFmSkxieEhfOGhPNHFDamRRUmRma0xOYzNVXzBKTThOSnVBS2RkY2JydlNoU1dQcHR4UU9qNmlINmptaXJnOTdhbWh5QXlwbDk4SzBXcUVYZUUtYy1YTG11bjREQ2xMMmNkelFMSDFJQjA0ZlJjajlxWGFpNGZQaGpnbXM?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid robots are coming. Which industries are poised for it?",
+   "blurb": "",
+   "src": "Tech Brew",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yUHpOaVB4UjFvNGlBZWdQamJObmhFZTQ1Vk9XM0JUZlpQcUtZM0IwOTFUcXVMLU9WVDNwVVNOTGxhMnJrbDhQREZ6d0pFTVBqa1M4VU9ZdzFxYXR6VDZ0UHliTS15dW9nbUo2bXFWdFk?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Where Medicine and Artificial Intelligence Converge",
+   "blurb": "",
+   "src": "New York Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYm9OcHdIMjNBMVpleHFIdGxhOXZFRHhkUTlsdXVLenpJcFVMN0dvZE5MOTJIbTk4TXdoMF9KRktNNmxWdHBHcF8wWUk0ei0taUxEdm9RNDdLX2czSHJSbTc3cWRTLTB6UjZiZGp2LWxONzNoSVU0b2ctWk92OHJiSzRGS0ZNTTh6a1NSaUdsR2M?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+   "blurb": "",
+   "src": "Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1FmaFkzdUU5bWtSMl9kWXd1bjJtcFloMGNRMzF4c3BJcWVPY2xFcVJHeWZGVGR0RnFjaW9zbnBMdjRZZDlsVzVVXzEyQThmMC1YVUpzR1BMWm1PRWxTMG1sZUR6bThVVWpxUGNuWjNmY01hekJrOVhMckd3UF9IQ3hhVGxiMHFNSUNTMEoxSHQ0RzNPd1lvdjFRYWxSNzQ1blB3WEJpZDFlTGotRmRNTDJzT0FXTVU?oc=5"
   },
   {
    "cat": "ai",
@@ -24,66 +66,24 @@
   },
   {
    "cat": "robo",
-   "title": "Robot workers rising: How AI may drive general-purpose autonomy in robotics",
+   "title": "Tesollo initiates IPO process while developing humanoid hands",
    "blurb": "",
-   "src": "Ars Technica",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1FmaFkzdUU5bWtSMl9kWXd1bjJtcFloMGNRMzF4c3BJcWVPY2xFcVJHeWZGVGR0RnFjaW9zbnBMdjRZZDlsVzVVXzEyQThmMC1YVUpzR1BMWm1PRWxTMG1sZUR6bThVVWpxUGNuWjNmY01hekJrOVhMckd3UF9IQ3hhVGxiMHFNSUNTMEoxSHQ0RzNPd1lvdjFRYWxSNzQ1blB3WEJpZDFlTGotRmRNTDJzT0FXTVU?oc=5"
+   "src": "The Robot Report",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjBheDN5YlZOZXkyMGtVdVhwQ0dqbF9zS05SNkVrekJsTHgtaGR2dEFiaVdpeHZUVmdpWHlYcGlnZ25HNW9UdGM2RjlMUzcxc2hvanpRNGx5Ukc5NHhZRERCVFllcHo3UWlobUladzROZkw3SkUxX1BGdGkzaU45WHp2Q29UMjhWZG5XYmw4dGE?oc=5"
   },
   {
    "cat": "ai",
-   "title": "RFPs: Open Source AI Model for Tutoring (US)",
+   "title": "Cybersecurity expert warns China's AI advances could intensify global tech competition",
    "blurb": "",
-   "src": "fundsforNGOs",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmlMbGVkcmdoeDR1MFFILUNmUV9XcTNpZVFRYWhfdEpkVlZlQ3g4M3J0QjVOYlphYm11LXlzOE5PZXZ1c3k2aFhyNlRyY2tmNjZkWVBLUjhIRUdPYU83dHE3aWhZdDZUUVFOczRZcTNIRlBibXpwOEZQQlhrR3laYnp0Zl9Db1NmdXNVTC1R0gGTAUFVX3lxTE5MR3AyYnhzSk5rQXdKbVFrN2ZTUDRTNzMyVFhaT3NFRFpvMk9UM21kSEdNdjBwX052R1dTR0RtTW1QYk9zTzZKdWxLbURuZm9yajdsbmJCc0toYnRKNHdCZVN5V2JyaTRhX2k5UzAtMjlrVlVMTWVLZkhWOWJIMmZQR3ZNaDNETzF6clhTRWc5MWF6OA?oc=5"
+   "src": "WPEC",
+   "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOR0RuR1BKenFNYVJQMVEzc1NLMG93NHVLSXp2OURmRzZ6OHhKbTl4SUgwV2FzV2RvZzJJN1R5QUdIWFVENlZKeUd6MWtXRFNPUmpfcVUyR3NteFhTbjljbVFTZThLb19YbUgxSXpaQXF2ZEZKZElETVZBRUx6aUdYblFmZ1Z4NmpqRmdPUEk5TEQ0eWlEVEhIeExvNVlKdWNGMDNENGJSMWZEWmxSZDhPT2ZZU2Rhcl9QMDB4V3dJOTBENXR6NHM3WDNQelowWjN4TkFfMmc5Z0tVUmtxZ1Z2ajEtSTNITWF3SUhvUXJUTjZqZFBpUjQ3RVJ0R2xmckgtSERsMDBmY2dlUGU1WDU5MFpIdU1ZZ1d0NlVYY1FEUnU0ZEJLc196RlBLUWRieDNYNnpQMmMtd0RQcGs2cEF1RmlzTjRIc2ZaTVJuSW9lU1gtVC1Sbi1TSGNDVTlPMUFuMjRPWW1XckduUQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Hyundai showcases humanoid robot at FIFA World Cup in robotics push",
+   "title": "Ex-Tesla Optimus scientist unveils European humanoid robot startup",
    "blurb": "",
-   "src": "Automotive News",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9STDFOZGFUQldsc0ZqQW9EbWRDQjdFSHY2RkRFZEpzOXZFTUJJR2x2c3FDRl8yMUpPRXFRSHJPMV9WMXU2WUZ3RHhCaWlveXVieDhsT2VVWlQ4ako4NnUzNEJiZHlKOWxYNm1KUEY1enZLZENWTXFFc19SRFczQQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wZ2pQY0szQ1ppaVBBLUpBVTQzc0stVExrOUVNZmFuME4zUHQtVkxZMUFVeTdVYmpLX0xWbE9xRk5JR01pXzd3QzlEdWUxeUFUM3hnb2pvb1NEOFh0anBBTTAzZy1Za05faElxZTl2VWtOdw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Forsyth Co. Sheriff showcases humanoid robot that could help with hostage negotiations, breach doors",
-   "blurb": "",
-   "src": "WXII",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeklNNUxKZHRHQjJJYThfRjh6TjdWck42ZHlGUkExNUpnYVE5eGZVRWJMWHNtZXhDUzQ1SXZYMFh5ZEc1UmgyeHdQQ0xQd3FOejlNWWpfbzBONVNDUjgySXlLc2gyc0lNdjFwdGJZYWVIMEoyQW9KOGZMTl9HN01HX0FqNWVxUmlkQTNFMlRSUkM5RXpyTV9zeWVvMzN1SFd1QVd6dW43UVVVRzFrUm9YWC00VUQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI and lab techniques accelerate tuberculosis drug discovery",
-   "blurb": "",
-   "src": "Drug Target Review",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmhtUzRvNDF2c3JYWUVmR0pVZHB3aE1ITS1BaWVEemlHc255VTZtSkd2MkNFNi1uWGhiSE1LSUp1UWxwVTJnZ2VPV2FiMmE0cnp2V3BWbm8wV1VQejN2LTgzbXU5TkItT191Szl6UWdlaWZaU2trUzdvWWN5WnlWdnJvUXVNQVVMM0ViMWR4eHFkcDA5UVJtdzdfcFNWNm1lakt2a1d5bm9IM3lYRGc?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Realbotix Partners with Bloom to Launch UK Pilot Using Humanoid Robots to Combat Elderly Social Isolation",
-   "blurb": "",
-   "src": "Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbkVNc3BPMktmU0FzelRXNlFvNGtBazNmWjdDdWVNbHdXNnFoZTR1UWtkOEtZNVY3STN4a1pucEVmWm9NMUV1aWpldVBwOWJ2alY0WUZxZ0xDTVlQRXQ4cURqMlhPX3lxNjBQSm96VDFEOHI3R0dCRF9jUVRyNUcxYklJZG1IQlRaNzJOai1kNVp2YlNGOFhRNml1T0oyZHFvZ2EweW9UMDVsWGl1N1JyczVla3RqRm9kV1BIaWtBWldadDNTZTVzTUxRZ3FZNmxFdGtueGJPQV9KNkF6WE1IbUR0SFBKUzJnRzdGaTFhU05JSFEt?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
-   "blurb": "",
-   "src": "Amazon Web Services (AWS)",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM0RpX0JvWXRycmdsM3g3SG1XUU93VFdULS1TaENPZENsODAzVVFLM3J3WXlmRHZYczF6TWJoQ1o5NHk1emZZVFl6Qm11RnpOemtNWU9SWHRoZ2ttWERzSUt1dzMxWUNhblFERUx1ZEE0TXNRU2tfSGstVDl1MXN6dXN1Yy12aTB2TVh1WWJLT1puczZqMGpVbF9TaE1aNE9CVEE2WThkQ2FvSjYwTEtN?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Apptronik Opens Robot Park for Humanoid Robot Training",
-   "blurb": "",
-   "src": "ARC Advisory Group",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGdFVW5JYlBSUHB6TGRrdm16M0hWSFc3THRycUZ5MVFPSThLY1lMbEtHVzVhczhzaS14Ym5LUmxrbE5tczl2NEF4T0hzcXVNNWI2REE2QUY1V2xoano1Vmc4Z1dwU1ZpTjdOSTZvei11LXFFYl9WUzA5V01RNHBVV0dZNXU?oc=5"
+   "src": "Electrek",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mRmhsR3htamdMNjB2ZG4xQmZHdUJmcTJKTnJSV0NaRmtNSUQ0UHA2OVBXUkhnTzZrMnJXbXI0eGNINzRVR3dOa1RwaDRqcXFnSWpjUmdYMWE1djR1NXRwRnV5NDF2M0h1NU1mNEIwYngtTnk0QXBxQ0tHWUZ6aU0?oc=5"
   }
  ]
 }
