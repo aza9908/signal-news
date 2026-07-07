@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-06T22:16:02.523Z",
+ "updated": "2026-07-07T06:49:21.667Z",
  "items": [
   {
    "cat": "ai",
@@ -10,10 +10,10 @@
   },
   {
    "cat": "robo",
-   "title": "The Quest to Make Humanoid Robots Safe Enough for Humans",
+   "title": "Forsyth Co. Sheriff showcases humanoid robot that could help with hostage negotiations, breach doors",
    "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeU52UXdxM2R6OWRFWkFyaDVEaUlIbEl1Y2VOZVVfcTFqamdWdHdHelJoZnN0UWZBS2lMc1RUcjJMWEEwSjloN2tmMmhQbUl6dGN6VkFKUlBOZnhLWnBmLXFIMEdzSFRNYW1aVERkNFJWc19XZ2ZjT1hKX0RyX0N6VVJQbFo3cWJYME5TQ0hwZk5UNHV3?oc=5"
+   "src": "WXII",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeklNNUxKZHRHQjJJYThfRjh6TjdWck42ZHlGUkExNUpnYVE5eGZVRWJMWHNtZXhDUzQ1SXZYMFh5ZEc1UmgyeHdQQ0xQd3FOejlNWWpfbzBONVNDUjgySXlLc2gyc0lNdjFwdGJZYWVIMEoyQW9KOGZMTl9HN01HX0FqNWVxUmlkQTNFMlRSUkM5RXpyTV9zeWVvMzN1SFd1QVd6dW43UVVVRzFrUm9YWC00VUQ?oc=5"
   },
   {
    "cat": "ai",
@@ -24,10 +24,52 @@
   },
   {
    "cat": "robo",
+   "title": "This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon",
+   "blurb": "",
+   "src": "TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Pritzker Signs Landmark AI Regulation Bill That Aims to Mitigate Risks",
+   "blurb": "",
+   "src": "WTTW News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXJ3cl83RjJRMHc3LXozMktRY3RCNEZFYTFPdnl6RWtHcFhWTTF0T29xWF9QWkk2M3FKUHlwVWc4dlF2dEc2ZXlNLS1xN3BnbTVsTW9MQ3VjRmFZNERCSDNlcVRnVlVnQ0dQeHIyTnh0RGwwdW1wSUdzMFo3SVBTRTkyT0djQTlHdnVpNFZacGZnQ2FMOTh3VWpoSQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Chinese firm markets lifelike humanoid robots as remedy for loneliness",
+   "blurb": "",
+   "src": "www.christiandaily.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY1VnNkRUX3psQ1JUcGRqTmNJeWoxbjJFQzNfSDhSY3VXTm9QbWRsUmpBZVZhQlEzSE9wd1drTFhTbVRPNGFPUldHZ29hS3p2Z0IwaW8wYjRwVjFiWk0zaDZoZWh0aGZ4MUtyLUdNUGJCS01pRXc1U3BubkVfcnowTWQ3RjZ1cHJYaUlQV0VDTjMzR20xODlLemVBTU5jeXA5a0RyTW1Kcm5CUQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
+   "blurb": "",
+   "src": "Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM0RpX0JvWXRycmdsM3g3SG1XUU93VFdULS1TaENPZENsODAzVVFLM3J3WXlmRHZYczF6TWJoQ1o5NHk1emZZVFl6Qm11RnpOemtNWU9SWHRoZ2ttWERzSUt1dzMxWUNhblFERUx1ZEE0TXNRU2tfSGstVDl1MXN6dXN1Yy12aTB2TVh1WWJLT1puczZqMGpVbF9TaE1aNE9CVEE2WThkQ2FvSjYwTEtN?oc=5"
+  },
+  {
+   "cat": "robo",
    "title": "Meet the humanoid robot that made a surreal cameo in the Norway-Brazil World Cup game",
    "blurb": "",
    "src": "Business Insider",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUW5xM05ScnIxeUlDTDVkVjJFTTlzM1VFRGdlU0MxOEJDcnVUb3lybEZHbHRRcWpKZkNzSzJrQTBDQ2ZMN05JZnhVT2FzS3kzbkpiaDhtMUZaT2ZkTWdxcU50alBGWkN4YndsWG1CRDZyN1lJYmpkVUdnaWMzMnNHNld6YkdCQnYwb0Rod1R2RWE0Tkpnd1J5bDdybVlBc1phTjg1VGZnOA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China",
+   "blurb": "",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvWWhjV01HTEdydTBZQ0JXNEN1WlptQlE2OFNkekl6WmNGVWdiWGxITmRvdXNCdXpVSDdGYlZIaW0wSklwTjNJaWFMbHFnYnpMM3hjUjItcGM1cFhmSnJBM2hxNk5TOHlHTmZqS1FZTHE2UUg2SXR0N3hFZXM?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "The Quest to Make Humanoid Robots Safe Enough for Humans",
+   "blurb": "",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeU52UXdxM2R6OWRFWkFyaDVEaUlIbEl1Y2VOZVVfcTFqamdWdHdHelJoZnN0UWZBS2lMc1RUcjJMWEEwSjloN2tmMmhQbUl6dGN6VkFKUlBOZnhLWnBmLXFIMEdzSFRNYW1aVERkNFJWc19XZ2ZjT1hKX0RyX0N6VVJQbFo3cWJYME5TQ0hwZk5UNHV3?oc=5"
   },
   {
    "cat": "ai",
@@ -38,52 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon",
-   "blurb": "",
-   "src": "TechCrunch",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "The administration’s new AI framework includes something the government hasn’t had before",
-   "blurb": "",
-   "src": "Federal News Network",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc2dtbWgwRVZlYnlxQmpjSTRyMGNmNW9ZN25IUDVxOHZVWWdhcWd2NndwNXctbFJMNVM4UGY1RTdiTElxNDQyUTcwdGVtMzdnQ0l1cjl0SkdNWm1PYzg5V0xPMHp2dmJfbEV4MG9INE5pdWowaXNYOGVlTFZjd0pXekhndlJCeWVjNXVYTGVmcUk0bWpReTVLOHFHQ1M0eG5ROVRvYzRjZ243RkJ5NW51a1RObmh4dnZPNHplUE56QkVDSVd0SlpiWk0za2hVM1BMWTRhSWUwSEpCOW8wSTgyeUNqQnRaUQ?oc=5"
-  },
-  {
-   "cat": "robo",
    "title": "North Carolina sheriff unveils humanoid robot that could soon help with hostage calls, crime scenes",
    "blurb": "",
    "src": "Gulf Coast News and Weather",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmhxemQwcUMyQVppYUFJWkNVVTRmVGFfN3lOWkZOeHktZC1kOGNuM3A0RDloQlRNZFNWY0tjZEVzcklJOFRka0IyOW9CeFE3OTRhRC1zMFlyRzItRGpEckxuS0lQcmJoRDBHT05Vam42b3JsVEM2MDIyMms4em43VEtaN1N6QzRjY21PYm5kSmZTSTBPNHpJcGtvT1A?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wZ2pQY0szQ1ppaVBBLUpBVTQzc0stVExrOUVNZmFuME4zUHQtVkxZMUFVeTdVYmpLX0xWbE9xRk5JR01pXzd3QzlEdWUxeUFUM3hnb2pvb1NEOFh0anBBTTAzZy1Za05faElxZTl2VWtOdw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "How Humanoid Robots Are Expanding the Reach of Automation",
-   "blurb": "",
-   "src": "Design News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmFhTF9rX1NCMFZuNUppYVFFWGNTUTlVZm4wblhhYzVOUWZRR3BfMEx2Y3hScnppejliY281VThya0ppTGRIandIM3NnVzVTSUFVLUxzd25IZEZCaGFQTjZGV3R4WUdEaE10Ml81YlA0VHRPQjlfVnB0X2JoYXRCbGEwcldHaTJzSUNEaTRjZHVBbEhsRU8ybQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Pritzker signs landmark AI regulation bill that aims to mitigate risks",
-   "blurb": "",
-   "src": "Capitol News Illinois",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNm92TVVqUHEyZW1sX2lWU1Rlc3RGZW8tUi1YZFlNMVdSS3dvcUxKc0JscDVGYXREMjFHOXd2eDRTQm9WaHNmLVNORlhkNDVPUU8tRjlPdHdIZmtuaGlzeEoxT2NjcFliNmcxMEF6bG9nMU5qcVNYZ08xc0RGV3FxbW1CMzlRYmlqRTM1WFV4UEQ2TGlVY2RQYnVnTm54a0dxeDFkUUNORDFjYS1p?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China wants to solve the hardest problem in robotics – making hands",
-   "blurb": "",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFROY0V3Mld2MzU4LUZDbm0zM1duRUtRY3pZRXZFSDNVQUEwaVBSN0pSd1Y1SzlHclgwbkdFT0gzWlozMFBudU5wTWFRalpreVdHbUNGaXdYYWl4UlB5dUZQeU5NUl9ETktmRDdNR1lWaDZIRlFoaDFQOV9DNGF1NDBpcHRNeGw1YUU3Tnlja2UwSENmSlFUVEhKUzJnTWJtMlYwSXJR?oc=5"
   }
  ]
 }
