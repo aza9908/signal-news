@@ -1,12 +1,54 @@
 {
- "updated": "2026-07-07T06:49:21.667Z",
+ "updated": "2026-07-07T11:53:06.668Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Illinois Governor Signs Nation’s Strongest Frontier AI Model Law",
+   "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say",
    "blurb": "",
-   "src": "Bloomberg Law News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVpXY3ZVVFN5a084YmhhV2J6TGNzRzM4QnhZZUNVUVlPWFp4RVllM1JrNDRLMzN6QWVvREJqeG9TdU41VWZ1cEVrRExnd3I4N0JVdTBzM2dqRi1vUlNSNXZOVlgzMWZkRUpKbjJDSDVfY09yTUhyeXNJOFVmNjdKdXUxT2JUNnVCSk83TW9NZ3pTQW15Z2psU3FFeVR2QkxkOS1kdU1n?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "The humanoid robot boom is here. These top Silicon Valley investors aren't buying it.",
+   "blurb": "",
+   "src": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnBad3ZzRGZHOGl5SG1XbTJHUnNyUXN2MHU0OE1FdmFZWUU0VERUMjVYSHZ5dHc0WG00OURwVFkyMVpuS2x5NDk2dFlEZHIwUzZqUjREOXNYNUN2NXNoUnd2WWw3bXE4R1Q5NHJ6ZUowUzVKN1NyT2FKd0dmVlZmX0NOVGw2b2plc2VDNXhB?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Exclusive-Beijing is looking at curbing overseas access to China's top AI models, sources say",
+   "blurb": "",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZm1uZTFxV2N6djBQSkpOeWhVR0g5dEd2YkZEWnM3TmwySTRJaHNuOU9laUhENzFfSzV1UHkxTUVaRjZoQkNQNktBWjQ4ZXpGcWw5NFVxajBnVU9oT1JtSEYtQm4zc1lYYzVqcjF3ZjB0MVZyTFp6TzZXMVJkM2Ztd0lyX05BUktHd0NZZXN1UW1xNS1XRkVzMlpEVk1uWkVKQ0JjOVVxSExCUQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Robot workers rising: How AI may drive general-purpose autonomy in robotics",
+   "blurb": "",
+   "src": "Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1FmaFkzdUU5bWtSMl9kWXd1bjJtcFloMGNRMzF4c3BJcWVPY2xFcVJHeWZGVGR0RnFjaW9zbnBMdjRZZDlsVzVVXzEyQThmMC1YVUpzR1BMWm1PRWxTMG1sZUR6bThVVWpxUGNuWjNmY01hekJrOVhMckd3UF9IQ3hhVGxiMHFNSUNTMEoxSHQ0RzNPd1lvdjFRYWxSNzQ1blB3WEJpZDFlTGotRmRNTDJzT0FXTVU?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "RFPs: Open Source AI Model for Tutoring (US)",
+   "blurb": "",
+   "src": "fundsforNGOs",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmlMbGVkcmdoeDR1MFFILUNmUV9XcTNpZVFRYWhfdEpkVlZlQ3g4M3J0QjVOYlphYm11LXlzOE5PZXZ1c3k2aFhyNlRyY2tmNjZkWVBLUjhIRUdPYU83dHE3aWhZdDZUUVFOczRZcTNIRlBibXpwOEZQQlhrR3laYnp0Zl9Db1NmdXNVTC1R0gGTAUFVX3lxTE5MR3AyYnhzSk5rQXdKbVFrN2ZTUDRTNzMyVFhaT3NFRFpvMk9UM21kSEdNdjBwX052R1dTR0RtTW1QYk9zTzZKdWxLbURuZm9yajdsbmJCc0toYnRKNHdCZVN5V2JyaTRhX2k5UzAtMjlrVlVMTWVLZkhWOWJIMmZQR3ZNaDNETzF6clhTRWc5MWF6OA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Hyundai showcases humanoid robot at FIFA World Cup in robotics push",
+   "blurb": "",
+   "src": "Automotive News",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9STDFOZGFUQldsc0ZqQW9EbWRDQjdFSHY2RkRFZEpzOXZFTUJJR2x2c3FDRl8yMUpPRXFRSHJPMV9WMXU2WUZ3RHhCaWlveXVieDhsT2VVWlQ4ako4NnUzNEJiZHlKOWxYNm1KUEY1enZLZENWTXFFc19SRFczQQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
+   "blurb": "",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wZ2pQY0szQ1ppaVBBLUpBVTQzc0stVExrOUVNZmFuME4zUHQtVkxZMUFVeTdVYmpLX0xWbE9xRk5JR01pXzd3QzlEdWUxeUFUM3hnb2pvb1NEOFh0anBBTTAzZy1Za05faElxZTl2VWtOdw?oc=5"
   },
   {
    "cat": "robo",
@@ -17,31 +59,17 @@
   },
   {
    "cat": "ai",
-   "title": "AI Location Bias; AI Missing Vocal Clues: USC Viterbi and USC Stevens at ICML 2026",
+   "title": "AI and lab techniques accelerate tuberculosis drug discovery",
    "blurb": "",
-   "src": "USC Viterbi School of Engineering",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjNGZmkybGxhZUJja29GSl9RQzRFY0JyWEV2Yl9EYVE4MjlTbjVhcEVtZC02NXF6alhQckdKYjVrSm1xZ2RrNXA4UEZLcm45UnR0LVU1OVZ6a2hlbDA3elR1YzFrVmFxVkU1TlVxYy1qOUJZeGpHVGc0MjlTSEtaS2FMcGNKS0M3WnE5S2FIMVJodjBuSWI2TzdwajA2ZG1McGJSZzkya1BUc3ZjbUNLcGNxRHdFSXgxOU1nb05tM1hzQQ?oc=5"
+   "src": "Drug Target Review",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmhtUzRvNDF2c3JYWUVmR0pVZHB3aE1ITS1BaWVEemlHc255VTZtSkd2MkNFNi1uWGhiSE1LSUp1UWxwVTJnZ2VPV2FiMmE0cnp2V3BWbm8wV1VQejN2LTgzbXU5TkItT191Szl6UWdlaWZaU2trUzdvWWN5WnlWdnJvUXVNQVVMM0ViMWR4eHFkcDA5UVJtdzdfcFNWNm1lakt2a1d5bm9IM3lYRGc?oc=5"
   },
   {
    "cat": "robo",
-   "title": "This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon",
+   "title": "Realbotix Partners with Bloom to Launch UK Pilot Using Humanoid Robots to Combat Elderly Social Isolation",
    "blurb": "",
-   "src": "TechCrunch",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Pritzker Signs Landmark AI Regulation Bill That Aims to Mitigate Risks",
-   "blurb": "",
-   "src": "WTTW News",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXJ3cl83RjJRMHc3LXozMktRY3RCNEZFYTFPdnl6RWtHcFhWTTF0T29xWF9QWkk2M3FKUHlwVWc4dlF2dEc2ZXlNLS1xN3BnbTVsTW9MQ3VjRmFZNERCSDNlcVRnVlVnQ0dQeHIyTnh0RGwwdW1wSUdzMFo3SVBTRTkyT0djQTlHdnVpNFZacGZnQ2FMOTh3VWpoSQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Chinese firm markets lifelike humanoid robots as remedy for loneliness",
-   "blurb": "",
-   "src": "www.christiandaily.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY1VnNkRUX3psQ1JUcGRqTmNJeWoxbjJFQzNfSDhSY3VXTm9QbWRsUmpBZVZhQlEzSE9wd1drTFhTbVRPNGFPUldHZ29hS3p2Z0IwaW8wYjRwVjFiWk0zaDZoZWh0aGZ4MUtyLUdNUGJCS01pRXc1U3BubkVfcnowTWQ3RjZ1cHJYaUlQV0VDTjMzR20xODlLemVBTU5jeXA5a0RyTW1Kcm5CUQ?oc=5"
+   "src": "Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbkVNc3BPMktmU0FzelRXNlFvNGtBazNmWjdDdWVNbHdXNnFoZTR1UWtkOEtZNVY3STN4a1pucEVmWm9NMUV1aWpldVBwOWJ2alY0WUZxZ0xDTVlQRXQ4cURqMlhPX3lxNjBQSm96VDFEOHI3R0dCRF9jUVRyNUcxYklJZG1IQlRaNzJOai1kNVp2YlNGOFhRNml1T0oyZHFvZ2EweW9UMDVsWGl1N1JyczVla3RqRm9kV1BIaWtBWldadDNTZTVzTUxRZ3FZNmxFdGtueGJPQV9KNkF6WE1IbUR0SFBKUzJnRzdGaTFhU05JSFEt?oc=5"
   },
   {
    "cat": "ai",
@@ -52,38 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "Meet the humanoid robot that made a surreal cameo in the Norway-Brazil World Cup game",
+   "title": "Apptronik Opens Robot Park for Humanoid Robot Training",
    "blurb": "",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUW5xM05ScnIxeUlDTDVkVjJFTTlzM1VFRGdlU0MxOEJDcnVUb3lybEZHbHRRcWpKZkNzSzJrQTBDQ2ZMN05JZnhVT2FzS3kzbkpiaDhtMUZaT2ZkTWdxcU50alBGWkN4YndsWG1CRDZyN1lJYmpkVUdnaWMzMnNHNld6YkdCQnYwb0Rod1R2RWE0Tkpnd1J5bDdybVlBc1phTjg1VGZnOA?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvWWhjV01HTEdydTBZQ0JXNEN1WlptQlE2OFNkekl6WmNGVWdiWGxITmRvdXNCdXpVSDdGYlZIaW0wSklwTjNJaWFMbHFnYnpMM3hjUjItcGM1cFhmSnJBM2hxNk5TOHlHTmZqS1FZTHE2UUg2SXR0N3hFZXM?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "The Quest to Make Humanoid Robots Safe Enough for Humans",
-   "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeU52UXdxM2R6OWRFWkFyaDVEaUlIbEl1Y2VOZVVfcTFqamdWdHdHelJoZnN0UWZBS2lMc1RUcjJMWEEwSjloN2tmMmhQbUl6dGN6VkFKUlBOZnhLWnBmLXFIMEdzSFRNYW1aVERkNFJWc19XZ2ZjT1hKX0RyX0N6VVJQbFo3cWJYME5TQ0hwZk5UNHV3?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Backlash to Bipartisan AI Omnibus Illustrates Preemption Impasse",
-   "blurb": "",
-   "src": "Inside Global Tech",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnEya1VvQ2VtY2tYUzdSM21pWDlIbkhrUmYyYzNvRDc5UDZFTmZGNjZyem95REhCcVgxMGd1TWNuSk9NM0YyV0dNT3BSNEIzLWg0QnlmV0RoV0JPdDBwblVxV1VSYXh6ZDNpeGgxQkx5YmsyQUhVUm9iZG1nWk0wNDljYjJMODhiVFFkenF1V2preG5QZURSY1dncm85azZRU2hoNHVhRDcxai1ERGc?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "North Carolina sheriff unveils humanoid robot that could soon help with hostage calls, crime scenes",
-   "blurb": "",
-   "src": "Gulf Coast News and Weather",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmhxemQwcUMyQVppYUFJWkNVVTRmVGFfN3lOWkZOeHktZC1kOGNuM3A0RDloQlRNZFNWY0tjZEVzcklJOFRka0IyOW9CeFE3OTRhRC1zMFlyRzItRGpEckxuS0lQcmJoRDBHT05Vam42b3JsVEM2MDIyMms4em43VEtaN1N6QzRjY21PYm5kSmZTSTBPNHpJcGtvT1A?oc=5"
+   "src": "ARC Advisory Group",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGdFVW5JYlBSUHB6TGRrdm16M0hWSFc3THRycUZ5MVFPSThLY1lMbEtHVzVhczhzaS14Ym5LUmxrbE5tczl2NEF4T0hzcXVNNWI2REE2QUY1V2xoano1Vmc4Z1dwU1ZpTjdOSTZvei11LXFFYl9WUzA5V01RNHBVV0dZNXU?oc=5"
   }
  ]
 }
