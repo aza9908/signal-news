@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-07T22:12:18.593Z",
+ "updated": "2026-07-08T05:55:02.065Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
+   "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aGRQd3BBT3JyLU13c0pvVDVXS2x5WU8xQ3dUVjE3NnVLOXhCWEw5eE94ZnBTZXRVSmVpUUNJbU0zUUVqZFVBOXE2eDRBREZ5MUtGSVBBZHhTZ2dWYnBxZ0hSY1FlUdIBa0FVX3lxTE9ZZWpjSW0xOFFlaDBha0FjLUhXWWktSWU2eUZDbVFsN3lYMTVLdll3UW1WdDFWLTdUYS1qQ0QxWmJDS0wySXJpTExiRFRpeXpCbm9tMnloblEwQXEyOE44VW1lV0lPeVJRVHVj?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +17,38 @@
   },
   {
    "cat": "ai",
-   "title": "Experts Say There’s Now an Open Source AI Model as Scary as Mythos",
+   "title": "Lawmakers probe growing use of Chinese AI models in U.S. companies",
    "blurb": "",
-   "src": "Futurism",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmZfMjFSYW1ldTF3MlJwNEJaa1VyMmZNNjRSOW5oeDNqdTdmZlgzTEwyNTlVWUhPLTQyODRHaDZFZGw4Y0VvR1lHWm9KNUlfcW45Ti1SZF9UZERGOHpuaHJVVEs4ODFWOUlfaUx3c0NWWVJZVGpPeHktQWJHbjVkZUh1aVY?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmZOM25aOFllc2FQbDdwQ2lkdUZGSGlrZm1kZEpNYTZPN0dfSWJjLUtZT3p4M2w3Wm9vT21SaUxRdWNTVlRHR0tIekRJQjQycnNuWHVtUzIybGtmTktTQjlZMGVoTU1LWlgyUkFfbklLeWZoLVNLYlFpajhpZ9IBgwFBVV95cUxQUlFLcm9ZazZUYXBDbUZ2RTFWMENXdFpWYW1iY1ROS08ycWZGRFM3eF8xU29KUkZ3T0dBY3BxcnRqV3h6aEdETkNHWXFnc1VpTllhNWFGZmxoOERadzdrdXNjUGVjTjRIbHNOWFhsTWg4YjNTUTZ3SlZPNVVDdXRwbEZHbw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "10 Jobs That Are Safe Because Robots Cost Too Much",
+   "blurb": "",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTS1lOVhSQ0ZaLTVUa2kwMU05Rm5CT2RoRzROUGpkdFZLT1ZnUl9neXFPREtlamFwLUIwWmFDRHV6ZERScjE4M3BLcEdsa1VmcUYwZmtMeURqbXdxSGxiRmtqQUNycjRTLVlITkhhS0FqLU1zMjk4Tmt3alVLMDZydVRxdjY4OWVmT3lMNE5Kdmw2ZlBid1dFVDdVNjc4ZUZ6S1RzeFM1bw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "New AI model reveals how neutron star mergers forge heavy elements",
+   "blurb": "",
+   "src": "ScienceDaily",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91Qzh3MGhhT3hBZ01sSkJ6QWVmVUNDdHZESWR3RHVqX1JlX0M3NmxSMk1zeXdIU0Y1UmV4OGJOYmp0MmJnWWhYZV9lRnplQVZaaG9YbV9wU1NRaUhTcWJnZGVwVVJnVE9wdVo1Tlh3?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Meet the robot who made his World Cup debut",
+   "blurb": "",
+   "src": "Substack",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yN1IyWW5LSWZDX0dTZ1IzMWI3ekp0bXM3cV9DamVNMzRXSlRUeXYzd0lpWUlMX1Y4VC1LUFdLM1FHLU1TR0FTX1N5THJaMlR0Y2Q1emdwTkZXQ1ZkNzZLZXB0Q2FJSVAyZlNlMlRMSDVyUDhOaTh6SA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "SpaceXAI Will Reportedly Release a Major New AI Model This Week",
+   "blurb": "",
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGMxVHNmd1F6VGxVOFFyc2tESS14WFVmNGZUTXRtZkNxenNhWmFkQy01RllRbXl0SnhFWFZOV0Q3Y2RBTmtONkpmSFlCV2RvaUJYZ2UxR1NiT1FUUWd0TDBKQmZWeWUtWlpwUzJ4bHBMOHVhYVV0dkNmRV84T0poYkg5azRNWTg1Zkl2bGVmRUp6em4ybm9leERB?oc=5"
   },
   {
    "cat": "robo",
@@ -31,59 +59,31 @@
   },
   {
    "cat": "ai",
-   "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say",
+   "title": "Microsoft is reportedly ditching OpenAI's and Anthropic's AI models in favor of its own to cut costs",
    "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5"
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnFtZlpHSlF3bm0zbWR1S3B5amdoYXVoNG04TndpYmc1SGctSzRJOW5lUzJCbkgzalZZSzhFM3h1T0hoMld0S3NaM0xoOThSVGgtVHlRMzgtbWJyb2tjbzB4OV81TW40dUtvRHQ5bUJRNlpPQ1ZyN2ZiV2dLVzdFOVM5SHVsTGlUSTBGaUJmYW1SSTJjRzB5YWcwbnRkU0NkSjZlbTZvZkZpWkNQYjdfLQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "The humanoid robot boom is here. These top Silicon Valley investors aren't buying it.",
+   "title": "Forsyth County Sheriff's Office tests out new humanoid robot, artificial intelligence",
    "blurb": "",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnBad3ZzRGZHOGl5SG1XbTJHUnNyUXN2MHU0OE1FdmFZWUU0VERUMjVYSHZ5dHc0WG00OURwVFkyMVpuS2x5NDk2dFlEZHIwUzZqUjREOXNYNUN2NXNoUnd2WWw3bXE4R1Q5NHJ6ZUowUzVKN1NyT2FKd0dmVlZmX0NOVGw2b2plc2VDNXhB?oc=5"
+   "src": "wfmynews2.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNUkktOHlETEs2UUI2Y3hoRDdDMDMzRENvVlhJRmJtUDBuX0p1TVJydEpXRWFMSUtuemwyY3ZMLUZWSlNjYjRqRlYtVkNiNThKeDYwMmVfajNuWW1INUNaU3lVSEcxNmRydUhSaDFBVnlxVy0yVVRHcGNYRjBIUk9ydFN2Mjc1c2tUWmlBUVl3ZmttdlRGSjZzcU5ZbEg2amhlQk56V1JHZ1hoV1U1VzZfSU8tbkFQbHFxZC01bl8zT2NEeXdoQmhnS1NwbXdMVUFWbDJvOVMxa0J6QWt2QnI4Wjl2QXViclZxdEFqd0Fib2pqbnFnZzctZklNZ3kyU3NjY3U4N1NhNVI1TnA1SXNULTNKUTY1d24yendkNFZlVE1lV1RSbGtoeXM2YWl0VjZfSXVNX3VrOTVPLXJwc2hvQlhDRnRCekRUamFHUnVWeGdkZw?oc=5"
   },
   {
    "cat": "ai",
-   "title": "AI-model Claude has “internal neural patterns”: Anthropic",
+   "title": "Experts Say There’s Now an Open Source AI Model as Scary as Mythos",
    "blurb": "",
-   "src": "Washington Examiner",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczc2SEN5V3BXVTNZT0lJRGhnSmk5V2VZd19UYklVOS0ycmVuX21YQlByTEJQaGF4dnJIeVRVcUlOOV9JUzhBVlRhSTdCYmtlUVhEQ3Bfb3hjZ04zYk1yWE4wV1pNWm1CQ1JkRVhZYXhQUzI5Q1lKTFNIRm5Ca0w1blhVaEktT213cy1NdnpacVlrdlZJekQ0bXN5cE1IZll6NV9zNjJpTFVRVU5TUjlHT3BB?oc=5"
+   "src": "Futurism",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmZfMjFSYW1ldTF3MlJwNEJaa1VyMmZNNjRSOW5oeDNqdTdmZlgzTEwyNTlVWUhPLTQyODRHaDZFZGw4Y0VvR1lHWm9KNUlfcW45Ti1SZF9UZERGOHpuaHJVVEs4ODFWOUlfaUx3c0NWWVJZVGpPeHktQWJHbjVkZUh1aVY?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Tesollo initiates IPO process while developing humanoid hands",
+   "title": "Calls for ethical home robot boundaries",
    "blurb": "",
-   "src": "The Robot Report",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjBheDN5YlZOZXkyMGtVdVhwQ0dqbF9zS05SNkVrekJsTHgtaGR2dEFiaVdpeHZUVmdpWHlYcGlnZ25HNW9UdGM2RjlMUzcxc2hvanpRNGx5Ukc5NHhZRERCVFllcHo3UWlobUladzROZkw3SkUxX1BGdGkzaU45WHp2Q29UMjhWZG5XYmw4dGE?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow",
-   "blurb": "",
-   "src": "Amazon Web Services (AWS)",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcUctbFlyTEtNRkExNTlJbHdMelFvUmY5MGcwQVh6M1dDUGFtR1lxMjRlNFoxVkM0WXBicFJTQllvTzRsdmN2WEZIZTZITXN6OHFoSjZ5MEZhWUFYTVJEX2NnMWRPSHNQamFYNkw4dHRTSGRWNXl5aTJMUE0wV1Q1VV9vQ2F3amItdEhnZEtJNHdPOFJRNFRGOTVlaGJ4c2JMY2VaZ0syaHNrQ1Zfa3BWNXRVVHQyUURMUnVFUw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Consumers Won’t Buy Robots. They’ll Rent Them",
-   "blurb": "",
-   "src": "PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGRfX01Wc0sxUnp0WFdJeWYxakUyVGtYX3N3cnEydzJYMjFtT2dpMkszWEthTVhtT1JLaGUyVmZBelRoS2VGOEVLdUpGU2JLakF6Yl80cVVMeGxJRGZtMmJibFRpT2hlaWpkbXdKdERhcFVDd2RpUkV3MmhJWlJTWk9leFJqQkY5dWtweVpIb0tfbUVsTkRnd2xpNFh4bjRTY3c?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Microsoft Quietly Shifts Thousands of Office Prompts to In-House AI",
-   "blurb": "",
-   "src": "PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2d2LXNtV2dHNmVGa0QtS2dwazJXQUpQaEg2ZEJwWXU0M2JSRFNSOUc0cXNJTTFwZFRKTDFBS0l0aDNQeHVOSnRPRnV4TWpSMDY1VkVyWHE4RU8zMExXMU9YV3Bfd1ZSQ0xxa2RHeGIxRktiVFFQcHZWRWpwVkxfN1BielpQczBQRV94RmxzQXQ1ZTNScDNqOHhCVjFEOFFyR1dsZ1dnRExpXzRfNjRmTW5PMUNHWFdzTnJJRHV4RG0xZTg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid robots are coming. Which industries are poised for it?",
-   "blurb": "",
-   "src": "Tech Brew",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yUHpOaVB4UjFvNGlBZWdQamJObmhFZTQ1Vk9XM0JUZlpQcUtZM0IwOTFUcXVMLU9WVDNwVVNOTGxhMnJrbDhQREZ6d0pFTVBqa1M4VU9ZdzFxYXR6VDZ0UHliTS15dW9nbUo2bXFWdFk?oc=5"
+   "src": "China Daily",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zMklESUlPWjdxc1FJR25mVzl2MW4wTXpCTERTQ2tRSWtZSV9uRzhPaXFJMjlVbUNaSVA3U3RoZGpnNUhZZWhCdk9RY3Z1alNvWGgySzQ4bUVKWU8tN1UtM3BnQnlEeTJUOExzcWhqSzFwNGhGTE9RRFVhRVZMQQ?oc=5"
   }
  ]
 }
