@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-08T11:07:42.148Z",
+ "updated": "2026-07-08T16:41:36.789Z",
  "items": [
   {
    "cat": "ai",
@@ -10,24 +10,52 @@
   },
   {
    "cat": "robo",
-   "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T | NVIDIA Technical Blog",
+   "title": "Private gift brings two Ami humanoid robots to UCCS, expanding access to robotics and physical AI",
    "blurb": "",
-   "src": "NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXBXQkJONDRQeXBKMHFHeWk0X3otWXh1Wlp3LWRmcXVaaF9qMHFEZURjd3daZm1ETVQxRWFRMXVpc1FDVERMQ1R1TC1RRmJTdDhwUWVWVzRNeWt4aE9DLW4tZXdlVjdKSDBBUUFWbk9GZGIxUWt0ZGI0elo3N2tsaDR2ajV5c1drc2RoSEJXWFlpX21hYk51QklKSXE2ZDJvWkV3?oc=5"
+   "src": "University of Colorado Colorado Springs",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVV1VDFFbnVldERNOHk1dHdadVdycnJqTVdkYzdjTTFNWmpGUjl0dEE0cVlvaGl6cHA1Z2RLSWpMZ1lFOHJWdlBxYjBYanFXaUNROXUtY3lpOUVxU2YtWTl2YUVHSVZ2RlRCSTlxQ29GeDZvemc2TVNXTEtiQmxfb05OdzQxTU80R3NaSThKLU5VOVJILXRHNlM3czVjR2hZdXhCb3pxMy1wbGhHYlQ4SkE3enFaUnZOQmtfRUl4ZDdCcEY0Y2J4VEln?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Lawmakers probe growing use of Chinese AI models in U.S. companies",
+   "title": "Major AI models at a glance",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmZOM25aOFllc2FQbDdwQ2lkdUZGSGlrZm1kZEpNYTZPN0dfSWJjLUtZT3p4M2w3Wm9vT21SaUxRdWNTVlRHR0tIekRJQjQycnNuWHVtUzIybGtmTktTQjlZMGVoTU1LWlgyUkFfbklLeWZoLVNLYlFpajhpZ9IBgwFBVV95cUxQUlFLcm9ZazZUYXBDbUZ2RTFWMENXdFpWYW1iY1ROS08ycWZGRFM3eF8xU29KUkZ3T0dBY3BxcnRqV3h6aEdETkNHWXFnc1VpTllhNWFGZmxoOERadzdrdXNjUGVjTjRIbHNOWFhsTWg4YjNTUTZ3SlZPNVVDdXRwbEZHbw?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUDd1T0cwX3NLN0R2M1RxdWxhY1E0S2NYQWZYV183MEoyaWp5WUpWVFEtMzZIVmRNVU4tX1Y3LU1Ud0J1MDhTaXJ2NFJEZXY2TTQ4WVlMaHlsZkg3VHpZdklnRk1DUkpRbEV4OG9uenlBb0l1UHNhbzFR?oc=5"
   },
   {
    "cat": "robo",
-   "title": "‘Space race of our time’: can Europe compete with China, US in humanoid robots?",
+   "title": "Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First",
    "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGZ0RHhUWmtpa040eElJamtkMHA4N1NPamNWZzhFdUVramZKZlc3cnZXRDV5Z19Oa29lcmlRZWlDQjRmTTcyNGp4Zk5ZOVltdmM0WGVOVThxdzFXMnVLYUFLbWl2ZkdBMGVKdDI0R3l4UXJ3WDBKUERmRWhFUVdGZ3R5SVpGLUE4YlU1OV80YjNuZHVuRXVJNXdIT2RuUVRiWE9XUEQ3elpfeE5fSjdma3IwSUJSYlhfbjZINmIydHhZOE9j0gHEAUFVX3lxTFAwZnREeFRaa2lrTjR4SUlqa2QwcDg3U09qY1ZnOEV1RWtqZkpmVzdydldENXlnX05rb2VyaVFlaUNCNGZNNzI0anhmTlk5WW12YzRYZU5VOHF3MVcydUthQUttaXZmR0EwZUp0MjRHeXhRcndYMEpQRGZFaEVRV0ZndHlJWkYtQThiVTU5XzRiM25kdW5FdUk1d0hPZG5RVGJYT1dQRDd6Wl94Tl9KN2ZrcjBJQlJiWF9uNkg2YjJ0eFk4T2M?oc=5"
+   "src": "UC San Diego Today",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXMtRnNmOE1XRjJLRTF2eEpwOGpYT0VhdUozZFBqR1IzR3YzM3l1M3FDS3lCRExwSmxsV2U4WTlHenM5bXVUd1p2YnB6WXlCZnJRazBOQnh1R0g2a3ByV2xwR1pCYjlyd2Z5eHpWSzkwa1FNS1pPdGlUcUJ1eGFTOHpQR29XQW82VXl4WWFtUDVVNVRCaFFral8zQkQyMmdkaV9qNTZ6TlFFeC1o?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "OpenAI to publicly release GPT-5.6 AI models, ending government-requested limits",
+   "blurb": "",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDZISWFaLTZoMEFjMU94VzFxYmhGN0RSelctU3pvaVB5UG03UlloSm43QnZ3dURGekp5Z3dsdUhrUjJ5LUROWWNLdE1HeVJOYmI4UWQwdzVpaVoxYWtPY214dFVvM0R4N2pPMzNjV3N3Q0FUV3JiUl9VRXBwa0lNWkVvelpMMDl0Q0hOMGQ0Wk5MZjBEV3VCRmtSam1HbDRudXo4MEotV3lTem_SAbABQVVfeXFMTmVxUzkzSXlkQTVxOEFyeDNuTDQxV0ZVV05pRENKRXZrTmRLWnZET2pFbm15ZURsbm1ZbmpCMmdMZkdXNHZYYjN4ME1pWV9waGt5aDY4SHh4Nno5V0NfQmZsU2U3YzFtVUtIN2lOYmpvc1JueHpXWTVQRE1obC0yR1E4dlJXNm9INmhQVU5YYkJBM1gwTElpcW5YY1ZsM0lfaGdDbFdxMlFhNUNjTFJlYlA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Agility's $2.5B Wall Street Pitch Tests Whether Warehouse Humanoids Are Ready for Real Work",
+   "blurb": "",
+   "src": "ERP Today",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JdWc5b0VxNHRUSVo2Mm1ubEJMY0YzLTk3U2U2ZkxPNXFRV243MVl5V1ZidXplTVR2UllnUy1aTUlIWVZ1YUpGNkJwWndwVV9ZREw1aHBneUxoWmZLR2o4WW44aGItMk1iNDBCY3JZVjR5WFhZbzR0UmFyNW0?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Refiant goes where rivals only promised with a 10 million-token AI model",
+   "blurb": "",
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHNublpPejlLMDAyUVdmR2U2VGx2WHA1LXRieGN1dkNmLVlKZE9GZk9JT2wxdm9kTjRKczBpTXNnLVhEV1lFSm04aG1aUXhUWGRrS3ozdjBfMHo0Zy1CNTdqNHVSeF9YQ0JQS3MzWU8zWEpPdllpYmlnRWdDX2RYam9kdVZZSWRLZ2xhVnZySVdReDNlTkE?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "MIIT: Annual Humanoid Robot Production Expected to Top 100,000 Units This Year",
+   "blurb": "",
+   "src": "Gasgoo",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONUhnX3pzczdlXzVuV25BQU9meTBWdjU5cUY4MFdleTBtQjBwV1FqMW8tTXkwQWtaUXVYXzNucWczOW9SZ21RbU54bVNHSzlaM1RxdTJuN3hLdFZMZWgtM2ZEMlpHRTlHWldqVGNia0hHTmduN2pmaUwzbXZtd0t0QTZRMXhVTnZrd0RIbTRhNkNHYXZyU1EwSnJqZTVNQkRRY0ZTcmFqSi1Qc0g1SnNFcWhXSG1UYTVPS0pTaWJBNDlfSWN0ZHROLXlZNnpvUFgxa1o1eQ?oc=5"
   },
   {
    "cat": "ai",
@@ -38,52 +66,24 @@
   },
   {
    "cat": "robo",
-   "title": "10 Jobs That Are Safe Because Robots Cost Too Much",
+   "title": "Real-time learning powers French AI humanoid for industrial applications",
    "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTS1lOVhSQ0ZaLTVUa2kwMU05Rm5CT2RoRzROUGpkdFZLT1ZnUl9neXFPREtlamFwLUIwWmFDRHV6ZERScjE4M3BLcEdsa1VmcUYwZmtMeURqbXdxSGxiRmtqQUNycjRTLVlITkhhS0FqLU1zMjk4Tmt3alVLMDZydVRxdjY4OWVmT3lMNE5Kdmw2ZlBid1dFVDdVNjc4ZUZ6S1RzeFM1bw?oc=5"
+   "src": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTZUZEYzUDkwNkZKSmRQYmFZWHAyTHNZU3RrVWU4ekpvdFZYaDc4X1FCZUNWLVJ5TFVVQ3BkSVIyV2pGNUdOX1FZQm1qZ1hlTmtUaXRPUUlRRGp0RU9rQ05qQmJkdk9DcXV2SmNzWl9iOEk2UmVjQ21SRjRQRWJzbkNLTDBIdTI3UG9NQXZueG1rdEpjYlVBNEx2VGQ?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Opinion | Are the US’ AI models better than China’s? That may be beside the point",
+   "title": "Google Stock: Will Self-Improving AI Models Decide Who Wins Superintelligence Race?",
    "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmxST3RZLWRXRlVrbnliQTJNcjNWbFVmVWw4bVlySHdYRUV2Q3paOXByV2NhUGNnaDVIWXEtMWFTZE1yb0YyZEZOOXRXV3ZiYUlMZmszdGxycWduN21QclA0aldhbFZOTWNFbGNZMjdaalF2WnlDUDhUN19fdzlfYmF6Qm1ZMWlJdnB4VXlLb2paWU9RWlRpeGNpc1pBY2RWbFlING5Cc05lWjRhM0HSAa4BQVVfeXFMTTVYRFp4dHB6RFIya1pROG02bmd0dURwY1VMM1FRa1M1WUY3bkk2Vk1mTklyVW1vc1c4WU0wVzl4blpDOHBaOE13RGdPcHZzaWgzZE5DRUxtQ3RPUThrN011clc3a3VfcHM5RXU0c1JiT2s0TjFnbjhmeXRfUXM3OVFBR1FhYlhxaXBnX2tDZ2F6ZU5WU3BrenBaRENJa29DOVR1bXcxUEtUaEo4R0lB?oc=5"
+   "src": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlMtTm9iTnozWnVJcFh4YVhERU1LZUgxVEcycl9icm93THFCOURVM3RJbGxQRjdDeDlya1VpVE9IekRFenRKTkdOem13VTZ3a3dyOEE2MWxSVG9vSEpSeGdXU3lCQlJiWFEzLVBtNjFDQTVNZTh6NlVtTTV5eTZBQjFNNXhGYnJYTW9BU1lQaG5tZXVrZWF1SkgzU05kMmQyRW5NbVk0WQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "KEENON Showcased its \"General-Purpose + Specialized\" Robot Ecosystem at LEAP East 2026",
+   "title": "RoboCup 2026 - A Breakthrough For Soccer Robots",
    "blurb": "",
-   "src": "PR Newswire Asia",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWh5clJCTnpWaEZvOVA3TC0wTkMxQjk5eWNOaXd6OUFmQ2VrUjJJOGVpX0oxN2dWYlJtZ2hIYkRtU013U2pGM3htTFhwMmhHaUVHRjFHcENZYkU5N3dRbGVsOE5UQWpMTk9GRzUyejRHNkZZYkl2VmJNNjJBUG5sWHgzSkVqSEFFSFZVZVB0QlZYZFliQ04tSHhLM0t5WUhBNU1zYXdrb05GRnEtbTNvd3lxY1lGc0MwNm9mNlVTM3lFd1BCTlNNSUxmeUQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI To Launch New Model After US Freeze",
-   "blurb": "",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXFqR1BqN2xYdlhzZUNWZmlfNGsyT3Q5VlFxaHZ5eDA1V0pFUW5wMXdkc0VYV0lSV3BWSDZmbkFyNW5WNWV5bVFYN2l1VzJRZjVSUk9NVExHaExGQXQ3dUV5eFJNVkd2UGoxVm5SSXZlQ25LOHl2YmVjcnhsMjJqdHQ2aWJuWUU?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Meet the robot who made his World Cup debut",
-   "blurb": "",
-   "src": "Substack",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yN1IyWW5LSWZDX0dTZ1IzMWI3ekp0bXM3cV9DamVNMzRXSlRUeXYzd0lpWUlMX1Y4VC1LUFdLM1FHLU1TR0FTX1N5THJaMlR0Y2Q1emdwTkZXQ1ZkNzZLZXB0Q2FJSVAyZlNlMlRMSDVyUDhOaTh6SA?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "SpaceX Readies Expansion of Grok AI Model",
-   "blurb": "",
-   "src": "PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjJVWmpDLXRJZXp4TlBzVDJ1VnNZRGRJeG1LLVJSc1lmM2xQNXNUVHl0Q05UM2E4YVdpMjFJcVFPYi1ad3YwR3gtYkxpUGhTOTQ0dm5ZYWhpY210VmN5T01qNzBIaFQ2Z1FoYXZ6TVdzbzFXQlVBYzJLWmRtQzEtSlJ5RS1salN1Sl9FNi11NWN0UDlqS3NMY0QtMERqcTNa?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Forsyth County Sheriff's Office tests out new humanoid robot, artificial intelligence",
-   "blurb": "",
-   "src": "wfmynews2.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNUkktOHlETEs2UUI2Y3hoRDdDMDMzRENvVlhJRmJtUDBuX0p1TVJydEpXRWFMSUtuemwyY3ZMLUZWSlNjYjRqRlYtVkNiNThKeDYwMmVfajNuWW1INUNaU3lVSEcxNmRydUhSaDFBVnlxVy0yVVRHcGNYRjBIUk9ydFN2Mjc1c2tUWmlBUVl3ZmttdlRGSjZzcU5ZbEg2amhlQk56V1JHZ1hoV1U1VzZfSU8tbkFQbHFxZC01bl8zT2NEeXdoQmhnS1NwbXdMVUFWbDJvOVMxa0J6QWt2QnI4Wjl2QXViclZxdEFqd0Fib2pqbnFnZzctZklNZ3kyU3NjY3U4N1NhNVI1TnA1SXNULTNKUTY1d24yendkNFZlVE1lV1RSbGtoeXM2YWl0VjZfSXVNX3VrOTVPLXJwc2hvQlhDRnRCekRUamFHUnVWeGdkZw?oc=5"
+   "src": "i-programmer.info",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPay1iZUYzNmJPWTZiNzd1eHZvU2gzLV9KaEVqVXpkVW52OWQxeFpkZ3dMU1BWRnl6UWtDQ3VtQ1dKREp5eF9BT3owNmRpaDY1T3I1MC04OER2SkV5SGV5cEpNTV94SVRNRjNQbndZdXVZRW1TNzNuMWUwV2dNNDJpUThVcTN4Y2RuSGFfb2pjU1J3cEszakR4N1VtUU5OSndIOUh0Wl8xZw?oc=5"
   }
  ]
 }
