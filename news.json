@@ -1,12 +1,26 @@
 {
- "updated": "2026-07-08T16:41:36.789Z",
+ "updated": "2026-07-08T22:09:29.558Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Introducing Muse Image: Image Generation Built for Your World",
+   "title": "SpaceX Debuts Expanded Version of Grok AI Model",
    "blurb": "",
-   "src": "Meta Store",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5"
+   "src": "PYMNTS.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjJVWmpDLXRJZXp4TlBzVDJ1VnNZRGRJeG1LLVJSc1lmM2xQNXNUVHl0Q05UM2E4YVdpMjFJcVFPYi1ad3YwR3gtYkxpUGhTOTQ0dm5ZYWhpY210VmN5T01qNzBIaFQ2Z1FoYXZ6TVdzbzFXQlVBYzJLWmRtQzEtSlJ5RS1salN1Sl9FNi11NWN0UDlqS3NMY0QtMERqcTNa?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "In vivo feasibility study of humanoid robots in surgery",
+   "blurb": "",
+   "src": "Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dzVYenhDWFFFLUNHOHdybk1VdnlBN3FqaTBqZGhsWU5hQTVEei00S2xadG5UVlZxMnpKZl9haTNMY1FLSnM0amNvLW1oUVFSWVhEVHNueFFYRzBzWG1N?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Major AI offerings at a glance",
+   "blurb": "",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUDd1T0cwX3NLN0R2M1RxdWxhY1E0S2NYQWZYV183MEoyaWp5WUpWVFEtMzZIVmRNVU4tX1Y3LU1Ud0J1MDhTaXJ2NFJEZXY2TTQ4WVlMaHlsZkg3VHpZdklnRk1DUkpRbEV4OG9uenlBb0l1UHNhbzFR?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +31,10 @@
   },
   {
    "cat": "ai",
-   "title": "Major AI models at a glance",
+   "title": "Predicting Cancer Immunotherapy Response Better with AI Model",
    "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUDd1T0cwX3NLN0R2M1RxdWxhY1E0S2NYQWZYV183MEoyaWp5WUpWVFEtMzZIVmRNVU4tX1Y3LU1Ud0J1MDhTaXJ2NFJEZXY2TTQ4WVlMaHlsZkg3VHpZdklnRk1DUkpRbEV4OG9uenlBb0l1UHNhbzFR?oc=5"
+   "src": "Inside Precision Medicine",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRGZBSkV2NUlBMloyblN1Zm9qRFlXSHBlZlNMRlJMa2ZkOGtMRXhXREx1QzdCUnB4VWlnVkhJVmFzR1lVVm1PREc4d0hCVl81eDRuLW1tZGdJWkpDWF8wdDF0ejBYWHFnbU1FcEtBSjdRUEZ5MVQtX3d5WG4zRUpnQ2FxYWRhT0ZlLUU1N2RRTVRhdGFGUDFidTVXajE1blJrVzNZYWp1eW9rZ3BBZWM1aUMtdVJaWkt6SHNxbUNpRE9jcC1jMWluQ1B1OEdUSnJwaHc?oc=5"
   },
   {
    "cat": "robo",
@@ -31,59 +45,45 @@
   },
   {
    "cat": "ai",
-   "title": "OpenAI to publicly release GPT-5.6 AI models, ending government-requested limits",
+   "title": "SpaceXAI, Cursor Unveil Grok AI Model for Coding, Finance Tasks",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDZISWFaLTZoMEFjMU94VzFxYmhGN0RSelctU3pvaVB5UG03UlloSm43QnZ3dURGekp5Z3dsdUhrUjJ5LUROWWNLdE1HeVJOYmI4UWQwdzVpaVoxYWtPY214dFVvM0R4N2pPMzNjV3N3Q0FUV3JiUl9VRXBwa0lNWkVvelpMMDl0Q0hOMGQ0Wk5MZjBEV3VCRmtSam1HbDRudXo4MEotV3lTem_SAbABQVVfeXFMTmVxUzkzSXlkQTVxOEFyeDNuTDQxV0ZVV05pRENKRXZrTmRLWnZET2pFbm15ZURsbm1ZbmpCMmdMZkdXNHZYYjN4ME1pWV9waGt5aDY4SHh4Nno5V0NfQmZsU2U3YzFtVUtIN2lOYmpvc1JueHpXWTVQRE1obC0yR1E4dlJXNm9INmhQVU5YYkJBM1gwTElpcW5YY1ZsM0lfaGdDbFdxMlFhNUNjTFJlYlA?oc=5"
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ01IWUk2UlM5bkZXSFRER1c4X0huc0MyOFF3UkVSRkppTTViUVRyWlVzSlQ3TzlhU1dQUkc2aDBWSnNLdHVPSVA4dnpjYklNc2RndklLeXdIb3pkUkpncTQxZkpxQ0pxYlI3UDZqM0JNak1zUmpNZlVfV0lRSWN2SkZIQTVOQ2pjTnRVMTl1WGZLZTRfdDNIWlZheDE2RjdSc2UzSl9TWlVKTG5jVTBxRg?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Agility's $2.5B Wall Street Pitch Tests Whether Warehouse Humanoids Are Ready for Real Work",
+   "title": "Sheriff Unveils Humanoid Robot for Hostage Negotiation Purposes, Which Definitely Won't End in Disaster",
+   "blurb": "",
+   "src": "Futurism",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0I5bmppWnhMSXh4Y1ZHMHZ3MmtkQVRoY2lGNldlVERDOHpvekJtc3RsQXdsNUR4bnlnckZEMWYxQ1dVRFJpRzd5RDBuUDhKdGI0angyRjFtX0dENGx1R2NMbjVYMThxMzBkb3BYT2Q1WXVYdmEtWFFqTzhWT3Y2WE0yT1AyUUhqTDkzZENfSHY3QQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "SpaceXAI Launches Grok 4.5—Here’s What’s New About The Company’s ‘Strongest Model Ever’",
+   "blurb": "",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3ZzTmVIdG01dm5yME9jZk5VVUc2aDZBdUZjSHV4dHMxUElDWXJDNlJOMzZiSmpYbDRDNmlsWm9VZkRNTDZPdzVJdEh3QlhoWXBkdnZvTmJ1R2IwMzF5T01KRnY4R3FSN2pkWXY1WVZfT2U5bFZWRDlNdXFueE85dHR3X3VEY3VGbkpYQlFYM25FSlhlVHdUR0k2eGNLLXhNMFRYRW4xNkhNWW51OXRza3h4ZWQyTGpEUFlWR2RCTC1fNGVqTnNES0k4MG1YMl85RHRzTDN3?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Physical AI in focus at Machina AI summit",
+   "blurb": "",
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV3VmeWpxU0RWX2tfUWN5UWFQc0U4Z1lpSXI5RkZ2ai15OXA3UmgzbWpaZmxjUGVsNk9uQ2YwS05oTVVFTDBfT3I5MHhMakRNTkV4SkotR28zRnQxcm5vNEg5WXZBRlBLVkx4LUVzNHNiMXh4U3ZMVi1XazVCYmVNazlobDFPLUE?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "OpenAI’s advanced GPT-5.6 models to be publicly released",
+   "blurb": "",
+   "src": "Nextgov/FCW",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzRybjYyeUFLV2dRWXR6US15NzVDOFBpYUlFV1N4Wl9KeW9kcFRPRWRYSXZoalBac1FKSkZCYWRiMmU5VEFQMlkwRGZWLVJnanRfU1lLSnBKczhud1I5aWsyNzRrbExPaGZRQzBSRnB2QkJlWHhxZE1VRkRscmFOcXA5bHJtbjJTaXE3Wmt2ZnFMY3hNWXVTMTAwSnc5d3l2eDhvdEtSRkdyQU52MU1Jb21JMjA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Agility’s $2.5B Wall Street Pitch Tests Whether Warehouse Humanoids Are Ready for Real Work",
    "blurb": "",
    "src": "ERP Today",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JdWc5b0VxNHRUSVo2Mm1ubEJMY0YzLTk3U2U2ZkxPNXFRV243MVl5V1ZidXplTVR2UllnUy1aTUlIWVZ1YUpGNkJwWndwVV9ZREw1aHBneUxoWmZLR2o4WW44aGItMk1iNDBCY3JZVjR5WFhZbzR0UmFyNW0?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Refiant goes where rivals only promised with a 10 million-token AI model",
-   "blurb": "",
-   "src": "SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHNublpPejlLMDAyUVdmR2U2VGx2WHA1LXRieGN1dkNmLVlKZE9GZk9JT2wxdm9kTjRKczBpTXNnLVhEV1lFSm04aG1aUXhUWGRrS3ozdjBfMHo0Zy1CNTdqNHVSeF9YQ0JQS3MzWU8zWEpPdllpYmlnRWdDX2RYam9kdVZZSWRLZ2xhVnZySVdReDNlTkE?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "MIIT: Annual Humanoid Robot Production Expected to Top 100,000 Units This Year",
-   "blurb": "",
-   "src": "Gasgoo",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONUhnX3pzczdlXzVuV25BQU9meTBWdjU5cUY4MFdleTBtQjBwV1FqMW8tTXkwQWtaUXVYXzNucWczOW9SZ21RbU54bVNHSzlaM1RxdTJuN3hLdFZMZWgtM2ZEMlpHRTlHWldqVGNia0hHTmduN2pmaUwzbXZtd0t0QTZRMXhVTnZrd0RIbTRhNkNHYXZyU1EwSnJqZTVNQkRRY0ZTcmFqSi1Qc0g1SnNFcWhXSG1UYTVPS0pTaWJBNDlfSWN0ZHROLXlZNnpvUFgxa1o1eQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "New AI model reveals how neutron star mergers forge heavy elements",
-   "blurb": "",
-   "src": "ScienceDaily",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yblE2Q2xyelFqdXNWdGFTY2hpdS16aThlMUNqN2pENTk4N19pUC1INEdiNlFpYlBmUGtrbmRzcVJfSU5yREdrTUNjd1RZNHBuVHRiWXlTZGlQcTFlSFo5Nm54SnVsVC1acVhrVHVNUQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Real-time learning powers French AI humanoid for industrial applications",
-   "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTZUZEYzUDkwNkZKSmRQYmFZWHAyTHNZU3RrVWU4ekpvdFZYaDc4X1FCZUNWLVJ5TFVVQ3BkSVIyV2pGNUdOX1FZQm1qZ1hlTmtUaXRPUUlRRGp0RU9rQ05qQmJkdk9DcXV2SmNzWl9iOEk2UmVjQ21SRjRQRWJzbkNLTDBIdTI3UG9NQXZueG1rdEpjYlVBNEx2VGQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Google Stock: Will Self-Improving AI Models Decide Who Wins Superintelligence Race?",
-   "blurb": "",
-   "src": "Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlMtTm9iTnozWnVJcFh4YVhERU1LZUgxVEcycl9icm93THFCOURVM3RJbGxQRjdDeDlya1VpVE9IekRFenRKTkdOem13VTZ3a3dyOEE2MWxSVG9vSEpSeGdXU3lCQlJiWFEzLVBtNjFDQTVNZTh6NlVtTTV5eTZBQjFNNXhGYnJYTW9BU1lQaG5tZXVrZWF1SkgzU05kMmQyRW5NbVk0WQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "RoboCup 2026 - A Breakthrough For Soccer Robots",
-   "blurb": "",
-   "src": "i-programmer.info",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPay1iZUYzNmJPWTZiNzd1eHZvU2gzLV9KaEVqVXpkVW52OWQxeFpkZ3dMU1BWRnl6UWtDQ3VtQ1dKREp5eF9BT3owNmRpaDY1T3I1MC04OER2SkV5SGV5cEpNTV94SVRNRjNQbndZdXVZRW1TNzNuMWUwV2dNNDJpUThVcTN4Y2RuSGFfb2pjU1J3cEszakR4N1VtUU5OSndIOUh0Wl8xZw?oc=5"
   }
  ]
 }
