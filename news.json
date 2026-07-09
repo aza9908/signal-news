@@ -1,19 +1,47 @@
 {
- "updated": "2026-07-09T17:23:09.674Z",
+ "updated": "2026-07-09T22:24:41.196Z",
  "items": [
   {
    "cat": "ai",
-   "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC",
+   "title": "Introducing Muse Spark 1.1",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RZGh3eUJMQUR5NV9OVTRiaHAwX0ZKbTl5SGF5TUpDY0M5R1lQdVlvcGNZYTVSTkVHSUJYbUZUbWRGSWdWemZDd05NTWdkWUNZaWxqQ0I1N2M3NmZrdzhaOW5BLU5SVFllOFNVY0FiMlgtVzd1eVcxRmlCa9IBgAFBVV95cUxNTjRaZUUtZEd1UUFqR1NJOFVtLUc3OV9JMHhaaUYwSmZsUTNOS1E5bUFlYXR5R1RNVUVXOUtDdU53UVlDT0hnWktWeXUtdUdnTWtOLV9ZNHlBZ0VEMzRZRHh6UWFzUXFfVVFES1dVLTVZdm9hMlBBWDF3MDg3cHZidg?oc=5"
+   "src": "AI at Meta",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery",
+   "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
    "blurb": "",
-   "src": "The Robot Report",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVS1BSHp2NjNld1lNNmcwWjRDeUdQUVZoX3c0MGljYmNmM0FDVks2QXB5Yl9rMkh5V3pta3RRcG5nbkNhblJoaE1XVHNpRXdQOXFiZVRtNC1qdk5tOThPTEVjQUpMZVJ4VVFaNU5ta29sN3J4VmdmSVpRWGJ0WC1zd0V0Zngxdk5qSnlrUVpCaWVYVjRRTWNrNGhqRU9vWlVwX2RhdEhB?oc=5"
+   "src": "Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa3Ztd09ub0w3X1Jvck1VaFV1WVFZdXRvOUtWQ2lFRVhNeVpIUW5DdWNIYVRzSFJUcnNWQS12T2lUOXJfOTVKSm5kUHNnYnpPUWF5U0hRT19nR2MyMm1xRVdUYm9idVlaZklISjNYWTY4SGNINmR6bHUybnBtdlRSWHBvY2g3bXF4YWF2b3gtQ3M1UHZoRmU2N3BHWVUyZF9zRXJmVHh2NlR0V1VkRWstSGZHNA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "OpenAI Releases New, More Powerful A.I. Model",
+   "blurb": "",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "In groundbreaking first, humanoid robots performed surgery",
+   "blurb": "",
+   "src": "Popular Science",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FSEVlc3B4a3cyNWZ2bEszLWZ0ZFNWQ3RqbzdqTG14RUt4VFJnUU55YzQ3NUthNWd1RS1TQWtReXZKZ3dwajY4c2RRZFZsQk9JbEZTQ1pkVXc5TklHT3BPSnNVejBBZHpoSVcyYnBVWEhsMzNS?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Meta Says Its First Pay-to-Use AI Model Outperforms Google",
+   "blurb": "",
+   "src": "PYMNTS.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnFSMXFGNG5OTWNPR01YcV9tVndfOUUzMkNQWHQ2UVVxUnlTQXI5OFpMNEtaNFZ3LWc1aVMxazZvbXdIZ0RuSjVnREQzMnJYWjVpRVQ3ZFBTWnk3bVEyX0dyemE3Y3F4QWMwRDdUa2lMZzN5TDZDZWZfVE5oS0JHc2NPcDBQUWJZOGp4RndpTV8tZlgyN0R6NFNpX3Z4MjdTT1ktMF81OVh5SnIxblNTNTZwTWNKNG8?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid Robots Enter the Operating Room",
+   "blurb": "",
+   "src": "Tech Briefs",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUUIyMGF6ZW5iSGs4OHRIbkpmcXljeDR4a3U3N1IzWk8ySUIxRm1JdXg0RU1oYVM4RExrN0dKMXVKR1ozVEZNeU55ZUV5S3c5RUhMX2JycDRZcC1xaWNrdllKYWVzRVV0SkRva3VfNndvSENUNlhRMkdiQVQzWjNXY0NhRTFpc214aFVIWDRsbl9VdUlTa1l4MXUzclpRTFlJ?oc=5"
   },
   {
    "cat": "ai",
@@ -24,20 +52,6 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid robots just removed a gallbladder in a live surgery",
-   "blurb": "",
-   "src": "Mashable",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWhBSENyd1lLUjBMUTF2WmYzUzBTT0k3QWtqWENSb2VLQlpHWHFnRXJJSDhBTExyYXZGcWpDWTFUODdHOTNmSTFVQmxKNXJQM09TY3RTelc1MDJrSmVTRWN4LVlHem5keXkycFN1M2JZaDZmd05xaWhrRGU4WjN6dHlHejhWcnI0WWFxSV93XzI?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "New AI Model Puts SpaceX Back In Race Versus Anthropic, OpenAI, Google",
-   "blurb": "",
-   "src": "Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmtlLUV0alppMXRocndQSXRhaUVwYXE2QVY1UUFTTDZTUExrVW5rVG1KdnBKU1pnR0pRNGczY1g5amVkaURkRXpsSll2MGNTc09udFdsdGJiQzRrR3JiWndfdk14ZWZETWhwMlljSC1odm41NnllVVEtN1RPeEkyeEFnUG82SG5fLUJ2MmpDQ3M3bm1SbmtKRzV4SFdBN0Rl?oc=5"
-  },
-  {
-   "cat": "robo",
    "title": "In vivo feasibility study of humanoid robots in surgery",
    "blurb": "",
    "src": "Nature",
@@ -45,24 +59,24 @@
   },
   {
    "cat": "ai",
-   "title": "Meta Releases Cheap New AI Model. What Does Zuck Have Up His Sleeve?",
+   "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
    "blurb": "",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lVWFqeFhOc0xRNHZ0SG03TTJXcW1KZllQMjV4RThnbXRGOGxLcUF3TkRJaW43QkFQclU5dExXY1JqLVNjMjB4aTI2bTQwZmtMSW5mNm1WTEdsOFBHN3Z2UUNpRWlGQmtUT1huVUx3?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5"
   },
   {
    "cat": "robo",
-   "title": "UBTECH to Showcase Humanoid Robot at MTW Asia 2026",
+   "title": "Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery",
    "blurb": "",
-   "src": "MedTech World",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zVVQtT3ZHLU1xUjRWNmJ5cUFJQTQ3TUFvRXJueXI4aFJXWGVTdk1pVGxMNlZOemtkdTUwZUV1S0pwRUNEWGhONldGMjZjTS0wdE02NWpxcFE0Z242dWVhQ3lBdXZkLUVIZFZicHh5T0oxaUtFZXd3?oc=5"
+   "src": "The Robot Report",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVS1BSHp2NjNld1lNNmcwWjRDeUdQUVZoX3c0MGljYmNmM0FDVks2QXB5Yl9rMkh5V3pta3RRcG5nbkNhblJoaE1XVHNpRXdQOXFiZVRtNC1qdk5tOThPTEVjQUpMZVJ4VVFaNU5ta29sN3J4VmdmSVpRWGJ0WC1zd0V0Zngxdk5qSnlrUVpCaWVYVjRRTWNrNGhqRU9vWlVwX2RhdEhB?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Introducing Grok 4.5",
+   "title": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI",
    "blurb": "",
-   "src": "X.AI",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5"
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3ZaLWo1ZkNjYlo2YWxyX0NLdWdSY1BUYmhFV0M4cmpaWDRsOVRlYjZYS0JKekR4LU1yTjZWZmtMV25lX1lnSG53ZlR1SjFoOUxLTUdwdlNFZkdMNVRadUtkTFdVemZVODVVaTB3R2ZhN0R1aXhDYWRhS3lBaWFINHNOd2RSMV9rNkR3WUlMZTJJUTJOcXNSLVNDNjBHZUNfY3JPeVhGaGJ4TnhnSk9nczJB?oc=5"
   },
   {
    "cat": "robo",
@@ -70,20 +84,6 @@
    "blurb": "",
    "src": "Forbes",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQjFxcm1RVkluRFp3dmhxQ2JvOE9LbmZDeVhYdVR4MGdBVDVCejNiRlh4QW5vYUpJMklEMjN2dnNzQ25JYjRremZnTS1hVnBqR2JrSWZYR0VtZWdyWWg3alJnTFFKZEZISC1RNnJtaTlaVzFreTdkVmlXVDdMcUxBazBpbDQwSThSaEdQd3ZyNDk4T0NwMmhFZ25La2NiR0s5RjQzUFMyWklVLV9BT0tBSWpsWTJPZmV2TUc5Vg?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Fable Follies Sharpen Europe’s Sovereignty Conundrum",
-   "blurb": "",
-   "src": "Center for European Policy Analysis (CEPA)",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0tMYV9HZlZQdkR0dGZWdHNVWGNxcnJadVNYSTJ6MzVwcmpDbThtTmtSbkliVnZaNkV4RFRzTzVVOHRBaTFiZGwzZ2ZvcU9iWGo4dmRLeTU2VndXUG5RWVhjUmlOTkdNVEFvd25MQzFjY3gzOTdRd3VYVFZveG1MZTFiYw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First",
-   "blurb": "",
-   "src": "UC San Diego Today",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXMtRnNmOE1XRjJLRTF2eEpwOGpYT0VhdUozZFBqR1IzR3YzM3l1M3FDS3lCRExwSmxsV2U4WTlHenM5bXVUd1p2YnB6WXlCZnJRazBOQnh1R0g2a3ByV2xwR1pCYjlyd2Z5eHpWSzkwa1FNS1pPdGlUcUJ1eGFTOHpQR29XQW82VXl4WWFtUDVVNVRCaFFral8zQkQyMmdkaV9qNTZ6TlFFeC1o?oc=5"
   }
  ]
 }
