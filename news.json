@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-08T22:09:29.558Z",
+ "updated": "2026-07-09T06:52:48.234Z",
  "items": [
   {
    "cat": "ai",
-   "title": "SpaceX Debuts Expanded Version of Grok AI Model",
+   "title": "Introducing Grok 4.5",
    "blurb": "",
-   "src": "PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjJVWmpDLXRJZXp4TlBzVDJ1VnNZRGRJeG1LLVJSc1lmM2xQNXNUVHl0Q05UM2E4YVdpMjFJcVFPYi1ad3YwR3gtYkxpUGhTOTQ0dm5ZYWhpY210VmN5T01qNzBIaFQ2Z1FoYXZ6TVdzbzFXQlVBYzJLWmRtQzEtSlJ5RS1salN1Sl9FNi11NWN0UDlqS3NMY0QtMERqcTNa?oc=5"
+   "src": "X.ai",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +17,10 @@
   },
   {
    "cat": "ai",
-   "title": "Major AI offerings at a glance",
+   "title": "SpaceX Debuts Expanded Version of Grok AI Model",
    "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUDd1T0cwX3NLN0R2M1RxdWxhY1E0S2NYQWZYV183MEoyaWp5WUpWVFEtMzZIVmRNVU4tX1Y3LU1Ud0J1MDhTaXJ2NFJEZXY2TTQ4WVlMaHlsZkg3VHpZdklnRk1DUkpRbEV4OG9uenlBb0l1UHNhbzFR?oc=5"
+   "src": "PYMNTS.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjJVWmpDLXRJZXp4TlBzVDJ1VnNZRGRJeG1LLVJSc1lmM2xQNXNUVHl0Q05UM2E4YVdpMjFJcVFPYi1ad3YwR3gtYkxpUGhTOTQ0dm5ZYWhpY210VmN5T01qNzBIaFQ2Z1FoYXZ6TVdzbzFXQlVBYzJLWmRtQzEtSlJ5RS1salN1Sl9FNi11NWN0UDlqS3NMY0QtMERqcTNa?oc=5"
   },
   {
    "cat": "robo",
@@ -31,24 +31,52 @@
   },
   {
    "cat": "ai",
-   "title": "Predicting Cancer Immunotherapy Response Better with AI Model",
+   "title": "Who Owns the Worldview Inside an AI Model?",
    "blurb": "",
-   "src": "Inside Precision Medicine",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRGZBSkV2NUlBMloyblN1Zm9qRFlXSHBlZlNMRlJMa2ZkOGtMRXhXREx1QzdCUnB4VWlnVkhJVmFzR1lVVm1PREc4d0hCVl81eDRuLW1tZGdJWkpDWF8wdDF0ejBYWHFnbU1FcEtBSjdRUEZ5MVQtX3d5WG4zRUpnQ2FxYWRhT0ZlLUU1N2RRTVRhdGFGUDFidTVXajE1blJrVzNZYWp1eW9rZ3BBZWM1aUMtdVJaWkt6SHNxbUNpRE9jcC1jMWluQ1B1OEdUSnJwaHc?oc=5"
+   "src": "IPWatchdog.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUlYbGRkQ0hzR2J4b2RhaE9pdWJRbWNqY2xtNXktaWlQRHRjZmU4UmU0YjF2dmN2dmEyQmNxdE9xMmxwbEY3bXlfdmljQzIyQWNDdEdqV2d5UnJXNkI1aklYS2U1NVVIMmVJVFFkME9TaWJmYkRhSGZWejEwTE1KajJR?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First",
+   "title": "SKF eyes role in humanoid robotics business",
    "blurb": "",
-   "src": "UC San Diego Today",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXMtRnNmOE1XRjJLRTF2eEpwOGpYT0VhdUozZFBqR1IzR3YzM3l1M3FDS3lCRExwSmxsV2U4WTlHenM5bXVUd1p2YnB6WXlCZnJRazBOQnh1R0g2a3ByV2xwR1pCYjlyd2Z5eHpWSzkwa1FNS1pPdGlUcUJ1eGFTOHpQR29XQW82VXl4WWFtUDVVNVRCaFFral8zQkQyMmdkaV9qNTZ6TlFFeC1o?oc=5"
+   "src": "Post Journal",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpNUmtyTXprSjZsRXBzMkREVW1HVzJLeGpuN01HTDU4Q1NDTEtYU2F1YXIxR2RkU1pHSkgxRTVQVkxrdG5SWldsZDRRcGxuMTdvR2pmaW1jeHJGY0N3ZDhiNHd5RS1rMDJEbDhjYWdTVG5EcGhsRk9nbGwxRjR3TFVMb3VpVmFwSXBSM3RpSjZhQWQ3MmQzX2d0ZVZOOU0?oc=5"
   },
   {
    "cat": "ai",
-   "title": "SpaceXAI, Cursor Unveil Grok AI Model for Coding, Finance Tasks",
+   "title": "SpaceXAI's newest AI model Grok 4.5 dramatically undercuts Anthropic and OpenAI on price",
    "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ01IWUk2UlM5bkZXSFRER1c4X0huc0MyOFF3UkVSRkppTTViUVRyWlVzSlQ3TzlhU1dQUkc2aDBWSnNLdHVPSVA4dnpjYklNc2RndklLeXdIb3pkUkpncTQxZkpxQ0pxYlI3UDZqM0JNak1zUmpNZlVfV0lRSWN2SkZIQTVOQ2pjTnRVMTl1WGZLZTRfdDNIWlZheDE2RjdSc2UzSl9TWlVKTG5jVTBxRg?oc=5"
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2VPaERBUFVOU2Nmb2tBemRDUlJLU0lsbDFnU05xWkxuaFpBSXRZQ0dOa0JuNUY2VGRkM2hENnptM3V3WDB3UDgxQ3RuVzBmV2N5NHF2LXY2aVllTmFHZHptcU93Wm9PYjhaTk9wYmdETXJFLXVFazViN0JYcmRuaE5QaVB1U3FmbWdtZlpFa08yd0tvODJDR3gydjV0VXMtaVZrNmcxc3Y0MjF6R2F1R2xjQlZLMzZS?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Surgeons use teleoperated humanoid robots to perform live surgery—a world first",
+   "blurb": "",
+   "src": "Medical Xpress",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTC1XSVpDTTJ1TmRNbFRVM1g2TVJnRGFNbkZCZ0ozOHhuMTlLN0ZtYXRNUU1BQmZzVHc2cHh1bnh4YVNMR0N2SHh3eklrby1wQmdJb3ozaXJXdzV2bV9YV2s3dFdXeG9FaTVMUE9Hb3NEYkpsYTlEdGtlWDlKX0pLam5nemQ2WGZBZWU1WlFITjNtN2s?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Major AI offerings at a glance",
+   "blurb": "",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUDd1T0cwX3NLN0R2M1RxdWxhY1E0S2NYQWZYV183MEoyaWp5WUpWVFEtMzZIVmRNVU4tX1Y3LU1Ud0J1MDhTaXJ2NFJEZXY2TTQ4WVlMaHlsZkg3VHpZdklnRk1DUkpRbEV4OG9uenlBb0l1UHNhbzFR?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T | NVIDIA Technical Blog",
+   "blurb": "",
+   "src": "NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXBXQkJONDRQeXBKMHFHeWk0X3otWXh1Wlp3LWRmcXVaaF9qMHFEZURjd3daZm1ETVQxRWFRMXVpc1FDVERMQ1R1TC1RRmJTdDhwUWVWVzRNeWt4aE9DLW4tZXdlVjdKSDBBUUFWbk9GZGIxUWt0ZGI0elo3N2tsaDR2ajV5c1drc2RoSEJXWFlpX21hYk51QklKSXE2ZDJvWkV3?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "When Your Factory Worker Is An AI Model: What Boards Need To Know About Physical AI",
+   "blurb": "",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX1dPUElvQm0tSnpSd21QY1RCTk0yaUZjQmdmWVhTTnBUUlNhNldQczRzOUpLQ2RmblpjbnpiV3ptdUpjYWlFVHNvNFc4aHpjaVRBSFZ5Qm5kVUlzZ1JsSHBHRmVpdE4zSHJ2dmN2QlhybjFobE5yaFUzX2tpUHN6ejNTdFZIZ2xvNDNBSEVTSk1vNDhkUVE2ajlGMldFT1RNXzNQWHBTTDFpejZ1NmE1MVA4a2tZeGZCbHZIT1lWbktpcXVkeVpFV1hYQ1VxUHBYWWo0?oc=5"
   },
   {
    "cat": "robo",
@@ -56,34 +84,6 @@
    "blurb": "",
    "src": "Futurism",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0I5bmppWnhMSXh4Y1ZHMHZ3MmtkQVRoY2lGNldlVERDOHpvekJtc3RsQXdsNUR4bnlnckZEMWYxQ1dVRFJpRzd5RDBuUDhKdGI0angyRjFtX0dENGx1R2NMbjVYMThxMzBkb3BYT2Q1WXVYdmEtWFFqTzhWT3Y2WE0yT1AyUUhqTDkzZENfSHY3QQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "SpaceXAI Launches Grok 4.5—Here’s What’s New About The Company’s ‘Strongest Model Ever’",
-   "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3ZzTmVIdG01dm5yME9jZk5VVUc2aDZBdUZjSHV4dHMxUElDWXJDNlJOMzZiSmpYbDRDNmlsWm9VZkRNTDZPdzVJdEh3QlhoWXBkdnZvTmJ1R2IwMzF5T01KRnY4R3FSN2pkWXY1WVZfT2U5bFZWRDlNdXFueE85dHR3X3VEY3VGbkpYQlFYM25FSlhlVHdUR0k2eGNLLXhNMFRYRW4xNkhNWW51OXRza3h4ZWQyTGpEUFlWR2RCTC1fNGVqTnNES0k4MG1YMl85RHRzTDN3?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Physical AI in focus at Machina AI summit",
-   "blurb": "",
-   "src": "SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV3VmeWpxU0RWX2tfUWN5UWFQc0U4Z1lpSXI5RkZ2ai15OXA3UmgzbWpaZmxjUGVsNk9uQ2YwS05oTVVFTDBfT3I5MHhMakRNTkV4SkotR28zRnQxcm5vNEg5WXZBRlBLVkx4LUVzNHNiMXh4U3ZMVi1XazVCYmVNazlobDFPLUE?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI’s advanced GPT-5.6 models to be publicly released",
-   "blurb": "",
-   "src": "Nextgov/FCW",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzRybjYyeUFLV2dRWXR6US15NzVDOFBpYUlFV1N4Wl9KeW9kcFRPRWRYSXZoalBac1FKSkZCYWRiMmU5VEFQMlkwRGZWLVJnanRfU1lLSnBKczhud1I5aWsyNzRrbExPaGZRQzBSRnB2QkJlWHhxZE1VRkRscmFOcXA5bHJtbjJTaXE3Wmt2ZnFMY3hNWXVTMTAwSnc5d3l2eDhvdEtSRkdyQU52MU1Jb21JMjA?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Agility’s $2.5B Wall Street Pitch Tests Whether Warehouse Humanoids Are Ready for Real Work",
-   "blurb": "",
-   "src": "ERP Today",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JdWc5b0VxNHRUSVo2Mm1ubEJMY0YzLTk3U2U2ZkxPNXFRV243MVl5V1ZidXplTVR2UllnUy1aTUlIWVZ1YUpGNkJwWndwVV9ZREw1aHBneUxoWmZLR2o4WW44aGItMk1iNDBCY3JZVjR5WFhZbzR0UmFyNW0?oc=5"
   }
  ]
 }
