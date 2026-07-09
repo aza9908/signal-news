@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-09T06:52:48.234Z",
+ "updated": "2026-07-09T12:11:58.338Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Introducing Grok 4.5",
+   "title": "China Weighs Limits on the AI Models American Companies Love",
    "blurb": "",
-   "src": "X.ai",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5"
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaW8zZm1QLUNDbnlJdUVyeW41cW1PWG5LM1Z3cTI1dlFnQTJtYWI3VkVDV01GOHgwZDRveWZfaWotTEE4ZmlLd2xxQXVmTmg2b3hQVGhIc1Y0MFNTRWlJS2MxbmRjS24tNkZhaGE2N3VVcXRLNC16eTdhTUExTDlxYVNZaXNNQS0tVU9mcXBuSUpLWTV0aEJQVmpOUW1pZw?oc=5"
   },
   {
    "cat": "robo",
@@ -17,59 +17,17 @@
   },
   {
    "cat": "ai",
-   "title": "SpaceX Debuts Expanded Version of Grok AI Model",
+   "title": "Introducing Grok 4.5",
    "blurb": "",
-   "src": "PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjJVWmpDLXRJZXp4TlBzVDJ1VnNZRGRJeG1LLVJSc1lmM2xQNXNUVHl0Q05UM2E4YVdpMjFJcVFPYi1ad3YwR3gtYkxpUGhTOTQ0dm5ZYWhpY210VmN5T01qNzBIaFQ2Z1FoYXZ6TVdzbzFXQlVBYzJLWmRtQzEtSlJ5RS1salN1Sl9FNi11NWN0UDlqS3NMY0QtMERqcTNa?oc=5"
+   "src": "x.ai",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Private gift brings two Ami humanoid robots to UCCS, expanding access to robotics and physical AI",
+   "title": "Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First",
    "blurb": "",
-   "src": "University of Colorado Colorado Springs",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVV1VDFFbnVldERNOHk1dHdadVdycnJqTVdkYzdjTTFNWmpGUjl0dEE0cVlvaGl6cHA1Z2RLSWpMZ1lFOHJWdlBxYjBYanFXaUNROXUtY3lpOUVxU2YtWTl2YUVHSVZ2RlRCSTlxQ29GeDZvemc2TVNXTEtiQmxfb05OdzQxTU80R3NaSThKLU5VOVJILXRHNlM3czVjR2hZdXhCb3pxMy1wbGhHYlQ4SkE3enFaUnZOQmtfRUl4ZDdCcEY0Y2J4VEln?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Who Owns the Worldview Inside an AI Model?",
-   "blurb": "",
-   "src": "IPWatchdog.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUlYbGRkQ0hzR2J4b2RhaE9pdWJRbWNqY2xtNXktaWlQRHRjZmU4UmU0YjF2dmN2dmEyQmNxdE9xMmxwbEY3bXlfdmljQzIyQWNDdEdqV2d5UnJXNkI1aklYS2U1NVVIMmVJVFFkME9TaWJmYkRhSGZWejEwTE1KajJR?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "SKF eyes role in humanoid robotics business",
-   "blurb": "",
-   "src": "Post Journal",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpNUmtyTXprSjZsRXBzMkREVW1HVzJLeGpuN01HTDU4Q1NDTEtYU2F1YXIxR2RkU1pHSkgxRTVQVkxrdG5SWldsZDRRcGxuMTdvR2pmaW1jeHJGY0N3ZDhiNHd5RS1rMDJEbDhjYWdTVG5EcGhsRk9nbGwxRjR3TFVMb3VpVmFwSXBSM3RpSjZhQWQ3MmQzX2d0ZVZOOU0?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "SpaceXAI's newest AI model Grok 4.5 dramatically undercuts Anthropic and OpenAI on price",
-   "blurb": "",
-   "src": "SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2VPaERBUFVOU2Nmb2tBemRDUlJLU0lsbDFnU05xWkxuaFpBSXRZQ0dOa0JuNUY2VGRkM2hENnptM3V3WDB3UDgxQ3RuVzBmV2N5NHF2LXY2aVllTmFHZHptcU93Wm9PYjhaTk9wYmdETXJFLXVFazViN0JYcmRuaE5QaVB1U3FmbWdtZlpFa08yd0tvODJDR3gydjV0VXMtaVZrNmcxc3Y0MjF6R2F1R2xjQlZLMzZS?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Surgeons use teleoperated humanoid robots to perform live surgery—a world first",
-   "blurb": "",
-   "src": "Medical Xpress",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTC1XSVpDTTJ1TmRNbFRVM1g2TVJnRGFNbkZCZ0ozOHhuMTlLN0ZtYXRNUU1BQmZzVHc2cHh1bnh4YVNMR0N2SHh3eklrby1wQmdJb3ozaXJXdzV2bV9YV2s3dFdXeG9FaTVMUE9Hb3NEYkpsYTlEdGtlWDlKX0pLam5nemQ2WGZBZWU1WlFITjNtN2s?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Major AI offerings at a glance",
-   "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUDd1T0cwX3NLN0R2M1RxdWxhY1E0S2NYQWZYV183MEoyaWp5WUpWVFEtMzZIVmRNVU4tX1Y3LU1Ud0J1MDhTaXJ2NFJEZXY2TTQ4WVlMaHlsZkg3VHpZdklnRk1DUkpRbEV4OG9uenlBb0l1UHNhbzFR?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T | NVIDIA Technical Blog",
-   "blurb": "",
-   "src": "NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXBXQkJONDRQeXBKMHFHeWk0X3otWXh1Wlp3LWRmcXVaaF9qMHFEZURjd3daZm1ETVQxRWFRMXVpc1FDVERMQ1R1TC1RRmJTdDhwUWVWVzRNeWt4aE9DLW4tZXdlVjdKSDBBUUFWbk9GZGIxUWt0ZGI0elo3N2tsaDR2ajV5c1drc2RoSEJXWFlpX21hYk51QklKSXE2ZDJvWkV3?oc=5"
+   "src": "UC San Diego Today",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXMtRnNmOE1XRjJLRTF2eEpwOGpYT0VhdUozZFBqR1IzR3YzM3l1M3FDS3lCRExwSmxsV2U4WTlHenM5bXVUd1p2YnB6WXlCZnJRazBOQnh1R0g2a3ByV2xwR1pCYjlyd2Z5eHpWSzkwa1FNS1pPdGlUcUJ1eGFTOHpQR29XQW82VXl4WWFtUDVVNVRCaFFral8zQkQyMmdkaV9qNTZ6TlFFeC1o?oc=5"
   },
   {
    "cat": "ai",
@@ -80,10 +38,52 @@
   },
   {
    "cat": "robo",
-   "title": "Sheriff Unveils Humanoid Robot for Hostage Negotiation Purposes, Which Definitely Won't End in Disaster",
+   "title": "Humanoid Robots Can’t Handle Human Touch: New Benchmark Exposes VLA Safety Gap",
    "blurb": "",
-   "src": "Futurism",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0I5bmppWnhMSXh4Y1ZHMHZ3MmtkQVRoY2lGNldlVERDOHpvekJtc3RsQXdsNUR4bnlnckZEMWYxQ1dVRFJpRzd5RDBuUDhKdGI0angyRjFtX0dENGx1R2NMbjVYMThxMzBkb3BYT2Q1WXVYdmEtWFFqTzhWT3Y2WE0yT1AyUUhqTDkzZENfSHY3QQ?oc=5"
+   "src": "techtimes.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWDBlT2xBUk1lOThNZjcxamM4WWNZRVBhekVQYTlEVnJKUFNMX1BFSDl2UHlTV2x3RnBnNmtLUGNzcS1IeWQ0dGd3UUFvOGFXNUhFNjVhdC1PSU04WlIwNkdlaHp3QnRrNTBHTWd5Nm90djdLYUMyUVpPNTdCUi1EejVxTFNLZV81TzFyWV9UeHdxX1RGd0djTXQ1eVJkZmNweDUwejlGSUFkaXg3bDRHZDkwR01ualA5aE1WZV9VRFJQY1R1a2xpd1NTVQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "SpaceX Debuts Expanded Version of Grok AI Model",
+   "blurb": "",
+   "src": "PYMNTS.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjJVWmpDLXRJZXp4TlBzVDJ1VnNZRGRJeG1LLVJSc1lmM2xQNXNUVHl0Q05UM2E4YVdpMjFJcVFPYi1ad3YwR3gtYkxpUGhTOTQ0dm5ZYWhpY210VmN5T01qNzBIaFQ2Z1FoYXZ6TVdzbzFXQlVBYzJLWmRtQzEtSlJ5RS1salN1Sl9FNi11NWN0UDlqS3NMY0QtMERqcTNa?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "SKF eyes role in humanoid robotics business",
+   "blurb": "",
+   "src": "Post Journal",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpNUmtyTXprSjZsRXBzMkREVW1HVzJLeGpuN01HTDU4Q1NDTEtYU2F1YXIxR2RkU1pHSkgxRTVQVkxrdG5SWldsZDRRcGxuMTdvR2pmaW1jeHJGY0N3ZDhiNHd5RS1rMDJEbDhjYWdTVG5EcGhsRk9nbGwxRjR3TFVMb3VpVmFwSXBSM3RpSjZhQWQ3MmQzX2d0ZVZOOU0?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "OpenAI’s advanced GPT-5.6 models to be publicly released",
+   "blurb": "",
+   "src": "Nextgov/FCW",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzRybjYyeUFLV2dRWXR6US15NzVDOFBpYUlFV1N4Wl9KeW9kcFRPRWRYSXZoalBac1FKSkZCYWRiMmU5VEFQMlkwRGZWLVJnanRfU1lLSnBKczhud1I5aWsyNzRrbExPaGZRQzBSRnB2QkJlWHhxZE1VRkRscmFOcXA5bHJtbjJTaXE3Wmt2ZnFMY3hNWXVTMTAwSnc5d3l2eDhvdEtSRkdyQU52MU1Jb21JMjA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Private gift brings two Ami humanoid robots to UCCS, expanding access to robotics and physical AI",
+   "blurb": "",
+   "src": "University of Colorado Colorado Springs",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVV1VDFFbnVldERNOHk1dHdadVdycnJqTVdkYzdjTTFNWmpGUjl0dEE0cVlvaGl6cHA1Z2RLSWpMZ1lFOHJWdlBxYjBYanFXaUNROXUtY3lpOUVxU2YtWTl2YUVHSVZ2RlRCSTlxQ29GeDZvemc2TVNXTEtiQmxfb05OdzQxTU80R3NaSThKLU5VOVJILXRHNlM3czVjR2hZdXhCb3pxMy1wbGhHYlQ4SkE3enFaUnZOQmtfRUl4ZDdCcEY0Y2J4VEln?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Illinois AI Safety Measures Act SB 315: What Frontier AI Developers Must Do Before January 2028",
+   "blurb": "",
+   "src": "Crowell & Moring LLP",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaGx5dG5kQ2ZoZkhBZHlRRHBhVGM2X2xGRDhRWFE2VU1yVXhyWTlhT1FWUmZYeEhaQmxLZjFFOEJxQzFLZmU5SDRGZlMtR2FsQmZ5ajVGZzBsSnZiTmR5dmJNMUlyUjdWSGlrQVJpazdKM2JuX0JzOVE3RlI4bDZZRENTbVpNTTNKaWZQVnhta3h3V2Judld1WHlGVzUyYTBzMW5uaVR6Z2E0eXN5QmxfNUN5YjNMdEtYV1NDc0xOX3F3dWs?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "World’s first surgery using teleoperated humanoid robots conducted by US team",
+   "blurb": "",
+   "src": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRlg0TzRpb3dmRFlhZnpxLVVXU1pOZTZfLWhGNkUxTHp2Mm55TW1WT3ZhejJ2bHZyeE04M0NvbjZCVFBaX3hmZlZjd1d6NFU4LVAyVTJPZVVsTGlxeFZxR2dKYUZyam9UU0xhQzNLOFc3THBGeFE4aEJGN1lNbEFBLWF1NzJOY05ieHBUMi00ZGl1bUR0TmE2QjZFbjljUGs?oc=5"
   }
  ]
 }
