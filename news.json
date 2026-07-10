@@ -1,12 +1,68 @@
 {
- "updated": "2026-07-10T16:58:07.764Z",
+ "updated": "2026-07-10T22:06:29.631Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "AI Without Representation Is Just Inequity at Scale: On the Exportation of Unrepresentative Artificial Intelligence Models to the Global South",
+   "blurb": "",
+   "src": "Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUgwZTNsbGl6cjlwdW5Sa09qd0ktNzJFZWxvejloMExNY0FqXzNRc1l4SEw0ZjNSMERvcVZCdlEwNERnMlNHeEc4OExuQTI5dHBiMlJlM2drM2QyZ2FrNE1GanQ4WlZGRzdtWEVGbWpTREphbHdMd3luRWNpQk41S2dqTG9mMGpQdENkYUVWaHotMDVCYmRITTlCUzY1MGxpSWc?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid robot 'Surgie' makes history, perform 2 gall blader surgeries on pigs in world's first live animal surgeries",
+   "blurb": "",
+   "src": "ABC7 Los Angeles",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkNpTnVfdXRjZk9HclYxV3BGekYtSS0xcXFPRU1BUXJmZDhLLUE2Z1lPbExnYnNMb285RTFzVVhzdzVoNkF2YzRuWldVN1VPUG5WVWNreVBsLXFrek0yaGlBbUcwSkU0YUxBeXNQOTk4RHdTdjgwZm1pRmp2ZDhpbWVNVEl2czdlUGxHNTFvYTJlV2pzYVlSWFBOVXFJLTV4Y0lGeTZkeU42RzlOMWQ4WW9XVGljQmFhNEZTXzRSX3BUaU5mbmJfSNIBzgFBVV95cUxOZHE5X0hUTXRpV0FCd0pvQUlYbG9NZllWajRkWHlZQ1NWdWRBWmxQMWhaM011NTFPTUFqMGNVY0RXV3pLajk5RzJrQnZkMDRzZUo0M19CZEF5NUNSWHdfTHNLOTZYS1hGZG1fTHhhTWhGUVlLRmJ5b3VDZFRNOHdueTVHWE90X0ZmYjRDOFA0RmluNDZ5VkVtTU52THlZcDdHWjBzVVJ1cVdvRE9rcVJWY2QzQlo2UGpKRFRzMG15aTZJMElQTTRMaXNMU1ZRZw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Open-source AI model developer MiniMax raises $2B in funding",
+   "blurb": "",
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXF4RlRMZXdqMEJBTUNiSTNHcGdueDczVk5lS0FMQ2oxZUx5a3l0dG52R1dmN18wRW5LSFlwQ0c3SHlVTDdVa1VqeVFCVEJCVmxkSHQ4VUdyN0d3NUs5TXRJMHYtYVJLUUFQMzVLcFNHRk1lUmNxLWRyVXlISW1VTWNYaHpRWnNNMDNkd0d5MXRpR3VTOGRwUQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid Robots Just Performed Live Surgery For The First Time Ever",
+   "blurb": "",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0N3SWJTZ1BqbzlibXVsR2RIOHAwa1F5bmJISkhqR2NzcTIzT2t2S2FmSkxJQjJTdm9JWVIwaWM3d05ieGpFYUxBbzdQMWlQVnFjNnBkbk12M2hhMlA4OFlUZ0I4UWVfMXk0bXIydGM4V1YwT1Zzb2FxNksxYjZYMlFkOVZZUjFjSmtpRWlKd3lDeThlRWFrVjFQaXFHZjBXVVl6MmVaUmFtV0o5QWthVXhxeExHNG8tUlp0ZTN3?oc=5"
+  },
   {
    "cat": "ai",
    "title": "As national drought deepens, a new AI model helps balance water demands",
    "blurb": "",
    "src": "Phys.org",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZG9VNHdtb2RiMzRDX3NkU0VJdkVySDdQNHBvcDZNSkJ3c2FxUFJUVFhZWGJFdjdBaTgzWG94UTk4dzJwLTFvcEJkUEdzVDY5bXRYcjBCcmlmb1hJUzFEV3BnTGxKU1VhLUhZNFBpX1hQMGk0cDBzdlpR?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "In vivo feasibility study of humanoid robots in surgery",
+   "blurb": "",
+   "src": "Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dzVYenhDWFFFLUNHOHdybk1VdnlBN3FqaTBqZGhsWU5hQTVEei00S2xadG5UVlZxMnpKZl9haTNMY1FLSnM0amNvLW1oUVFSWVhEVHNueFFYRzBzWG1N?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "The Fundamentals of AI: Making AI practical",
+   "blurb": "",
+   "src": "Cisco Blogs",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11MHNOem5MSDh3OXNOOXpSdnp2OGwzMXZxbW43QUp1bmpnSWwwcnFGZ0RjMlNSMzh2Ujk0Nmo0S1NTdnRxdlhSNHdMNEFxSW1vRVRvY3RmQS1vRGl1ckItRnR3Z044ZGZ2Sm1tUXRFbFhxRXhUQThuOA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "The first commercial human-like robot is here. Are replicants next?",
+   "blurb": "",
+   "src": "Fast Company",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnVyTHJ3V0hrX1QtOWhsNVdBTmc2ZnhBYlBfNzJlcXN0cGFELVNQbDdrUnhsQmpFeWVBOEFVamdSVEt0VVR3dWs4bnlGQmpiOUxmXzFQQkp2MXVZMEctZFl2eDZMWGxJb2RtblhPMkJubWxNWWNLTmNGTExyY215eE5hVQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
+   "blurb": "",
+   "src": "Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDU5X0ZfZHYtcFozaHVjR1dsdnEtel9ndjR2NVB3ZzJCZkJVVWUtNkRsSXNsQUFBVWpfLWwxSTZXZm95MkdNcW9Rd2FCa0lMWmZTZUlSVFRCYXFUdEJOUll2Rl9Fb2JBeGdmSy1XMndUNncyRThLaVVKQUtKY3A0WTAyVDJrZ1pOSy1wREFacEh2TWFSbmVWdnZIWW94bUFIaHZldWFlbjRCQ2drWkNLSDBGZm13TWJTajZ5QmJReWs3eDZuZG10b3JXVmxxaFNBM2FR?oc=5"
   },
   {
    "cat": "robo",
@@ -24,66 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "In vivo feasibility study of humanoid robots in surgery",
+   "title": "AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots",
    "blurb": "",
-   "src": "Nature",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dzVYenhDWFFFLUNHOHdybk1VdnlBN3FqaTBqZGhsWU5hQTVEei00S2xadG5UVlZxMnpKZl9haTNMY1FLSnM0amNvLW1oUVFSWVhEVHNueFFYRzBzWG1N?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "US scientists use Chinese humanoid robot to carry out keyhole surgery",
-   "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOREZWMlBsVmZsdnRWbnU1OTlFWkp2TkVXcWkzTVVzUHVIOTBCXzNTMHlPRWZ4THgxa1R3YVQyUkxVM01CeUJsUjB0bGk4TUhlc2RpRFFyZzZtRTlNN1RYMi16VEVpVTduSngzUmZ0a1BDNnJfQ0tNeEI3dmFFa0ZVRVpnMEdxWVUyLXZDU195VXdZUGR3U0tBNzRVVGc0WTZueUl3YmVsa1ZZX0trVFRGQUxqM2JzVjhVSl8wVkowNjZFdE4zd1Z0OG1OaXdYZ0d6U194c0Fsb9IB1wFBVV95cUxPYjFIbTZ6X2o3bjFibVFkOG90cmFFUlhITUI1TXdaQWlLNFZMY1ZwWUJnYjlrWWJUNkJramtUcVpBSkNIbTVrNkw3N2ZsWGFWOFgwYk55N25jWm9sVFQ3YXZ2RGE4T3NucU00MF9nYlZVbVVSUnktMUstZnV4RTBsck5xc1Y0QWNUZE4ydDRvd2p1ZjJJdmdPZzlCYXRKS1V5RlBnaVNTdUtZYzAwNFNjTlEza0dkNHhUUEtPbERpZVFXVnNvTG1ZaXBOSHNFNFNfQ2lTN3BVNA?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI and Google Provided AI Services to Pentagon-Listed Chinese Groups via Singapore Units",
-   "blurb": "",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlRSOURsZmluSllkYVlXdEJRVjNCV3RuX2hITFRDZThaUUp0TjVRdE1xbTk3b2thM0IwX2VYaXpnMGxLZjM2TkU2VVZCWUZ2eVB1eUVieGI5TDU1NGxXM3VWT0VKSmJoYkNXLTlEZVNsWkFBY1dIWGZteHZGUm1tSDczTGNPWW15NGJ3ejRxTWd3bjNXRXgwQkNETFQwSjA?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Chinese Humanoid Robots Enter European New Energy Vehicle Manufacturing Facilities",
-   "blurb": "",
-   "src": "Gasgoo",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd0ZJaC1Zb1oyTUtFdmRyUEFhX1ZuMnVKckZoZ0JNZVZta29CTF9XTW5mYVF1YjVBMmpxQ1FhaS1ZbXBCUWZ2TDVNZ2d6ZGtJM3dOamxIbVI4bVplWUN4ekN4YzM0YnA2am1HRFBqTVJPUjhBWVk5Ulh4dE84TkgwTTBiUTBQQm53QTJ5MkdQR0hRN1BMa2FZNDNsLVR0RHFhV3Y2cXhVOENlTXhOUEtaU1U2Y1pEWjRST1kycFRRT3YxdTJjOTNCNVBUQkZMTVpqMndyejk5TUdBUQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI Launches GPT-5.6 AI Model Family",
-   "blurb": "",
-   "src": "teleSUR English",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtVE1sNEY1VmdHRFlONkN4aS1UY0VLb3BsTFZ3M3NsSlZxQjNBOWR1NlphVmtzWUVPNjEzeWNUNWM4a3dCTkhKd3pFWGF4eWNKczhKeVozZ0V3aWtESzNIM0RNUElya3h2bTBzeFAxc0xKaWQ1ZWhzaHVFdw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "The first commercial human-like robot is here. Are replicants next?",
-   "blurb": "",
-   "src": "Fast Company",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnVyTHJ3V0hrX1QtOWhsNVdBTmc2ZnhBYlBfNzJlcXN0cGFELVNQbDdrUnhsQmpFeWVBOEFVamdSVEt0VVR3dWs4bnlGQmpiOUxmXzFQQkp2MXVZMEctZFl2eDZMWGxJb2RtblhPMkJubWxNWWNLTmNGTExyY215eE5hVQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI model mania and the new chip gold rush",
-   "blurb": "",
-   "src": "SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRQTh0cWNJUW5lZTNOZ1lVeTRjVkdCMXpWTDlYQUFWMDFIRlhnTkNPejB1NTI1ZTA5TUJjNnYyZk0zNjY2SjJaZ2FQZ0tsN29YLW1pNlZWMEJFZFJsQkdfS0hNbjZhQUo0aTFwRk9QUTFPRWNZWVVRLWxR?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First",
-   "blurb": "",
-   "src": "UC San Diego Today",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXMtRnNmOE1XRjJLRTF2eEpwOGpYT0VhdUozZFBqR1IzR3YzM3l1M3FDS3lCRExwSmxsV2U4WTlHenM5bXVUd1p2YnB6WXlCZnJRazBOQnh1R0g2a3ByV2xwR1pCYjlyd2Z5eHpWSzkwa1FNS1pPdGlUcUJ1eGFTOHpQR29XQW82VXl4WWFtUDVVNVRCaFFral8zQkQyMmdkaV9qNTZ6TlFFeC1o?oc=5"
+   "src": "The Robot Report",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjc3SWRYZktwenJUQUpUYklZSjRBSEt6WDBkX2U4clpRVEFiMWtyQ0xwM2ktRGhUYkpFNjRVNnhHZGhnMlZMdDJfWm5sQjRKWlZNLUZxckJIV1lsT09qMlE1cWVhZTYxeGZldUkzdjBSWmp4R2twbG5sRkt1YkdmdjNndk9TbU8yUnJraWdCRUJTZ3ZTaWRGQk5XYWkyaW8?oc=5"
   }
  ]
 }
