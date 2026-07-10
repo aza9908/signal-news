@@ -1,12 +1,26 @@
 {
- "updated": "2026-07-10T11:54:30.508Z",
+ "updated": "2026-07-10T16:58:07.764Z",
  "items": [
   {
    "cat": "ai",
-   "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
+   "title": "As national drought deepens, a new AI model helps balance water demands",
    "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw?oc=5"
+   "src": "Phys.org",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZG9VNHdtb2RiMzRDX3NkU0VJdkVySDdQNHBvcDZNSkJ3c2FxUFJUVFhZWGJFdjdBaTgzWG94UTk4dzJwLTFvcEJkUEdzVDY5bXRYcjBCcmlmb1hJUzFEV3BnTGxKU1VhLUhZNFBpX1hQMGk0cDBzdlpR?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Teleoperated humanoid robots complete first-ever live surgery",
+   "blurb": "",
+   "src": "New Atlas",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUJKTGYyZDgzczdwLUNUSzlLUU5IanJsWnY4a0Q4b2RYaVk2SG05NnR5ZS1aMThpam1XcHE4NVRvXzBidTQyX3ZtZXFUR1pnbGNsMUVBcnE3bEtrSTA5RHFFZ0Zrd0d1LVRpbjlsd1JWSWlaX1VfOUNZRnVzTDVnNGlDeUk?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Trump AI Restrictions Spur Shift Toward Open-Source Models",
+   "blurb": "",
+   "src": "PYMNTS.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQndqUnhCay1IbkNUR1NiQ1BpX1U3TjgzRjV5Mm5NZXdyRGE4Y1VBdWpBTUdDSzI4cGxkZVZqRjl2M1dYT0Jjb3ZCay1VMnZ5VldIOEZZU0RCMl9oU3Q4dVhFblpqZ05KejFSVFhQNEM5MHoxRzdwLUdHUHQ0Zmo4b1N5TllNZkozTVlCSjBaVGdRV2ZvcnJQYWQxdHpROG5QMDB3NGE5WnNiM1p5N0dDbW1zaFBvMHc?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +31,38 @@
   },
   {
    "cat": "ai",
-   "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+   "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
    "blurb": "",
-   "src": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5"
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "US scientists use Chinese humanoid robot to carry out keyhole surgery",
+   "blurb": "",
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOREZWMlBsVmZsdnRWbnU1OTlFWkp2TkVXcWkzTVVzUHVIOTBCXzNTMHlPRWZ4THgxa1R3YVQyUkxVM01CeUJsUjB0bGk4TUhlc2RpRFFyZzZtRTlNN1RYMi16VEVpVTduSngzUmZ0a1BDNnJfQ0tNeEI3dmFFa0ZVRVpnMEdxWVUyLXZDU195VXdZUGR3U0tBNzRVVGc0WTZueUl3YmVsa1ZZX0trVFRGQUxqM2JzVjhVSl8wVkowNjZFdE4zd1Z0OG1OaXdYZ0d6U194c0Fsb9IB1wFBVV95cUxPYjFIbTZ6X2o3bjFibVFkOG90cmFFUlhITUI1TXdaQWlLNFZMY1ZwWUJnYjlrWWJUNkJramtUcVpBSkNIbTVrNkw3N2ZsWGFWOFgwYk55N25jWm9sVFQ3YXZ2RGE4T3NucU00MF9nYlZVbVVSUnktMUstZnV4RTBsck5xc1Y0QWNUZE4ydDRvd2p1ZjJJdmdPZzlCYXRKS1V5RlBnaVNTdUtZYzAwNFNjTlEza0dkNHhUUEtPbERpZVFXVnNvTG1ZaXBOSHNFNFNfQ2lTN3BVNA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "OpenAI and Google Provided AI Services to Pentagon-Listed Chinese Groups via Singapore Units",
+   "blurb": "",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlRSOURsZmluSllkYVlXdEJRVjNCV3RuX2hITFRDZThaUUp0TjVRdE1xbTk3b2thM0IwX2VYaXpnMGxLZjM2TkU2VVZCWUZ2eVB1eUVieGI5TDU1NGxXM3VWT0VKSmJoYkNXLTlEZVNsWkFBY1dIWGZteHZGUm1tSDczTGNPWW15NGJ3ejRxTWd3bjNXRXgwQkNETFQwSjA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Chinese Humanoid Robots Enter European New Energy Vehicle Manufacturing Facilities",
+   "blurb": "",
+   "src": "Gasgoo",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd0ZJaC1Zb1oyTUtFdmRyUEFhX1ZuMnVKckZoZ0JNZVZta29CTF9XTW5mYVF1YjVBMmpxQ1FhaS1ZbXBCUWZ2TDVNZ2d6ZGtJM3dOamxIbVI4bVplWUN4ekN4YzM0YnA2am1HRFBqTVJPUjhBWVk5Ulh4dE84TkgwTTBiUTBQQm53QTJ5MkdQR0hRN1BMa2FZNDNsLVR0RHFhV3Y2cXhVOENlTXhOUEtaU1U2Y1pEWjRST1kycFRRT3YxdTJjOTNCNVBUQkZMTVpqMndyejk5TUdBUQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "OpenAI Launches GPT-5.6 AI Model Family",
+   "blurb": "",
+   "src": "teleSUR English",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtVE1sNEY1VmdHRFlONkN4aS1UY0VLb3BsTFZ3M3NsSlZxQjNBOWR1NlphVmtzWUVPNjEzeWNUNWM4a3dCTkhKd3pFWGF4eWNKczhKeVozZ0V3aWtESzNIM0RNUElya3h2bTBzeFAxc0xKaWQ1ZWhzaHVFdw?oc=5"
   },
   {
    "cat": "robo",
@@ -31,38 +73,10 @@
   },
   {
    "cat": "ai",
-   "title": "Safety and innovation are complementary for the future of agentic AI",
+   "title": "AI model mania and the new chip gold rush",
    "blurb": "",
-   "src": "the University of South Florida",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM0ducjRBUHJ5UVByWk51cHNURTRPemhpS2lIXzllRTA5a1ByMld1d3VqVm5TOVpON0c2OFVTVzZsakVtQzFRNzU1Y1htYmJYQWF6bmhyZUdaU1pWdXJOUmxzM0Z5QmoyVG1TSk02VF8zUjkwMUtld1ZVX2s2cmdPZVlNVmhWWnhQNHVSSG5zLXppYVdqR21KckdMY1p5X0NzYmdiWGtjQ2dKUHptRFBYamQxMDhkT2o4Y2Z2Y1dnUlRrcGRFcEp2QkdR?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
-   "blurb": "",
-   "src": "Ars Technica",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa3Ztd09ub0w3X1Jvck1VaFV1WVFZdXRvOUtWQ2lFRVhNeVpIUW5DdWNIYVRzSFJUcnNWQS12T2lUOXJfOTVKSm5kUHNnYnpPUWF5U0hRT19nR2MyMm1xRVdUYm9idVlaZklISjNYWTY4SGNINmR6bHUybnBtdlRSWHBvY2g3bXF4YWF2b3gtQ3M1UHZoRmU2N3BHWVUyZF9zRXJmVHh2NlR0V1VkRWstSGZHNA?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Introducing Muse Spark 1.1",
-   "blurb": "",
-   "src": "AI at Meta",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Human-Level Hands? 1X Just Gave Humanoid Robot Neo Something Close",
-   "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDhHbzRZbl8zVkdnZVFFdk54LWxVVHdDaXVuVVpRR1FCVmFQeEpCM3VQa0lyLWVsdWY1clhwNkdSUVBaUkFzOE53RDM1TmJHd2NJZ3VkUHZMNkozelJXb0VMemZIYW5LUWRodnNJMzdFS2RlWjV3cG1FVlBJdWpRVUVPUTU1dmRPbjJwSUVJMU1lYnRCanlRYlIxbmJTeFY5NzE4c1pWODh6UTVlWFBHRklzQmNOMjhVNGQ0?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC",
-   "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RZGh3eUJMQUR5NV9OVTRiaHAwX0ZKbTl5SGF5TUpDY0M5R1lQdVlvcGNZYTVSTkVHSUJYbUZUbWRGSWdWemZDd05NTWdkWUNZaWxqQ0I1N2M3NmZrdzhaOW5BLU5SVFllOFNVY0FiMlgtVzd1eVcxRmlCa9IBgAFBVV95cUxNTjRaZUUtZEd1UUFqR1NJOFVtLUc3OV9JMHhaaUYwSmZsUTNOS1E5bUFlYXR5R1RNVUVXOUtDdU53UVlDT0hnWktWeXUtdUdnTWtOLV9ZNHlBZ0VEMzRZRHh6UWFzUXFfVVFES1dVLTVZdm9hMlBBWDF3MDg3cHZidg?oc=5"
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRQTh0cWNJUW5lZTNOZ1lVeTRjVkdCMXpWTDlYQUFWMDFIRlhnTkNPejB1NTI1ZTA5TUJjNnYyZk0zNjY2SjJaZ2FQZ0tsN29YLW1pNlZWMEJFZFJsQkdfS0hNbjZhQUo0aTFwRk9QUTFPRWNZWVVRLWxR?oc=5"
   },
   {
    "cat": "robo",
@@ -70,20 +84,6 @@
    "blurb": "",
    "src": "UC San Diego Today",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXMtRnNmOE1XRjJLRTF2eEpwOGpYT0VhdUozZFBqR1IzR3YzM3l1M3FDS3lCRExwSmxsV2U4WTlHenM5bXVUd1p2YnB6WXlCZnJRazBOQnh1R0g2a3ByV2xwR1pCYjlyd2Z5eHpWSzkwa1FNS1pPdGlUcUJ1eGFTOHpQR29XQW82VXl4WWFtUDVVNVRCaFFral8zQkQyMmdkaV9qNTZ6TlFFeC1o?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "As national drought deepens, a new AI model helps balance water demands",
-   "blurb": "",
-   "src": "Virginia Tech News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGt3bmU4ODZQaEktSWJHWjZuUGZlLTZZOTBkUTJQZXczeDRUUTZEbklQQ3ppWnFsLWx4TGNUTndjeTNwYW8weUlrZVd5cmxnTzNPYkMtdFluR2Y3OVVWT2ttZDNUT08zcmt5MUFVbzd1aW1KM05yZm1NZnNKcXFLVE9PMTFPZ3I4Yk9mNkNpVml2LXVmejVZ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid Robots Enter the Operating Room",
-   "blurb": "",
-   "src": "Tech Briefs",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUUIyMGF6ZW5iSGs4OHRIbkpmcXljeDR4a3U3N1IzWk8ySUIxRm1JdXg0RU1oYVM4RExrN0dKMXVKR1ozVEZNeU55ZUV5S3c5RUhMX2JycDRZcC1xaWNrdllKYWVzRVV0SkRva3VfNndvSENUNlhRMkdiQVQzWjNXY0NhRTFpc214aFVIWDRsbl9VdUlTa1l4MXUzclpRTFlJ?oc=5"
   }
  ]
 }
