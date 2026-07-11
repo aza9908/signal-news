@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-11T05:43:13.836Z",
+ "updated": "2026-07-11T10:17:04.460Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Open-source AI model developer MiniMax raises $2B in funding",
+   "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
    "blurb": "",
-   "src": "SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXF4RlRMZXdqMEJBTUNiSTNHcGdueDczVk5lS0FMQ2oxZUx5a3l0dG52R1dmN18wRW5LSFlwQ0c3SHlVTDdVa1VqeVFCVEJCVmxkSHQ4VUdyN0d3NUs5TXRJMHYtYVJLUUFQMzVLcFNHRk1lUmNxLWRyVXlISW1VTWNYaHpRWnNNMDNkd0d5MXRpR3VTOGRwUQ?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEd6MnJkM2NnQTlUR0NKVktVM2g2R2pMQlhVOU1oQ0tGYndiU041T0FFbFRpc0N2bDZtRlpRN3F5LTlQeWcxTS1zaWh4OE9ESHJqcUhueWpkVEJ1QTZnem5qN2s0eFBmMzlBd3VjaWpIaFJhUHBCTktCdEFkYUs4STJLQ1VFbk9lNk9rY3BiX25YdEdHQlNHT1F6Z2s5cnl2U1dzT2c0THRGZ9IBrwFBVV95cUxPTER5RC1TTzcwT2ZhWUlMV0JUUEQxeWJlZzBuakZzMDJuTGhQczBxWjBqQVhZemZlbkswMmZwUVF0YUY5WGFSQWxqQTMxVUZ3Sy0xNnkzMVpnVmNFMHVGb3BvWmo1NmlHQ21MZk9JaGNzWHlkckhCSEZFbnFUTVJ1REVYN1dPVlVsS2hXQjF6c0ZBUWFiZHVzZHUxMXdpQnY5ZkVVN2ZOQWVBdW9NYmM4?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +17,10 @@
   },
   {
    "cat": "ai",
-   "title": "AI Without Representation Is Just Inequity at Scale: On the Exportation of Unrepresentative Artificial Intelligence Models to the Global South",
+   "title": "Open-source AI model developer MiniMax raises $2B in funding",
    "blurb": "",
-   "src": "Frontiers",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUgwZTNsbGl6cjlwdW5Sa09qd0ktNzJFZWxvejloMExNY0FqXzNRc1l4SEw0ZjNSMERvcVZCdlEwNERnMlNHeEc4OExuQTI5dHBiMlJlM2drM2QyZ2FrNE1GanQ4WlZGRzdtWEVGbWpTREphbHdMd3luRWNpQk41S2dqTG9mMGpQdENkYUVWaHotMDVCYmRITTlCUzY1MGxpSWc?oc=5"
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXF4RlRMZXdqMEJBTUNiSTNHcGdueDczVk5lS0FMQ2oxZUx5a3l0dG52R1dmN18wRW5LSFlwQ0c3SHlVTDdVa1VqeVFCVEJCVmxkSHQ4VUdyN0d3NUs5TXRJMHYtYVJLUUFQMzVLcFNHRk1lUmNxLWRyVXlISW1VTWNYaHpRWnNNMDNkd0d5MXRpR3VTOGRwUQ?oc=5"
   },
   {
    "cat": "robo",
@@ -31,10 +31,24 @@
   },
   {
    "cat": "ai",
-   "title": "As national drought deepens, a new AI model helps balance water demands",
+   "title": "AI Without Representation Is Just Inequity at Scale: On the Exportation of Unrepresentative Artificial Intelligence Models to the Global South",
    "blurb": "",
-   "src": "Phys.org",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZG9VNHdtb2RiMzRDX3NkU0VJdkVySDdQNHBvcDZNSkJ3c2FxUFJUVFhZWGJFdjdBaTgzWG94UTk4dzJwLTFvcEJkUEdzVDY5bXRYcjBCcmlmb1hJUzFEV3BnTGxKU1VhLUhZNFBpX1hQMGk0cDBzdlpR?oc=5"
+   "src": "Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUgwZTNsbGl6cjlwdW5Sa09qd0ktNzJFZWxvejloMExNY0FqXzNRc1l4SEw0ZjNSMERvcVZCdlEwNERnMlNHeEc4OExuQTI5dHBiMlJlM2drM2QyZ2FrNE1GanQ4WlZGRzdtWEVGbWpTREphbHdMd3luRWNpQk41S2dqTG9mMGpQdENkYUVWaHotMDVCYmRITTlCUzY1MGxpSWc?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "In vivo feasibility study of humanoid robots in surgery",
+   "blurb": "",
+   "src": "Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dzVYenhDWFFFLUNHOHdybk1VdnlBN3FqaTBqZGhsWU5hQTVEei00S2xadG5UVlZxMnpKZl9haTNMY1FLSnM0amNvLW1oUVFSWVhEVHNueFFYRzBzWG1N?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "The Fundamentals of AI: Making AI practical",
+   "blurb": "",
+   "src": "Cisco Blogs",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11MHNOem5MSDh3OXNOOXpSdnp2OGwzMXZxbW43QUp1bmpnSWwwcnFGZ0RjMlNSMzh2Ujk0Nmo0S1NTdnRxdlhSNHdMNEFxSW1vRVRvY3RmQS1vRGl1ckItRnR3Z044ZGZ2Sm1tUXRFbFhxRXhUQThuOA?oc=5"
   },
   {
    "cat": "robo",
@@ -52,38 +66,24 @@
   },
   {
    "cat": "robo",
-   "title": "In vivo feasibility study of humanoid robots in surgery",
-   "blurb": "",
-   "src": "Nature",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dzVYenhDWFFFLUNHOHdybk1VdnlBN3FqaTBqZGhsWU5hQTVEei00S2xadG5UVlZxMnpKZl9haTNMY1FLSnM0amNvLW1oUVFSWVhEVHNueFFYRzBzWG1N?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
-   "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEd6MnJkM2NnQTlUR0NKVktVM2g2R2pMQlhVOU1oQ0tGYndiU041T0FFbFRpc0N2bDZtRlpRN3F5LTlQeWcxTS1zaWh4OE9ESHJqcUhueWpkVEJ1QTZnem5qN2s0eFBmMzlBd3VjaWpIaFJhUHBCTktCdEFkYUs4STJLQ1VFbk9lNk9rY3BiX25YdEdHQlNHT1F6Z2s5cnl2U1dzT2c0THRGZ9IBrwFBVV95cUxPTER5RC1TTzcwT2ZhWUlMV0JUUEQxeWJlZzBuakZzMDJuTGhQczBxWjBqQVhZemZlbkswMmZwUVF0YUY5WGFSQWxqQTMxVUZ3Sy0xNnkzMVpnVmNFMHVGb3BvWmo1NmlHQ21MZk9JaGNzWHlkckhCSEZFbnFUTVJ1REVYN1dPVlVsS2hXQjF6c0ZBUWFiZHVzZHUxMXdpQnY5ZkVVN2ZOQWVBdW9NYmM4?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "The first commercial human-like robot is here. Are replicants next?",
-   "blurb": "",
-   "src": "Fast Company",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnVyTHJ3V0hrX1QtOWhsNVdBTmc2ZnhBYlBfNzJlcXN0cGFELVNQbDdrUnhsQmpFeWVBOEFVamdSVEt0VVR3dWs4bnlGQmpiOUxmXzFQQkp2MXVZMEctZFl2eDZMWGxJb2RtblhPMkJubWxNWWNLTmNGTExyY215eE5hVQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Introducing Muse Spark 1.1",
-   "blurb": "",
-   "src": "AI at Meta",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5"
-  },
-  {
-   "cat": "robo",
    "title": "Humanoid robots pull off first-ever gallbladder surgeries in major step toward human trials",
    "blurb": "",
    "src": "New York Post",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTDJCLS1nTy0tYzZQWUl2VWtBVlJqV2lTaTNzaVU3dk9zaFV1Z3RXTjFreHhra3FFS3ZHRjgyVW5VdmFNQzZDOVBlYTI3MFl1ZkZjVGNMeVpla2F0OVlYWldheG9kWVRTLXdRZk8zNGlYTm1VWXdwb2hFR3hwTjlveExVeGNNakZuTkViNDUyU2hkV1puOU5FWA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "As national drought deepens, a new AI model helps balance water demands",
+   "blurb": "",
+   "src": "Phys.org",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZG9VNHdtb2RiMzRDX3NkU0VJdkVySDdQNHBvcDZNSkJ3c2FxUFJUVFhZWGJFdjdBaTgzWG94UTk4dzJwLTFvcEJkUEdzVDY5bXRYcjBCcmlmb1hJUzFEV3BnTGxKU1VhLUhZNFBpX1hQMGk0cDBzdlpR?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First",
+   "blurb": "",
+   "src": "UC San Diego Today",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXMtRnNmOE1XRjJLRTF2eEpwOGpYT0VhdUozZFBqR1IzR3YzM3l1M3FDS3lCRExwSmxsV2U4WTlHenM5bXVUd1p2YnB6WXlCZnJRazBOQnh1R0g2a3ByV2xwR1pCYjlyd2Z5eHpWSzkwa1FNS1pPdGlUcUJ1eGFTOHpQR29XQW82VXl4WWFtUDVVNVRCaFFral8zQkQyMmdkaV9qNTZ6TlFFeC1o?oc=5"
   }
  ]
 }
