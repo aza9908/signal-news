@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-11T10:17:04.460Z",
+ "updated": "2026-07-11T15:58:22.107Z",
  "items": [
   {
    "cat": "ai",
-   "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
+   "title": "Previewing GPT-5.6 Sol: a next-generation model",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEd6MnJkM2NnQTlUR0NKVktVM2g2R2pMQlhVOU1oQ0tGYndiU041T0FFbFRpc0N2bDZtRlpRN3F5LTlQeWcxTS1zaWh4OE9ESHJqcUhueWpkVEJ1QTZnem5qN2s0eFBmMzlBd3VjaWpIaFJhUHBCTktCdEFkYUs4STJLQ1VFbk9lNk9rY3BiX25YdEdHQlNHT1F6Z2s5cnl2U1dzT2c0THRGZ9IBrwFBVV95cUxPTER5RC1TTzcwT2ZhWUlMV0JUUEQxeWJlZzBuakZzMDJuTGhQczBxWjBqQVhZemZlbkswMmZwUVF0YUY5WGFSQWxqQTMxVUZ3Sy0xNnkzMVpnVmNFMHVGb3BvWmo1NmlHQ21MZk9JaGNzWHlkckhCSEZFbnFUTVJ1REVYN1dPVlVsS2hXQjF6c0ZBUWFiZHVzZHUxMXdpQnY5ZkVVN2ZOQWVBdW9NYmM4?oc=5"
+   "src": "OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5"
   },
   {
    "cat": "robo",
@@ -17,6 +17,20 @@
   },
   {
    "cat": "ai",
+   "title": "Colibrì proof-of-concept gains frontier-level 1.5-TB AI model — novel approach runs on only 25GB of RAM and shows promise for local AI setups",
+   "blurb": "",
+   "src": "Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNbmdla0tsTXRYRm1mVXRDS0FsSTNtZnBRSUNlNUJpcDdfZkdMYUNEMEUzX3JzdXVFMnF2Ull5QXIxTmZKOUdvRURHOE5ib2JHeUVTQ2lQTkMtRFBuUmoySDhLc0R1TG9HYUdMelZZdUNTWVRlbHlqYTU2UkZzOTNONmVPa1ZaWHpIUzU5Z3dZQ09WUWtsLS1BZkZQLUt2Ym5vSFB1VUJTLXI5TzFONWZIZmdKVmlDVFFTUTlDSXB3N0ZnMV8xczZDRWI1MmREZ1h1RkV0Tk1UZFhtNFhsWFpSdjNqanN0MWE0LWZzUnUwaVVOUXJLUUJkU2VTSVpBN1gzaFJDRlZlVlNlY0lQZVVZLTRJTUJpV21ONnA4S3JlWFE2VGh4aE9TWGphTHJGT28?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid robot 'Surgie' makes history, perform 2 gall blader surgeries on pigs in world's first live animal surgeries",
+   "blurb": "",
+   "src": "ABC7 Bay Area",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYzdycmlocmpMZktzaWNPbVVTaVdEMjlINlJCMm9RQjFDazAzWFpqS3BsNWNJNnVxUlJNR01PVWFxZGhtTDk4bDJBT24wSjhQRE5mYWx3b1FKTDFzc2Jvd2g2ZHkyWVJqTGZpZnZMa2NKN0xBaVJacXNzU2tjajFQUmVvaEYybWNNM2tMVFVRYTFhR0ZaWkdsdWFiOFh4NjBaZXpodVJzVk45eEJWTjk1c1VpSmZwemtzb2VONjI0ZWVXOU5Ia2xrWDZ1eGlhQdIB0wFBVV95cUxNSm1VNTB2WWh1R016QnpYYVBYcngydEVXdnkzY1l0VEYwMi15bjktN0ZYZXBPN3FwbUdMZm9EU3VVUGFlS0x6OWRIQzl4ZFFSODJILXVIMXNhRjNJUTZmdjB2ME1xZW9UTGw0SFZzQVZQUWQxOFNCbTcxYzhIN1RKaXlaZkVtRnlOcHh1MDRteEZnMlNKX21rbUZHYXFKLTRYYUlfQlFtSXZGZUFac0ZVT0NVU0tZMHF3S2czSWgxdFAtRnBUZ3ZxUnY0OHB6RkgtbWxF?oc=5"
+  },
+  {
+   "cat": "ai",
    "title": "Open-source AI model developer MiniMax raises $2B in funding",
    "blurb": "",
    "src": "SiliconANGLE",
@@ -24,17 +38,17 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid robot 'Surgie' makes history, perform 2 gall blader surgeries on pigs in world's first live animal surgeries",
+   "title": "Humanoid Robots Perform First Live Surgery: Pentagon Flags the Hardware as Chinese Military Tech",
    "blurb": "",
-   "src": "ABC7 Bay Area",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSm1VNTB2WWh1R016QnpYYVBYcngydEVXdnkzY1l0VEYwMi15bjktN0ZYZXBPN3FwbUdMZm9EU3VVUGFlS0x6OWRIQzl4ZFFSODJILXVIMXNhRjNJUTZmdjB2ME1xZW9UTGw0SFZzQVZQUWQxOFNCbTcxYzhIN1RKaXlaZkVtRnlOcHh1MDRteEZnMlNKX21rbUZHYXFKLTRYYUlfQlFtSXZGZUFac0ZVT0NVU0tZMHF3S2czSWgxdFAtRnBUZ3ZxUnY0OHB6RkgtbWxF0gHTAUFVX3lxTE1KbVU1MHZZaHVHTXpCelhhUFhyeDJ0RVd2eTNjWXRURjAyLXluOS03RlhlcE83cXBtR0xmb0RTdVVQYWVLTHo5ZEhDOXhkUVI4MkgtdUgxc2FGM0lRNmZ2MHYwTXFlb1RMbDRIVnNBVlBRZDE4U0JtNzFjOEg3VEppeVpmRW1GeU5weHUwNG14RmcyU0pfbWttRkdhcUotNFhhSV9CUW1JdkZlQVpzRlVPQ1VTS1kwcXdLZzNJaDF0UC1GcFRndnFSdjQ4cHpGSC1tbEU?oc=5"
+   "src": "Tech Times",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWVdQU1JsSEFCSk5SbXlqT2xnTTNjRENHenkyemxETHhKRGhNWU1LX1NKWVJQYWNzSTA3dDVxQk8zbWhTUkpScTJRRmlmUlVTRndvdkp5cllTMVQ1bnMxRmFfYU9sOTlKMC1Eb0M0TU44UDJvR1Z5WE9QbjRyMEJNTlllamc1bmVCeF90UUlfanJFWG8yaTBMT0M4cDAtb0JqVTlicXhFb016R3p1TGtpMEUtaGZjVTZtUVJTWUplT1E4T3RwQlcyYUJhVF9xV1hfYVVJUm91RzJMYlk?oc=5"
   },
   {
    "cat": "ai",
-   "title": "AI Without Representation Is Just Inequity at Scale: On the Exportation of Unrepresentative Artificial Intelligence Models to the Global South",
+   "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
    "blurb": "",
-   "src": "Frontiers",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUgwZTNsbGl6cjlwdW5Sa09qd0ktNzJFZWxvejloMExNY0FqXzNRc1l4SEw0ZjNSMERvcVZCdlEwNERnMlNHeEc4OExuQTI5dHBiMlJlM2drM2QyZ2FrNE1GanQ4WlZGRzdtWEVGbWpTREphbHdMd3luRWNpQk41S2dqTG9mMGpQdENkYUVWaHotMDVCYmRITTlCUzY1MGxpSWc?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEd6MnJkM2NnQTlUR0NKVktVM2g2R2pMQlhVOU1oQ0tGYndiU041T0FFbFRpc0N2bDZtRlpRN3F5LTlQeWcxTS1zaWh4OE9ESHJqcUhueWpkVEJ1QTZnem5qN2s0eFBmMzlBd3VjaWpIaFJhUHBCTktCdEFkYUs4STJLQ1VFbk9lNk9rY3BiX25YdEdHQlNHT1F6Z2s5cnl2U1dzT2c0THRGZ9IBrwFBVV95cUxPTER5RC1TTzcwT2ZhWUlMV0JUUEQxeWJlZzBuakZzMDJuTGhQczBxWjBqQVhZemZlbkswMmZwUVF0YUY5WGFSQWxqQTMxVUZ3Sy0xNnkzMVpnVmNFMHVGb3BvWmo1NmlHQ21MZk9JaGNzWHlkckhCSEZFbnFUTVJ1REVYN1dPVlVsS2hXQjF6c0ZBUWFiZHVzZHUxMXdpQnY5ZkVVN2ZOQWVBdW9NYmM4?oc=5"
   },
   {
    "cat": "robo",
@@ -45,24 +59,24 @@
   },
   {
    "cat": "ai",
-   "title": "The Fundamentals of AI: Making AI practical",
+   "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
    "blurb": "",
-   "src": "Cisco Blogs",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11MHNOem5MSDh3OXNOOXpSdnp2OGwzMXZxbW43QUp1bmpnSWwwcnFGZ0RjMlNSMzh2Ujk0Nmo0S1NTdnRxdlhSNHdMNEFxSW1vRVRvY3RmQS1vRGl1ckItRnR3Z044ZGZ2Sm1tUXRFbFhxRXhUQThuOA?oc=5"
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw?oc=5"
   },
   {
    "cat": "robo",
-   "title": "AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots",
+   "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
    "blurb": "",
-   "src": "The Robot Report",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjc3SWRYZktwenJUQUpUYklZSjRBSEt6WDBkX2U4clpRVEFiMWtyQ0xwM2ktRGhUYkpFNjRVNnhHZGhnMlZMdDJfWm5sQjRKWlZNLUZxckJIV1lsT09qMlE1cWVhZTYxeGZldUkzdjBSWmp4R2twbG5sRkt1YkdmdjNndk9TbU8yUnJraWdCRUJTZ3ZTaWRGQk5XYWkyaW8?oc=5"
+   "src": "Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa3Ztd09ub0w3X1Jvck1VaFV1WVFZdXRvOUtWQ2lFRVhNeVpIUW5DdWNIYVRzSFJUcnNWQS12T2lUOXJfOTVKSm5kUHNnYnpPUWF5U0hRT19nR2MyMm1xRVdUYm9idVlaZklISjNYWTY4SGNINmR6bHUybnBtdlRSWHBvY2g3bXF4YWF2b3gtQ3M1UHZoRmU2N3BHWVUyZF9zRXJmVHh2NlR0V1VkRWstSGZHNA?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Trump AI Restrictions Spur Shift Toward Open-Source Models",
+   "title": "Introducing Muse Spark 1.1",
    "blurb": "",
-   "src": "PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQndqUnhCay1IbkNUR1NiQ1BpX1U3TjgzRjV5Mm5NZXdyRGE4Y1VBdWpBTUdDSzI4cGxkZVZqRjl2M1dYT0Jjb3ZCay1VMnZ5VldIOEZZU0RCMl9oU3Q4dVhFblpqZ05KejFSVFhQNEM5MHoxRzdwLUdHUHQ0Zmo4b1N5TllNZkozTVlCSjBaVGdRV2ZvcnJQYWQxdHpROG5QMDB3NGE5WnNiM1p5N0dDbW1zaFBvMHc?oc=5"
+   "src": "AI at Meta",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5"
   },
   {
    "cat": "robo",
@@ -70,20 +84,6 @@
    "blurb": "",
    "src": "New York Post",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTDJCLS1nTy0tYzZQWUl2VWtBVlJqV2lTaTNzaVU3dk9zaFV1Z3RXTjFreHhra3FFS3ZHRjgyVW5VdmFNQzZDOVBlYTI3MFl1ZkZjVGNMeVpla2F0OVlYWldheG9kWVRTLXdRZk8zNGlYTm1VWXdwb2hFR3hwTjlveExVeGNNakZuTkViNDUyU2hkV1puOU5FWA?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "As national drought deepens, a new AI model helps balance water demands",
-   "blurb": "",
-   "src": "Phys.org",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZG9VNHdtb2RiMzRDX3NkU0VJdkVySDdQNHBvcDZNSkJ3c2FxUFJUVFhZWGJFdjdBaTgzWG94UTk4dzJwLTFvcEJkUEdzVDY5bXRYcjBCcmlmb1hJUzFEV3BnTGxKU1VhLUhZNFBpX1hQMGk0cDBzdlpR?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First",
-   "blurb": "",
-   "src": "UC San Diego Today",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXMtRnNmOE1XRjJLRTF2eEpwOGpYT0VhdUozZFBqR1IzR3YzM3l1M3FDS3lCRExwSmxsV2U4WTlHenM5bXVUd1p2YnB6WXlCZnJRazBOQnh1R0g2a3ByV2xwR1pCYjlyd2Z5eHpWSzkwa1FNS1pPdGlUcUJ1eGFTOHpQR29XQW82VXl4WWFtUDVVNVRCaFFral8zQkQyMmdkaV9qNTZ6TlFFeC1o?oc=5"
   }
  ]
 }
