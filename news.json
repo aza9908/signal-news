@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T16:01:26.597Z",
+ "updated": "2026-07-12T21:54:29.167Z",
  "items": [
   {
    "cat": "ai",
@@ -10,6 +10,34 @@
   },
   {
    "cat": "robo",
+   "title": "Video Friday: A World Cup for Robots",
+   "blurb": "",
+   "src": "IEEE Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ISGJpcDd6RXlCekVzTktNS2lOLVAyVGJINFpraVJ5UUVJdVNDU2xRLXRyazNaMV9qdmZnMzZlUExJVlFPS0FCa2lrMFhpYlBUNmJleTk1OUM1OE84T0FMUV9uc2E?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Goldman Sachs picks its favorite Chinese AI models",
+   "blurb": "",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWEJud3FkTFk1RHNnY2pWdzJLVkVhdm9Ld0l5cklIMmlMT1BoVzRxRjFhR3MyRzlKdnhJR0lZdWVVcHprYVhUMDlEdWNfQlJ5ajZvRFlGakNlVjI0dlRacERGLVN5WURKRWljbWRQMXhoUE9BRUFoWUo1Wkp3SjMyajkyY3JiaHJTTzctNDZKbHA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Ukraine is first country to fund combat humanoid robots. But its own battlefield says wheels still win",
+   "blurb": "",
+   "src": "Euromaidan Press",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWDhYcnVoRUUwcEp4Y3VyWWhKU1BwTmdHN3EwVl9yZm9hN1pCa0RvajFKT1pBYTAxTzVkLTVURHV0UFd1TmM5aFl1N1paVGw5UHFtX1gxOXpCSl94Tzd2REFpZ3lJT0lPbVBHT0w3X1U5TkNvdnF4bDBadUgwV0NqaEttT3BENUJIVTZfWWxVM1kycTFzWEdrU0hpMUxlLVJ4Y0FBa3VRQmxjNzhnQUFtX1lFVnpJcXNsMnV1VkMyM0N1MFVUcEthQmdNN2k5Q21reTI1cVdpcWM?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Meta (META) Advances in AI Model Development Amid Cost Scrutiny",
+   "blurb": "",
+   "src": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTM5Q3hxYnJ5NVNqdUstR3dYRWFFZ0JOSHZScGgwM3ZwNUx0enNwRUYwY01mZmdrVjRXekxsTUxad1RhVXFtOFZPNUEyY1NmczFKZUR2TlQzMy1Ya1BVS0hCOG9kVVM2dHIybjZ1N0lzVVMxSkoydHRPLTFrY3Jad3A0VG1JQVQ4OGpqNlAzRmU3VHVpTi1PUkR0STk4OHVDR0E?oc=5"
+  },
+  {
+   "cat": "robo",
    "title": "Humanoid Robot Production Surges in 2025, but Commercial Deployments Remain Limited",
    "blurb": "",
    "src": "Supply & Demand Chain Executive",
@@ -17,10 +45,10 @@
   },
   {
    "cat": "ai",
-   "title": "AI Model Bias",
+   "title": "OpenAI Releases New, More Powerful A.I. Model",
    "blurb": "",
-   "src": "The Herald Journal",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenA2UF9hSUgtNjJPMi1pSzVITWlhU1M2SVo4ZGl1UEl0bm11NUlKMjQ1ZnNYT0ZxV0w0dmdjR0lxUWJYQmNRQ1d1RVdSMlBaRkxFc2M4aWNTV0ROTy1JWGVLb3JtdDJHdjVhQ2MwRGdmZTdtWjVzZjBIRXBDUVllVjZtN29Sb20xRkJtcEQ1WllQQXgzelE?oc=5"
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw?oc=5"
   },
   {
    "cat": "robo",
@@ -33,15 +61,15 @@
    "cat": "ai",
    "title": "AI Model Bias",
    "blurb": "",
-   "src": "The Lufkin Daily News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0U0Z2I5MUx3VE1fQUJwckNJLWxGR3VhRGhOc1A4ZVVfRndmNGdKVVRILTMxTEpEdGdLLUJBYzV0Z2p1Q0kyLTQwYmJnNHFaZzExQjZiM3laTVJySmQ1VkVXaE5UcjlhZTBUeHZlWkRsSEhvakRnTFhhYy1MaVBSSG1jcmkyS1BvSGlpZ0hraTRweEsybzd5b3lxOFNPQQ?oc=5"
+   "src": "The Herald Journal",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenA2UF9hSUgtNjJPMi1pSzVITWlhU1M2SVo4ZGl1UEl0bm11NUlKMjQ1ZnNYT0ZxV0w0dmdjR0lxUWJYQmNRQ1d1RVdSMlBaRkxFc2M4aWNTV0ROTy1JWGVLb3JtdDJHdjVhQ2MwRGdmZTdtWjVzZjBIRXBDUVllVjZtN29Sb20xRkJtcEQ1WllQQXgzelE?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Eno humanoid robot engineered to tackle everyday tasks",
+   "title": "The first commercial human-like robot is here. Are replicants next?",
    "blurb": "",
-   "src": "Electronics360",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXNfNEY3WHZhZDJUWnVUSDNhNmM0ZV92TE4tVXRpU3lzcktQRFZxbWVocGNZdFd3SU9kSm5YdW1Dc2lmR1BLSXhlZHdqNF9vQk1Na2IzbmNITVhmaktPQXZhZk93UUNQeUl3bVZqR1Q5U0J3SE1RR0U1MnQ4eDgzbWpvOW11OXZKckl0UVhDLURlZGRTbmdvY190YnNLUXVZZVJBUzZLSVVFZw?oc=5"
+   "src": "Fast Company",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnVyTHJ3V0hrX1QtOWhsNVdBTmc2ZnhBYlBfNzJlcXN0cGFELVNQbDdrUnhsQmpFeWVBOEFVamdSVEt0VVR3dWs4bnlGQmpiOUxmXzFQQkp2MXVZMEctZFl2eDZMWGxJb2RtblhPMkJubWxNWWNLTmNGTExyY215eE5hVQ?oc=5"
   },
   {
    "cat": "ai",
@@ -54,36 +82,8 @@
    "cat": "robo",
    "title": "Humanoid robot 'Surgie' makes history, perform 2 gall blader surgeries on pigs in world's first live animal surgeries",
    "blurb": "",
-   "src": "ABC7 Bay Area",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYzdycmlocmpMZktzaWNPbVVTaVdEMjlINlJCMm9RQjFDazAzWFpqS3BsNWNJNnVxUlJNR01PVWFxZGhtTDk4bDJBT24wSjhQRE5mYWx3b1FKTDFzc2Jvd2g2ZHkyWVJqTGZpZnZMa2NKN0xBaVJacXNzU2tjajFQUmVvaEYybWNNM2tMVFVRYTFhR0ZaWkdsdWFiOFh4NjBaZXpodVJzVk45eEJWTjk1c1VpSmZwemtzb2VONjI0ZWVXOU5Ia2xrWDZ1eGlhQdIB0wFBVV95cUxNSm1VNTB2WWh1R016QnpYYVBYcngydEVXdnkzY1l0VEYwMi15bjktN0ZYZXBPN3FwbUdMZm9EU3VVUGFlS0x6OWRIQzl4ZFFSODJILXVIMXNhRjNJUTZmdjB2ME1xZW9UTGw0SFZzQVZQUWQxOFNCbTcxYzhIN1RKaXlaZkVtRnlOcHh1MDRteEZnMlNKX21rbUZHYXFKLTRYYUlfQlFtSXZGZUFac0ZVT0NVU0tZMHF3S2czSWgxdFAtRnBUZ3ZxUnY0OHB6RkgtbWxF?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers",
-   "blurb": "",
-   "src": "Autoblog",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHl5SnRoZG9Ld0FDZWd5WnZXQ3Fydk12XzBnU1hLczFzOHBOTlJqLUo1Vy1xSXZBNGJzZjlUMGRfT2VVbzZjM1RLRHpGa3ZCTEQzQV9mRllPandYOS1ENDlWVk1VTDJPd3NkaWVLR19SdHdTbFktcVRQWWhwcm40eF9rN2MxSGkzNU5GaExGRV9xaF82N1VJdmExN2dSMnUzR0VjVWlBTWFFNlBSNzNlUk9WWmw?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Artificial Intelligence for Predicting Microsatellite Instability From Haematoxylin and Eosin-Stained Histopathology in Colorectal Cancer: An Updated Systematic Review and Meta-Analysis",
-   "blurb": "",
-   "src": "Cureus",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPZjZwMzlDdnBtNVJLQmRBRWo4ZXJlYW00QnlCT3EycWZuMDN0NGx1TlE4cUEzZmREWjF3MnA4UWt0QkNGTHkxYUhMT3QxSTZIM0xzN3YzNGlzYzF6bThHU0xqRWJOUjZCZUluYVJEVEVRYkZRUzU2MFpLeUVyeWRoTllJVmNEZ2lSZnpJcVN0TmljV3N0M2JxMml5MTlESmUwWDZ3NGk5enNGdlhjUGtGem55ZnF5QjFETHdKb2hpT0g4RjZlbDZuWU5PZkRVbHY3S09wMWVoa2dNdDI3TUZWSjd3WndlTlpnWnJVdWtnVm1ZalBJZUE1QUZwQmRZOGJOOFpEUFhqcjdycHEyY1B0bllremJ1c3k0R2NmNTZRRGI2OFpnZXNRM2ZHZFR4cEZOWC03WnJWUDh3UncweXowODJZY1dFZw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "US research team uses Unitree G1 humanoid robot to perform surgery on live pigs, the world’s first",
-   "blurb": "",
-   "src": "Global Times",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85bURkS3BHc0ZRbUF6NkRCRzFLdWExMzIzbUZWZU53MG1EdEZ6Ulp6VDVZZkFWc1RGaW5vUjUxa045TGMyV2t6TzlUenlfZlp1cmlSMEpBUnBWTVR2S2VIRk5B?oc=5"
+   "src": "ABC7 Los Angeles",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkNpTnVfdXRjZk9HclYxV3BGekYtSS0xcXFPRU1BUXJmZDhLLUE2Z1lPbExnYnNMb285RTFzVVhzdzVoNkF2YzRuWldVN1VPUG5WVWNreVBsLXFrek0yaGlBbUcwSkU0YUxBeXNQOTk4RHdTdjgwZm1pRmp2ZDhpbWVNVEl2czdlUGxHNTFvYTJlV2pzYVlSWFBOVXFJLTV4Y0lGeTZkeU42RzlOMWQ4WW9XVGljQmFhNEZTXzRSX3BUaU5mbmJfSNIBzgFBVV95cUxOZHE5X0hUTXRpV0FCd0pvQUlYbG9NZllWajRkWHlZQ1NWdWRBWmxQMWhaM011NTFPTUFqMGNVY0RXV3pLajk5RzJrQnZkMDRzZUo0M19CZEF5NUNSWHdfTHNLOTZYS1hGZG1fTHhhTWhGUVlLRmJ5b3VDZFRNOHdueTVHWE90X0ZmYjRDOFA0RmluNDZ5VkVtTU52THlZcDdHWjBzVVJ1cVdvRE9rcVJWY2QzQlo2UGpKRFRzMG15aTZJMElQTTRMaXNMU1ZRZw?oc=5"
   }
  ]
 }
