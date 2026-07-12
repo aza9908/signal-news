@@ -1,12 +1,26 @@
 {
- "updated": "2026-07-12T10:36:10.063Z",
+ "updated": "2026-07-12T16:01:26.597Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Zhipu founder backs open-source AI over restricted frontier models",
+   "title": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models",
    "blurb": "",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmY4bXFIdzJiMTg2amhPdFRRYnRuX0lfWHBENmtud0VkUW9POF9CWjRUcHJBQ3RKdy1HTl9xN1FjY29ZYnl4bVMyQl9zdkJzUDJKWTlrbENhN3pCakJVcGtLNUpOLW9teWEtc3ZVbGFvS1JNYW1Pdmw0OC1BMjJBWnNsUnJIMWRBV0luUGZkdXdRdTVNdElkZzQtcw?oc=5"
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENTWFpvMXlpQS1vNU03VGZ3aGZKak1ZVlFPWkliOVVSbFpmZ2I1Ui1LMGVtWHd3N2xkaElHUV9CYXhKYlY1eXhmd1lZUzZGRzVXbzYzVVhvUERWN0RzWGVUMVoyUXBoWGR6dHBCeWEtZkl5ZzJKVVlUVXZFYkVBVjdCcXozOGpOUVNSMlpPbElYVGZQbUR2d0tnQ1pWOTJoekJKZzdWMjZ1eVlPNFgtVUZlTQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid Robot Production Surges in 2025, but Commercial Deployments Remain Limited",
+   "blurb": "",
+   "src": "Supply & Demand Chain Executive",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPang3NFZ4Mm5iSlIxVDl6NFZQMk1tUzlubm1jUlhyU3pONW55NVUtQkJOQXRZZE5Pd09VTF95UnA1N1QtcTRnaHplY3NlaXM2TmZCREE5VjRadXk4cnVJWFd6cGhXQVZjdUJXc3doQWU0WDdrRE90RWcxTVBiejJfUGlydFlNVldRRi0zY1k3QTNEUFkydkVvdkg5R2daUWJYaGhkWkhGSE9MMnMzYXBMY1owMlJmYUttZWE3NFpGdEJsazlRYW9mSjlUV0RWX01Lb1JWZzJDNDUxcXNuZU01TWJ1Z0FoNVk2UjlzWjlOczZtdm0w?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "AI Model Bias",
+   "blurb": "",
+   "src": "The Herald Journal",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenA2UF9hSUgtNjJPMi1pSzVITWlhU1M2SVo4ZGl1UEl0bm11NUlKMjQ1ZnNYT0ZxV0w0dmdjR0lxUWJYQmNRQ1d1RVdSMlBaRkxFc2M4aWNTV0ROTy1JWGVLb3JtdDJHdjVhQ2MwRGdmZTdtWjVzZjBIRXBDUVllVjZtN29Sb20xRkJtcEQ1WllQQXgzelE?oc=5"
   },
   {
    "cat": "robo",
@@ -17,38 +31,10 @@
   },
   {
    "cat": "ai",
-   "title": "DOE Explains...Artificial Intelligence",
+   "title": "AI Model Bias",
    "blurb": "",
-   "src": "Department of Energy (.gov)",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41OVprOE5tN2lBVzZuck52RDRvRU9FU0JvNThpald0enFRaUNzSHBxY0QzVmVhWnJMMHNEUXAzUlNrRnFmOFBtNkpTUVhTQ1lkdFVFeXJpRUZodHAwWTZwMDQ1UzNfMThKTFZqSjZuWkxtOEl2?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "New test measures how well humanoid robots handle real-world forces",
-   "blurb": "",
-   "src": "Tech Xplore",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zZUJDUG5KS3NCblZtc2FHWUdqeGJXczRnZDUwa1ZSX1V6Y1FjRnlrUDBXRUpnaDd0cE5IekJFX1NNdldFX1d6UzIteEFNM1FxSG9pMmgzVnpvRnEyOGxxOUhjNzQwMlloeDNSaFVONFIyS2lfbkE?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Meta u-turns on AI feature amid privacy backlash",
-   "blurb": "",
-   "src": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFJYOHh3VkVpWnN1ME9jeGphekpaR190VU1IalVzZmFuRTBDVnY4N3lBWk1fc3RuMjdteEExM05tRERVYTA4QUx6V0NubUZFTXZxeXZXUUl6RkdqV3U5azF5Nmg0eUEwZkp2YkpXNk1uYlV3cE0xSk1FMGdnT05DMlNR0gGHAUFVX3lxTE9XV0hqSGhmWVdMN0QwM2J4dXNaWFdET2V2cWhtUFYzSmRIVGQ3LTRYZUlrZkthQUF6Yl90WjM1d2hVa3E4MlFEN2YzOEZmR3N0dEpsQmZEY05vTlQ0VUlzRHgzcXRLRUVRa21wdExLWU1uMk9GQW90SnItelpKeHQ1eXlXYmp4Zw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "US research team uses Unitree G1 humanoid robot to perform surgery on live pigs, the world’s first",
-   "blurb": "",
-   "src": "Global Times",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85bURkS3BHc0ZRbUF6NkRCRzFLdWExMzIzbUZWZU53MG1EdEZ6Ulp6VDVZZkFWc1RGaW5vUjUxa045TGMyV2t6TzlUenlfZlp1cmlSMEpBUnBWTVR2S2VIRk5B?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw?oc=5"
+   "src": "The Lufkin Daily News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0U0Z2I5MUx3VE1fQUJwckNJLWxGR3VhRGhOc1A4ZVVfRndmNGdKVVRILTMxTEpEdGdLLUJBYzV0Z2p1Q0kyLTQwYmJnNHFaZzExQjZiM3laTVJySmQ1VkVXaE5UcjlhZTBUeHZlWkRsSEhvakRnTFhhYy1MaVBSSG1jcmkyS1BvSGlpZ0hraTRweEsybzd5b3lxOFNPQQ?oc=5"
   },
   {
    "cat": "robo",
@@ -59,10 +45,10 @@
   },
   {
    "cat": "ai",
-   "title": "TIP12 Validation of a Multimodal Artificial Intelligence Prognostic Model in Early-Stage HR+/HER2− Breast Cancer",
+   "title": "AI models are far more susceptible to misleading nudges than humans, study shows",
    "blurb": "",
-   "src": "CancerNetwork",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSkdQcnhUMHZra1pvZUJtNXVzY0RWcmVTQ3hWTEF1OU9wS095d3V6aC1QckFCQklWU25tZEZTX1A2bHl4ejJaSmYzRnpkel9STzRkTFRmZXM4N0xsM05FMG4zaVBLSWFqSVV4Y1g0UGtMV3BPUDQyV3hkenYycm9QdlpnR2lMMXJWRS1OSUFib2stMFJOM1hNYW5BRjdSelVLN1JXTmo3NnVHUE1pcFlRVU14NGhBX3FpUXJjQXYzWUY1REFuN09EWWtaQTdKN2VHMkdaR29KTmlldE5XZnRrNE00Z2JVMXdpRnpZSTJrWnlSZw?oc=5"
+   "src": "PsyPost",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUlUM1poeXkxeERqd2dxcE1sWTRPbS14T1hKeVV3OFlzYkNHMUlabEJSVjlGUmJ5VlpMcExjdHhVWlJnTjVxX2IxWU1RNTBhNktLWVc2ZVlQU3Z6dnlzaXZsVVRjZllmR1FpOWRQME5EWlFBVkpkSHBtYVlINXpwcXlYUUVuZmhpREcwN19fVEZDVEZ6ZmdBa2V0ellBdVJmdnNfV25CYw?oc=5"
   },
   {
    "cat": "robo",
@@ -73,17 +59,31 @@
   },
   {
    "cat": "ai",
-   "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
+   "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEd6MnJkM2NnQTlUR0NKVktVM2g2R2pMQlhVOU1oQ0tGYndiU041T0FFbFRpc0N2bDZtRlpRN3F5LTlQeWcxTS1zaWh4OE9ESHJqcUhueWpkVEJ1QTZnem5qN2s0eFBmMzlBd3VjaWpIaFJhUHBCTktCdEFkYUs4STJLQ1VFbk9lNk9rY3BiX25YdEdHQlNHT1F6Z2s5cnl2U1dzT2c0THRGZ9IBrwFBVV95cUxPTER5RC1TTzcwT2ZhWUlMV0JUUEQxeWJlZzBuakZzMDJuTGhQczBxWjBqQVhZemZlbkswMmZwUVF0YUY5WGFSQWxqQTMxVUZ3Sy0xNnkzMVpnVmNFMHVGb3BvWmo1NmlHQ21MZk9JaGNzWHlkckhCSEZFbnFUTVJ1REVYN1dPVlVsS2hXQjF6c0ZBUWFiZHVzZHUxMXdpQnY5ZkVVN2ZOQWVBdW9NYmM4?oc=5"
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw?oc=5"
   },
   {
    "cat": "robo",
-   "title": "In vivo feasibility study of humanoid robots in surgery",
+   "title": "Mitsubishi Is Bringing Humanoid Robots to Its Factories as Japan Runs Out of Workers",
    "blurb": "",
-   "src": "Nature",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dzVYenhDWFFFLUNHOHdybk1VdnlBN3FqaTBqZGhsWU5hQTVEei00S2xadG5UVlZxMnpKZl9haTNMY1FLSnM0amNvLW1oUVFSWVhEVHNueFFYRzBzWG1N?oc=5"
+   "src": "Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHl5SnRoZG9Ld0FDZWd5WnZXQ3Fydk12XzBnU1hLczFzOHBOTlJqLUo1Vy1xSXZBNGJzZjlUMGRfT2VVbzZjM1RLRHpGa3ZCTEQzQV9mRllPandYOS1ENDlWVk1VTDJPd3NkaWVLR19SdHdTbFktcVRQWWhwcm40eF9rN2MxSGkzNU5GaExGRV9xaF82N1VJdmExN2dSMnUzR0VjVWlBTWFFNlBSNzNlUk9WWmw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Artificial Intelligence for Predicting Microsatellite Instability From Haematoxylin and Eosin-Stained Histopathology in Colorectal Cancer: An Updated Systematic Review and Meta-Analysis",
+   "blurb": "",
+   "src": "Cureus",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPZjZwMzlDdnBtNVJLQmRBRWo4ZXJlYW00QnlCT3EycWZuMDN0NGx1TlE4cUEzZmREWjF3MnA4UWt0QkNGTHkxYUhMT3QxSTZIM0xzN3YzNGlzYzF6bThHU0xqRWJOUjZCZUluYVJEVEVRYkZRUzU2MFpLeUVyeWRoTllJVmNEZ2lSZnpJcVN0TmljV3N0M2JxMml5MTlESmUwWDZ3NGk5enNGdlhjUGtGem55ZnF5QjFETHdKb2hpT0g4RjZlbDZuWU5PZkRVbHY3S09wMWVoa2dNdDI3TUZWSjd3WndlTlpnWnJVdWtnVm1ZalBJZUE1QUZwQmRZOGJOOFpEUFhqcjdycHEyY1B0bllremJ1c3k0R2NmNTZRRGI2OFpnZXNRM2ZHZFR4cEZOWC03WnJWUDh3UncweXowODJZY1dFZw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "US research team uses Unitree G1 humanoid robot to perform surgery on live pigs, the world’s first",
+   "blurb": "",
+   "src": "Global Times",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85bURkS3BHc0ZRbUF6NkRCRzFLdWExMzIzbUZWZU53MG1EdEZ6Ulp6VDVZZkFWc1RGaW5vUjUxa045TGMyV2t6TzlUenlfZlp1cmlSMEpBUnBWTVR2S2VIRk5B?oc=5"
   }
  ]
 }
