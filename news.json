@@ -1,12 +1,26 @@
 {
- "updated": "2026-07-11T21:52:30.274Z",
+ "updated": "2026-07-12T06:06:37.516Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Colibrì proof-of-concept gains frontier-level 1.5-TB AI model — novel approach runs on only 25GB of RAM and shows promise for local AI setups",
+   "title": "Meta u-turns on AI feature amid privacy backlash",
    "blurb": "",
-   "src": "Tom's Hardware",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNbmdla0tsTXRYRm1mVXRDS0FsSTNtZnBRSUNlNUJpcDdfZkdMYUNEMEUzX3JzdXVFMnF2Ull5QXIxTmZKOUdvRURHOE5ib2JHeUVTQ2lQTkMtRFBuUmoySDhLc0R1TG9HYUdMelZZdUNTWVRlbHlqYTU2UkZzOTNONmVPa1ZaWHpIUzU5Z3dZQ09WUWtsLS1BZkZQLUt2Ym5vSFB1VUJTLXI5TzFONWZIZmdKVmlDVFFTUTlDSXB3N0ZnMV8xczZDRWI1MmREZ1h1RkV0Tk1UZFhtNFhsWFpSdjNqanN0MWE0LWZzUnUwaVVOUXJLUUJkU2VTSVpBN1gzaFJDRlZlVlNlY0lQZVVZLTRJTUJpV21ONnA4S3JlWFE2VGh4aE9TWGphTHJGT28?oc=5"
+   "src": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFJYOHh3VkVpWnN1ME9jeGphekpaR190VU1IalVzZmFuRTBDVnY4N3lBWk1fc3RuMjdteEExM05tRERVYTA4QUx6V0NubUZFTXZxeXZXUUl6RkdqV3U5azF5Nmg0eUEwZkp2YkpXNk1uYlV3cE0xSk1FMGdnT05DMlNR0gGHAUFVX3lxTE9XV0hqSGhmWVdMN0QwM2J4dXNaWFdET2V2cWhtUFYzSmRIVGQ3LTRYZUlrZkthQUF6Yl90WjM1d2hVa3E4MlFEN2YzOEZmR3N0dEpsQmZEY05vTlQ0VUlzRHgzcXRLRUVRa21wdExLWU1uMk9GQW90SnItelpKeHQ1eXlXYmp4Zw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid Robots Just Performed Live Surgery For The First Time Ever",
+   "blurb": "",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0N3SWJTZ1BqbzlibXVsR2RIOHAwa1F5bmJISkhqR2NzcTIzT2t2S2FmSkxJQjJTdm9JWVIwaWM3d05ieGpFYUxBbzdQMWlQVnFjNnBkbk12M2hhMlA4OFlUZ0I4UWVfMXk0bXIydGM4V1YwT1Zzb2FxNksxYjZYMlFkOVZZUjFjSmtpRWlKd3lDeThlRWFrVjFQaXFHZjBXVVl6MmVaUmFtV0o5QWthVXhxeExHNG8tUlp0ZTN3?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "TIP12 Validation of a Multimodal Artificial Intelligence Prognostic Model in Early-Stage HR+/HER2− Breast Cancer",
+   "blurb": "",
+   "src": "CancerNetwork",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSkdQcnhUMHZra1pvZUJtNXVzY0RWcmVTQ3hWTEF1OU9wS095d3V6aC1QckFCQklWU25tZEZTX1A2bHl4ejJaSmYzRnpkel9STzRkTFRmZXM4N0xsM05FMG4zaVBLSWFqSVV4Y1g0UGtMV3BPUDQyV3hkenYycm9QdlpnR2lMMXJWRS1OSUFib2stMFJOM1hNYW5BRjdSelVLN1JXTmo3NnVHUE1pcFlRVU14NGhBX3FpUXJjQXYzWUY1REFuN09EWWtaQTdKN2VHMkdaR29KTmlldE5XZnRrNE00Z2JVMXdpRnpZSTJrWnlSZw?oc=5"
   },
   {
    "cat": "robo",
@@ -24,20 +38,6 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots Just Performed Live Surgery For The First Time Ever",
-   "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0N3SWJTZ1BqbzlibXVsR2RIOHAwa1F5bmJISkhqR2NzcTIzT2t2S2FmSkxJQjJTdm9JWVIwaWM3d05ieGpFYUxBbzdQMWlQVnFjNnBkbk12M2hhMlA4OFlUZ0I4UWVfMXk0bXIydGM4V1YwT1Zzb2FxNksxYjZYMlFkOVZZUjFjSmtpRWlKd3lDeThlRWFrVjFQaXFHZjBXVVl6MmVaUmFtV0o5QWthVXhxeExHNG8tUlp0ZTN3?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
-   "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEd6MnJkM2NnQTlUR0NKVktVM2g2R2pMQlhVOU1oQ0tGYndiU041T0FFbFRpc0N2bDZtRlpRN3F5LTlQeWcxTS1zaWh4OE9ESHJqcUhueWpkVEJ1QTZnem5qN2s0eFBmMzlBd3VjaWpIaFJhUHBCTktCdEFkYUs4STJLQ1VFbk9lNk9rY3BiX25YdEdHQlNHT1F6Z2s5cnl2U1dzT2c0THRGZ9IBrwFBVV95cUxPTER5RC1TTzcwT2ZhWUlMV0JUUEQxeWJlZzBuakZzMDJuTGhQczBxWjBqQVhZemZlbkswMmZwUVF0YUY5WGFSQWxqQTMxVUZ3Sy0xNnkzMVpnVmNFMHVGb3BvWmo1NmlHQ21MZk9JaGNzWHlkckhCSEZFbnFUTVJ1REVYN1dPVlVsS2hXQjF6c0ZBUWFiZHVzZHUxMXdpQnY5ZkVVN2ZOQWVBdW9NYmM4?oc=5"
-  },
-  {
-   "cat": "robo",
    "title": "Humanoid robot 'Surgie' makes history, perform 2 gall blader surgeries on pigs in world's first live animal surgeries",
    "blurb": "",
    "src": "ABC7 Bay Area",
@@ -45,10 +45,10 @@
   },
   {
    "cat": "ai",
-   "title": "Previewing GPT-5.6 Sol: a next-generation model",
+   "title": "Colibrì proof-of-concept gains frontier-level 1.5-TB AI model — novel approach runs on only 25GB of RAM and shows promise for local AI setups",
    "blurb": "",
-   "src": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5"
+   "src": "Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNbmdla0tsTXRYRm1mVXRDS0FsSTNtZnBRSUNlNUJpcDdfZkdMYUNEMEUzX3JzdXVFMnF2Ull5QXIxTmZKOUdvRURHOE5ib2JHeUVTQ2lQTkMtRFBuUmoySDhLc0R1TG9HYUdMelZZdUNTWVRlbHlqYTU2UkZzOTNONmVPa1ZaWHpIUzU5Z3dZQ09WUWtsLS1BZkZQLUt2Ym5vSFB1VUJTLXI5TzFONWZIZmdKVmlDVFFTUTlDSXB3N0ZnMV8xczZDRWI1MmREZ1h1RkV0Tk1UZFhtNFhsWFpSdjNqanN0MWE0LWZzUnUwaVVOUXJLUUJkU2VTSVpBN1gzaFJDRlZlVlNlY0lQZVVZLTRJTUJpV21ONnA4S3JlWFE2VGh4aE9TWGphTHJGT28?oc=5"
   },
   {
    "cat": "robo",
@@ -59,24 +59,10 @@
   },
   {
    "cat": "ai",
-   "title": "Open-source AI model developer MiniMax raises $2B in funding",
+   "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
    "blurb": "",
-   "src": "SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXF4RlRMZXdqMEJBTUNiSTNHcGdueDczVk5lS0FMQ2oxZUx5a3l0dG52R1dmN18wRW5LSFlwQ0c3SHlVTDdVa1VqeVFCVEJCVmxkSHQ4VUdyN0d3NUs5TXRJMHYtYVJLUUFQMzVLcFNHRk1lUmNxLWRyVXlISW1VTWNYaHpRWnNNMDNkd0d5MXRpR3VTOGRwUQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First",
-   "blurb": "",
-   "src": "UC San Diego Today",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXMtRnNmOE1XRjJLRTF2eEpwOGpYT0VhdUozZFBqR1IzR3YzM3l1M3FDS3lCRExwSmxsV2U4WTlHenM5bXVUd1p2YnB6WXlCZnJRazBOQnh1R0g2a3ByV2xwR1pCYjlyd2Z5eHpWSzkwa1FNS1pPdGlUcUJ1eGFTOHpQR29XQW82VXl4WWFtUDVVNVRCaFFral8zQkQyMmdkaV9qNTZ6TlFFeC1o?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Meta Introduces Paid AI Models, Bernanke Joins Anthropic Trust",
-   "blurb": "",
-   "src": "StartupHub.ai",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3JCSUZNaHhtRTJ4TE00ejBGWVI3UUp2a1lVbE5YTGVJTmFLWGlmZ0FWLUJVZmpDYUVoYzNPNVhOSzJjbGQwdV9feExkYjZvQy1KbjlONDNyR0FpRzZEOUpHcy1qUWs1WGJMaFdGY1RYN1JwZEYyMzUtbmVVXzg1U25NZDJYQks0eTU3MU9JdlVVZjlVYnNjZV9Zcm16T29mVldjX3d1Y0g3S0lDRmRGVHVGODczR1dpTmFKX2NySThRdw?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEd6MnJkM2NnQTlUR0NKVktVM2g2R2pMQlhVOU1oQ0tGYndiU041T0FFbFRpc0N2bDZtRlpRN3F5LTlQeWcxTS1zaWh4OE9ESHJqcUhueWpkVEJ1QTZnem5qN2s0eFBmMzlBd3VjaWpIaFJhUHBCTktCdEFkYUs4STJLQ1VFbk9lNk9rY3BiX25YdEdHQlNHT1F6Z2s5cnl2U1dzT2c0THRGZ9IBrwFBVV95cUxPTER5RC1TTzcwT2ZhWUlMV0JUUEQxeWJlZzBuakZzMDJuTGhQczBxWjBqQVhZemZlbkswMmZwUVF0YUY5WGFSQWxqQTMxVUZ3Sy0xNnkzMVpnVmNFMHVGb3BvWmo1NmlHQ21MZk9JaGNzWHlkckhCSEZFbnFUTVJ1REVYN1dPVlVsS2hXQjF6c0ZBUWFiZHVzZHUxMXdpQnY5ZkVVN2ZOQWVBdW9NYmM4?oc=5"
   },
   {
    "cat": "robo",
@@ -84,6 +70,20 @@
    "blurb": "",
    "src": "Ars Technica",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa3Ztd09ub0w3X1Jvck1VaFV1WVFZdXRvOUtWQ2lFRVhNeVpIUW5DdWNIYVRzSFJUcnNWQS12T2lUOXJfOTVKSm5kUHNnYnpPUWF5U0hRT19nR2MyMm1xRVdUYm9idVlaZklISjNYWTY4SGNINmR6bHUybnBtdlRSWHBvY2g3bXF4YWF2b3gtQ3M1UHZoRmU2N3BHWVUyZF9zRXJmVHh2NlR0V1VkRWstSGZHNA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "China Weighs Limits on the AI Models American Companies Love",
+   "blurb": "",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaW8zZm1QLUNDbnlJdUVyeW41cW1PWG5LM1Z3cTI1dlFnQTJtYWI3VkVDV01GOHgwZDRveWZfaWotTEE4ZmlLd2xxQXVmTmg2b3hQVGhIc1Y0MFNTRWlJS2MxbmRjS24tNkZhaGE2N3VVcXRLNC16eTdhTUExTDlxYVNZaXNNQS0tVU9mcXBuSUpLWTV0aEJQVmpOUW1pZw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Video Humanoid robots step up to the operating table",
+   "blurb": "",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZUlpaNjRtQXRaWGR6YWp5Z3EwT1VmSXhLZmE0WFhJQmxVWWdWdFNJc2hJQjRxZWFhcGFPQVdDS0ZZM01vUUE3aE40c28?oc=5"
   }
  ]
 }
