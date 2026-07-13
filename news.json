@@ -1,12 +1,26 @@
 {
- "updated": "2026-07-13T12:08:46.199Z",
+ "updated": "2026-07-13T17:14:10.637Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Which AI model should you bet your company on?",
+   "title": "Which AI model should you bet your company on? None of them",
    "blurb": "",
    "src": "InfoWorld",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVVMTGtFWWdZUDRWempRWWJZSDdMVU81TTNrdUpKbGdXNnFFdnBtWmUtcjQ4eVU0X0pFWjROSU1SbXFFN1o0TU0zRkhucW1lNmJGUjg5NkppemNwNkxzMVN0UVlnVnd3OUdPU1djMDBUdmZCU3NpVElVUk1DT1RXWXpta2ZfbS1YWnBWbk9HVDBORzlESjlR?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblI4LTR6dmlmeXlSREFaUGhQMnNBYWcwRFNjcGhLUDZNQS1oZnVicTNqSG0wSGpoaGZ0QWRJaHl2R0l2WTRoRWNncFlCamZFRldtcEFYRmt0Q25iaWgtVDhGOTdJVG00bklsSUlyZnpOZHNaYmJKLXp2OThNMDBpVnZKZHBSUDN2Sy1NSGJ4ZXVMcWRJdGNwMzBINHRjRHhtbXcwQUs5MFk?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "From Intelligent Edge to Physical AI: Why Humanoid Robotics is the Next Opportunity for Renesas",
+   "blurb": "",
+   "src": "Renesas Electronics",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2c0TGx4SkprOEUtWmNORmZuNk56VThPSFctSjQxajliNUs3a2RONm9jQkVmS1FpMWI2YkF2aHZJR0gtODJGa3hIWjdBcmpWMng1TVF2bnJzaWIwQ1NLdW9nVWhqSWwyR2pIMWJ5U1ZUNGdaQkxTclpMMEtuRC1qSFF1Qnc5SnNaMzJfd3lBQ2hJQ3ExUXd4T19CeHVMWE5sYWFCQWRsUUIzeVl4?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "This new AI model thinks in images, not just words",
+   "blurb": "",
+   "src": "fastcompany.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWoyVWRqLVRYN08xWndFYUdFQjBJN1ZJX0pvU0hqLXMxR3Z0UXh4aU5nRVNXcGRQeFhDNTZDcUI4amtqckxiZEVLbHY0VGxSVnpjakxYdmdMTnBxMkdyUjRlNWpHXzk2ZkFxd1FqZS1lOXI0V0ZJR0hIZmtVdWpUcUF4T001NjhUQ3FGQ1VR?oc=5"
   },
   {
    "cat": "robo",
@@ -17,20 +31,6 @@
   },
   {
    "cat": "ai",
-   "title": "This new AI model thinks in images, not just words",
-   "blurb": "",
-   "src": "Fast Company",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWoyVWRqLVRYN08xWndFYUdFQjBJN1ZJX0pvU0hqLXMxR3Z0UXh4aU5nRVNXcGRQeFhDNTZDcUI4amtqckxiZEVLbHY0VGxSVnpjakxYdmdMTnBxMkdyUjRlNWpHXzk2ZkFxd1FqZS1lOXI0V0ZJR0hIZmtVdWpUcUF4T001NjhUQ3FGQ1VR?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "1X's product head says its new humanoid hand has solved one of the toughest problems in robotics",
-   "blurb": "",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWnNZa2p5OXdUR3B3UzZTel9MaTVoOFJteDN5Q21QblJXSDRnc3gtY3J0MF80M21fWTNtZ2lreFBCVS1rSUVCSmtLaDNwX29XeTdVLWhEc3drbUFKejY3OEFBLXBIUWoxOFdkOVpnVkhja3lDSjFmRGM3TENTOUd0VWsxUlZ6QQ?oc=5"
-  },
-  {
-   "cat": "ai",
    "title": "Elon Musk Says He Was \"Clearly Wrong\" About Anthropic's Artificial Intelligence (AI) Models. Here's Why That's Outstanding News for Amazon and Alphabet Investors.",
    "blurb": "",
    "src": "Yahoo Finance",
@@ -38,10 +38,10 @@
   },
   {
    "cat": "robo",
-   "title": "Ukraine is first country to fund combat humanoid robots. But its own battlefield says wheels still win",
+   "title": "XiaoZhi Weekly News | Insta360 Officially Enters Robotics; RoboSense Robot Business Surges 510% in First Half",
    "blurb": "",
-   "src": "Euromaidan Press",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWDhYcnVoRUUwcEp4Y3VyWWhKU1BwTmdHN3EwVl9yZm9hN1pCa0RvajFKT1pBYTAxTzVkLTVURHV0UFd1TmM5aFl1N1paVGw5UHFtX1gxOXpCSl94Tzd2REFpZ3lJT0lPbVBHT0w3X1U5TkNvdnF4bDBadUgwV0NqaEttT3BENUJIVTZfWWxVM1kycTFzWEdrU0hpMUxlLVJ4Y0FBa3VRQmxjNzhnQUFtX1lFVnpJcXNsMnV1VkMyM0N1MFVUcEthQmdNN2k5Q21reTI1cVdpcWM?oc=5"
+   "src": "Gasgoo",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcDJtcTdXWkhCcFoxcnlKN0w4NURCZjJ0Q3lZVi1YV3VyWlpzS3ZjSlF4Qm5vRkY2NTlDdzBTR0oydG9aMVhzdHBXWWViSDJZNFVVZzFuMVpqTjB0elFQaGFLd201V1kyOGZISWJFRVlaTi1mSEVDaERRVnd6TTFzcjlBc0pmR19RZ3dMUVNFZGMxVUFrZXF4RG16S0pGYy1zQTQ1eGJqRXMtRTNDQkM2aWQtYmNvUkV5bDdrcTgyRlBYbS1wNDJfbkFLOENxNXQzb1ZOdkcwSHJya0prM2NuZTI0SVg0eDg5clh4RklOand2SXhNRS0zNjVn?oc=5"
   },
   {
    "cat": "ai",
@@ -52,38 +52,38 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots Just Performed Live Surgery For The First Time Ever",
+   "title": "Chinese Humanoid Robot Industry Development Report 2026 Now Available. Breaks Down Sales Volume, Application Scenarios, and Product Categories Across China's Robotics Sector",
    "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0N3SWJTZ1BqbzlibXVsR2RIOHAwa1F5bmJISkhqR2NzcTIzT2t2S2FmSkxJQjJTdm9JWVIwaWM3d05ieGpFYUxBbzdQMWlQVnFjNnBkbk12M2hhMlA4OFlUZ0I4UWVfMXk0bXIydGM4V1YwT1Zzb2FxNksxYjZYMlFkOVZZUjFjSmtpRWlKd3lDeThlRWFrVjFQaXFHZjBXVVl6MmVaUmFtV0o5QWthVXhxeExHNG8tUlp0ZTN3?oc=5"
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRC16ODRqbHpGbW85cW5YVHVUWWVtVnc1U1Q0U2lLNGk0UXppN1E1T1NrUk5DbEdNT3RlODQ4NW1EVWRfSHJZckEyU080R1IxWlpVN3B2eFcxM1dWQ2dGMkdxN1E0VnIwRTBLRG9ZZEJldFFPSzM3aXhLN1RZMjZqSU5OUDh2SmJwMkhUM3JJMTdhbGlfN0pYSlJYQkZaMWZaNHdTVGMycHBsMTQ?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Alibaba Surges as Cheaper AI Undermines US Dominance",
+   "title": "Elon Musk Says He Was \"Clearly Wrong\" About Anthropic's Artificial Intelligence (AI) Models. Here's Why That's Outstanding News for Amazon and Alphabet Investors.",
    "blurb": "",
-   "src": "The Daily Upside",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVG5iWEliY19iSkI4Z21NZFN2cVJMZVVBY1JWVUxvSTk2MG01NHdIc2ljTTNFb2RBNVJiT3kzeW95M283ckZOOWZ4ZkdoZGpoUzFxZ1hUcVNteTc0U3R0Y1IxN3FsTzc5V3U0d3VrTlZVMlMySkNjYXFLZ0FtVS1FNllFUGJNM1R4c2s0R3NCNjBOUjBxclFiVWp3Um0tN29KVnNwSmRHQjgxWlFKMlZFUFZaNA?oc=5"
+   "src": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaURVZXhlS1RSQk1GWTVsRmhxU1A2NGR4MEowb2Z1UEllMWZlX1FUTGwxZTV5eVVBd0NJcVFlRTJ1MkZUQTZMcnIxT1F2TEJoYnc0eW9qWHdCUkQ2ZEhCWV80Ym1RN2pHU1VNbWt6aFZiR3FhYUxUSmlvNl9BZGtnVkF0YjhsZlFEUms1OG1SdUhVMDFSdDUxZw?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Universal Brain for Embodied Intelligent Robots Market Growth to Accelerate by 2035 Amid Humanoid Robot Expansion - News and Statistics",
+   "title": "BMW Group advances Physical AI use in production with Figure 03 humanoid robots",
    "blurb": "",
-   "src": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWF9oTHZzMFFJU2FEZDFwTTlobDVYQ2lWSmxRZlBvSnp4R0FSaTJqNUN2YnBqNjYweG1NbWVZbTdLR2U5Tlh2QjlCdmhSdlVpeW9SMmpLMUVsREk5RGZjZ19mRmRCeGMwRkw2N0lPWk0wQ2hiUXVmUVpYcXJTZDVUN0ZaNm9RWU9vMmY2NkJNdTdueFVRVklHR0N5U0MwTVpmdU1BQ1dUaXE2bndOZmpSeXNUZ1M4TjM4T1JsaHhpYVdTUTl0dExDRHRUY1dOMEk3U1h2THlJU1gxS2NyQVhXQTdlLXo1RjQ?oc=5"
+   "src": "repairerdrivennews.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdjVYbURZZFNBQUMyd0NsNGdUUUpOYTZteTFtcmxsbGpPeVpqcWVTbUw2OENuekxSVVlqRFc1TjRwVFMwUnhHRklmTVVmU3NEN1VTSE5WdGR1cDRLT0ZWWS1GU0lJMk83V3hwejhZdTJ1V0w2S1g3MGczeHpVZVFNVjhqRTMwcnRuX3N4TXhPdUJTcVpQb0Q4eFpObDEzSVZNa3dRdS1kRkt3bHF0ZDdkQ1JfaDZoUjFHM2ZIUXhIMVBXUGpv?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Companies turn to Chinese AI models to cut costs",
+   "title": "China works on AI safety benchmark as regulators target large model risks",
    "blurb": "",
-   "src": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUdyLUhvQl9DcmlTLUZHamZYeHh4Smw2SGlxcWRXdHpSb2pJWTl0NXlhWDl0d0oyWjhHZm50YzhOdmV4c3BSMTZBaVFDTUJqWU1rUHY0QjFjOFowMVhvWHVKU3IxaVdDQ0dWdUQwS2ZNNVpDUnBNOVhYc1NkcXdTQ2pRNnY?oc=5"
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQUg0NjVyQVZEZGxqeTRwcHkxZWF1WjlIZElEMDJZX3ZZaklMdGl5NjAyUU5JMVhBWV9MaDZIT2M2cjBrTjJsLW5MQ0ZYc3c2ZGhwR2gzclpGcVF3QUlUQnFHcDNNdENtX1RoUk9va0tCZWVDNDZoXzRfXzJ1VGRKcE5XWENUaXRtQUNKUXhoYnp3cnJoOWFfRHNRYjFPVjlqXzY2UGNFTHlCazRhMFHSAa4BQVVfeXFMUE9ZS19qLW5ITGtZZllpV1J4TVYtQkNTWWFCbE90M3dkcTJlbndXYlFLSVRxazZEZTQ4NUJYQzhLTEpmUTJ2YW42a29Wd2xxRmJhcEJhMFIwalptOUhFMUc4ak5tUWdLSlR2Q2k1U3RLOF9rQnJWTXVYNUNzMlZLZ3NBcXpwdE1VTUV1MzA1NEVYVFE2NHctZmVjc1g5a2hCZlYyaFNWcGhHZHJqYW53?oc=5"
   },
   {
    "cat": "robo",
-   "title": "STMicroelectronics acquires stake in humanoid robot developer Oversonic Robotics",
+   "title": "1X's product head says its new humanoid hand has solved one of the toughest problems in robotics",
    "blurb": "",
-   "src": "Robotics & Automation News",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQjVZMUo1dWlHRHloa2FfbEFmY2VyV3ZoN19FTGpGYjQ0bm5EM1ZPTjl0czlzSmozM0xlVmZUWmtLYTd2TlpuWHdDRFg5RC1DZ1lDaGp2Z3BTbGFUbDNEYXNxa0lBWVZvRlZBUHdFTHRMTWtPbWRoN2VEOV9qeDVla2JFZFB4bVZaMUtjTy1MTDA0VFd4eU1QN2pMMHRuSTlYWF9kdU5zTVFHbUlkX1hQQWpmb1dCaWVROXFwNy03MU5aU3dHbmFIRW5pSldfSUxFcy1N?oc=5"
+   "src": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWnNZa2p5OXdUR3B3UzZTel9MaTVoOFJteDN5Q21QblJXSDRnc3gtY3J0MF80M21fWTNtZ2lreFBCVS1rSUVCSmtLaDNwX29XeTdVLWhEc3drbUFKejY3OEFBLXBIUWoxOFdkOVpnVkhja3lDSjFmRGM3TENTOUd0VWsxUlZ6QQ?oc=5"
   }
  ]
 }
