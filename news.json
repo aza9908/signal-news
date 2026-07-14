@@ -1,6 +1,20 @@
 {
- "updated": "2026-07-14T16:18:02.142Z",
+ "updated": "2026-07-14T22:00:08.967Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "Helping AI models to meet the real world",
+   "blurb": "",
+   "src": "MIT News",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DVzFFVzBVenhXc3BVdDA2RFdNTTB4dG5waUZQUkRGOWlzTlBiX2tJOE5razk1c1JCVDNYVUxHRFpfUWtNMXREY29TVU1uQjBEbGx2d01fdnVSMVJOU0UwREF0YXJXdFZPQWdLSm9oUm5RUQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "The U.S. Humanoid Robot Industry Is Falling Behind | Blogs | Jul 14, 2026",
+   "blurb": "",
+   "src": "Information Technology and Innovation Foundation (ITIF)",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORlg0bUdLa21pRzJBVXFFblpkSmJPbXZHS050ekN0T0VTbEpGUWktWV9oclJDbEN1a1IzZHlwOERUMDFlMU9PbzhnRDJwLTFRX2t6Mmg1N1FtdzlDMHlFeklRXzJFd0pKVDhkU3hKZG55RXJYZTBUZTd4eDNobWpDR042MGdGX0JaVGhUUGI5VXk5VVh3bWc?oc=5"
+  },
   {
    "cat": "ai",
    "title": "Miller School Researchers Help Advance Award-Winning AI Model for Predictive Health Care",
@@ -10,17 +24,17 @@
   },
   {
    "cat": "robo",
-   "title": "Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom",
+   "title": "This School District Will Bring a Humanoid Robot Into the Classroom This Fall",
    "blurb": "",
-   "src": "New York Focus",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1dkUXpoUlBQWWpuMnJud0daM0hIWHByZThvM1o4ZnFzV0g0djgtdFFQcURkc3pXTGg1c3VseDZXTHBkSjFNR0pHVmRnYmt1X1FmWkpMbzltRndhQWJ1VERYWUZBVVlMYnBtZmZTY3FNb0JVa0ViMG5kaXN5dzdUb0oxVU5nRzJTamM4MndvUnczRUk?oc=5"
+   "src": "Truthout",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZlcyUVhrODg1V2dfbzVZQ3dGdHpDLUhWT2UtYXFobG80QmloTU5aSzluRVRRalZQWGplaGcyQmVaZXNQWmR4LVpEWkhpX3JrWGJTZ3Y1UzJTekRJc1psRzhZc3JGUElPdlRmNnRSZ3NoQUNObmg2RTM5ZmNLU055XzR6WWhneTJiclkwM2VDZ0RLM0kwd3dZclA4RDBfSkxqY3hUZjZNcTV0cTd2?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Bilateral AI Partnerships Alone Won't Secure Australia. Here’s a Multilateral Alternative",
+   "title": "Apple in talks with startup that shrinks AI models to run on an iPhone",
    "blurb": "",
-   "src": "RAND",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkh2Y2hETnBaWmhiUHBvclRuZ3dndkEwOFhfdkxpVUFwdjR4U0JUTV93c0JXSGNSLVR4YVo2ZkdQaU1tUDN2X09IUzFIRXZKdXB2SjdzZ3UyMjdkSS14U1pKOVlTSlQ3bm8zQWJBUnFOemx5azBHak9oS0IzQ25NTy1BSUV4aWQ4alZwUUp1OENzM0pFcXo1VU00eEw3U1NURmVCY0Zn?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qX2IzYlVuZ0VmQnhJMmF0Ti1hV1lpYlJLdVd2T3JzWlpYRHAxMWpxcXpzcENsZTVfcERxM3B4aHFsemw1Q05qTXE2YlVtSE9nbUVsWmVhY0RCOFhNS0lHMXc4RHJnbFFfWmdMMV9DSDVrNzdCS1p2eDFTYmjSAYIBQVVfeXFMTVNRUWRxSmZ4bkxTZEk5UTU2TV8zeE0zV2lHS2Rtc1RlVGtURGt3eFc2WDdRZ0VoQ0RKcDhBMmJreFdyNWNtMmEzNkVKaENZRFFmY0lXUUQzWDQxeDQtYThYeVFhUzZSdzNiSnMxc0xwbjBhU0hCbmVfMUNIY0VsOEg1QQ?oc=5"
   },
   {
    "cat": "robo",
@@ -31,10 +45,10 @@
   },
   {
    "cat": "ai",
-   "title": "Doceree Unveils Semmelweis: The First AI Model Purpose-Built for Pharma Commercialization",
+   "title": "Developers Claim OpenAI’s New AI Model is Going Rogue and Deleting Files",
    "blurb": "",
-   "src": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcE1ORUhzWFVVUHotaFJvaXNhanZKWjhaZ1UxVTR3cG5OWUlDdWQ2b09VMnBheGVybFhvNkgyX3hLZk5UTmRxUlY5SXJ2TjhjZFZsdVd0VEhGeU9WRndTazU1QW5xQndqZTBlQmdQZXRuejMyWWxPTDhEU2Q2bTB4UjlLbnVoWTZQa0JmX0FQdGxMbUlJczZsS2liYlRfWTB0cnV4cWZWRnFtOFBRQ1VSRFU0cmpWb0ZnYmhPYWdVVS13NTltLTRVY0t1Q0pNcmRpdWFzVVl1eDQ1ZUYw?oc=5"
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnBlUmh2WTBDd19HVHFhQkhjWVFuRzhUSHhRd1RpbExtYVBIM3pVWTJiaWxURkpPMmRMWjZuVzY1TmpFamVxZVZWTW1SVEN5RkxlX1ZXeXNsTnhHTlotRlBBMzYwMkI3aWFBQjN3OHp4WndGNjhDbUFsamwyUVdiUUg4dnM5eUFVQmg4VGZjdGdWTEVCSmU5NkhpOG9CRFYyWjhCSmFBNnZZMjk0cnc?oc=5"
   },
   {
    "cat": "robo",
@@ -45,24 +59,10 @@
   },
   {
    "cat": "ai",
-   "title": "Google DeepMind Chief Calls for US-Led Body to Test Frontier AI Models",
+   "title": "Doceree Unveils Semmelweis: The First AI Model Purpose-Built for Pharma Commercialization",
    "blurb": "",
-   "src": "PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTTdCZ3FKNWVQOGpwb2ttQjRWUUc3NENRbDJUVkd5NXZJTkxOMnlKV3Z2UWZmX3BEeGktZzd5dVA0M2tQd1Bha3ZJTWp2bW9hVkpmWUt0NTRNOFVoVHI5dzkyNXpIU21TTmR4UkpObUthZ1RXRUV2LVpDUXNTWm5uNEc5Z2lIQ2JMUlIzanljWkJzMHk0MmZuTFdPUWN6YlJ1WlBDVE5rOFM1WDk3VXl4R21CS3hYa0FBY0s3T3VJb3hqaExqX1FHUFpETWM?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid Robots in BMW’s South Carolina Factory Create More Questions than Answers",
-   "blurb": "",
-   "src": "BimmerLife",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXBCdWNiVWRjT0JVdGZfR1kySmk5azd5Q3RNQjhpazAtQ2dZNFJGRm9Rei0zbzFQSms0WHJXZzVqR2NTOVpBNG94cnR0NXE2YnFHSEppcHBzaDRkTkRLVUM0aVBoRzdmVVprLTVOUUxQb2YwTlY2RHhhcFJVS253UlVSbFdFcE43ZmNodnZCQTFwQ0NWc2EycmRxNERkMnh3NGowRlhJUUYxQUpQOWNOT0EtLW1ZeWfSAbwBQVVfeXFMUC05UUNSZWpZOWkwSDZFYkx6THBLQVBKc3BfeWVES0VNcUsxdFlZaGdxYjZmSUdid2d1ckFpRnd3bjVPeVJPRGMzN3ROcklGY3dFMFpOUEE5M2YtdFgzMWV2TUhvU1dGRkJta1NtZXU4TnRYQWtrMlptQmU5VGtiS2laTXZ1WVVGRk1NSGNHNTYzNWRUMnJGd1dweXJsMU5nd1RxcERpRl81QkE4eE55bHBzb1B2YXhaV0VIU04?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Which AI model should you bet your company on? None of them",
-   "blurb": "",
-   "src": "InfoWorld",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblI4LTR6dmlmeXlSREFaUGhQMnNBYWcwRFNjcGhLUDZNQS1oZnVicTNqSG0wSGpoaGZ0QWRJaHl2R0l2WTRoRWNncFlCamZFRldtcEFYRmt0Q25iaWgtVDhGOTdJVG00bklsSUlyZnpOZHNaYmJKLXp2OThNMDBpVnZKZHBSUDN2Sy1NSGJ4ZXVMcWRJdGNwMzBINHRjRHhtbXcwQUs5MFk?oc=5"
+   "src": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcE1ORUhzWFVVUHotaFJvaXNhanZKWjhaZ1UxVTR3cG5OWUlDdWQ2b09VMnBheGVybFhvNkgyX3hLZk5UTmRxUlY5SXJ2TjhjZFZsdVd0VEhGeU9WRndTazU1QW5xQndqZTBlQmdQZXRuejMyWWxPTDhEU2Q2bTB4UjlLbnVoWTZQa0JmX0FQdGxMbUlJczZsS2liYlRfWTB0cnV4cWZWRnFtOFBRQ1VSRFU0cmpWb0ZnYmhPYWdVVS13NTltLTRVY0t1Q0pNcmRpdWFzVVl1eDQ1ZUYw?oc=5"
   },
   {
    "cat": "robo",
@@ -73,17 +73,17 @@
   },
   {
    "cat": "ai",
-   "title": "Large language models often prioritize Western moral values, overlooking other cultures",
+   "title": "Honoring the Innovators Driving AI’s Next Era in Life Sciences and Healthcare",
    "blurb": "",
-   "src": "The Conversation",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlNmd0RJVElNVDRHYzlTVW5LMHVuQ2FYa0MwSlhkc25pMG5hZC0wcDFLX2hUaXlPLUZEcTNoMzNqTVgyNnl4NXdyMW5JWk1UcWpXVmotd1JRZ1VRS2hwa1V0TGdXalRpeWl1OFRtVVpXdWFoVzVld0tMR0Y5TFlQYU9rd3cyT0hqbk4wTmRFTkYtVGxwYjBsNHVPVWF0OTFEVnNIVUdFazF0MkJmLWg2SzMzeFU0ZVRhRFlSUTdB?oc=5"
+   "src": "Genetic Engineering and Biotechnology News",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQlAtZndLQVkxMGxkekIzRHRJY3hGUHJpSlRFTVdJUGFKVkdWVUIzU0NjLXZhZUlvb2JzTFpLRFJmdzBjM1VDRXk2Y0JFbTlFSUJ0V1FXTmFzeElNMnR0RXNDS1dhQjBBR3ZNdG1fTm82MGFwZDdGbDUxQTVjdTRhQWdNUXVmNno1QjNkX1Y4VkZFQm9kV0hjUUpIMzVEbG5PV1psbFhEUldrS245ZlpYSFJEMWVrck1VVXNxUGhnc2htdVJDWWhZX2VDRHU5UE1Y?oc=5"
   },
   {
    "cat": "robo",
-   "title": "In a First, a Humanoid Robot Performed Live Surgery Under a Surgeon’s Control",
+   "title": "Humanoid Robots in BMW’s South Carolina Factory Create More Questions than Answers",
    "blurb": "",
-   "src": "SingularityHub",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUdTaFc1aFVpVGV0NHc4TUJyTUc4bEhFQ0ZVSENudzRqdXYtQkNOT2ZYRVJudXRVTUFBN1Uxc0xhM21DWUo1Sk1yaDV2MVpHRmFUenpOOE1Da0dPNjBmSGhGNExVaVFCVTIydVVQbG43aWtUYTl1SFA4eFppWkZoSGVGSXVNeUtDX2M1U2JDZ1F5QzlGZjIyTVhONFdVWEhIU01wNFdyUW9ES2hxd0Rld25nR2w?oc=5"
+   "src": "BimmerLife",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXBCdWNiVWRjT0JVdGZfR1kySmk5azd5Q3RNQjhpazAtQ2dZNFJGRm9Rei0zbzFQSms0WHJXZzVqR2NTOVpBNG94cnR0NXE2YnFHSEppcHBzaDRkTkRLVUM0aVBoRzdmVVprLTVOUUxQb2YwTlY2RHhhcFJVS253UlVSbFdFcE43ZmNodnZCQTFwQ0NWc2EycmRxNERkMnh3NGowRlhJUUYxQUpQOWNOT0EtLW1ZeWfSAbwBQVVfeXFMUC05UUNSZWpZOWkwSDZFYkx6THBLQVBKc3BfeWVES0VNcUsxdFlZaGdxYjZmSUdid2d1ckFpRnd3bjVPeVJPRGMzN3ROcklGY3dFMFpOUEE5M2YtdFgzMWV2TUhvU1dGRkJta1NtZXU4TnRYQWtrMlptQmU5VGtiS2laTXZ1WVVGRk1NSGNHNTYzNWRUMnJGd1dweXJsMU5nd1RxcERpRl81QkE4eE55bHBzb1B2YXhaV0VIU04?oc=5"
   }
  ]
 }
