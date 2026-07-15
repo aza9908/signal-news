@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-15T05:34:52.124Z",
+ "updated": "2026-07-15T10:52:53.001Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Helping AI models to meet the real world",
+   "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
    "blurb": "",
-   "src": "MIT News",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DVzFFVzBVenhXc3BVdDA2RFdNTTB4dG5waUZQUkRGOWlzTlBiX2tJOE5razk1c1JCVDNYVUxHRFpfUWtNMXREY29TVU1uQjBEbGx2d01fdnVSMVJOU0UwREF0YXJXdFZPQWdLSm9oUm5RUQ?oc=5"
+   "src": "NPR",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGlPWFM1cklNb1RseG5oN0JGbUFXZ0d5MkROVVg3eEY2UjFQdmlDT2E2dTYyUFQzeUpZWjdhMXZoWmdUanpMbWRWSUN5c2JHX0txWmswNkZSVUhWOEZBc2xSVjlyOVFHa2FYVDA0T3l3bkJzR2lGSUJaZ1EzZ2JhQTN2Yw?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +17,24 @@
   },
   {
    "cat": "ai",
-   "title": "Publishers sue Google over alleged use of books to train AI models",
+   "title": "Helping AI models to meet the real world",
    "blurb": "",
-   "src": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUxBeUJpLWUzaE1zOFdHWFdmN1BuNUlVcnhMMjBLYzZtUDNFYS1BMGdybkljY2xPVHVIYS0xTVpHNGwxNGxwQ2cwUWhrdElXZ3UzRm5Pd1BaYVd2a3duZ2E1Qk5KV1FKcGxXV2dVZ1ZHa0RERkxVN053RmpnblM0Y0JqWGpRQXBYTXZOdWRSeko1dHppY3ZLTWdhWnkyUXh6Rzg1aEtGVzlJbS1odEVqTEpRYnk?oc=5"
+   "src": "MIT News",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DVzFFVzBVenhXc3BVdDA2RFdNTTB4dG5waUZQUkRGOWlzTlBiX2tJOE5razk1c1JCVDNYVUxHRFpfUWtNMXREY29TVU1uQjBEbGx2d01fdnVSMVJOU0UwREF0YXJXdFZPQWdLSm9oUm5RUQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "BYD’s Bold Plan To Beat Tesla In The Humanoid Robot Race",
+   "blurb": "",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDI3clFrMEcxaHBZbmpHa21WdEVFWUVTeFU4eklxelFOLTZZdHNqNmZuUGFhazMxbktwelB3N3FjYXMxa1I0Vm1IVUpyMjZjS0JrbTZRWmFaSnh4X3p4bWFWckFob2haMXVQY0JtdWdYZEJjbkRpaWU3bUQyUHhQYlBDMnBTZmxOZzA4VGh5M2FsNU0yYmtYUzVhek5oV2c0dEs0ODAxamstRXYy?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "The hottest AI models in Silicon Valley face a powerful source of competition",
+   "blurb": "",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1hWWUU0R2dWOFBNWUcwRHBZdm91YldIOWV3N1hWZUZoaF9sVll6R1BmVWxrbEhpVjQ1RnRqSXh2b3QzRmhKN25pZFo2NG5mTjZ2SEpfeERZay1lVlZyWmxKay1YTkRmc01lUjJkdkNWZ3RRaWlHaHlEVVJoNWptSVFVS3B5VXBXX2RqRHBxcUY4QVBSNUVia3pDWmFTRVpnYkNkVnhLTW5xYkc2UzJxc2MzeHVxcHpTSURR?oc=5"
   },
   {
    "cat": "robo",
@@ -31,10 +45,24 @@
   },
   {
    "cat": "ai",
-   "title": "Miller School Researchers Help Advance Award-Winning AI Model for Predictive Health Care",
+   "title": "SKKU Research Team Led by Professor Sung-Eun Hong Develops 'SyMerge' Technology Maximizing AI Model Synergy... \"Modifying Just One Core Layer is Enough\" | Newswise",
    "blurb": "",
-   "src": "University of Miami",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Gd1V2d29ONnpXLTJsMTlwbTkxYXltRjBtN2tERW1KamkxaS1ETDRxaFcyaUhMRDdidWpCNUQtT2xJX2Ztb1kzN3BuSnJLZVNjTjU4RTdvSzF2TUlqdlFkbFhsQ3ZLUHczM2ZIU0FxT2FxWUJ1LTlzOGFyQQ?oc=5"
+   "src": "Newswise",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUUpSNTUzYnZUbXgyVFowV25GWmhTd0hnN3VsODhBZFpMNnljRG1FVWdaRGprX1BTZDA5VzNMbWVVYWs1c3Z6cURJdXlReVdtN3ctSzhGN2xOZEhXS3hQSWNNaTdMZC0ybWQ4bmNGMkFGbW1MV0tLVzh6Sy1MQkkwSmdTQjZFN0htZ2U0d3J4Uks2am54UkJaQ3JDSXVsRmlKU0VIcHVjczJPY0dMUkNRNDZJQlZHOU9xN0RrVHVWMHdNZzRwTWloSVc5VnM0aktCTjhkRDhlMXl3Wi12YXBFVURXWW9PQllrU3JTY3FYaUtTTVFXYWJWa19OOEN6cDFSOGl5ZW5Ga3JQd2vSAYsCQVVfeXFMT1FKUjU1M2J2VG14MlRaMFduRlpoU3dIZzd1bDg4QWRaTDZ5Y0RtRVVnWkRqa19QU2QwOVczTG1lVWFrNXN2enFESXV5UXlXbTd3LUs4RjdsTmRIV0t4UEljTWk3TGQtMm1kOG5jRjJBRm1tTFdLS1c4ekstTEJJMEpnU0I2RTdIbWdlNHdyeFJLNmpueFJCWkNyQ0l1bEZpSlNFSHB1Y3MyT2NHTFJDUTQ2SUJWRzlPcTdEa1R1VjB3TWc0cE1paElXOVZzNGpLQk44ZEQ4ZTF5d1otdmFwRVVEV1lvT0JZa1NyU2NxWGlLU01RV2FiVmtfTjhDenAxUjhpeWVuRmtyUHdr?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "BMW elevates its AI humanoid robot strategy to include logistics",
+   "blurb": "",
+   "src": "cio.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0l3Z3BPQ25YU0Y1bzZ5SVhaNVVyeUdyUklYT1FBYVI2TkcycWVOREhpelFGVm9fcTZMOF9wUkdBZW1YTnNGSHNBaUNsbmtYMHdRSHJGUmNoQzBYV1Y5UXloX1R3Xy16TXBhZGNHbEVUdm5DR2hHb0ttRGhyNW5PMzJn?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Publishers sue Google over alleged use of books to train AI models",
+   "blurb": "",
+   "src": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUxBeUJpLWUzaE1zOFdHWFdmN1BuNUlVcnhMMjBLYzZtUDNFYS1BMGdybkljY2xPVHVIYS0xTVpHNGwxNGxwQ2cwUWhrdElXZ3UzRm5Pd1BaYVd2a3duZ2E1Qk5KV1FKcGxXV2dVZ1ZHa0RERkxVN053RmpnblM0Y0JqWGpRQXBYTXZOdWRSeko1dHppY3ZLTWdhWnkyUXh6Rzg1aEtGVzlJbS1odEVqTEpRYnk?oc=5"
   },
   {
    "cat": "robo",
@@ -45,10 +73,10 @@
   },
   {
    "cat": "ai",
-   "title": "Developers Claim OpenAI’s New AI Model is Going Rogue and Deleting Files",
+   "title": "What Economists Are Missing About AI",
    "blurb": "",
-   "src": "Gizmodo",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnBlUmh2WTBDd19HVHFhQkhjWVFuRzhUSHhRd1RpbExtYVBIM3pVWTJiaWxURkpPMmRMWjZuVzY1TmpFamVxZVZWTW1SVEN5RkxlX1ZXeXNsTnhHTlotRlBBMzYwMkI3aWFBQjN3OHp4WndGNjhDbUFsamwyUVdiUUg4dnM5eUFVQmg4VGZjdGdWTEVCSmU5NkhpOG9CRFYyWjhCSmFBNnZZMjk0cnc?oc=5"
+   "src": "promarket.org",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRnhaVzI3MHY0YlVXNVBHak1DQ3BkQzJKRlZocHJBSWhFdk5tVEhtZ0RwWWZHYktTUk9kaGNtdzlBNUVaQXpYR25aVldvcy1zM05zbUtZUURnalNyQW84MEFyZ1pmZWFlM1N0VExPMmc2WGJDdHlsektyVzZEdFU?oc=5"
   },
   {
    "cat": "robo",
@@ -56,34 +84,6 @@
    "blurb": "",
    "src": "News-Medical",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYk05c3JFZnpXS1BPTTZxSzNUUmdXSlRaVm8wd0FCODROMWVxSHVCWE11eW1HWHB3TGhnRHp5OEFxaU42RkJwRGtRYnZuX1dHX0RsUVRmZFlQT3NLdkFzb1ZocDFaNTJnS2NROWlySWhwVmtZYWZWUk01eXdyUjZJYVBTY1M5M3ExT0pTOU1pcEhxdFJaZVJKMXNIeERiWUlONElYQ01JUW5LYU9fa3FUS05qMWo5VkNjUDBTaS1kYWkyaEV1NFY5Um1qUWstVzd4Yk9lTXNB?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "SKKU Research Team Led by Professor Sung-Eun Hong Develops 'SyMerge' Technology Maximizing AI Model Synergy... \"Modifying Just One Core Layer is Enough\" | Newswise",
-   "blurb": "",
-   "src": "Newswise",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNXZwRVVZZ1p5bUs3VWZUQnR1bHZfbTltSGR0ZmxsYWdrNGJXQ19LN3lhci05Q1hCbmZEenRicjJEbS13eUFkbVFnemg1eXNfaGxhTW5CSHh1NGdHbjM4UmtaNGRVSnVPRFNLcnFyUnF2ZmdHeUdEeEFUNXhqc0huUTY0Rm56RklNWjVCTThUZG8tNG5iRllpZUFMa3E3VEtNaUl0VC1Sb2FDWVcwb1ZSTGdiRGFIaXJoaDFWbHpPWmFqb24zS0steXY1NUtxRkloMWlGM1RCQlFOdUFRZ3NNTzFPVExzUGYxckNjSExVdjZKU1dZU1RneHZzWC00cHQtMFNGTklxR0UzMTVBb05qUnFkMFhpQzdvcEVqMzR3Z0dsZ3Zq0gGkAkFVX3lxTE01dnBFVVlnWnltSzdVZlRCdHVsdl9tOW1IZHRmbGxhZ2s0YldDX0s3eWFyLTlDWEJuZkR6dGJyMkRtLXd5QWRtUWd6aDV5c19obGFNbkJIeHU0Z0duMzhSa1o0ZFVKdU9EU0tycXJScXZmZ0d5R0R4QVQ1eGpzSG5RNjRGbnpGSU1aNUJNOFRkby00bmJGWWllQUxrcTdUS01pSXRULVJvYUNZVzBvVlJMZ2JEYUhpcmhoMVZsek9aYWpvbjNLSy15djU1S3FGSWgxaUYzVEJCUU51QVFnc01PMU9UTHNQZjFyQ2NITFV2NkpTV1lTVGd4dnNYLTRwdC0wU0ZOSXFHRTMxNUFvTmpScWQwWGlDN29wRWozNHdnR2xndmo?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Startup Upset After Journalist Points Out How Creepy Its Humanoid Robots’s Hands Are",
-   "blurb": "",
-   "src": "Futurism",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVJkTEMxakh0Z3FHblVLTDk3LTNjN2xJTl9nS2Fjd3d6eDItay1nU0t4QmI1YkI3dDk2dk9yaVhZZVJqSVBtQU5QcGFtTzhyRF96dmstUUVBRHd6NmdvbWFGSXp6b0Fra2NXdnNGQU1KbUcyS3gzLURRWnhXRDA5d2lnczE5S2VZdmkwSQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Eluviant Launches Video AI Model for Enterprise Surveillance",
-   "blurb": "",
-   "src": "Occupational Health & Safety",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRFNpLXd0bW9DSVRTS0IxaFJlOXM3cnhfNWlXT2VOQWhTZ08zQlZmUGtmR3dZcHdkOHBzTjVpUGctUDBOSzNmWGh5dHVkV0MzWWVSMTN1S1VuWnVwNUtCbFdxanhIclZ3UUpTYkxJYXg5U01WOHVJWHFVV0JhOUhud003Y1l0d1ItTlBPZko0b1B6Wjdkb1ZxR2FhMkVJU2VySTdNOHV2RXdzdHc?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "BYD’s Bold Plan To Beat Tesla In The Humanoid Robot Race",
-   "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDI3clFrMEcxaHBZbmpHa21WdEVFWUVTeFU4eklxelFOLTZZdHNqNmZuUGFhazMxbktwelB3N3FjYXMxa1I0Vm1IVUpyMjZjS0JrbTZRWmFaSnh4X3p4bWFWckFob2haMXVQY0JtdWdYZEJjbkRpaWU3bUQyUHhQYlBDMnBTZmxOZzA4VGh5M2FsNU0yYmtYUzVhek5oV2c0dEs0ODAxamstRXYy?oc=5"
   }
  ]
 }
