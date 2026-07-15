@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T22:00:08.967Z",
+ "updated": "2026-07-15T05:34:52.124Z",
  "items": [
   {
    "cat": "ai",
@@ -17,6 +17,20 @@
   },
   {
    "cat": "ai",
+   "title": "Publishers sue Google over alleged use of books to train AI models",
+   "blurb": "",
+   "src": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUxBeUJpLWUzaE1zOFdHWFdmN1BuNUlVcnhMMjBLYzZtUDNFYS1BMGdybkljY2xPVHVIYS0xTVpHNGwxNGxwQ2cwUWhrdElXZ3UzRm5Pd1BaYVd2a3duZ2E1Qk5KV1FKcGxXV2dVZ1ZHa0RERkxVN053RmpnblM0Y0JqWGpRQXBYTXZOdWRSeko1dHppY3ZLTWdhWnkyUXh6Rzg1aEtGVzlJbS1odEVqTEpRYnk?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid robots perform live surgery in world first",
+   "blurb": "",
+   "src": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaENyU1J2RWhJODVkTDNBNWdWTjZkNE1qbnFDc0I4dUM5Y3JfaWRsaVRCd040VzBxUWFyRWVsakotbFRFbVp3aFpTWU0tQjB2MGtFNWZ0cWNCVWdwSlF4eUttcmdMRnFwNHZ6aHRWTlljZGgwUlJ3S20wRlZobDAyQ1l5SdIBiAFBVV95cUxOLThBZEdIb1pRRmZ6TXExbllEc3ZWQWF0RS1Iczl0M19GRVZEQnZkV3AyU0RJNUdtU2hiR1QyQzc0dTVrVF90RnAyM3ctMHZYTjJPWFN6RTM2MXVpR0hNLXBUbm9jeTRDU19kby1oRVUwRUFIT19vWUQ0cXQ5RTVtOUNPRVB4cnVu?oc=5"
+  },
+  {
+   "cat": "ai",
    "title": "Miller School Researchers Help Advance Award-Winning AI Model for Predictive Health Care",
    "blurb": "",
    "src": "University of Miami",
@@ -31,20 +45,6 @@
   },
   {
    "cat": "ai",
-   "title": "Apple in talks with startup that shrinks AI models to run on an iPhone",
-   "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qX2IzYlVuZ0VmQnhJMmF0Ti1hV1lpYlJLdVd2T3JzWlpYRHAxMWpxcXpzcENsZTVfcERxM3B4aHFsemw1Q05qTXE2YlVtSE9nbUVsWmVhY0RCOFhNS0lHMXc4RHJnbFFfWmdMMV9DSDVrNzdCS1p2eDFTYmjSAYIBQVVfeXFMTVNRUWRxSmZ4bkxTZEk5UTU2TV8zeE0zV2lHS2Rtc1RlVGtURGt3eFc2WDdRZ0VoQ0RKcDhBMmJreFdyNWNtMmEzNkVKaENZRFFmY0lXUUQzWDQxeDQtYThYeVFhUzZSdzNiSnMxc0xwbjBhU0hCbmVfMUNIY0VsOEg1QQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid robots perform live surgery in world first",
-   "blurb": "",
-   "src": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaENyU1J2RWhJODVkTDNBNWdWTjZkNE1qbnFDc0I4dUM5Y3JfaWRsaVRCd040VzBxUWFyRWVsakotbFRFbVp3aFpTWU0tQjB2MGtFNWZ0cWNCVWdwSlF4eUttcmdMRnFwNHZ6aHRWTlljZGgwUlJ3S20wRlZobDAyQ1l5SdIBiAFBVV95cUxOLThBZEdIb1pRRmZ6TXExbllEc3ZWQWF0RS1Iczl0M19GRVZEQnZkV3AyU0RJNUdtU2hiR1QyQzc0dTVrVF90RnAyM3ctMHZYTjJPWFN6RTM2MXVpR0hNLXBUbm9jeTRDU19kby1oRVUwRUFIT19vWUQ0cXQ5RTVtOUNPRVB4cnVu?oc=5"
-  },
-  {
-   "cat": "ai",
    "title": "Developers Claim OpenAI’s New AI Model is Going Rogue and Deleting Files",
    "blurb": "",
    "src": "Gizmodo",
@@ -52,17 +52,17 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots Just Performed Surgery Using Standard Medical Tools",
+   "title": "Humanoid robots could take on low-risk operating room tasks before assisting surgical teams",
    "blurb": "",
-   "src": "Gizmodo",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObDVLWmVNOEJZaTJFRkF3VVpJbnNlamc0VzRQUVUya3plVzFsUmRLalRFenl3OW9mUG1xdnZRcDcxWDdyamxpSmdzUHRrcUY1em5WZUdmd2U1ZHlWV0ZLbGRwczc3c3FFTjh3UzhFMi1tdk14Y0lHaGdEa3Y3b0hFMWR6QkpGRHkwR1BSdE81VDFPX0xnZ0pHQWhEMFAzVkk?oc=5"
+   "src": "News-Medical",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYk05c3JFZnpXS1BPTTZxSzNUUmdXSlRaVm8wd0FCODROMWVxSHVCWE11eW1HWHB3TGhnRHp5OEFxaU42RkJwRGtRYnZuX1dHX0RsUVRmZFlQT3NLdkFzb1ZocDFaNTJnS2NROWlySWhwVmtZYWZWUk01eXdyUjZJYVBTY1M5M3ExT0pTOU1pcEhxdFJaZVJKMXNIeERiWUlONElYQ01JUW5LYU9fa3FUS05qMWo5VkNjUDBTaS1kYWkyaEV1NFY5Um1qUWstVzd4Yk9lTXNB?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Doceree Unveils Semmelweis: The First AI Model Purpose-Built for Pharma Commercialization",
+   "title": "SKKU Research Team Led by Professor Sung-Eun Hong Develops 'SyMerge' Technology Maximizing AI Model Synergy... \"Modifying Just One Core Layer is Enough\" | Newswise",
    "blurb": "",
-   "src": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcE1ORUhzWFVVUHotaFJvaXNhanZKWjhaZ1UxVTR3cG5OWUlDdWQ2b09VMnBheGVybFhvNkgyX3hLZk5UTmRxUlY5SXJ2TjhjZFZsdVd0VEhGeU9WRndTazU1QW5xQndqZTBlQmdQZXRuejMyWWxPTDhEU2Q2bTB4UjlLbnVoWTZQa0JmX0FQdGxMbUlJczZsS2liYlRfWTB0cnV4cWZWRnFtOFBRQ1VSRFU0cmpWb0ZnYmhPYWdVVS13NTltLTRVY0t1Q0pNcmRpdWFzVVl1eDQ1ZUYw?oc=5"
+   "src": "Newswise",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNXZwRVVZZ1p5bUs3VWZUQnR1bHZfbTltSGR0ZmxsYWdrNGJXQ19LN3lhci05Q1hCbmZEenRicjJEbS13eUFkbVFnemg1eXNfaGxhTW5CSHh1NGdHbjM4UmtaNGRVSnVPRFNLcnFyUnF2ZmdHeUdEeEFUNXhqc0huUTY0Rm56RklNWjVCTThUZG8tNG5iRllpZUFMa3E3VEtNaUl0VC1Sb2FDWVcwb1ZSTGdiRGFIaXJoaDFWbHpPWmFqb24zS0steXY1NUtxRkloMWlGM1RCQlFOdUFRZ3NNTzFPVExzUGYxckNjSExVdjZKU1dZU1RneHZzWC00cHQtMFNGTklxR0UzMTVBb05qUnFkMFhpQzdvcEVqMzR3Z0dsZ3Zq0gGkAkFVX3lxTE01dnBFVVlnWnltSzdVZlRCdHVsdl9tOW1IZHRmbGxhZ2s0YldDX0s3eWFyLTlDWEJuZkR6dGJyMkRtLXd5QWRtUWd6aDV5c19obGFNbkJIeHU0Z0duMzhSa1o0ZFVKdU9EU0tycXJScXZmZ0d5R0R4QVQ1eGpzSG5RNjRGbnpGSU1aNUJNOFRkby00bmJGWWllQUxrcTdUS01pSXRULVJvYUNZVzBvVlJMZ2JEYUhpcmhoMVZsek9aYWpvbjNLSy15djU1S3FGSWgxaUYzVEJCUU51QVFnc01PMU9UTHNQZjFyQ2NITFV2NkpTV1lTVGd4dnNYLTRwdC0wU0ZOSXFHRTMxNUFvTmpScWQwWGlDN29wRWozNHdnR2xndmo?oc=5"
   },
   {
    "cat": "robo",
@@ -73,17 +73,17 @@
   },
   {
    "cat": "ai",
-   "title": "Honoring the Innovators Driving AI’s Next Era in Life Sciences and Healthcare",
+   "title": "Eluviant Launches Video AI Model for Enterprise Surveillance",
    "blurb": "",
-   "src": "Genetic Engineering and Biotechnology News",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQlAtZndLQVkxMGxkekIzRHRJY3hGUHJpSlRFTVdJUGFKVkdWVUIzU0NjLXZhZUlvb2JzTFpLRFJmdzBjM1VDRXk2Y0JFbTlFSUJ0V1FXTmFzeElNMnR0RXNDS1dhQjBBR3ZNdG1fTm82MGFwZDdGbDUxQTVjdTRhQWdNUXVmNno1QjNkX1Y4VkZFQm9kV0hjUUpIMzVEbG5PV1psbFhEUldrS245ZlpYSFJEMWVrck1VVXNxUGhnc2htdVJDWWhZX2VDRHU5UE1Y?oc=5"
+   "src": "Occupational Health & Safety",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRFNpLXd0bW9DSVRTS0IxaFJlOXM3cnhfNWlXT2VOQWhTZ08zQlZmUGtmR3dZcHdkOHBzTjVpUGctUDBOSzNmWGh5dHVkV0MzWWVSMTN1S1VuWnVwNUtCbFdxanhIclZ3UUpTYkxJYXg5U01WOHVJWHFVV0JhOUhud003Y1l0d1ItTlBPZko0b1B6Wjdkb1ZxR2FhMkVJU2VySTdNOHV2RXdzdHc?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots in BMW’s South Carolina Factory Create More Questions than Answers",
+   "title": "BYD’s Bold Plan To Beat Tesla In The Humanoid Robot Race",
    "blurb": "",
-   "src": "BimmerLife",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXBCdWNiVWRjT0JVdGZfR1kySmk5azd5Q3RNQjhpazAtQ2dZNFJGRm9Rei0zbzFQSms0WHJXZzVqR2NTOVpBNG94cnR0NXE2YnFHSEppcHBzaDRkTkRLVUM0aVBoRzdmVVprLTVOUUxQb2YwTlY2RHhhcFJVS253UlVSbFdFcE43ZmNodnZCQTFwQ0NWc2EycmRxNERkMnh3NGowRlhJUUYxQUpQOWNOT0EtLW1ZeWfSAbwBQVVfeXFMUC05UUNSZWpZOWkwSDZFYkx6THBLQVBKc3BfeWVES0VNcUsxdFlZaGdxYjZmSUdid2d1ckFpRnd3bjVPeVJPRGMzN3ROcklGY3dFMFpOUEE5M2YtdFgzMWV2TUhvU1dGRkJta1NtZXU4TnRYQWtrMlptQmU5VGtiS2laTXZ1WVVGRk1NSGNHNTYzNWRUMnJGd1dweXJsMU5nd1RxcERpRl81QkE4eE55bHBzb1B2YXhaV0VIU04?oc=5"
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDI3clFrMEcxaHBZbmpHa21WdEVFWUVTeFU4eklxelFOLTZZdHNqNmZuUGFhazMxbktwelB3N3FjYXMxa1I0Vm1IVUpyMjZjS0JrbTZRWmFaSnh4X3p4bWFWckFob2haMXVQY0JtdWdYZEJjbkRpaWU3bUQyUHhQYlBDMnBTZmxOZzA4VGh5M2FsNU0yYmtYUzVhek5oV2c0dEs0ODAxamstRXYy?oc=5"
   }
  ]
 }
