@@ -1,19 +1,75 @@
 {
- "updated": "2026-07-16T16:18:52.556Z",
+ "updated": "2026-07-16T22:05:13.187Z",
  "items": [
   {
    "cat": "ai",
-   "title": "AI chatbots at risk of spreading government restrictions on online speech, new study says",
+   "title": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
    "blurb": "",
-   "src": "NBC4 Washington",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEtycElzek9RcUlTTkc2dU5iT29xOEhRRWMwbGV6Y0tyTTBSWVo0OGJWWDc5YTJLMU1nc3dxWlg1OS05YjJzR3B0cnA0Q3p5SnVDaS0wR1IzSmxSbGc0Ti1yV21HZm12NTBjVlc0REo5V2I3U2xSOWpsd3luRDRXYTljYW5iUWJIMTQzSVBpOG52R2dSRzJrZE5od3NDTGhWTy1fX1k1Q2lDN0RiSU9SRg?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KcVo4dnRDMVczTlBUZWh5ZUhnaEZDUC1pQXZYbHlsRl9oMXZSa0dMZzB0SlMwaTNqdGZ2RnhmQ0FuYVFpQ0g2by1acFJqVVR3MlNhM21ZcEtfS0IxaU5vNDZnRXAtdmg4bnBlVG5aTDhhM0FUZFFmU9IBfkFVX3lxTE1SNmF1cjBfZGMxaC00STBqeGJjMFVEWFpnQzNab2Z2d0VtMHkxcXRnZkZyVEN2ZXY0RWNOMXA1ZlljTTdoR3RENWRZRWlROVlkenFiQkJMZ0dnQS1QeUt4Qm5ET1h6SXZOd3o1NG5GYkUwbnlvY3hremJEVEx6Zw?oc=5"
   },
   {
    "cat": "robo",
-   "title": "USC Advances Humanoid Robotics, Robot Learning and 3D Manipulation at RSS 2026",
+   "title": "Researchers Create Faster, Cheaper Way to Teach a Humanoid Robot to Walk Over Real-World Terrain",
    "blurb": "",
-   "src": "USC Viterbi School of Engineering",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWw5d0U4bkxndDJ4eE1HaDVrY25XM1lxbnBLM1BKOEVrNW1qOW5RdDYtV3c2cG1yQk1VN3ZfMGdBaFYyTUNGc3NibktzeGZ0c0pObEt0ZkU5aE53S1FzdWx4a05aeGV2dDVXZHFLSUQ4aXRvX1FTLWdpYnBjejlWZ0J5X25hTHQ3cFdyZjMwTGlQUkdiQVVBN21qMWlkVUwwc3RHal9ZeV95WElMci1GN1d3aW5oXzFvaDBhVVp3?oc=5"
+   "src": "Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV6b2RlM1ZfQ1l3SGlVblFuTmRiLTh6T1VaMTBycjBkMnZ6X2tCVmlZc29YclNqWWdUNXZwdkZGUWhtVndGVXE3M21TdEdCMkZYUFN2VF9iVUdyUURVUkMzQmJBTmF5WlNVTUE0ZWV4ZndBWWE1RzRTRVExLXlrT3V5UmR0VlF0SnppalAyUzRyWTdiVDlEek1GRjVVZXBLdnBzeHhlZWQzVzlDZ19mVVlvZDFmZw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Google Stock Falls Amid Delay In AI Model Release, Nasdaq Retreat",
+   "blurb": "",
+   "src": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjJvdkhrSTRCQkpiUXlxTjZvVmhlVDVYSmlxV0t3Z2hXMXVsamE0OFZ1enlIMGZOWDdZNDRvVTlTcU1uRGo0LWpNVjVKV04tZDJseUZ4VkpWUzQySEdDUDVUYVZHbG9LTkhlWU1SWnd0Tk9iRnRTeHVIXzNBZVozYmxZczFGVjRqcXl4VVRqU3BZQWV5eUFnWlNXc3Fzams?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Nobody Knows What a Robot Is",
+   "blurb": "",
+   "src": "The Foundation for American Innovation",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAydktWdmxzR29tRWh1Y0o2aVRJOUgwa1Z1a0tpNHZjVWVpVXhrb2psVXRkVU1YTDFUWk1aaklYSlptcEZ1OGVEenFyZ1Bjd2NfT2VjdHVzelFUZU5LMm5tWnR6NnQ2OFZm?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Mira Murati Drops Her First AI Model After Leaving OpenAI—And It's Fully Open Source",
+   "blurb": "",
+   "src": "Decrypt",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11WEFRVVhHN1JoQkV1Vk9UbGVfQWNIa21DQWo5XzJlSUo3OGpfR2c3d085am0xVmY1ZF9COVFvcWxJeE1rRDhlTTdCZ2x2NGJjOUJLaHJjcWVGUG9GR2FHYnVJRkJvSUJoSGktOTFveWJmZThBVDJhdkpLbVROQdIBhgFBVV95cUxQNEY4OXp4MG5VUTY2RGRBRkNNVDA4RXRGSVVCS2UzMXJkNEcyUW1vSFZZSjh2RUpoN0JzUDhMUlI2NE5FR1MyZFVBQ0FPcjVDZlBVZjV4WjUxWVFDM2s2cVlJd2xrWTF0UHpCWXhzTVJIdkNHcWpHdGxzRXdXQ1loNldxZVNGZw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "AI humanoid robotics company sets up shop in Fremont",
+   "blurb": "",
+   "src": "East Bay Times",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeld4ZHhtcjhSZnZGekQ0d3BkOWVYZVA5d1AtaGI5SEEzaG5WbENnTVNibmVFNVp6aVhKX3VHYmtDdnNlWndJRnlKN2pIWWFOSVRnNFJGQ1BISnNFdndLeTg4TjJQQjZqbmZNbzd2M1hTdXI0aloyeTI1Sk5YSXI2ZWU1UWV6bURuakFDU3g2Z3ZRRGpTQ0pib3F0b1dVTkI2eURqRUVaVEVVWnJ0SnNr0gG0AUFVX3lxTE1nM21seXJScUF0cFhGVVJ6T0JJamJacVYwWWExTUtzOVhiVE1xc0RhaGxOcjhkbVZ2TEpmdk9Td3M3d09oQlFBYVJnUVd3d1NobTBzSUZ2UUVBZTNrNkNvQVROM3g1bGx3cVhZWjRvdE9XSnpNeUswdFJ5bEtoT3ptUzBtMGx1R3dyanFJVi1jcFF0ZGNMTElfNnBhUWxXMzFaT0tkQTdKU3Exb1Y3Njkxa1JGOQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Responding to AI Distillation Without Panic",
+   "blurb": "",
+   "src": "Lawfare",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTG83WXJzY3oxU21LYUd0Sm1hSTlzT1o4Wm5mdzhWWnpHbk5KcDF0VDhRek81UVp5Tk9yaVp5NzkweXRxTjVKV21abTU3ZFFiVS1uMUIzWmZmSXFIcWxMQWMxMzRTQzJiY1pYVGg5SmpnMHI5TjhDOHRSSW1yYU43dGRQM2otNVk?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "China Sends Robots Into the World to Learn How to Be Human",
+   "blurb": "",
+   "src": "Insurance Journal",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94RE5zU2kwQlF1ZGRiaVNsZzRKSXJCMlN4RlpSQk5LMTF5MXRhTloyNkoyNVd5Uks0TUdiNnZUX0lweXR6U05NUDdEUDJWNTJKSEoyejVFd0ZKZU1IMERGNmtvQVIydUFQaUY0UWVHbTJsNWc0bEJEWi01aUlNQQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Stop Questioning the​​​ Legal​​​ ​​​AI ​​​Model. Question the Foundation​​​​​​",
+   "blurb": "",
+   "src": "JD Supra",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXhyamtHNEV5aTBYb0pCSWk5R25GSzNnbFVGaTRGSGluMXcxYS11aGh2NVFCNXpjNlhoN3A0UGdwTFhZSEIzUXRFTExPNEN5OHJQSnh0Nk1IeTJpWVZuX0Q5NF9mX241UmJfbXdUZjA4dmVFTEllRTRKWERGbWxCZWM2TUM?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Industry Insights: Humanoid Performs Successful Gallbladder Surgery",
+   "blurb": "",
+   "src": "A3 Association for Advancing Automation",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3p3dkpGS29UR2FRMWxWQUo5RHRhNXUzYXlHak5EVlRMUTVQelpOdXh5TklkNk4tZU5EUjBJNnBnRkRZemh2alpRVjJhUUZwaGdqMjVkNW8tbzlybHMzdXI5R3Y3WnY4Q3FTWk9BUlZUVE4td2EwSmpxUlREQlpTQ2FwN3dXanZiVDRxTjhpTHhFdmp4aGZfQ3p1bVlHcG9jdDBwOVFpTG1OcWRwcHRuczhVMjdjQzBkTlE?oc=5"
   },
   {
    "cat": "ai",
@@ -24,66 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "Industry Insights: Humanoid Performs Successful Gallbladder Surgery",
+   "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
    "blurb": "",
-   "src": "A3 Association for Advancing Automation",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWp3ZlhUd0JhWF9VTW1RV2JqaWlLVkNIanlMd1JvSURTeVd3MnNockwwbFNFejM0alZDUnVLZ2llVkhJUTVPV2cyTjluU3dLR3V2UXRiZ3h3Yk1XMXFGQzlPMmxhczd5QXR2XzVNUS1WQV9KQThTZmNnN3dzV2JBY3B3MXpRLUJtZUdWWXAtN1hGWnJrTVJhak9zbU5ZQl9aaGFBYjFqS29iZ1R5OTRORFQzSFM?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "The A.I. Transforming How Cars Are Designed, Engineered and Driven",
-   "blurb": "",
-   "src": "observer.com",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjliblR5b2NmYVgxcnFRcFBmVmVnRkc1b3FiTmttdWpqT25IQWZidXJUTjNIX2FrZDZYRXRaYW1zNkM4XzM2WEVRcS1Oandqc0VKemEwb3djaFdXVGNtLW9lUldTaVFaYXhHaDN4ckRuWTNkdzNvSEVYYWNaYWRCU19KN2VqZU5MSktzZG1tTWZJU0pERlFka0JfQ0Q0WU82Ni1PMw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China's EV maker eyes mass production for humanoid robots ahead of launch",
-   "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWFhJd3Z2MVpRV25CcHIxd3lvQTBWSFdreHY3WHdnNHJMWkl5dmQta3RTMU90RDZYY2paajRYMkVXOXZVd0xmSl9YaTN3MUh6YTFZOXFtNW9ZT3BCYm1qQmFGcjJJQ3E1cG5oSmJSMC01TXItNnBlZ3Jzek9kbl94QnZvOA?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
-   "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRlRKeDJCZWhSbUxXbTV6dTZPeUhPZ3FiN0MzV1pnVXM3NXAzRjRoTVJYSWhxVW0tNGctUVY4QzRIT3lTMUlWRHlNeTFubW11OTdMNHFEd09GMWxHcGRMVkJNcWlIS2I3bFZFVkpoWnNYUzJFOU51ZEprM3RGdE13SVRB0gGHAUFVX3lxTE1YWm5zQU5aTlhaSm10UEJPdENLSTVMTzBuQU5lY0xNX2hpNXFrTERPRXF4OHM3VE9NRElXcl9xQU94ODl2SG1rejVONUFUbnF6eTZtWGcydnV5Y1R2bTd0VHFzLWY1SEJTbFJNbmN5RGZsV1dGSXNnZDRSYnU4a2YwOU9WcGxIYw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "What I Saw at Automate, Part 2: The Future is Humanoid?",
-   "blurb": "",
-   "src": "ARC Advisory Group",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TdGg2WV9qQVRqTE9EaTBBeXFWdzRpdzd4SVNwRnZHalM3ZmlKSV9fQWJzbkNHdmF6VklpcEExRDNWeFh2ZFpVbG5MQWlsaGE3dm1HMkxaN3NhNmpJTmdqb1h1d05HNlk1dU5aekZna1d6ZjlqNWNKMGd3?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Will cheap specialised AI models threaten the Big Tech chokehold?",
-   "blurb": "",
-   "src": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDF0eTlMMTZKcU1HQmtWOGtIT2VsTUs3aC15X3h3WnotU1hHbHZheWtGbllLdmJhSFZVdlhadWlGS3ZuSWxoMlFJbndDUktJS3BPN3lQdHJtSG9YNElYeXRack9YQk0xdDIyZkloTUM1bzh2Uzd1NV85U2NjampVMndINm4?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Chinese humanoid robot achieves a global breakthrough",
-   "blurb": "",
-   "src": "China Daily - Global Edition",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVlREU0twbzM5ejFNS0pxOVlhc2tGQm81aHJtMW4tYzFEZDJHSThvQ2ZWN1FkMFp0Ym1Ja3pjUW5vTzVUMVNVZVVrZEpRVE1XRkw1b1l5bHAzSlJKSENsOEJFUHNBR3lqT2Jsai1aUkZrYW9XSjlmT0hkQk91R0V5czdn?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI: Thinking Machines next US open weights AI model entrant. AI-RTZ #1149",
-   "blurb": "",
-   "src": "AI: Reset to Zero",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45OEpFaEQwcy1NdjZfNkJTODl1eDFvSEhvUFI2OWZkSjh4WHNIZU9feThYSjNlREJUSUQ2dm1RT2FaV2k2TnFWanFCeV9oS0tDTFgyc1ZYTXFQc2w4Y0pDdUFDS01lWGlxdi1EWWpnWlFkcnZCRHdzY1Bn?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "When will humanoid robots go to war? As early as 2027, CEO says",
-   "blurb": "",
-   "src": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2lfbld3SVBaaGdSd3puM28zU3BVclNKOFlRUWo5alNhcjdrbXZyOHRHU244YWVwNmhmYzQ4VE5mbi1nOXU3am4wWkQwdVdMbEFjZnpza3RPS1R1dGdodGZxOFcyeHR2eC1xbDd1QjdadVQ2VlZXRFVwWVR5dHEzS2NIZmV2ak1nenh4VTlkVUpld2pCcXVSWUxkVEJBLXM1d1FjZDBmTWc3Nko3UnBXVjAzYTNrbVgxR2cybTE2Q1BlSFVtekNYSnVyRQ?oc=5"
+   "src": "Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2c2QlRyT29GUVI2ZXFJMlptMGdaYktENmpjaGJwUlNfVG4wT0NCWDB4bmV3Mno0MU5yX2lybENudkpVUHlQemtmQXNxYWFRZWp6U2l3eWVzRkJ1cGZJeUNSV2pjeWV2RllWZGJMQ3dEd1BxSDNNX2xOdW85N1hDSW9LT0pnTmFNQ2tqdUlFNXhoSmhOU0ZhVFZYb1FaRTV1cnpzajNIWVlRZGtheTBtVFR3UQ?oc=5"
   }
  ]
 }
