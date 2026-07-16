@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-16T11:02:33.787Z",
+ "updated": "2026-07-16T16:18:52.556Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Murati’s Thinking Machines releases first AI model for broad use",
+   "title": "AI chatbots at risk of spreading government restrictions on online speech, new study says",
    "blurb": "",
-   "src": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHZmVXduVjhLM2RvNUl3dEw0RmVlc2daOWxqaVFGVXl5blN2UVExS1RxRjB4Y29fTDE3enVRQ3EyNTQxSDA0OXJVZ05mUkxPT0RsMmJQRjNoNjdkSC14N2w0cXltNGhGWkdIanoxUllWbkFLR1RnR1dUX0x3RW5HenVYZk1BSEk3SjNyeFRwMEk5bjJ1MW5B?oc=5"
+   "src": "NBC4 Washington",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEtycElzek9RcUlTTkc2dU5iT29xOEhRRWMwbGV6Y0tyTTBSWVo0OGJWWDc5YTJLMU1nc3dxWlg1OS05YjJzR3B0cnA0Q3p5SnVDaS0wR1IzSmxSbGc0Ti1yV21HZm12NTBjVlc0REo5V2I3U2xSOWpsd3luRDRXYTljYW5iUWJIMTQzSVBpOG52R2dSRzJrZE5od3NDTGhWTy1fX1k1Q2lDN0RiSU9SRg?oc=5"
   },
   {
    "cat": "robo",
@@ -17,17 +17,59 @@
   },
   {
    "cat": "ai",
-   "title": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says",
+   "title": "Ex-OpenAI CTO Mira Murati’s Thinking Machines Launches Its First Open-Weight AI Model",
    "blurb": "",
-   "src": "MyNorthwest.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOUtNUDVWYU9lM1JiQmpyV2c4WG1xbVVCN2l0c3pzazIyNnN0dnNZUVhiVW9FRkV3ZU5xc2c5ZEdBSnJCZzdsNDFmR2FLWW8xaUthQ053eVpuUjFYSW5iTFJtNUYwZ0VnZUIwTkR0QVE2TndWblJLR2lTQ2NLM1o1aG1qUEItUlJLN05FbUJrZmhRQ1dadk9kM3NTMllOZ3Y1LTczN2RiUG91MVIyNXdEWDM5YWxiM2JTR19iUnhDd3RWeTJydThGLUJ3M2FpUGtk?oc=5"
+   "src": "MIT Sloan Management Review Middle East",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3lTTXZtb1pFMWJORENlYk9lRFc1UmdwaTh1SEdRaTdUX1JKeUJmNXV2Y2FKZ2FEMHE0SDJYWldkbmY2QUV2ZE15TUp1a1Y0ekl1ZzJMTEs3NkE2ZHFaTUg4WFF2N0hEU2NmYUMzR1FMSlN2NWhCS2x3UGJaNWNVYnVld2ZYQmRscDhwZFFSeU5hS1RNSkJBay1wUmZPVFZINU5jUmhRU25iQzUzMmFpQ2xIZnJWRXV1WGtV?oc=5"
   },
   {
    "cat": "robo",
-   "title": "When will humanoid robots go to war? As early as 2027, CEO says",
+   "title": "Industry Insights: Humanoid Performs Successful Gallbladder Surgery",
    "blurb": "",
-   "src": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2lfbld3SVBaaGdSd3puM28zU3BVclNKOFlRUWo5alNhcjdrbXZyOHRHU244YWVwNmhmYzQ4VE5mbi1nOXU3am4wWkQwdVdMbEFjZnpza3RPS1R1dGdodGZxOFcyeHR2eC1xbDd1QjdadVQ2VlZXRFVwWVR5dHEzS2NIZmV2ak1nenh4VTlkVUpld2pCcXVSWUxkVEJBLXM1d1FjZDBmTWc3Nko3UnBXVjAzYTNrbVgxR2cybTE2Q1BlSFVtekNYSnVyRQ?oc=5"
+   "src": "A3 Association for Advancing Automation",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWp3ZlhUd0JhWF9VTW1RV2JqaWlLVkNIanlMd1JvSURTeVd3MnNockwwbFNFejM0alZDUnVLZ2llVkhJUTVPV2cyTjluU3dLR3V2UXRiZ3h3Yk1XMXFGQzlPMmxhczd5QXR2XzVNUS1WQV9KQThTZmNnN3dzV2JBY3B3MXpRLUJtZUdWWXAtN1hGWnJrTVJhak9zbU5ZQl9aaGFBYjFqS29iZ1R5OTRORFQzSFM?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "The A.I. Transforming How Cars Are Designed, Engineered and Driven",
+   "blurb": "",
+   "src": "observer.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjliblR5b2NmYVgxcnFRcFBmVmVnRkc1b3FiTmttdWpqT25IQWZidXJUTjNIX2FrZDZYRXRaYW1zNkM4XzM2WEVRcS1Oandqc0VKemEwb3djaFdXVGNtLW9lUldTaVFaYXhHaDN4ckRuWTNkdzNvSEVYYWNaYWRCU19KN2VqZU5MSktzZG1tTWZJU0pERlFka0JfQ0Q0WU82Ni1PMw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "China's EV maker eyes mass production for humanoid robots ahead of launch",
+   "blurb": "",
+   "src": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWFhJd3Z2MVpRV25CcHIxd3lvQTBWSFdreHY3WHdnNHJMWkl5dmQta3RTMU90RDZYY2paajRYMkVXOXZVd0xmSl9YaTN3MUh6YTFZOXFtNW9ZT3BCYm1qQmFGcjJJQ3E1cG5oSmJSMC01TXItNnBlZ3Jzek9kbl94QnZvOA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
+   "blurb": "",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRlRKeDJCZWhSbUxXbTV6dTZPeUhPZ3FiN0MzV1pnVXM3NXAzRjRoTVJYSWhxVW0tNGctUVY4QzRIT3lTMUlWRHlNeTFubW11OTdMNHFEd09GMWxHcGRMVkJNcWlIS2I3bFZFVkpoWnNYUzJFOU51ZEprM3RGdE13SVRB0gGHAUFVX3lxTE1YWm5zQU5aTlhaSm10UEJPdENLSTVMTzBuQU5lY0xNX2hpNXFrTERPRXF4OHM3VE9NRElXcl9xQU94ODl2SG1rejVONUFUbnF6eTZtWGcydnV5Y1R2bTd0VHFzLWY1SEJTbFJNbmN5RGZsV1dGSXNnZDRSYnU4a2YwOU9WcGxIYw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "What I Saw at Automate, Part 2: The Future is Humanoid?",
+   "blurb": "",
+   "src": "ARC Advisory Group",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TdGg2WV9qQVRqTE9EaTBBeXFWdzRpdzd4SVNwRnZHalM3ZmlKSV9fQWJzbkNHdmF6VklpcEExRDNWeFh2ZFpVbG5MQWlsaGE3dm1HMkxaN3NhNmpJTmdqb1h1d05HNlk1dU5aekZna1d6ZjlqNWNKMGd3?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Will cheap specialised AI models threaten the Big Tech chokehold?",
+   "blurb": "",
+   "src": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDF0eTlMMTZKcU1HQmtWOGtIT2VsTUs3aC15X3h3WnotU1hHbHZheWtGbllLdmJhSFZVdlhadWlGS3ZuSWxoMlFJbndDUktJS3BPN3lQdHJtSG9YNElYeXRack9YQk0xdDIyZkloTUM1bzh2Uzd1NV85U2NjampVMndINm4?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Chinese humanoid robot achieves a global breakthrough",
+   "blurb": "",
+   "src": "China Daily - Global Edition",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVlREU0twbzM5ejFNS0pxOVlhc2tGQm81aHJtMW4tYzFEZDJHSThvQ2ZWN1FkMFp0Ym1Ja3pjUW5vTzVUMVNVZVVrZEpRVE1XRkw1b1l5bHAzSlJKSENsOEJFUHNBR3lqT2Jsai1aUkZrYW9XSjlmT0hkQk91R0V5czdn?oc=5"
   },
   {
    "cat": "ai",
@@ -38,52 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "Chinese humanoid robot achieves a global breakthrough",
+   "title": "When will humanoid robots go to war? As early as 2027, CEO says",
    "blurb": "",
-   "src": "China Daily",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XT01jSGFoSTllbnh4NGVKZG55Tk94UDN0Xzk5dVlaa2xOVDJrS3hIOVVPWUJzUmY1dUVtU05pY09rMXNSNFBoVUc2STNnV08wWG1YN3IwS20zWFg5aTFRbUZvLVdFdFRwME81Zmk5Q0YxX182Q0FZbXBNVWhPdw?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI Model Predicts 348 Diseases from Electronic Health Record, Genetics",
-   "blurb": "",
-   "src": "Inside Precision Medicine",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSmdlaUlZQkd6SWpacjhmWU9XVVNLaTE5bU9uV0Y1c3RvaGtKMk03aFlta2VZdWR4cHF5dko0TVdUbXN5aGY1Rk1NRHFNQmczSF8zMmNiQmtQTVh5Sk1UQ1NFb1FwaExJazE3TTlsVHEzWFdfZWpOa2JzVFZfWmJZc0ZNdHZmMzEzbVRwcnhrM19sTFZja2hsOFZ1WjNGVWVqNE9KaFBWUmNDSGlRX1JGMHJDdURla0RlUGpvN1JpczAyQmp0aDkw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time",
-   "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM3p6aHI4Y1lhcG1RSndpVy02eWk5bzBJM2pvUGpBZ01HbkNKZ1JXRW9TR1Z4b1BDcmM0RnRHdnJ1SU54VnN4ZU5oT1VEUmFYQkZhWndyTzltVENQVC1naGtENFVEZTUwNjFEdzVEbkd5d2NQTHF0Y0JvX1EySHJJSVlTTnFLdjVOUkxMbGwxUkRCYS1YMF9SSkFIeXNZN0phWUc5Z0FiUzEyUFJiNVEzLVJaNzlBeVBhd1Z5aGxB?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI startup Thinking Machines launches an open-weight AI model",
-   "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHIyMDlWOFJYQ1dRWHBOUmVDaWQ1N25UMjhZbG45U3E0RG9lZlNaNlIzbnZRLXpLLURybWc4VzhXLXJJZGJseVB1YWxIS256NXlxZHptbjVNVU9qUG5wOTFKMEdadkc0V1FQY0h3bER6V0pyZTNSRjNFblEwd3dpUjVNa0gtLXBrZDVhQ3gtVXRnRmdLaTRlOTQzYTVoQlNKcDFlZi1Fd1dvZw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Hyundai strike said to be first car factory stoppage over humanoid robots",
-   "blurb": "",
-   "src": "Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxcnBlaU1LenpxNUVlRmx0NzJEQ3J4QlRSXzZpZHhfYmdoU3A3SWotUTFKeUJWeE5TOWZHSUlCancxMFZiRGM5ZEdMM2JCeTFaOFZibzk2ek1NVENoRlBCUjZGVUdvWmszSklGZkM4bWxWX2lPcHMwZFE4cjVjUQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip",
-   "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzVTTWJDdUFUdUdTSTJzS2F0REZadUxWeV81S2s1Vlp3UEdOTWQzQ1F3RmphNmRxNFpJbmNUNFV0eVBCMHJ2djJuYzNSRThqbTdBaUdvdWdsMGIyME5nZG5VNlhUTHRsMHczNy1SWHdyaF9ySGNGNnhuNnlINWdQRXVGa095UmJxb2g5a1BJMVJJY3d2RGtJejJWM3IySk54VE1EamlVMTkwQWx1Y0Eyd1BVNA?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China sends robots out into the world to learn how to be human",
-   "blurb": "",
-   "src": "The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUV3enhmcVU1SUZuUExNX2MxSm5NdHU0aU1xSEhiU0VUUnNud0E5WDdGWGVvQWtQdkYyZHNTSHJyenplYk9MMVlhNlExVVFCY2ZZVXhzaG0zVlNZdHdhdHdUaWNlUmFXZXc3c3dSNFg3ai10THRQeE12cmlsU21pbnJnQzU?oc=5"
+   "src": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2lfbld3SVBaaGdSd3puM28zU3BVclNKOFlRUWo5alNhcjdrbXZyOHRHU244YWVwNmhmYzQ4VE5mbi1nOXU3am4wWkQwdVdMbEFjZnpza3RPS1R1dGdodGZxOFcyeHR2eC1xbDd1QjdadVQ2VlZXRFVwWVR5dHEzS2NIZmV2ak1nenh4VTlkVUpld2pCcXVSWUxkVEJBLXM1d1FjZDBmTWc3Nko3UnBXVjAzYTNrbVgxR2cybTE2Q1BlSFVtekNYSnVyRQ?oc=5"
   }
  ]
 }
