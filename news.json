@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T22:03:39.219Z",
+ "updated": "2026-07-16T05:43:02.875Z",
  "items": [
   {
    "cat": "ai",
@@ -10,38 +10,10 @@
   },
   {
    "cat": "robo",
-   "title": "The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time",
+   "title": "USC Advances Humanoid Robotics, Robot Learning and 3D Manipulation at RSS 2026",
    "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM3p6aHI4Y1lhcG1RSndpVy02eWk5bzBJM2pvUGpBZ01HbkNKZ1JXRW9TR1Z4b1BDcmM0RnRHdnJ1SU54VnN4ZU5oT1VEUmFYQkZhWndyTzltVENQVC1naGtENFVEZTUwNjFEdzVEbkd5d2NQTHF0Y0JvX1EySHJJSVlTTnFLdjVOUkxMbGwxUkRCYS1YMF9SSkFIeXNZN0phWUc5Z0FiUzEyUFJiNVEzLVJaNzlBeVBhd1Z5aGxB?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI startup Thinking Machines launches an open-weight AI model",
-   "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHIyMDlWOFJYQ1dRWHBOUmVDaWQ1N25UMjhZbG45U3E0RG9lZlNaNlIzbnZRLXpLLURybWc4VzhXLXJJZGJseVB1YWxIS256NXlxZHptbjVNVU9qUG5wOTFKMEdadkc0V1FQY0h3bER6V0pyZTNSRjNFblEwd3dpUjVNa0gtLXBrZDVhQ3gtVXRnRmdLaTRlOTQzYTVoQlNKcDFlZi1Fd1dvZw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Unitree's Strategy to Make Humanoid Robots Work",
-   "blurb": "",
-   "src": "Bismarck Brief",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN1lqdVFzZXFMcElTTG1QYlpCcFZFZEJFZmNWelFKeVZUNDZraHFHTTBrUEZxOXFEWXJqaWNVQ2NYR19TZG5CY21Bc0IxS2pXZ21CcWlLRk1BZWRia3liNDl4NlIxMFlOSzJQbEs5T2FOSUhMMXoyblQwRQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Murati’s Thinking Machines releases first AI model for broad use",
-   "blurb": "",
-   "src": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHZmVXduVjhLM2RvNUl3dEw0RmVlc2daOWxqaVFGVXl5blN2UVExS1RxRjB4Y29fTDE3enVRQ3EyNTQxSDA0OXJVZ05mUkxPT0RsMmJQRjNoNjdkSC14N2w0cXltNGhGWkdIanoxUllWbkFLR1RnR1dUX0x3RW5HenVYZk1BSEk3SjNyeFRwMEk5bjJ1MW5B?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Céline Shen and the Art of Living With A.I.",
-   "blurb": "",
-   "src": "observer.com",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3J2UzQ0NEstb2xMRjJtd2VQSzFuSjhEMXNCOUVNUEljdm1XQkp5Z01iczkyX0c1VzFMUUdTVVZVXzVZbXlVamR4NEROSE1STzlOemtKTVpaMGRpdlVqcHF5YTliY25WMWxoNDVBTVBrbWRFbEsxWmN3a281cEpsX0dNaG95bEdGSGNDSGZ4QkVPTFB5cFo2TkpyMA?oc=5"
+   "src": "USC Viterbi School of Engineering",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWw5d0U4bkxndDJ4eE1HaDVrY25XM1lxbnBLM1BKOEVrNW1qOW5RdDYtV3c2cG1yQk1VN3ZfMGdBaFYyTUNGc3NibktzeGZ0c0pObEt0ZkU5aE53S1FzdWx4a05aeGV2dDVXZHFLSUQ4aXRvX1FTLWdpYnBjejlWZ0J5X25hTHQ3cFdyZjMwTGlQUkdiQVVBN21qMWlkVUwwc3RHal9ZeV95WElMci1GN1d3aW5oXzFvaDBhVVp3?oc=5"
   },
   {
    "cat": "ai",
@@ -52,24 +24,52 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots Enter the Surgical Robotics Field",
+   "title": "The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time",
    "blurb": "",
-   "src": "ARC Advisory Group",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UTHpDX3JTYlhXc09SVExFNWdCSFptTnlYYkRUTWtYSTROalR2dkY2TzlhUDJ4Ykd4Ry1fekUxdFYzTzVGMExHLU9yc1Bldi1iSHFDWkRGX2dfQWxyT3o2b2VHVHhmWDlVc2dKMnlIcUdtOVJjQzhiWEFCcXBZZw?oc=5"
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM3p6aHI4Y1lhcG1RSndpVy02eWk5bzBJM2pvUGpBZ01HbkNKZ1JXRW9TR1Z4b1BDcmM0RnRHdnJ1SU54VnN4ZU5oT1VEUmFYQkZhWndyTzltVENQVC1naGtENFVEZTUwNjFEdzVEbkd5d2NQTHF0Y0JvX1EySHJJSVlTTnFLdjVOUkxMbGwxUkRCYS1YMF9SSkFIeXNZN0phWUc5Z0FiUzEyUFJiNVEzLVJaNzlBeVBhd1Z5aGxB?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Murati’s Thinking Machines Releases First AI Model for Broad Use",
+   "title": "Murati’s Thinking Machines releases first AI model for broad use",
    "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUluYm1tYTZsSGh0OWhrR25MblJNLVpCc21mRmdLOGJtRnF0ZDVQTHJ0NWRDY2RkV2lrLVlmY0dqOTNwS0VFYWtWcWhZanh0bk5LdjFldVhRUGlJMzdtRWxlWEoxeWh3bnlpNXRuNm5JYVhpZjVMN2VsVTlFTTM2bjl6RWdyWUZtV3o0TzlHTEJoVFdxcU1fek9EN0JLQkI2TVNUM3hrejRBbllRa1VIS0hnOHVIZw?oc=5"
+   "src": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHZmVXduVjhLM2RvNUl3dEw0RmVlc2daOWxqaVFGVXl5blN2UVExS1RxRjB4Y29fTDE3enVRQ3EyNTQxSDA0OXJVZ05mUkxPT0RsMmJQRjNoNjdkSC14N2w0cXltNGhGWkdIanoxUllWbkFLR1RnR1dUX0x3RW5HenVYZk1BSEk3SjNyeFRwMEk5bjJ1MW5B?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Deploying Robots Into (and Onto) the Field",
+   "title": "China sends robots out into the world to learn how to be human",
    "blurb": "",
-   "src": "Boston Dynamics",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WN2F3NGpQczh5WXNhZ2tGalFRYzJtZmFWVTBaWlhRdzF4T0g1WVk3WWpLbTZlZE9hSW5PbjRkNjFoMjgtc3E3dndBdnJjenhFU29JX0RSZ1NMZU90VEg3bC1aLXVxaUJicEIzTTZMNVpvb3NId0xLbVFoUHZVQQ?oc=5"
+   "src": "The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUV3enhmcVU1SUZuUExNX2MxSm5NdHU0aU1xSEhiU0VUUnNud0E5WDdGWGVvQWtQdkYyZHNTSHJyenplYk9MMVlhNlExVVFCY2ZZVXhzaG0zVlNZdHdhdHdUaWNlUmFXZXc3c3dSNFg3ai10THRQeE12cmlsU21pbnJnQzU?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "AI: Thinking Machines next US open weights AI model entrant. AI-RTZ #1149",
+   "blurb": "",
+   "src": "AI: Reset to Zero",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45OEpFaEQwcy1NdjZfNkJTODl1eDFvSEhvUFI2OWZkSjh4WHNIZU9feThYSjNlREJUSUQ2dm1RT2FaV2k2TnFWanFCeV9oS0tDTFgyc1ZYTXFQc2w4Y0pDdUFDS01lWGlxdi1EWWpnWlFkcnZCRHdzY1Bn?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Unitree's Strategy to Make Humanoid Robots Work",
+   "blurb": "",
+   "src": "Bismarck Brief",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN1lqdVFzZXFMcElTTG1QYlpCcFZFZEJFZmNWelFKeVZUNDZraHFHTTBrUEZxOXFEWXJqaWNVQ2NYR19TZG5CY21Bc0IxS2pXZ21CcWlLRk1BZWRia3liNDl4NlIxMFlOSzJQbEs5T2FOSUhMMXoyblQwRQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "AI startup Thinking Machines launches an open-weight AI model",
+   "blurb": "",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHIyMDlWOFJYQ1dRWHBOUmVDaWQ1N25UMjhZbG45U3E0RG9lZlNaNlIzbnZRLXpLLURybWc4VzhXLXJJZGJseVB1YWxIS256NXlxZHptbjVNVU9qUG5wOTFKMEdadkc0V1FQY0h3bER6V0pyZTNSRjNFblEwd3dpUjVNa0gtLXBrZDVhQ3gtVXRnRmdLaTRlOTQzYTVoQlNKcDFlZi1Fd1dvZw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "The more I watch the new NEO robot video the creepier it gets",
+   "blurb": "",
+   "src": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dUZWQ0FJd3NhNnBqZ0pDN1pMWThNeE9RQTdFZW1mdU8wVnZTU2RwMTBibFZ0X3RnODRqaVF2WGVGbDdpblB3WDJmSEFJRnBua1VrR19xSUt2UQ?oc=5"
   },
   {
    "cat": "ai",
@@ -80,10 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "China’s new humanoid robot offers 98% success rate, handles EV assembly, factory operations",
+   "title": "Hyundai to buy SoftBank’s Boston Dynamics stake, doubles down on humanoid robots",
    "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjRHV3B2TDh6SDZmS1JERklrR2dfdEdySHFZTTVPaVQxMnNVLWxqTXZ2Qk5hcGRYSGhVTkM2VmlZVlVCWnpWNlZ1TFVSblN2eVA4b2JGdTJMNkRrVTJvOF8weHV0djlSQjFkQ3FPNzZ5SzZHNmpILV9xbFVDNDk1bzd2X3NEbGVZNHNCWW5Nc1I?oc=5"
+   "src": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUkg3bDVMUXJtM1d1UEZ6R0tLblRfS0NMVmNfV3VRUWtpWUlHOEU1TWozc1lONWlIdTRMUlNZTFBWc243MkZoVkxIOFFWNElIZUJvV2J1M1lSYTdodWl2NjRGajNJUXpWVm1hY2JWem5xUWd0cVJDNmRPclRIRW92OFVhOW5KeUQ2c3lLWE9wS3NxN01HQ3dYYXBaaExFcEVJMm90bkVUUThGSlNVMklWbThWRGhMS29SMDU4VGp6VUZaYW9TcURQRHc0YTB1ZFZp?oc=5"
   }
  ]
 }
