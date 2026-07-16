@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-16T05:43:02.875Z",
+ "updated": "2026-07-16T11:02:33.787Z",
  "items": [
   {
    "cat": "ai",
-   "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
+   "title": "Murati’s Thinking Machines releases first AI model for broad use",
    "blurb": "",
-   "src": "NPR",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGlPWFM1cklNb1RseG5oN0JGbUFXZ0d5MkROVVg3eEY2UjFQdmlDT2E2dTYyUFQzeUpZWjdhMXZoWmdUanpMbWRWSUN5c2JHX0txWmswNkZSVUhWOEZBc2xSVjlyOVFHa2FYVDA0T3l3bkJzR2lGSUJaZ1EzZ2JhQTN2Yw?oc=5"
+   "src": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHZmVXduVjhLM2RvNUl3dEw0RmVlc2daOWxqaVFGVXl5blN2UVExS1RxRjB4Y29fTDE3enVRQ3EyNTQxSDA0OXJVZ05mUkxPT0RsMmJQRjNoNjdkSC14N2w0cXltNGhGWkdIanoxUllWbkFLR1RnR1dUX0x3RW5HenVYZk1BSEk3SjNyeFRwMEk5bjJ1MW5B?oc=5"
   },
   {
    "cat": "robo",
@@ -14,6 +14,34 @@
    "blurb": "",
    "src": "USC Viterbi School of Engineering",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWw5d0U4bkxndDJ4eE1HaDVrY25XM1lxbnBLM1BKOEVrNW1qOW5RdDYtV3c2cG1yQk1VN3ZfMGdBaFYyTUNGc3NibktzeGZ0c0pObEt0ZkU5aE53S1FzdWx4a05aeGV2dDVXZHFLSUQ4aXRvX1FTLWdpYnBjejlWZ0J5X25hTHQ3cFdyZjMwTGlQUkdiQVVBN21qMWlkVUwwc3RHal9ZeV95WElMci1GN1d3aW5oXzFvaDBhVVp3?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says",
+   "blurb": "",
+   "src": "MyNorthwest.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOUtNUDVWYU9lM1JiQmpyV2c4WG1xbVVCN2l0c3pzazIyNnN0dnNZUVhiVW9FRkV3ZU5xc2c5ZEdBSnJCZzdsNDFmR2FLWW8xaUthQ053eVpuUjFYSW5iTFJtNUYwZ0VnZUIwTkR0QVE2TndWblJLR2lTQ2NLM1o1aG1qUEItUlJLN05FbUJrZmhRQ1dadk9kM3NTMllOZ3Y1LTczN2RiUG91MVIyNXdEWDM5YWxiM2JTR19iUnhDd3RWeTJydThGLUJ3M2FpUGtk?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "When will humanoid robots go to war? As early as 2027, CEO says",
+   "blurb": "",
+   "src": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2lfbld3SVBaaGdSd3puM28zU3BVclNKOFlRUWo5alNhcjdrbXZyOHRHU244YWVwNmhmYzQ4VE5mbi1nOXU3am4wWkQwdVdMbEFjZnpza3RPS1R1dGdodGZxOFcyeHR2eC1xbDd1QjdadVQ2VlZXRFVwWVR5dHEzS2NIZmV2ak1nenh4VTlkVUpld2pCcXVSWUxkVEJBLXM1d1FjZDBmTWc3Nko3UnBXVjAzYTNrbVgxR2cybTE2Q1BlSFVtekNYSnVyRQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "AI: Thinking Machines next US open weights AI model entrant. AI-RTZ #1149",
+   "blurb": "",
+   "src": "AI: Reset to Zero",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45OEpFaEQwcy1NdjZfNkJTODl1eDFvSEhvUFI2OWZkSjh4WHNIZU9feThYSjNlREJUSUQ2dm1RT2FaV2k2TnFWanFCeV9oS0tDTFgyc1ZYTXFQc2w4Y0pDdUFDS01lWGlxdi1EWWpnWlFkcnZCRHdzY1Bn?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Chinese humanoid robot achieves a global breakthrough",
+   "blurb": "",
+   "src": "China Daily",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XT01jSGFoSTllbnh4NGVKZG55Tk94UDN0Xzk5dVlaa2xOVDJrS3hIOVVPWUJzUmY1dUVtU05pY09rMXNSNFBoVUc2STNnV08wWG1YN3IwS20zWFg5aTFRbUZvLVdFdFRwME81Zmk5Q0YxX182Q0FZbXBNVWhPdw?oc=5"
   },
   {
    "cat": "ai",
@@ -31,34 +59,6 @@
   },
   {
    "cat": "ai",
-   "title": "Murati’s Thinking Machines releases first AI model for broad use",
-   "blurb": "",
-   "src": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHZmVXduVjhLM2RvNUl3dEw0RmVlc2daOWxqaVFGVXl5blN2UVExS1RxRjB4Y29fTDE3enVRQ3EyNTQxSDA0OXJVZ05mUkxPT0RsMmJQRjNoNjdkSC14N2w0cXltNGhGWkdIanoxUllWbkFLR1RnR1dUX0x3RW5HenVYZk1BSEk3SjNyeFRwMEk5bjJ1MW5B?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China sends robots out into the world to learn how to be human",
-   "blurb": "",
-   "src": "The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUV3enhmcVU1SUZuUExNX2MxSm5NdHU0aU1xSEhiU0VUUnNud0E5WDdGWGVvQWtQdkYyZHNTSHJyenplYk9MMVlhNlExVVFCY2ZZVXhzaG0zVlNZdHdhdHdUaWNlUmFXZXc3c3dSNFg3ai10THRQeE12cmlsU21pbnJnQzU?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI: Thinking Machines next US open weights AI model entrant. AI-RTZ #1149",
-   "blurb": "",
-   "src": "AI: Reset to Zero",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45OEpFaEQwcy1NdjZfNkJTODl1eDFvSEhvUFI2OWZkSjh4WHNIZU9feThYSjNlREJUSUQ2dm1RT2FaV2k2TnFWanFCeV9oS0tDTFgyc1ZYTXFQc2w4Y0pDdUFDS01lWGlxdi1EWWpnWlFkcnZCRHdzY1Bn?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Unitree's Strategy to Make Humanoid Robots Work",
-   "blurb": "",
-   "src": "Bismarck Brief",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zN1lqdVFzZXFMcElTTG1QYlpCcFZFZEJFZmNWelFKeVZUNDZraHFHTTBrUEZxOXFEWXJqaWNVQ2NYR19TZG5CY21Bc0IxS2pXZ21CcWlLRk1BZWRia3liNDl4NlIxMFlOSzJQbEs5T2FOSUhMMXoyblQwRQ?oc=5"
-  },
-  {
-   "cat": "ai",
    "title": "AI startup Thinking Machines launches an open-weight AI model",
    "blurb": "",
    "src": "Reuters",
@@ -66,10 +66,10 @@
   },
   {
    "cat": "robo",
-   "title": "The more I watch the new NEO robot video the creepier it gets",
+   "title": "Hyundai strike said to be first car factory stoppage over humanoid robots",
    "blurb": "",
-   "src": "Mashable",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dUZWQ0FJd3NhNnBqZ0pDN1pMWThNeE9RQTdFZW1mdU8wVnZTU2RwMTBibFZ0X3RnODRqaVF2WGVGbDdpblB3WDJmSEFJRnBua1VrR19xSUt2UQ?oc=5"
+   "src": "Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxcnBlaU1LenpxNUVlRmx0NzJEQ3J4QlRSXzZpZHhfYmdoU3A3SWotUTFKeUJWeE5TOWZHSUlCancxMFZiRGM5ZEdMM2JCeTFaOFZibzk2ek1NVENoRlBCUjZGVUdvWmszSklGZkM4bWxWX2lPcHMwZFE4cjVjUQ?oc=5"
   },
   {
    "cat": "ai",
@@ -80,10 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "Hyundai to buy SoftBank’s Boston Dynamics stake, doubles down on humanoid robots",
+   "title": "China sends robots out into the world to learn how to be human",
    "blurb": "",
-   "src": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUkg3bDVMUXJtM1d1UEZ6R0tLblRfS0NMVmNfV3VRUWtpWUlHOEU1TWozc1lONWlIdTRMUlNZTFBWc243MkZoVkxIOFFWNElIZUJvV2J1M1lSYTdodWl2NjRGajNJUXpWVm1hY2JWem5xUWd0cVJDNmRPclRIRW92OFVhOW5KeUQ2c3lLWE9wS3NxN01HQ3dYYXBaaExFcEVJMm90bkVUUThGSlNVMklWbThWRGhMS29SMDU4VGp6VUZaYW9TcURQRHc0YTB1ZFZp?oc=5"
+   "src": "The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUV3enhmcVU1SUZuUExNX2MxSm5NdHU0aU1xSEhiU0VUUnNud0E5WDdGWGVvQWtQdkYyZHNTSHJyenplYk9MMVlhNlExVVFCY2ZZVXhzaG0zVlNZdHdhdHdUaWNlUmFXZXc3c3dSNFg3ai10THRQeE12cmlsU21pbnJnQzU?oc=5"
   }
  ]
 }
