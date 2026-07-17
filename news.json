@@ -1,12 +1,26 @@
 {
- "updated": "2026-07-16T22:05:13.187Z",
+ "updated": "2026-07-17T05:44:31.559Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
+   "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KcVo4dnRDMVczTlBUZWh5ZUhnaEZDUC1pQXZYbHlsRl9oMXZSa0dMZzB0SlMwaTNqdGZ2RnhmQ0FuYVFpQ0g2by1acFJqVVR3MlNhM21ZcEtfS0IxaU5vNDZnRXAtdmg4bnBlVG5aTDhhM0FUZFFmU9IBfkFVX3lxTE1SNmF1cjBfZGMxaC00STBqeGJjMFVEWFpnQzNab2Z2d0VtMHkxcXRnZkZyVEN2ZXY0RWNOMXA1ZlljTTdoR3RENWRZRWlROVlkenFiQkJMZ0dnQS1QeUt4Qm5ET1h6SXZOd3o1NG5GYkUwbnlvY3hremJEVEx6Zw?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFBidnJRbHRkSDh4WXNUVlBOY1VmZ3NCSlRhQzEwZWY3dGJfeXlMQ1FWN1FheElOWU0wdFBJZ2p0Y0VDSnd2RDlDSExSQ3lOb19UYkc4Q0d6UEtsQzN4TWg2LWtianhwbEgtZmR4OWs4QU9QbjM3RkJqNHI2TmgzRVRxcXhuRlE4ZHdlRFRvNlBvWUxYUkFQRmZ1Y3NaeWh1V0swM2NHaW5NcEg2UGdiOHFMMzN4bGMweVE?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "The 4 Layers Of Brain Behind One Of Europe’s Leading Humanoid Robots",
+   "blurb": "",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYS1UQ1RLOHJLOExILXl3UHRXUHd5QW1FWVlOdlBtTllUUkxKZkpGQXN2NURmUmxrLUZkVEs5bkdndXJvT1BDUmxVNy1KMnJsU0hrYmJuMDl3TEdrV3BIdk5VcS1jSk0teTZKT05CSHV5dkZuZkJ0SndOYlpmMDBtLVl0NlFZWDBTcmV1ekdJU0NOcXg1YmM4NlNaLUY0NUd1OTNuRUlxalVGbVlSVWcycDZVUlV6X0h2cXcxSjB3?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "AI chatbots at risk of fueling government restrictions on online speech, new study says",
+   "blurb": "",
+   "src": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOHYyc3NQdmpFclZqb0FvdWI3M0lWRW1sblB6UVRWeEJvLW12ejlvbzVFcGhkdl9HWHZoNWZSdGtpWFNJWlMxMWxJelJvZTZMeGo1WmZlTS10LVk0OTRUXzZ0Xy04TGtTUkFhYk9qSjVqcHd2T0Zfc3lUM0NMNDVaN1BWU1dRUHdaRUdURmdnWUdJYk5xN0dxWGJqaXB5cU80VVJEUl9sbjNJZnJTOW5MRTlHTHRoVHBJRDFYdmp30gHDAUFVX3lxTFBWTGZhNVJwTWt4UVM4OVBQMUJnV2pqd1YwYUVSYk9vazZabERIcHhTNktQYmJma1k4dmFLeWdWc2pBREpGeUxXbDI3WmdyUHE4OF95QXJWLXhEQ2pGbVVnY09pT04yVnFpMElwZnZpUDVCYktaVHBNWVAxeU9lcnB3M0NUVEY5dm11OEJBaExhU0Z2UjZReTFsLWlXaGtEZlpBSkNiUTZuQXdUQ2xaYzBnX3dUamZtbUt3QWVpTmJRMjlkbw?oc=5"
   },
   {
    "cat": "robo",
@@ -17,66 +31,38 @@
   },
   {
    "cat": "ai",
-   "title": "Google Stock Falls Amid Delay In AI Model Release, Nasdaq Retreat",
+   "title": "IBM’s AI model chief on the tools changing how research gets done",
    "blurb": "",
-   "src": "Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjJvdkhrSTRCQkpiUXlxTjZvVmhlVDVYSmlxV0t3Z2hXMXVsamE0OFZ1enlIMGZOWDdZNDRvVTlTcU1uRGo0LWpNVjVKV04tZDJseUZ4VkpWUzQySEdDUDVUYVZHbG9LTkhlWU1SWnd0Tk9iRnRTeHVIXzNBZVozYmxZczFGVjRqcXl4VVRqU3BZQWV5eUFnWlNXc3Fzams?oc=5"
+   "src": "IBM",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVI5M3JYZWxxQWl5VWs5NmNJUmI4ZUd2QWF1emlPcnFoZEVmMl9tNTJySkdtOTV5MVJhVnQ4a2N0OFBaZkNlT0QzUEFnQ0VsNjBMR2o3SV9Ga1dSRXhlWDk0T3Nib0tuWEp1bWRuYkg1MXFBZk9Hc1VrOVlwMThsNWR3WnQtLWtwTHFB?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Nobody Knows What a Robot Is",
+   "title": "Humanoid Robots Part 1: The US-China Divide and Who Controls the Supply Chain",
    "blurb": "",
-   "src": "The Foundation for American Innovation",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAydktWdmxzR29tRWh1Y0o2aVRJOUgwa1Z1a0tpNHZjVWVpVXhrb2psVXRkVU1YTDFUWk1aaklYSlptcEZ1OGVEenFyZ1Bjd2NfT2VjdHVzelFUZU5LMm5tWnR6NnQ2OFZm?oc=5"
+   "src": "TrendForce",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiaXlmVTJ1QXVzMVloWnptZy1QNk1RNlpLdGdtV3VzbVNiSDhNb3JuNlU3ajFSbFk5My0tTXdFSHpKQWVjWlJ2aHRCbXprTHBtNjdFaW0tQzF4dWZ1YUd4S2Z1b1F3YUE5Y09aa2pZcXIzRjQ?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Mira Murati Drops Her First AI Model After Leaving OpenAI—And It's Fully Open Source",
+   "title": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
    "blurb": "",
-   "src": "Decrypt",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11WEFRVVhHN1JoQkV1Vk9UbGVfQWNIa21DQWo5XzJlSUo3OGpfR2c3d085am0xVmY1ZF9COVFvcWxJeE1rRDhlTTdCZ2x2NGJjOUJLaHJjcWVGUG9GR2FHYnVJRkJvSUJoSGktOTFveWJmZThBVDJhdkpLbVROQdIBhgFBVV95cUxQNEY4OXp4MG5VUTY2RGRBRkNNVDA4RXRGSVVCS2UzMXJkNEcyUW1vSFZZSjh2RUpoN0JzUDhMUlI2NE5FR1MyZFVBQ0FPcjVDZlBVZjV4WjUxWVFDM2s2cVlJd2xrWTF0UHpCWXhzTVJIdkNHcWpHdGxzRXdXQ1loNldxZVNGZw?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KcVo4dnRDMVczTlBUZWh5ZUhnaEZDUC1pQXZYbHlsRl9oMXZSa0dMZzB0SlMwaTNqdGZ2RnhmQ0FuYVFpQ0g2by1acFJqVVR3MlNhM21ZcEtfS0IxaU5vNDZnRXAtdmg4bnBlVG5aTDhhM0FUZFFmU9IBfkFVX3lxTE1SNmF1cjBfZGMxaC00STBqeGJjMFVEWFpnQzNab2Z2d0VtMHkxcXRnZkZyVEN2ZXY0RWNOMXA1ZlljTTdoR3RENWRZRWlROVlkenFiQkJMZ0dnQS1QeUt4Qm5ET1h6SXZOd3o1NG5GYkUwbnlvY3hremJEVEx6Zw?oc=5"
   },
   {
    "cat": "robo",
-   "title": "AI humanoid robotics company sets up shop in Fremont",
+   "title": "I, Humanoid",
    "blurb": "",
-   "src": "East Bay Times",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeld4ZHhtcjhSZnZGekQ0d3BkOWVYZVA5d1AtaGI5SEEzaG5WbENnTVNibmVFNVp6aVhKX3VHYmtDdnNlWndJRnlKN2pIWWFOSVRnNFJGQ1BISnNFdndLeTg4TjJQQjZqbmZNbzd2M1hTdXI0aloyeTI1Sk5YSXI2ZWU1UWV6bURuakFDU3g2Z3ZRRGpTQ0pib3F0b1dVTkI2eURqRUVaVEVVWnJ0SnNr0gG0AUFVX3lxTE1nM21seXJScUF0cFhGVVJ6T0JJamJacVYwWWExTUtzOVhiVE1xc0RhaGxOcjhkbVZ2TEpmdk9Td3M3d09oQlFBYVJnUVd3d1NobTBzSUZ2UUVBZTNrNkNvQVROM3g1bGx3cVhZWjRvdE9XSnpNeUswdFJ5bEtoT3ptUzBtMGx1R3dyanFJVi1jcFF0ZGNMTElfNnBhUWxXMzFaT0tkQTdKU3Exb1Y3Njkxa1JGOQ?oc=5"
+   "src": "The World of Chinese",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3VsTUFEQk55Q1c0eXZqQmoyMGJHSnljV0JQZmhfa0NTLVh5QjRNTG5FbGZ4dTY2djVLXzBYU3pMVzRfUkFSaG4xSU1TQ3RFSnZSNEJxMlpWWnlvVnRSZE5yb0lBaERyYkxSYUdQUzJUWHNvcmw4SEIxWG45M1NVTWJNS0s?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Responding to AI Distillation Without Panic",
+   "title": "When AI Models Learn from Employees: The Next Trade Secret Battleground",
    "blurb": "",
-   "src": "Lawfare",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTG83WXJzY3oxU21LYUd0Sm1hSTlzT1o4Wm5mdzhWWnpHbk5KcDF0VDhRek81UVp5Tk9yaVp5NzkweXRxTjVKV21abTU3ZFFiVS1uMUIzWmZmSXFIcWxMQWMxMzRTQzJiY1pYVGg5SmpnMHI5TjhDOHRSSW1yYU43dGRQM2otNVk?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China Sends Robots Into the World to Learn How to Be Human",
-   "blurb": "",
-   "src": "Insurance Journal",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94RE5zU2kwQlF1ZGRiaVNsZzRKSXJCMlN4RlpSQk5LMTF5MXRhTloyNkoyNVd5Uks0TUdiNnZUX0lweXR6U05NUDdEUDJWNTJKSEoyejVFd0ZKZU1IMERGNmtvQVIydUFQaUY0UWVHbTJsNWc0bEJEWi01aUlNQQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Stop Questioning the​​​ Legal​​​ ​​​AI ​​​Model. Question the Foundation​​​​​​",
-   "blurb": "",
-   "src": "JD Supra",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXhyamtHNEV5aTBYb0pCSWk5R25GSzNnbFVGaTRGSGluMXcxYS11aGh2NVFCNXpjNlhoN3A0UGdwTFhZSEIzUXRFTExPNEN5OHJQSnh0Nk1IeTJpWVZuX0Q5NF9mX241UmJfbXdUZjA4dmVFTEllRTRKWERGbWxCZWM2TUM?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Industry Insights: Humanoid Performs Successful Gallbladder Surgery",
-   "blurb": "",
-   "src": "A3 Association for Advancing Automation",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3p3dkpGS29UR2FRMWxWQUo5RHRhNXUzYXlHak5EVlRMUTVQelpOdXh5TklkNk4tZU5EUjBJNnBnRkRZemh2alpRVjJhUUZwaGdqMjVkNW8tbzlybHMzdXI5R3Y3WnY4Q3FTWk9BUlZUVE4td2EwSmpxUlREQlpTQ2FwN3dXanZiVDRxTjhpTHhFdmp4aGZfQ3p1bVlHcG9jdDBwOVFpTG1OcWRwcHRuczhVMjdjQzBkTlE?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Ex-OpenAI CTO Mira Murati’s Thinking Machines Launches Its First Open-Weight AI Model",
-   "blurb": "",
-   "src": "MIT Sloan Management Review Middle East",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3lTTXZtb1pFMWJORENlYk9lRFc1UmdwaTh1SEdRaTdUX1JKeUJmNXV2Y2FKZ2FEMHE0SDJYWldkbmY2QUV2ZE15TUp1a1Y0ekl1ZzJMTEs3NkE2ZHFaTUg4WFF2N0hEU2NmYUMzR1FMSlN2NWhCS2x3UGJaNWNVYnVld2ZYQmRscDhwZFFSeU5hS1RNSkJBay1wUmZPVFZINU5jUmhRU25iQzUzMmFpQ2xIZnJWRXV1WGtV?oc=5"
+   "src": "Brownstein Hyatt Farber Schreck",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjZuaGlENEVnMkQ4UVE4WnlQUlhVYkZHRXNROHRkX3I2VVFCQlNlc09YU0dnZ1B0SmpKTmtxRkRYbHJjNC1GdnNSSVgxS3AwdGdHdEwyMDJJYnpRY2kxNHFKb0c3cXUyYXh5bXE0a2lBcGJkYzUxb0Jnc29LUEJNOFdULUN4M3lVcmtOaDNtWXljcnRYSlFvd3lnUEZqbHloX0E?oc=5"
   },
   {
    "cat": "robo",
@@ -84,6 +70,20 @@
    "blurb": "",
    "src": "Ars Technica",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2c2QlRyT29GUVI2ZXFJMlptMGdaYktENmpjaGJwUlNfVG4wT0NCWDB4bmV3Mno0MU5yX2lybENudkpVUHlQemtmQXNxYWFRZWp6U2l3eWVzRkJ1cGZJeUNSV2pjeWV2RllWZGJMQ3dEd1BxSDNNX2xOdW85N1hDSW9LT0pnTmFNQ2tqdUlFNXhoSmhOU0ZhVFZYb1FaRTV1cnpzajNIWVlRZGtheTBtVFR3UQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Moonshot AI touts world’s largest open-source model as China closes gap with US",
+   "blurb": "",
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQkg3cUFRMDhLc2Y5Ml9DczVGUVBjMmh3a2lOT0JfM1FaUjFpandRQllRcWh1YWpvVmIteG85SlozQ3ZVSF9KR2tsSTU0LVZNTzFrSmxsWXhYb0VGT0NCemlndE9raEhDV1dUVlR6RTBEeXpwQktGMTlJQk1pSVp3LWFXSE5udVh4ZmsybExPZTJUNlJBZ0ZPb2VoV0ZibFdIV3Y5MnYtTkYyYW5wWW13RG1NXy1PSmVabl9jV3ZBdFZYaE02UXhnVHJsQmN1QmJmVVVN0gHTAUFVX3lxTE1UQzA5ZFlQY1gyYzNIMDB2ejRDSk51RjhNQ212TFBMZEd2dUFjZ3pSTlBuWUNLbGhkU1R5bUFXcS1ST1VUV2NpVzlqMXVSQ1kzNHJ1emVoSXFQeWswenZMbW5heVJmcHNrQmtxZHRsVktVWWY1Q1ZFS2VFUG1MREV3dmEya3VsXzc3UUpkcUNjNHhUNWJpQUlJa1FZME92eTBHT0IweE1fb01kb1FGUThVbkNDMTJUaVlXZ0QzekUtZ1NLcGtFeExvWFpIZVRpWjVIX3M?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "New York school district to deploy humanoid robot teacher this fall",
+   "blurb": "",
+   "src": "NewsNation",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1BJelVqelVGODRnM1RvT1ZuRzVNTW9IN1QzVzhYWUc0REE1ODJDdjF1anBIYUV1OFBtcnVVYWF5d1ZrRExUdnRWZlhTV05zZlU1UFRYblBpaERfSXVpaGRiTEhqVEt1QmgwX0JoZmJ0WTE3WV9QUWYzcWpGVmd1Tnl3U1gyZ1lvVzN3SENQVThSVnQ3eGFONTZweUnSAaIBQVVfeXFMTVZQWUM1amEzUmk3dTNKbl9TT09iUXVjREhUal9vMFhvLWJURWk0akdfVWY2QWxMdjJJcHJZaTMyMFYtODhDcWU0Ty04TmIxODVLd3E3ZkVUOGFJcGk0bE9WZ1loRnpQV29EajZoMFE0MEpGem9DSkVuLXhoRk5ndV9ITWxhT2xJOFg3NXpscGVHTHVOOVBKR0E4NU9LWWVsTzJR?oc=5"
   }
  ]
 }
