@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-17T05:44:31.559Z",
+ "updated": "2026-07-17T10:49:12.185Z",
  "items": [
   {
    "cat": "ai",
-   "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals",
+   "title": "China’s Moonshot AI Releases Model to Challenge Top U.S. Systems",
    "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFBidnJRbHRkSDh4WXNUVlBOY1VmZ3NCSlRhQzEwZWY3dGJfeXlMQ1FWN1FheElOWU0wdFBJZ2p0Y0VDSnd2RDlDSExSQ3lOb19UYkc4Q0d6UEtsQzN4TWg2LWtianhwbEgtZmR4OWs4QU9QbjM3RkJqNHI2TmgzRVRxcXhuRlE4ZHdlRFRvNlBvWUxYUkFQRmZ1Y3NaeWh1V0swM2NHaW5NcEg2UGdiOHFMMzN4bGMweVE?oc=5"
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVNJNC1WR1VUN20tQWdWVHhXNU9DSUR4U2N2ZndVMDlGSEl4SW9HQkIyaTgyRFZWZHlGeWVZaE1nY250SkpPTGw1YmxlWFhDeDZ4WWQ4VHpQcHdVQ2JmM1E3QzZuZmwtTWhHV3hDYXc3MnVHcEhYQkpxX3lIRF94ZGZDWTFTRmcyRnFqamkyMWI4WDFaRVV1YWJITW15RXJL?oc=5"
   },
   {
    "cat": "robo",
@@ -14,6 +14,20 @@
    "blurb": "",
    "src": "Forbes",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYS1UQ1RLOHJLOExILXl3UHRXUHd5QW1FWVlOdlBtTllUUkxKZkpGQXN2NURmUmxrLUZkVEs5bkdndXJvT1BDUmxVNy1KMnJsU0hrYmJuMDl3TEdrV3BIdk5VcS1jSk0teTZKT05CSHV5dkZuZkJ0SndOYlpmMDBtLVl0NlFZWDBTcmV1ekdJU0NOcXg1YmM4NlNaLUY0NUd1OTNuRUlxalVGbVlSVWcycDZVUlV6X0h2cXcxSjB3?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Why South Korea is racing to build a sovereign AI model for cybersecurity",
+   "blurb": "",
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaUhhbndVeVJCam1DSEVaWGtKbGxWbDktWlN6cmRoZk5ZMWR3ZG12dVhNTnh5STJ5THdMU0EtT0xfb2RCaHc1SUdldG5tMnNoRng5OHhZd0h6NjZfN3BDSnRsRDhvVU5hbTdlWk16b1Z4dXRZM1czcjZFSUkxOGNzcWtuN2llUmp4WFNCUUJVbDJKUWZMVjVNWVlQUXgtVlNjelhNaENaVnU4bmJRZzJXRnBFQjlZNDBY0gG4AUFVX3lxTE94TDhoUS1RSDhDN3ZxNUN3bzB6YVpjekdzSGxLSy1fRlZWYnBqdDFRQmFCSk9lbFE3VEU5TEM1Y1RxS1JmODdTb0lwcUtEZ1YzWVBlS19WNzVONUVibUFWYVItSl9fdFl1VnY2ZDhQeUV5QVRhcE1haUEzRUp5TXRlWm5DOWVISlBqTWljM2NiR29lcVl1NWo5b2lyZG1SMGdHZEFLdkZBdnN1SG5YaFhPTnJzbjljeGo?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+   "blurb": "",
+   "src": "WIRED",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5"
   },
   {
    "cat": "ai",
@@ -31,10 +45,10 @@
   },
   {
    "cat": "ai",
-   "title": "IBM’s AI model chief on the tools changing how research gets done",
+   "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals",
    "blurb": "",
-   "src": "IBM",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVI5M3JYZWxxQWl5VWs5NmNJUmI4ZUd2QWF1emlPcnFoZEVmMl9tNTJySkdtOTV5MVJhVnQ4a2N0OFBaZkNlT0QzUEFnQ0VsNjBMR2o3SV9Ga1dSRXhlWDk0T3Nib0tuWEp1bWRuYkg1MXFBZk9Hc1VrOVlwMThsNWR3WnQtLWtwTHFB?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFBidnJRbHRkSDh4WXNUVlBOY1VmZ3NCSlRhQzEwZWY3dGJfeXlMQ1FWN1FheElOWU0wdFBJZ2p0Y0VDSnd2RDlDSExSQ3lOb19UYkc4Q0d6UEtsQzN4TWg2LWtianhwbEgtZmR4OWs4QU9QbjM3RkJqNHI2TmgzRVRxcXhuRlE4ZHdlRFRvNlBvWUxYUkFQRmZ1Y3NaeWh1V0swM2NHaW5NcEg2UGdiOHFMMzN4bGMweVE?oc=5"
   },
   {
    "cat": "robo",
@@ -42,6 +56,20 @@
    "blurb": "",
    "src": "TrendForce",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiaXlmVTJ1QXVzMVloWnptZy1QNk1RNlpLdGdtV3VzbVNiSDhNb3JuNlU3ajFSbFk5My0tTXdFSHpKQWVjWlJ2aHRCbXprTHBtNjdFaW0tQzF4dWZ1YUd4S2Z1b1F3YUE5Y09aa2pZcXIzRjQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "IBM’s AI model chief on the tools changing how research gets done",
+   "blurb": "",
+   "src": "IBM",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVI5M3JYZWxxQWl5VWs5NmNJUmI4ZUd2QWF1emlPcnFoZEVmMl9tNTJySkdtOTV5MVJhVnQ4a2N0OFBaZkNlT0QzUEFnQ0VsNjBMR2o3SV9Ga1dSRXhlWDk0T3Nib0tuWEp1bWRuYkg1MXFBZk9Hc1VrOVlwMThsNWR3WnQtLWtwTHFB?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+   "blurb": "",
+   "src": "Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2c2QlRyT29GUVI2ZXFJMlptMGdaYktENmpjaGJwUlNfVG4wT0NCWDB4bmV3Mno0MU5yX2lybENudkpVUHlQemtmQXNxYWFRZWp6U2l3eWVzRkJ1cGZJeUNSV2pjeWV2RllWZGJMQ3dEd1BxSDNNX2xOdW85N1hDSW9LT0pnTmFNQ2tqdUlFNXhoSmhOU0ZhVFZYb1FaRTV1cnpzajNIWVlRZGtheTBtVFR3UQ?oc=5"
   },
   {
    "cat": "ai",
@@ -55,35 +83,7 @@
    "title": "I, Humanoid",
    "blurb": "",
    "src": "The World of Chinese",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3VsTUFEQk55Q1c0eXZqQmoyMGJHSnljV0JQZmhfa0NTLVh5QjRNTG5FbGZ4dTY2djVLXzBYU3pMVzRfUkFSaG4xSU1TQ3RFSnZSNEJxMlpWWnlvVnRSZE5yb0lBaERyYkxSYUdQUzJUWHNvcmw4SEIxWG45M1NVTWJNS0s?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "When AI Models Learn from Employees: The Next Trade Secret Battleground",
-   "blurb": "",
-   "src": "Brownstein Hyatt Farber Schreck",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjZuaGlENEVnMkQ4UVE4WnlQUlhVYkZHRXNROHRkX3I2VVFCQlNlc09YU0dnZ1B0SmpKTmtxRkRYbHJjNC1GdnNSSVgxS3AwdGdHdEwyMDJJYnpRY2kxNHFKb0c3cXUyYXh5bXE0a2lBcGJkYzUxb0Jnc29LUEJNOFdULUN4M3lVcmtOaDNtWXljcnRYSlFvd3lnUEZqbHloX0E?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-   "blurb": "",
-   "src": "Ars Technica",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2c2QlRyT29GUVI2ZXFJMlptMGdaYktENmpjaGJwUlNfVG4wT0NCWDB4bmV3Mno0MU5yX2lybENudkpVUHlQemtmQXNxYWFRZWp6U2l3eWVzRkJ1cGZJeUNSV2pjeWV2RllWZGJMQ3dEd1BxSDNNX2xOdW85N1hDSW9LT0pnTmFNQ2tqdUlFNXhoSmhOU0ZhVFZYb1FaRTV1cnpzajNIWVlRZGtheTBtVFR3UQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Moonshot AI touts world’s largest open-source model as China closes gap with US",
-   "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQkg3cUFRMDhLc2Y5Ml9DczVGUVBjMmh3a2lOT0JfM1FaUjFpandRQllRcWh1YWpvVmIteG85SlozQ3ZVSF9KR2tsSTU0LVZNTzFrSmxsWXhYb0VGT0NCemlndE9raEhDV1dUVlR6RTBEeXpwQktGMTlJQk1pSVp3LWFXSE5udVh4ZmsybExPZTJUNlJBZ0ZPb2VoV0ZibFdIV3Y5MnYtTkYyYW5wWW13RG1NXy1PSmVabl9jV3ZBdFZYaE02UXhnVHJsQmN1QmJmVVVN0gHTAUFVX3lxTE1UQzA5ZFlQY1gyYzNIMDB2ejRDSk51RjhNQ212TFBMZEd2dUFjZ3pSTlBuWUNLbGhkU1R5bUFXcS1ST1VUV2NpVzlqMXVSQ1kzNHJ1emVoSXFQeWswenZMbW5heVJmcHNrQmtxZHRsVktVWWY1Q1ZFS2VFUG1MREV3dmEya3VsXzc3UUpkcUNjNHhUNWJpQUlJa1FZME92eTBHT0IweE1fb01kb1FGUThVbkNDMTJUaVlXZ0QzekUtZ1NLcGtFeExvWFpIZVRpWjVIX3M?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "New York school district to deploy humanoid robot teacher this fall",
-   "blurb": "",
-   "src": "NewsNation",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1BJelVqelVGODRnM1RvT1ZuRzVNTW9IN1QzVzhYWUc0REE1ODJDdjF1anBIYUV1OFBtcnVVYWF5d1ZrRExUdnRWZlhTV05zZlU1UFRYblBpaERfSXVpaGRiTEhqVEt1QmgwX0JoZmJ0WTE3WV9QUWYzcWpGVmd1Tnl3U1gyZ1lvVzN3SENQVThSVnQ3eGFONTZweUnSAaIBQVVfeXFMTVZQWUM1amEzUmk3dTNKbl9TT09iUXVjREhUal9vMFhvLWJURWk0akdfVWY2QWxMdjJJcHJZaTMyMFYtODhDcWU0Ty04TmIxODVLd3E3ZkVUOGFJcGk0bE9WZ1loRnpQV29EajZoMFE0MEpGem9DSkVuLXhoRk5ndV9ITWxhT2xJOFg3NXpscGVHTHVOOVBKR0E4NU9LWWVsTzJR?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0teEtlWVBYWE1WQ3NUSWU4d2s0VU41VzFXMTI4NFBlRkpaSHhXNTJNS1VEUEFzX3kzbjRseEV2Mk96WTZsNXJMcDV6R3hfNzMxejJzZ1ltYllxQTZmdWhZd0JRM3RHTlR2dS1DV0xaUDBkNDQ?oc=5"
   }
  ]
 }
