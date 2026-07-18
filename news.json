@@ -1,6 +1,20 @@
 {
- "updated": "2026-07-18T10:20:12.896Z",
+ "updated": "2026-07-18T15:59:59.625Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "What to Know About the Chinese AI Models Rattling U.S. Stocks",
+   "blurb": "",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX0JEZ2x1UUF4UHEzUVJYS1loOFM2RzVjazlLdDd4OVdpV3pEdmxyV2ZrZGFKcWJnTU5XNnBJQ1Z4OW43dF96T0pGR3p1bHppdlhGaGd5dVM3RTA1MmllQ1BDMlEydlJBMW1aTG5Ja01EY0J3NzQ1Xy1HekkzZnNELWluVVpUcnZEM0RDWHhjS3paUWtJV0dDMl94TV9ydw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots",
+   "blurb": "",
+   "src": "Futurism",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlVRREN2QTJvZjdvRFNjR1lpc1c1LVI4V0ozRzE1RGx6YlZENkNrbUpTMnJiaFlWZHFCVEh6TFlMd2JsWWJDelpVeF95T2RIUWx2WXVJSkRzbEoxQW1zZmduaHFFcDZpdWo1eHZGV2o4dnJGa3JfYnNhSldRRi1PQk9PbDhiaENiYzVIV1MwWXJJZndZWDRQVg?oc=5"
+  },
   {
    "cat": "ai",
    "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
@@ -10,10 +24,24 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots in 2026: What Is Actually Deployed",
+   "title": "The more I watch the new NEO robot video the creepier it gets",
    "blurb": "",
-   "src": "Technology Org",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmhMSXNTbVRVZWZ0dkdkX1JEb2h6VWZyRVFaMkVVOFZoWnRvVjBUSmw4STVfUHRzNkYxeHRzLWtTdi12eTczdkdVR0NQYWFVZHpUSnF2dnhmWFBoR3B0bW0xbzVXdlNzbjRDSmExN05KbUZIQWxhbE9GWE5BRnRxN2dfczFqUzhIc243a2QyNnFvZw?oc=5"
+   "src": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dUZWQ0FJd3NhNnBqZ0pDN1pMWThNeE9RQTdFZW1mdU8wVnZTU2RwMTBibFZ0X3RnODRqaVF2WGVGbDdpblB3WDJmSEFJRnBua1VrR19xSUt2UQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "China’s open weight could break the trillion-dollar AI model",
+   "blurb": "",
+   "src": "The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVENRNGZ0R1hNMWx5SHpoTHdIbVM3MWVEd2czWHp1VGVuZXJRYkdreGctNndlUm81YVVyNVRqZ1VVeVV6RW5MYXVuWFRVcVdGcU1kRTJ0QUZXeHBnM0Z0OEZRdmZCTWtPNUVYVkhaaUxZY2E0bTlIMGw4QmdOLTdDMlRlS05tTC1NNGtOcGRPTS1hbmVPWXBGVy1RNjJsejlfWm5FSkxtMG84a0FuaW42ZQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "NY school to introduce first humanoid robot in US classroom — and vows ‘Sally’ will never replace teachers",
+   "blurb": "",
+   "src": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbFM3ZTNtaU9OMFhaOHlzM1JicUJSVnZ1WFZyU2tYSjYyUDBXUzBlZlBvZkJfR0txbTN4NzFqSllSejJnMjl6V25HYVYyZXc3VkpDYWdqRnBDeGVodVVnYlc1VWlzVU1rQktXaDBCMVVMdU5TU2JaVFZmaWNvQTg3NUpFcE1yNEZKbFA1Qm9PS0ozM3hkc2ZmUmRDWHFwUQ?oc=5"
   },
   {
    "cat": "ai",
@@ -24,17 +52,17 @@
   },
   {
    "cat": "robo",
-   "title": "Brutal Humanoid Robot Cage Match Stops Abruptly When One of the Robot’s Heads Pops Off",
+   "title": "Humanoid Robots in 2026: What Is Actually Deployed",
    "blurb": "",
-   "src": "Futurism",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCS2dfV1haOGthWE0xcm41a2VQWGIwRDh6dHVodVFrVDJHQkc4SEcwUlpFZUV3aXNSVm1Wcjc0eDlTcXJTZ1Z0R21PWWtTZXRoSHA0dmlmdDNFUUZGSElNYUxnWUtwNzhIVWhjY1o4dlNuYTJ5aTFaeWpURQ?oc=5"
+   "src": "Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmhMSXNTbVRVZWZ0dkdkX1JEb2h6VWZyRVFaMkVVOFZoWnRvVjBUSmw4STVfUHRzNkYxeHRzLWtTdi12eTczdkdVR0NQYWFVZHpUSnF2dnhmWFBoR3B0bW0xbzVXdlNzbjRDSmExN05KbUZIQWxhbE9GWE5BRnRxN2dfczFqUzhIc243a2QyNnFvZw?oc=5"
   },
   {
    "cat": "ai",
-   "title": "China’s Powerful New Moonshot AI Model Closes Gap With US Rivals",
+   "title": "Lin Qiao’s Fireworks AI Bets on Specialized Models Over General A.I. Hype",
    "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmpiSkRuZWF2alRmVDB6RXpnWHdyaG1USU1wV3JiZDJSVVZmQldlOThRZzBBRzhvbExKbmc4SldOVk9BdThzRnlNQmxiU0Y2eUVYRi0tV0ZUdE9nbnVLb1UtOE9veTZPTWZ1amxKdHU1a0d4TDFBTHJ2Y2EzMkw4c183bzhVUGNTR1Y1YlFyYzdQZjZRbXJHamh3R3ZvbjdjaC1mYzNLM0dwUDJQUG9lVnB6RV9EQQ?oc=5"
+   "src": "observer.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGdoeS1uT0hFTHZlMElWaU9CS2RqQ296d2RGcjF6eUdOcEpUSGlDSTZqTjRLaDZfT0Y3bFhiQ3ZFeTZyNjZtbnByQkxXUmQ1VDhpeFdQLWJBMUlPZlI3cGhBdHdoYldieGJ6djM4alltV0w0WjJTRWZURWRsX0FtTnhSZFpDTzBWYTR6anNYTjFaS1BMUEd2aHBxajU2S09ncFVN?oc=5"
   },
   {
    "cat": "robo",
@@ -49,34 +77,6 @@
    "blurb": "",
    "src": "Morning Brew",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXN3YnNlTkhQalZGc3h0WFpKcUtUc0dacmFkdFhpeHBOa0FLeUZwOTFVZzJvbDNWNEtrSGstdW1Pb2lDUWJ1RVhtdk1tS3pSN3dSdmRBMUQxMWVFel9INzNHa05uV21qNkFZdXlsZUJpaEZEOTU2X0EzaDdwOXlERzBod3JlRXF2dWllZw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "We Just Had The First Humanoid Robot Strike Ever",
-   "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanY2RjdHdERhWUlEczEwc0JpSF9vcEp1eWpkcmFHWUVzTVU1U3hMZzRMbzBRMTVHM2ZCVzRLLVgwcHA3QnBNbW5tMG92c3Nibl9ySjkxQ0RMenhLOGEzSERyUVV1V181dVFGeDU1akViMnVRU3ZJb0JSSFpXWUFpTjBFRHNWOFFnd0ZyVExPSVptdGZJeGpSc25XSVdpTTl1WHV1OQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Meet the Companies Shelling Out for Top AI Models",
-   "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDZHV1U2RkFZc3o3c0xYRUU4WVAxLW9VNW9pR2IzaE52dWFQVkpKN2FrVm9hNFZWRVM5NjdPTkptVUpVbzJVbkZIMnJpTUt3SFBjZDR6NjQ2eDh0bjN2Q1NxZ0xsZG1HZ2tIa0VYZlNucE9TNzROb0RzX1c0ZUctTHZyYzc4WXRucERTRDhfeTF5VDVW?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China’s humanoid robot makers eye global expansion as 2026 WAIC highlights industry’s rapid rise",
-   "blurb": "",
-   "src": "Global Times",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YQWxuaTcxOUU5T1RZcEozekZTYmhUczlWYVZDbERWcFl2YXlhclU1TjZlVlljbk4zNGxYRXRuYnF0RVNfMUNncmxBeVV4dnRWcW5iWlh6RTU2ZjRrUUdCTmJR?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
-   "blurb": "",
-   "src": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWthNjJoaVVtZUxQeWE1Q2tndy1yUU12Tm1Pdll0WUZxZy1PTFZrSElXMEhicnZnbTdzeVhIczVFWGZMbUNZZ3hSOTIxWnBhVUREOE1wbjEyNW9YUjJQLU83djItbXl1LThHM2ZTc3FHQm1nWGlOY1FFcFBmUFdDc3ZB?oc=5"
   },
   {
    "cat": "robo",
