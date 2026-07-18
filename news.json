@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-17T21:56:02.051Z",
+ "updated": "2026-07-18T05:29:18.881Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Meet the Companies Shelling Out for Top AI Models",
+   "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
    "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDZHV1U2RkFZc3o3c0xYRUU4WVAxLW9VNW9pR2IzaE52dWFQVkpKN2FrVm9hNFZWRVM5NjdPTkptVUpVbzJVbkZIMnJpTUt3SFBjZDR6NjQ2eDh0bjN2Q1NxZ0xsZG1HZ2tIa0VYZlNucE9TNzROb0RzX1c0ZUctTHZyYzc4WXRucERTRDhfeTF5VDVW?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXNCa1F5OWZBSmxzMzlSblhsY24zVzAzQ3poZm85a3ZzM1VORXcyaF9FbEYtazE3UUhZQ2lwODR4OEE3YmtDVlN3a0dBSV96QVR0SXFwS1VIWFJlRTQ4S0sxUWpEODZNMlp1SzQ3d0FmR08wNWQzSXBTekg3SGp3d9IBhgFBVV95cUxPamJuZ0NySktUZl9VbjUtUUVFWFUwd3ZJZ3pnX2REclpHZ055SmV6cjNMS3h4ZWdGTF9qTnRPekdJZmdWVlZQZ0tTSVJGVzl2R0ZfSXRDUmx6WjNrR1BVa25fejVKejlpSmRxTzAtZFh4cXVfN2p2YjM3NTRxNkw4emxKeURLQQ?oc=5"
   },
   {
    "cat": "robo",
@@ -31,10 +31,10 @@
   },
   {
    "cat": "ai",
-   "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
+   "title": "Meet the Companies Shelling Out for Top AI Models",
    "blurb": "",
-   "src": "The Press Democrat",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjF6Z0xvUE9MRUZpLXR6Q0lTM3B1RGo3TWtGNDNYUjlvR2xXUzY2SUFxMDNITGNxM25XeUU0d3NPMnhaUE9STkZBRVRzOEtyNEY4Q2ZHeDlfdllhMmRUR1ZTNnNrc1JvYjhiTWk1eGNGZjZrelAzaDFWcFhoNGo3d3ZBTHhRUE93NDN0S0poQ0UzLTlmdDFv?oc=5"
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDZHV1U2RkFZc3o3c0xYRUU4WVAxLW9VNW9pR2IzaE52dWFQVkpKN2FrVm9hNFZWRVM5NjdPTkptVUpVbzJVbkZIMnJpTUt3SFBjZDR6NjQ2eDh0bjN2Q1NxZ0xsZG1HZ2tIa0VYZlNucE9TNzROb0RzX1c0ZUctTHZyYzc4WXRucERTRDhfeTF5VDVW?oc=5"
   },
   {
    "cat": "robo",
@@ -45,31 +45,17 @@
   },
   {
    "cat": "ai",
-   "title": "What Smart People Are Saying About China's Hot New Kimi K3 AI Model",
+   "title": "China’s Powerful New Moonshot AI Model Closes Gap With US Rivals",
    "blurb": "",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWktlVlFHb3VWRVVlWjFqOVItVGYxeXA2YVRPNi1yLW9tLTk1LTVxdTI4VWNvSWpLdzloS2h1VkxvbjlJTjJyV2ZhNWw4dXVoMUdwUWxQUVBIbUUwOGVvcVAxT0dvVno0V3hWa3pkd2FsQ0VteVg0cmtLNVlYRW85d2JuTFNzOGNadFBIY1dOLVV2YXZS?oc=5"
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmpiSkRuZWF2alRmVDB6RXpnWHdyaG1USU1wV3JiZDJSVVZmQldlOThRZzBBRzhvbExKbmc4SldOVk9BdThzRnlNQmxiU0Y2eUVYRi0tV0ZUdE9nbnVLb1UtOE9veTZPTWZ1amxKdHU1a0d4TDFBTHJ2Y2EzMkw4c183bzhVUGNTR1Y1YlFyYzdQZjZRbXJHamh3R3ZvbjdjaC1mYzNLM0dwUDJQUG9lVnB6RV9EQQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "The Fight Over Humanoid Robots Has Shut Down a Car Factory for the First Time",
+   "title": "Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?",
    "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM3p6aHI4Y1lhcG1RSndpVy02eWk5bzBJM2pvUGpBZ01HbkNKZ1JXRW9TR1Z4b1BDcmM0RnRHdnJ1SU54VnN4ZU5oT1VEUmFYQkZhWndyTzltVENQVC1naGtENFVEZTUwNjFEdzVEbkd5d2NQTHF0Y0JvX1EySHJJSVlTTnFLdjVOUkxMbGwxUkRCYS1YMF9SSkFIeXNZN0phWUc5Z0FiUzEyUFJiNVEzLVJaNzlBeVBhd1Z5aGxB?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "China’s Moonshot unveils new AI model",
-   "blurb": "",
-   "src": "Taipei Times",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZmRCZ3Y3SXNkdmhyMURLUEE3cjhCV3BzVldQNjFSbGRtQVdHX1Zac1QxamtqTjBSb0UtcVlPQUlfYTJyQVktU0JvWWk4T2FqOTlaZXNTdUdrUUpXOGt4bkFhckV3UEFZM1hucHlnaXplVnduckE?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid robot lands head-high kick during ‘world’s first freestyle’ fighting in China",
-   "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYlF1Z3preTVSaWptckZBMkoxRE93ZXdQMkc0d1dqWERQVndPaFQ5Z1ZHcnN0OWdmTk01d2RTLVVQU09hRDl6QjJJY01QVWlwbGQ5cG1TaWhoQWlHbEhLMmZDRHRIZzZUZ0ozV3J5ZUx2QXBxcnFPMkJrc2hZbHZ0UkFXdXVad3ZpX3c?oc=5"
+   "src": "IEEE Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51M0NZMjlVMUNYZnl4ZUg0U1lqVVlLNkRZM1hOREpWSklzTkdfX2IwaE42M3F2M01SQmF3UGo5VHFkMWQ5Qkc0c3l5QVVYT3hqZ1lwbTJKUVcxOTNUSklMa2dDRmg?oc=5"
   },
   {
    "cat": "ai",
@@ -84,6 +70,20 @@
    "blurb": "",
    "src": "Futurism",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCS2dfV1haOGthWE0xcm41a2VQWGIwRDh6dHVodVFrVDJHQkc4SEcwUlpFZUV3aXNSVm1Wcjc0eDlTcXJTZ1Z0R21PWWtTZXRoSHA0dmlmdDNFUUZGSElNYUxnWUtwNzhIVWhjY1o4dlNuYTJ5aTFaeWpURQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "AI & Tech Brief: China’s Moonshot AI",
+   "blurb": "",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmtjM2ktWG40YW1Pb0VZcjhseHZpUUJ5dGp0Y3hfTG05aWZTTGtUR1JOTnFNWkRSWGtKdW1kMUdhS0phd1ZXZWFhUXAtaG9qOE5GVHFUTDRqMXdKUjctdDlnZEc5eDRhUFVLYm5rWDRpUHdBTUtGUzB3eTktbV9pS1E0ajBTZjNsT2xtcmlZVGpCeWw3ZGxDT0lkXzBiQi1RV25TVm9pRVM?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid robot lands head-high kick during ‘world’s first freestyle’ fighting in China",
+   "blurb": "",
+   "src": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYlF1Z3preTVSaWptckZBMkoxRE93ZXdQMkc0d1dqWERQVndPaFQ5Z1ZHcnN0OWdmTk01d2RTLVVQU09hRDl6QjJJY01QVWlwbGQ5cG1TaWhoQWlHbEhLMmZDRHRIZzZUZ0ozV3J5ZUx2QXBxcnFPMkJrc2hZbHZ0UkFXdXVad3ZpX3c?oc=5"
   }
  ]
 }
