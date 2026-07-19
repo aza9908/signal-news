@@ -1,12 +1,26 @@
 {
- "updated": "2026-07-19T10:36:49.641Z",
+ "updated": "2026-07-19T15:59:40.890Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT",
+   "title": "Alibaba previews Qwen3.8, claiming its strength trails only Anthropic’s Fable 5",
    "blurb": "",
-   "src": "Broadband Breakfast",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelBYVzJyalRhajJpZ1UxR0pHUXIyOG01cEZ2cUdTZzZnb3BLNHgyV1lXNl95R0FRbm5NYmZNV0ptaFZtY24xYmdpbDZhR1BPZExwY0tZajk0LXFyRHA3LVNiNE8yaGhXdkpfVzVFZGZKXy0zYkthQUtyVjNvMnZVWGJ2TVJrdnJvZGRqR3RMaE1BNTdIN2tVLVhHdzU4OVF1NmN2bGgzMmZObllNdng3QlRyRQ?oc=5"
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakRPRHUwd1M1b09VMGxEN2t6V3JfNzVsc3Zpcko1djRPaXVpdlAxYTh1eld2MkVSTUVlV1VCOXExUHkzSnFMQ2h3aXV0SHdEN2g4UXRBTlYzMm5rQnBVQmVpNzZwSWdkRG1ybU4zQ1p4dXFaWjUwTGxFQzRQM0FzVUE1TTM4UjllUDFWRjRKZS14MjdTbmhkZVYtR1BaenF2RlRydXZvTWstdmJMRFNhSGZKONIBswFBVV95cUxPLVNNNUpSUTZvb3ZlaUVrN2NWOF9nX21xNTFfbl9BUEg0VkpfZnh5M05HcVhoT0g3NDZsLWVRNlJud21VWGRSdzlweXR5dTN0NzFSLU5Rc1N1cks3SzZkd0JveFdPb0swTC01LWhlbmpfVXF2U3BFQTUtb2RjaXJxQUVqUXpSVlBZWGQzak1BMm5GTUJUZGdNUDc3c3VLeXhSd0pESkdTRXQ5WkkyNGMtdFlfdw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Chinese platform lets people control humanoid robots with thoughts",
+   "blurb": "",
+   "src": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVjhwRkl0bW5tdjVkVVl2Smh5NnhYMDZVd2hVd0NwSjBpZk9vUWoyNFozOU9iSk4tR0UycHVneUpwdVVWUDhZNTgyNE1MdU00aWZKdEtydDlmYTQ2Nks4Mmp0RXFrbG16T2xuSnZRZjNadUtWV2M3Yk5VNjZ3Z2hxRkp3?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "It’s Laughably Easy to Poison Open-Weight AI Models, Researcher Finds",
+   "blurb": "",
+   "src": "Futurism",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PNzVjOHRKLTlaS0RnVXF1VTctOFN0bzVicDZmWmZRaFdRZ29uZFBJZUJvWGVkTkltRjJqYVZjUmRrbU13ZEZtVmdET0xaTURKdXpiQ2h2YTFFdXZocko2emNxYURxRmRSRUt4TVJRTQ?oc=5"
   },
   {
    "cat": "robo",
@@ -17,17 +31,17 @@
   },
   {
    "cat": "ai",
-   "title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise Friday, the latest sign that Chinese startups that publicly release their “open-source” AI technology are making the California titans of AI sweat. Read more: https:",
+   "title": "Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT",
    "blurb": "",
-   "src": "LinkedIn",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXlEand6QlBEeDNoSlRYUGxKVUp6eW5GLW16eks2SXhLLUFFVWxUVlE0eGMxNFA4cm5RbWtWZW5kWmludVM3UUE2X0h1Rkd2QnBMaU0xTWFOc0hHbHBCUG5kN2pnWVZmRURKa3NlMWcxYVlKb0tnOUdQdzFEa0p6R1FwZlVwMkVBaGxwLUdlcWx3N0VVR1J3ZlhzRGUzb0Y0cVhReXRuTnp0VC01eXk3MmxzV3dnUndUeURnUG9GTXVDdEFQ?oc=5"
+   "src": "Broadband Breakfast",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelBYVzJyalRhajJpZ1UxR0pHUXIyOG01cEZ2cUdTZzZnb3BLNHgyV1lXNl95R0FRbm5NYmZNV0ptaFZtY24xYmdpbDZhR1BPZExwY0tZajk0LXFyRHA3LVNiNE8yaGhXdkpfVzVFZGZKXy0zYkthQUtyVjNvMnZVWGJ2TVJrdnJvZGRqR3RMaE1BNTdIN2tVLVhHdzU4OVF1NmN2bGgzMmZObllNdng3QlRyRQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots",
+   "title": "Humanoid robot cooking show turns heads in Xinjiang",
    "blurb": "",
-   "src": "Futurism",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlVRREN2QTJvZjdvRFNjR1lpc1c1LVI4V0ozRzE1RGx6YlZENkNrbUpTMnJiaFlWZHFCVEh6TFlMd2JsWWJDelpVeF95T2RIUWx2WXVJSkRzbEoxQW1zZmduaHFFcDZpdWo1eHZGV2o4dnJGa3JfYnNhSldRRi1PQk9PbDhiaENiYzVIV1MwWXJJZndZWDRQVg?oc=5"
+   "src": "AnewZ",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDFfQ2lFeVBtTHRHd2xlTDdmenVSMUd4Tjh1dEJUaG11WHlRS0x5WWJuRVlDN3U4b1NSTWp3Z3pFNFluVksyZWluY2todlFUVWJpYzkxQ0x2SjN4UFhIay1qVmxTZWxON3Z2MHBqX1E1RUNaZFNtN1pHZDV3bVZsU1FMNGdWTVgzSTBwclhWYzhael9abGM3aDJSa2szMGU3TmNkejZKSmNweTVqM2l3?oc=5"
   },
   {
    "cat": "ai",
@@ -38,24 +52,24 @@
   },
   {
    "cat": "robo",
+   "title": "LimX Dynamics Raises Nearly $200 Million In Pre-IPO Funding To Scale Humanoid Robots",
+   "blurb": "",
+   "src": "Pulse 2.0",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbE54eUUyOFZQY0NSMjFRQWtlUmQzME5KUlpncVNiZVlkeHMyd0JyWDhudDBrZGZCdHVIWEI4cFlHWmZJeGVJb0ZacDJtNnhqS2ZodEcyM2JYdzlMTjF3bDU4cnRDU1QyTDJjZnBPNlFuRHZNdVNiWElyRXNaRkxPWHdLS3htLUdud0hBM0ozTlJXWEZyRkRUWVdsVDRaWE9FSDZLcXp30gGrAUFVX3lxTE5aRV9UT0l2cEwyNUctaU5QZ3B4eklKYzdWT1NTT2psODFnb1QyODF4Tm9NTGNEUDk5Qmt2TmhyMk14Q2lOajg4TTN0ZWNndTROdW4ySFhWUjBRMEV6RUFYZ1kyVE0tSnZvNmNsTWFzZXNiRldVVW1FdWxYbVZpZGlrZkQtbDVPNG9EUGFFRTJ4TDJCeVl1b0tESVVKbXQybS1FWjB2aVVfNUx6RQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise Friday, the latest sign that Chinese startups that publicly release their “open-source” AI technology are making the California titans of AI sweat. Read more: https:",
+   "blurb": "",
+   "src": "LinkedIn",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXlEand6QlBEeDNoSlRYUGxKVUp6eW5GLW16eks2SXhLLUFFVWxUVlE0eGMxNFA4cm5RbWtWZW5kWmludVM3UUE2X0h1Rkd2QnBMaU0xTWFOc0hHbHBCUG5kN2pnWVZmRURKa3NlMWcxYVlKb0tnOUdQdzFEa0p6R1FwZlVwMkVBaGxwLUdlcWx3N0VVR1J3ZlhzRGUzb0Y0cVhReXRuTnp0VC01eXk3MmxzV3dnUndUeURnUG9GTXVDdEFQ?oc=5"
+  },
+  {
+   "cat": "robo",
    "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
    "blurb": "",
    "src": "WIRED",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "What is Thinking Machines’ first AI model ‘Inkling’, and how is it different from ChatGPT, Claude?",
-   "blurb": "",
-   "src": "The Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMUpRczdtaWxramt4TWV5Q1p1UHN0RlpMTHBYVVF3TTlHeGVURjBWS0lGVUpHUHRBeE83WlJMWXpYT3poR2lIUE9uak1CRmJQYjc3UWQxX0c5dVFiMmFpaHd1N1U5RkpiZG9iRVVSd1lMNmVhbVM2U0gyY1lqX0FGdEV2MnBMaUNHcXpOQTRUalVnTFZjLUhrRzVCR2tUY1BIY1VNS2JQd3ctRU1xczNyZGRNMmE1enVMUm1hdEVoUkdpZ08tREHSAcwBQVVfeXFMT1VFZlA5T0I5bnlzN0ZXblZSVjRHUEZKcTIwZzk3QzhyMTBwQWNMZ3hBNDQ1R1dMWk5sNi1yYXFIb0NSd2Z0TUdaUnkyNExlLTUxNmFuTnloNV94RFZueVZ5WkR2TnpQVGYwTm1MOXB3N3AtQXRkcEpUZGtHYWYtemE1ZzMyQi1FMXB0d1hBR0lreVV3OUZSeExWOGZpTXo4ell6c25CWHhUVjVRUzdhWnFTVnFqWGtOelhOMDItNmR0OW1vSFlzZnNkTjQ1?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "The 4 Layers Of Brain Behind One Of Europe’s Leading Humanoid Robots",
-   "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYS1UQ1RLOHJLOExILXl3UHRXUHd5QW1FWVlOdlBtTllUUkxKZkpGQXN2NURmUmxrLUZkVEs5bkdndXJvT1BDUmxVNy1KMnJsU0hrYmJuMDl3TEdrV3BIdk5VcS1jSk0teTZKT05CSHV5dkZuZkJ0SndOYlpmMDBtLVl0NlFZWDBTcmV1ekdJU0NOcXg1YmM4NlNaLUY0NUd1OTNuRUlxalVGbVlSVWcycDZVUlV6X0h2cXcxSjB3?oc=5"
   },
   {
    "cat": "ai",
@@ -66,24 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "New York school district to deploy humanoid robot in classrooms this fall",
+   "title": "Nation is a pace-setter in embodied intelligence, humanoid robotics: Jiang Lei, chief scientist at humanoid robotics innovation center",
    "blurb": "",
-   "src": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkVNWE8wSXVod1FPSnZTdmlqWUZ0YldRMEZfemxVZGJ6TGhKdUM5d1M2cjAtSXRNb3YxWG9HdjY2MUhjdkV2dXFwWktQQm9fMHVhNkoyalZsVVQ4eDh1OXQ4OVFxSl93R1JzRzlNa3l0clVjOWpKUGcxaU5QTXpFblA0ZzI3OFhIcUw1Uy0xanB2TWVGY3Vv0gGcAUFVX3lxTE8yS3RRUjZoSXVjT08tcDVyWFAyejBxbzA5aVhxVDhtZkFkN21vdE56VXAwOS04XzVRbVNRcDcxcjVVTVdacC1TNUtiOHE0SWozbDNpZUUxZElEN2dxbGwzN2ZDTFJhS3lqcUVES0IzaG1PZm9LOFB0U05VMjQ4LTFGRW1oNGM3eG9TOS0tU2lTdDM4b1lsQU5valBSZw?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UYkVrd05BamRNRHcyZ19xN1FyaklNdVBYUXlFcTQ4dGhjYWdrb0Z1LWxhdnV0VWVmOU9rNnVjQUpIZHQ5SmdCZDd2MDVNQk5rR2NSM2x4QkVhNVp2SVhJcF9jZGdmQjlJTnhTdmlOdGotbzZ0X3pFMTVwVQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Researchers Create Faster, Cheaper Way to Teach a Humanoid Robot to Walk Over Real-World Terrain",
-   "blurb": "",
-   "src": "Georgia Institute of Technology",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV6b2RlM1ZfQ1l3SGlVblFuTmRiLTh6T1VaMTBycjBkMnZ6X2tCVmlZc29YclNqWWdUNXZwdkZGUWhtVndGVXE3M21TdEdCMkZYUFN2VF9iVUdyUURVUkMzQmJBTmF5WlNVTUE0ZWV4ZndBWWE1RzRTRVExLXlrT3V5UmR0VlF0SnppalAyUzRyWTdiVDlEek1GRjVVZXBLdnBzeHhlZWQzVzlDZ19mVVlvZDFmZw?oc=5"
+   "src": "Global Times",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ERXVOaVFnRW1scDlsUmtmLU10SU1aa2N6dkpEd1paZ2NocDc5OGxSLWkwS3JWMmptNkt6MUw3QndTM2owMzd3WGVfUUQxTnVXTDhBTDQ1NlZ3OHY2X0NWU0N3?oc=5"
   }
  ]
 }
