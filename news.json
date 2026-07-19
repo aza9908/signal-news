@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T21:53:32.145Z",
+ "updated": "2026-07-19T05:56:39.574Z",
  "items": [
   {
    "cat": "ai",
@@ -24,6 +24,34 @@
   },
   {
    "cat": "robo",
+   "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+   "blurb": "",
+   "src": "WIRED",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Can This Israeli Startup Use AI to Translate Brain Activity Into a Language We Can Understand?",
+   "blurb": "",
+   "src": "Haaretz",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTkxkZGlCbnJYUlR6QkYtWDRCRFFLWDhPU3pqR0FwSEFmZXZsRlp0QWI4My1RWHRQMG9oV3pYWWpXLTRvSjRRQ1dIdElfbzlnZGVOUGx3TWw3cVhSTDhDLUpJM0NnNGRhZThBQnIxVWltTjBrNmJaU2xIekw0c0FHT29UdTg5WTl1SVI1akRDRzRGcXRlMVE3U2NXZndOWDZLYUwwOUpBSUdQQml5WWZyV2tUS2dTV3M3eHZIekQ3M0J3T2h6YV9FVi11eUE0S1J2bXA2Nk14QzFVM2dBTldNRnRYTXg2MkRRc1Q4cUFNd01DTWV2TFV4WTcwVnRza1g2VDRsYlY3NzFLaGc1UWw1TkdVWE0?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "New York school district to deploy humanoid robot in classrooms this fall",
+   "blurb": "",
+   "src": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkVNWE8wSXVod1FPSnZTdmlqWUZ0YldRMEZfemxVZGJ6TGhKdUM5d1M2cjAtSXRNb3YxWG9HdjY2MUhjdkV2dXFwWktQQm9fMHVhNkoyalZsVVQ4eDh1OXQ4OVFxSl93R1JzRzlNa3l0clVjOWpKUGcxaU5QTXpFblA0ZzI3OFhIcUw1Uy0xanB2TWVGY3Vv0gGcAUFVX3lxTE8yS3RRUjZoSXVjT08tcDVyWFAyejBxbzA5aVhxVDhtZkFkN21vdE56VXAwOS04XzVRbVNRcDcxcjVVTVdacC1TNUtiOHE0SWozbDNpZUUxZElEN2dxbGwzN2ZDTFJhS3lqcUVES0IzaG1PZm9LOFB0U05VMjQ4LTFGRW1oNGM3eG9TOS0tU2lTdDM4b1lsQU5valBSZw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Moonshot AI’s Kimi upends conventional wisdom on U.S. lead over China",
+   "blurb": "",
+   "src": "The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGJlZzJXZlJXTE1sU2dXQVBnSG5wbWoyYjBYdWNHQW1VMGdQa2gwLWVwYVdJQnBSb0NwWHBDVXBpWllzZ0FUMmZHX2ExREMyaVdpb1lycWZwWW9ZcGJ2SXhURW5PUnl4MGROSGQ2VFhUclBFX2tJc2FVbGxZbDZyTGRzOA?oc=5"
+  },
+  {
+   "cat": "robo",
    "title": "Eric Trump Is Building An Army Of Humanoid Robot Soldiers",
    "blurb": "",
    "src": "Kotaku",
@@ -38,52 +66,24 @@
   },
   {
    "cat": "robo",
-   "title": "New York school district to deploy humanoid robot in classrooms this fall",
+   "title": "Researchers Create Faster, Cheaper Way to Teach a Humanoid Robot to Walk Over Real-World Terrain",
    "blurb": "",
-   "src": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkVNWE8wSXVod1FPSnZTdmlqWUZ0YldRMEZfemxVZGJ6TGhKdUM5d1M2cjAtSXRNb3YxWG9HdjY2MUhjdkV2dXFwWktQQm9fMHVhNkoyalZsVVQ4eDh1OXQ4OVFxSl93R1JzRzlNa3l0clVjOWpKUGcxaU5QTXpFblA0ZzI3OFhIcUw1Uy0xanB2TWVGY3Vv0gGcAUFVX3lxTE8yS3RRUjZoSXVjT08tcDVyWFAyejBxbzA5aVhxVDhtZkFkN21vdE56VXAwOS04XzVRbVNRcDcxcjVVTVdacC1TNUtiOHE0SWozbDNpZUUxZElEN2dxbGwzN2ZDTFJhS3lqcUVES0IzaG1PZm9LOFB0U05VMjQ4LTFGRW1oNGM3eG9TOS0tU2lTdDM4b1lsQU5valBSZw?oc=5"
+   "src": "Georgia Institute of Technology",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV6b2RlM1ZfQ1l3SGlVblFuTmRiLTh6T1VaMTBycjBkMnZ6X2tCVmlZc29YclNqWWdUNXZwdkZGUWhtVndGVXE3M21TdEdCMkZYUFN2VF9iVUdyUURVUkMzQmJBTmF5WlNVTUE0ZWV4ZndBWWE1RzRTRVExLXlrT3V5UmR0VlF0SnppalAyUzRyWTdiVDlEek1GRjVVZXBLdnBzeHhlZWQzVzlDZ19mVVlvZDFmZw?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Meet Yang Zhilin, the CEO and founder behind China's buzzy new Kimi K3 AI model",
+   "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
    "blurb": "",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkVNb0lPeFBmRkpSalRIZkNlcjYtOXBzQTdEazFoS2t1MHBtN1pWMFBJdTBVY2lmdEY0Rm5mX2xXclFvT0pHNmd6bVFhbVc0S0h4cUNqQ0xWTnI0ZlBmODU1OGZWX1pYYjBrMTNzQ0xac203WjQ1eXF4cGI3dHV1TjVoeXUxVE5WazNtYUs1LXUyX2M?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXNCa1F5OWZBSmxzMzlSblhsY24zVzAzQ3poZm85a3ZzM1VORXcyaF9FbEYtazE3UUhZQ2lwODR4OEE3YmtDVlN3a0dBSV96QVR0SXFwS1VIWFJlRTQ4S0sxUWpEODZNMlp1SzQ3d0FmR08wNWQzSXBTekg3SGp3d9IBhgFBVV95cUxPamJuZ0NySktUZl9VbjUtUUVFWFUwd3ZJZ3pnX2REclpHZ055SmV6cjNMS3h4ZWdGTF9qTnRPekdJZmdWVlZQZ0tTSVJGVzl2R0ZfSXRDUmx6WjNrR1BVa25fejVKejlpSmRxTzAtZFh4cXVfN2p2YjM3NTRxNkw4emxKeURLQQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+   "title": "Amid Fears of Killer Robots, Humanoid MMA Fight in China Ends With Decapitation",
    "blurb": "",
-   "src": "WIRED",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Mozilla report claims open-source AI nearly matches Big Tech models",
-   "blurb": "",
-   "src": "Northeast Times",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTDZhLWJ0VDdhdUMxWG1SSEpDMWhralZ0eXFadnJZdkpZQndQUjNLRzRQMTJEZ0d1RnFxamJUcFdPWUFlajZmUzRyTm9NT3hDd2NKRWpYQzM1cXNTMDExRDZSR3lQa2l2UnpzdmpueER2OE00bGY1VHdFdEZsZEc4ZjBhaTlHZFV0ZG5qMFJGUnlGQWxIUEticG9saG5ZcXVmTFpWTjNYeWVEZw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "NY school to introduce first humanoid robot in US classroom — and vows ‘Sally’ will never replace teachers",
-   "blurb": "",
-   "src": "New York Post",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbFM3ZTNtaU9OMFhaOHlzM1JicUJSVnZ1WFZyU2tYSjYyUDBXUzBlZlBvZkJfR0txbTN4NzFqSllSejJnMjl6V25HYVYyZXc3VkpDYWdqRnBDeGVodVVnYlc1VWlzVU1rQktXaDBCMVVMdU5TU2JaVFZmaWNvQTg3NUpFcE1yNEZKbFA1Qm9PS0ozM3hkc2ZmUmRDWHFwUQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UYkVrd05BamRNRHcyZ19xN1FyaklNdVBYUXlFcTQ4dGhjYWdrb0Z1LWxhdnV0VWVmOU9rNnVjQUpIZHQ5SmdCZDd2MDVNQk5rR2NSM2x4QkVhNVp2SVhJcF9jZGdmQjlJTnhTdmlOdGotbzZ0X3pFMTVwVQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid Robots in 2026: What Is Actually Deployed",
-   "blurb": "",
-   "src": "Technology Org",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmhMSXNTbVRVZWZ0dkdkX1JEb2h6VWZyRVFaMkVVOFZoWnRvVjBUSmw4STVfUHRzNkYxeHRzLWtTdi12eTczdkdVR0NQYWFVZHpUSnF2dnhmWFBoR3B0bW0xbzVXdlNzbjRDSmExN05KbUZIQWxhbE9GWE5BRnRxN2dfczFqUzhIc243a2QyNnFvZw?oc=5"
+   "src": "Common Dreams",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DenVPODhZRVNyd3FJdWE1MU4xTTc4Vk9TeldmbW9COXg4SFhvcm5Fd2w2WDFKOVo5V1JPYkVTaHVnSHUwWVlwTTNVc3pSaUxjM2l2WVRBOV9zX3hoWkRIZDlQTFgtUQ?oc=5"
   }
  ]
 }
