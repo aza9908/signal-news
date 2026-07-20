@@ -1,12 +1,26 @@
 {
- "updated": "2026-07-20T16:25:39.349Z",
+ "updated": "2026-07-20T22:01:50.945Z",
  "items": [
   {
    "cat": "ai",
-   "title": "China's new AI model halts new subscriptions as demand swamps capacity",
+   "title": "Google Plans New ‘Frozen’ Chip to Run Its AI Models Much More Efficiently",
    "blurb": "",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemx2T2xjMElLNGlRUjdzeDBiTXZQWlZHcVVzdERlM0NSOFpPSXE4UTBEZWZaVUhyWUNJYjhmTlNxXzFuT1d4TzNZVVhHaU15LTRvRnpXXzM0d1gySzJxdnBlb1BCbHM2Ukplc045bkFISjEyQ2Z2RWpBRElJemdlMlkydlR1UHlUWkVVN1Uya0VUSjN5MjJXeHBnbE56UzhCaVRz0gGoAUFVX3lxTE51VkJDRTY0elNRNWZBOHdmNWxuQlVUMUJOejRiS2wwc3k3TU1lQmMyRzZmeEN0VzVtMW5KYzdWRFZEX2FsWDhmNGRUZ0JyTHBmS1BlN0R1SkwzbXY1dk5Ec19jSjlrUUlocE5CT2MtRi1iYVBQNzJYdVpmN0FRU2JrbkgxWER1eWd1RUdlSVByVzZ0SG0xejM4M1IybTlNN2JseEFtSjA1Yw?oc=5"
+   "src": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREhZUV9lOUg2Wmpzd09yd05jUEdxOG1zXzVWOHhYUF9hTUlGQ1pSUWw5VTdvNk1XNUpWUmZrQ25jMUppNnN1VEZ1OXFXbkVQaUxyR0pJT2pxSVRuSVNuQkdUR0x4RmphcGFtTmN4QTN5azlhVjk0N0JjQ1pGem5yNE1UbWFkNmdUczNlMFEzcTNDdmtmd0Q3aTdR?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "New York superintendent says humanoid robots won’t replace teachers",
+   "blurb": "",
+   "src": "NewsNation",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMGxJUHRaOHQyX3RLN21PaGF1NWx2MFRSN1ZvT0l2dzFMSHB6R0JSV0hUNEh2QnBKbkRHZnliMnNBWHA3aW01dWtmUm5UWkxLaERheDE3ZURPRndSN0ktQTBlRmhpYUh3TWlvUzltZXhQbnNvSTdkQTVHZmRwUWZoQXkwSE9JMGlBN3fSAY8BQVVfeXFMUGt2R21UR2lPXzNFdWRqcnZKbWZ0Y1UxMzUwWUktS2tWWE14eF9FOTN3RVVxdGU0LWdDRVRqS2hObFkwdUxnUWpSaVZ0d1FYTVRiSGVBVnZIcEVQM3VPdDVOV0JBMmVXSzlIdFJvTHNPUmRxYm82TDVFdlp2SWNOTTcxenAwcFgweVFLQVMtT0k?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Opinion | Powerful AI models are being given away for free. It was inevitable.",
+   "blurb": "",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5"
   },
   {
    "cat": "robo",
@@ -31,17 +45,17 @@
   },
   {
    "cat": "ai",
-   "title": "Opinion | Powerful AI models are being given away for free. It was inevitable.",
+   "title": "The secret Trump administration battle to fight Chinese AI",
    "blurb": "",
-   "src": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5"
+   "src": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PWTlIa1VpT2FIbVZmcFZOeURoNEtPdEE5MzVib0YxNGhUOWg2cFBncmxoLU1idmN4eXhLX1FxQzZpbjNIck9NdEZZcVBMNlRpaTVlTHNwSi1KYzYweW9xMm1RWGpWT0pyZ216Wk53?oc=5"
   },
   {
    "cat": "robo",
-   "title": "AGIBOT unveils new humanoid alongside other robots at WAIC 2026",
+   "title": "This New York School Is Becoming a Humanoid Robot Company's Biggest Test. There's Just 1 Problem",
    "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LSlBLNm1mT0pQUmNSYjJqRjZQMUpmZGgxRkJ3VjlaMW5aT0trWmVBRUVHV3VkVlRiZThYckZ6VzhnTXNoVFV1WGlpX3JhODlfOFE5emdoalkwOUJfRE1kYnpqcDgyUWRodUFfTlc5QVJEVnRLMlYxejRDN0ktYlU?oc=5"
+   "src": "inc.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeVktWEpOTHhpMFhoZTFOREtXU2FuNGExblhwQkRNYzQ2RFlFRnEtcnRYcmc1cXhtem5YaGsyTzM1ZmFHOGtqdDU4eU03QnFELUlYUmlYd2w3Nk9BcW9ub2gtZlpyQkRxdXBVZ01xZDk5NzFMNElxV0pmdmFzT3l4bzB3b28xLUhHUkxpSmNIQ3p4YUJ2SXJjeE1kVDh2aUxHMndoSzU0NHA?oc=5"
   },
   {
    "cat": "ai",
@@ -52,38 +66,24 @@
   },
   {
    "cat": "robo",
-   "title": "Could humanoid robots be used to fire mortars? | Defense Dollars",
+   "title": "Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent",
    "blurb": "",
-   "src": "Defense News",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHlEQzU0T0VBYXRJOW94b3N2SHlDOUREdEZUYXJMajVpbllkZ3dqVlktSFZvUGpEeHI0Q3VKcmlrT0picEZpNFJ1Z3lpSTFzbmFQTmQzTHhLdUlVUGs1bnd1N3ZicUVHZUhBRmdFeEljZEtBZVFaODI4UzV0blNzOUdFVHc1THViNUI3VFRoRndRN1REZzBpZVl4ekdVNHU2TzJDRTdoR1IzSlU?oc=5"
+   "src": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3k1SFlJdlNnLTRQYl9nUGtibFg1dHlCektXZVVuVDBMRnRudF95b1hxbE5xcnZVcVlxVDllZndSZTlYV1MwdXQ0VkFlajFTVWtEVjVjdGFpWXRUUFVtVFRfSEJSNmQ2am5RR3BleHZKdlNfMkZIVWNZOEtiYVZ4elM2cUpLbG1CM3BxeW1VWWJ6dG9RV2RheXp6RzlES181Zm5lX1FyZ0ppZEE?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Trump administration is seizing control of who can access frontier AI models",
+   "title": "Responsible AI: Governance, Principles, and Practical Guide",
    "blurb": "",
-   "src": "qz.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kN3FmM3NyOGxMSzRFZjZ6dEJXMmxQd2pWazRwMjZ5Um5rZ0NGR0Rxbm1EbjNpQVhJekdvdG5oaGlYRG9MNVlKR1NUM1ZLQ2xlS0JRM3N6cU5IbWkwWmJ2WXlXMWdzcllxRGh3TnlqUVhsMGcxZHowMTJhTjg?oc=5"
+   "src": "Databricks",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vaVZmYURKYWh5R2lPcVRsa0ZPSTRURTc2eXJxNHRkOW96RFplYzRQME05VEZ0RXlrb0dfR3A1TnlXRERleXZjSnRueGIzb1JDbEFHZXJJTHplUQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots: The US-China Divide and Who Controls the",
+   "title": "Humanoid Companion Robots are Launching This September",
    "blurb": "",
-   "src": "GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPajdjejE3NlI4a0JqNTV6aFA3ZFJHX0hHdEtVbVg0UklXSnVLdUl1U1dHMDZBX3lIeWdvTDhoQ2dURVRjMXU2ZHhRSjhwaFlHV0E4SThJdmd6M2YtbHhXRjRabk95MG15SVJ0MllOU3dpVFMyZmFKTnRVclloY3prWGlxMkxxN0ppdVdyY3puQkl6ZzlKTG9MbTg1MFdDMkN3ZmxDYTg5eGZSZWtvWkoyRG8ybTVISWQ1cFZ1dXYtWV9hby0xNDlUTEF5ZWl0ZWNhLVhCLXpGbG5IS1YzWWNvVjAtcE9EOVFaUGRmaDUtbjkyN3NIbnFHY05yZGtscWwxZklnZDJiVEticlZHSTZB?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "The Made-in-China Anxiety Gripping America’s AI Industry",
-   "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGo4T2gyVGxsT29wNF96ZmEwMDRSU3Z1UDlTY2NGYmNlR1hMcllQbHdDUWdvUGpoNWNZdk5ZcHhWcUh2amRPRHg0SGdLMzlyNXlhdm5jenVJaEZqOVk5d2dmdnNRZHRjdFhjdk1qRkFCWUtWX05HX0pBS09BV1oxblVkMjhWWXo4SnJpVVVlM2cwb2VjY0R1Y0M5M1hxRmRWN0lWVEJ3dzM?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Inside China’s big AI show: Robot police, dancing humanoids and a roof collapse",
-   "blurb": "",
-   "src": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb1huQnUzYTVKM1hrQnI2VmkyQjBIbHdlQ2htTUdVbGllU2pPS2V2dk1mZDcxU2RxMnZJSVVDTXhPdlgtWjBOc2ViaXNNRGFqX2F0ZUsycElzOUtPLVhCallWOFAwM0ZFZzZ0anZSbE5TNV9CY3RnMkxEeUdnM2FhTW0yY2hEQjdSanI0TWRZeEFUU1N4YUJ0dEJqQXI5dw?oc=5"
+   "src": "Core77",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2U3YmUtclVmdHBnUVg5YUZyQzA0OTJHdGhWVEMxNmxuV242eTc0Y09JLTdBTjk5TDNZR0d6QVFITXhtTmZoXzhkU3FNMi1Lbkc0WVB5QnFtcmRFeGlqWEEzWFdrR1A4UXpDejlWcEtkdmNHeElraXpsRjJ4ZTk1NjAtRzc3aWtaS2p0dVpxYTRKUzFQ?oc=5"
   }
  ]
 }
