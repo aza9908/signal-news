@@ -1,6 +1,20 @@
 {
- "updated": "2026-07-20T06:20:10.522Z",
+ "updated": "2026-07-20T11:47:22.209Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "China's new AI model halts new subscriptions as demand swamps capacity",
+   "blurb": "",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHluaTV1bXVPd3NlUUNOblF2cEo3VzdoRjBWckp0LWphMFdvckk3cmlWSVVnVEFIeXNSU09iMEszUW11V1p0emdLSW9TR2RNa2FIWnBKbWVGWlh0QjVSUkJSZTBSWkxobGZQelJMRGJpb0V2ZVBjWFVDMEUtQVdqSzdtQkhkeVJFMnhXbU1Rd2s1N3podVhERzYtSTA4UjJiblRjaGZNNNIBrAFBVV95cUxOSy1Vb1Q1cnBUaFp3MGV4TzdPTkpfREdSUmJoT2ZKcFlUVjNDTmdNczNIbjNiaGQ0SDFyS0pnbGczTVNjaElnektodHlEVThJQTg3TTVmM2hJaVBwb294cE5fQ05zTE4zMll2V3VrbjBkaEc0cGQxZ3N3SnZxemZ0RTVtLV9QdTl0ZFZvcFdNSVBORWx0c3RrSkNKOVEycWxlc2RTb2I1S0g2UEMt?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid Robots in 2026: What Is Actually Deployed",
+   "blurb": "",
+   "src": "Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmhMSXNTbVRVZWZ0dkdkX1JEb2h6VWZyRVFaMkVVOFZoWnRvVjBUSmw4STVfUHRzNkYxeHRzLWtTdi12eTczdkdVR0NQYWFVZHpUSnF2dnhmWFBoR3B0bW0xbzVXdlNzbjRDSmExN05KbUZIQWxhbE9GWE5BRnRxN2dfczFqUzhIc243a2QyNnFvZw?oc=5"
+  },
   {
    "cat": "ai",
    "title": "Alibaba Says New AI Model Is Just Second to Anthropic’s Fable 5",
@@ -10,80 +24,66 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robot Development: Australian entrepreneurs see Chinese robotics driving future productivity",
+   "title": "Humanoid Robots: The US-China Divide and Who Controls the",
    "blurb": "",
-   "src": "news.cgtn.com",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NWE05MXBWam95amptdG4xaUlDTGZxMlJ2MEdCQlpPclVjNVltRVZFNlZFd2lsanRfMHhjSjZtUF96RXZMdF9rYXRNRGNMNV9WYi1wQWJTdnN2TVB4UVkwbHNaVEhzVU4xLXJaNnR3cGFpYmlVWloxbg?oc=5"
+   "src": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPajdjejE3NlI4a0JqNTV6aFA3ZFJHX0hHdEtVbVg0UklXSnVLdUl1U1dHMDZBX3lIeWdvTDhoQ2dURVRjMXU2ZHhRSjhwaFlHV0E4SThJdmd6M2YtbHhXRjRabk95MG15SVJ0MllOU3dpVFMyZmFKTnRVclloY3prWGlxMkxxN0ppdVdyY3puQkl6ZzlKTG9MbTg1MFdDMkN3ZmxDYTg5eGZSZWtvWkoyRG8ybTVISWQ1cFZ1dXYtWV9hby0xNDlUTEF5ZWl0ZWNhLVhCLXpGbG5IS1YzWWNvVjAtcE9EOVFaUGRmaDUtbjkyN3NIbnFHY05yZGtscWwxZklnZDJiVEticlZHSTZB?oc=5"
   },
   {
    "cat": "ai",
-   "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+   "title": "Trump administration is seizing control of who can access frontier AI models",
    "blurb": "",
-   "src": "The Hacker News",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoUTdHbHN6Mlo0QV9IRmhnZUR0T1RJT1F3aUZwZlFLaW1JbXZ4azdpUkxWZFg4NGFvcUtDaTJiLWpaV1M0NkdzazR4SVhpQWVKZ3dZX28wM21WX0ZjZHJxRlN2OU43al96S1JJVDg2T2dtblIyODlTS255MVE4dw?oc=5"
+   "src": "qz.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kN3FmM3NyOGxMSzRFZjZ6dEJXMmxQd2pWazRwMjZ5Um5rZ0NGR0Rxbm1EbjNpQVhJekdvdG5oaGlYRG9MNVlKR1NUM1ZLQ2xlS0JRM3N6cU5IbWkwWmJ2WXlXMWdzcllxRGh3TnlqUVhsMGcxZHowMTJhTjg?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Automate 2026 sets records with 50,000 registrants as humanoid robots and industrial AI take center stage",
+   "title": "“Can China’s Robots Do Real Jobs?”—A Sneak Peek Inside Our New Issue",
    "blurb": "",
-   "src": "MarketScale",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaUI5bTBMbnBkYk9TcHBNWHUzS3h0X0JLMkdWNGdtSmxLR2YzNWFUMXoyWnVBcG50Q2pUbWt6QUZzTE85MDY0Uk1wZVBwSG9nMXBRVkxCT19PQWVJcXNBdWhRSzlJYkVlNWNxU0FXbDlNcDRqZ3h1NTZCUTBlc2ZneDJRYmRsX0lyQUZ4Tl9vcS1MbXVHVXpXRzZoRXBiMlI3NFF3ZWVDZWpPT3FSamRuYjlXMzI5SGRrNW5ESGhZX1Z0c2VmZnBXV1FKUjg5UkY4Sm4zeUR5dUI4ZzVPRENWN2JuTEtjWXpmdnc?oc=5"
+   "src": "The World of Chinese",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVZ5M1hvSkRzUllka0NCZlpwWjdWLWprQVFQb0dHM2t4andGX2F1UkctTkRMSEU0WldKTU0weHloOVZKT1NvZ09lM1VmTEJzUzFmaFRkM1lnZG40NGVBcUhKd1cyUk96cV9oN0dzQWpLb3NxX3JzR1BmTklGTHA0bU9ZbU5KeXBnV29uYnRSVmNxOHZNUFdRNmhB?oc=5"
   },
   {
    "cat": "ai",
-   "title": "US Considers Creating Finra-Like Watchdog to Vet Top AI Models",
+   "title": "China's latest star AI model is putting 2 tech giants back in the spotlight",
    "blurb": "",
-   "src": "Claims Journal",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5COFJDV2k1WndhdkNSWjdYWTRITVFyRnpzU0NaRnNNOS1aVG9kX19FWUlrb2w4UXcxR2JSX3B0VnRnNTliTTlRZ01qYmNmU2tWdTFWMWx0UmRlZ0JCRjZ5ckJuN3ZzSjVIcWlWUFBpS2UxeE0?oc=5"
+   "src": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUG1mOXBBbGZOZkRTMTF3c2ZPWXB1OF9CajdXOVVYdnJLMFVaMGV3RGNxWE5GUUlsWEJiWWVLemRTQUlFUndLVElIV2hYTVhaU0NPWDRRby1XUnpTYTU4WXNYcmdIVHJfMGk4enNlWFRhazZzZWYtdTdIU3BsZGFWNTFTdGotWmJ6d1dEb2R1VVBDaGs5WW1QaGRaUnFUb0NCTW1lYQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "China has over 400 humanoid robot models, surpassing half of global supply: MIIT",
+   "title": "Hyundai Workers Walk Out in Auto Industry’s First Humanoid Robot Strike",
    "blurb": "",
-   "src": "Global Times",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVR0hYTGRrSTQzTGlHdWd0MjF1NlpRUkxVQkVfT0xlblpzNlpucUtxS1hKTnduUWZsODRqS2RaU29GWWdyNENMZTBSUW9fM0xHTmUtcV9wU09QNGF4TTRBVXl3?oc=5"
+   "src": "Tech Times",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUVFrakpNOVlvc3BvU0RZSVUzM2YtOFR6S29PX3M3VUotdnNaSk1SUDI5NE0xX0Z0Z2ZfZW9aVTlfOUUwMk5UQ05nWUF5M3MwaTVVM0VnQ1U5bWdRNkdBcWNUdmc0Vjd6XzFXLXByQktyMG1MOVVhbDJyemEzanVWYWhXYVptOUJ0ZDYxM2RXWmtlTFJtc2N5Vm5aUjBlNlN3VmNyM3JWTHBXSXFvTU84ZXJTSnUySEdLNk9WaUVzQQ?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Chinese AI Models Overtake US Rivals as Token Share Among American Firms Hits Record 58%",
+   "title": "China just had another DeepSeek moment, and its new AI model is rattling global markets",
    "blurb": "",
-   "src": "Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR05WZVQzekVFdG5UbEkxaDhUT25xb1pjOWd4UUtVc3p0OExsTUlWdEdnWmF4eWhMNVpnQ2QzNTRMNFlTSHlLMzgxTUJKdURwdHBHM2htLXJPZmE4a2E0Qjd3Y0RINnBGMVJXTV9fcG5yT3A2em56M0J4N3BZZHdUaS1FbXEzcllhSFBsUDZWdV9jWkFOMHZhWW9fUWlBREtlcEdVNk5QYkRnM2cwU3dHRjBaYmpvMTRHLU84bEp3aFpHWkVrVElBNWl5ZTdEdFc4M2hYZV92OA?oc=5"
+   "src": "TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUV9YZFUzcUhiWXJIQ0Rwem1kbzIxcHdHWGFtZkpkUkZKUnUwVnBwMkF1TlY2TWNjVlkyaEJTVmhXQUhqNWJYY2J6Q0FRMUtteVJNNzVOdnJXSXRrVDBleC1mT1hfMzM0X2FOanJLZjdhMnFjV2xST2dZOEgtWWJ4c25KUFY2cDMzVnpCQ2RMZVVyTjB0bVBmazY0aEtBMTBRMkc0SWRNbmdMdTF2dzUtRWEwQ1VLNkhyemI5MGtMQVBFeEI0d1FwVUpHNmNGUU55?oc=5"
   },
   {
    "cat": "robo",
-   "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+   "title": "WAIC 2026 | Mech-Mind Robotics Debut Multi-Robot Humanoid Collaboration",
    "blurb": "",
-   "src": "WIRED",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5"
+   "src": "Gasgoo",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYlhraE9uMzdXQkNXZXU2RTR5TzZnbnFjNXluLVR0TEsxXzREQXJ3N0VoTnNwT08wRkZBbkdveE9oNUZDcTFDS0dBYWNQaUlhXzNqOFctX3JLX1RVRFl2QlFvNW1TMFpWa1Q3cHdKU241R1ZDZWV4MHM0OTFEVFdUbmtObzVEVjR2eW96OWtJVDdCb1JJNEV5LThDWWtfSjRIdmhZZ0RFcjNPOHoxQUVTYjJZb0JrdXNGdkZGS1o5allCWHlFLWZheXBHbw?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Alibaba previews Qwen3.8, claiming its strength trails only Anthropic’s Fable 5",
+   "title": "Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
    "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakRPRHUwd1M1b09VMGxEN2t6V3JfNzVsc3Zpcko1djRPaXVpdlAxYTh1eld2MkVSTUVlV1VCOXExUHkzSnFMQ2h3aXV0SHdEN2g4UXRBTlYzMm5rQnBVQmVpNzZwSWdkRG1ybU4zQ1p4dXFaWjUwTGxFQzRQM0FzVUE1TTM4UjllUDFWRjRKZS14MjdTbmhkZVYtR1BaenF2RlRydXZvTWstdmJMRFNhSGZKONIBswFBVV95cUxPLVNNNUpSUTZvb3ZlaUVrN2NWOF9nX21xNTFfbl9BUEg0VkpfZnh5M05HcVhoT0g3NDZsLWVRNlJud21VWGRSdzlweXR5dTN0NzFSLU5Rc1N1cks3SzZkd0JveFdPb0swTC01LWhlbmpfVXF2U3BFQTUtb2RjaXJxQUVqUXpSVlBZWGQzak1BMm5GTUJUZGdNUDc3c3VLeXhSd0pESkdTRXQ5WkkyNGMtdFlfdw?oc=5"
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wZ2pQY0szQ1ppaVBBLUpBVTQzc0stVExrOUVNZmFuME4zUHQtVkxZMUFVeTdVYmpLX0xWbE9xRk5JR01pXzd3QzlEdWUxeUFUM3hnb2pvb1NEOFh0anBBTTAzZy1Za05faElxZTl2VWtOdw?oc=5"
   },
   {
    "cat": "robo",
-   "title": "China leads global humanoid robot development with over 400 complete robot products",
+   "title": "New York school district to pilot first humanoid robot teacher in US classroom",
    "blurb": "",
-   "src": "People's Daily Online",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FVGdvaG9kWU5aaTYzWVprcUtMSTYyZXNhWXRWWDZfVVAwOUh4VU9MMzJpcUV5Z0RNcnVHSnFiMklMVW4xUXNibVhFZ0ZYVi1iZVhsb3JCTXl5MjB4X3htb1RhUQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "‘Far from human level’: AI models score below 25% on real-world job tasks, UC Berkeley study finds",
-   "blurb": "",
-   "src": "The College Fix",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUQ1Z2Y4VW50YzRDWmthRUZGbDZQWDRibFVSSEpZY0doV2pncGZuVzFoaTZ0am5KQkZ6TFpkcGtZUFprUHJCZWNIenVyRHBMMElCYU1aaHUyM20zWm56YzRsMC1IcldZOFJIMDBjWnpOb1VCOE8tRk1qeHlrYXdyX1NEek15TG1kRy1PT1E0ajRhWDNJUHlLSGVPQkExRjBKRWpUcVNfaXJGOG04eTBLUThuN3hWTzY1VW94Z1V4Qkxhdw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China unveils brain-to-robot platform that lets people control machines with their thoughts",
-   "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVjhwRkl0bW5tdjVkVVl2Smh5NnhYMDZVd2hVd0NwSjBpZk9vUWoyNFozOU9iSk4tR0UycHVneUpwdVVWUDhZNTgyNE1MdU00aWZKdEtydDlmYTQ2Nks4Mmp0RXFrbG16T2xuSnZRZjNadUtWV2M3Yk5VNjZ3Z2hxRkp3?oc=5"
+   "src": "Audacy",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUklzSmVqQWRUSkFEYkVScElCSzkwNDlOWkFpUWt0SHhEWnE5dXB4blBVZHFLekhrYmNkcGNwWXBlY2tyWjJmTTk1R0JXZVU1N0ZkZUpyQlkwYVFrQlZ4RGZZaDhYMFpPSFdrWGxoMnNfRTdlUzBmeEVfQlFwNWpiMmJJZmNMUVRxMnYzaWktMWluZUJNSk5OTmlFUGJRbDFDSjhlMy1OMkEtRDdnX1p4QWYzWmVhS05S?oc=5"
   }
  ]
 }
