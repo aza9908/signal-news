@@ -1,12 +1,26 @@
 {
- "updated": "2026-07-21T05:53:52.467Z",
+ "updated": "2026-07-21T11:10:44.425Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Top American AI Execs Sound Alarm on Chinese Models",
+   "title": "Opinion | Powerful AI models are being given away for free. It was inevitable.",
    "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjdKbzFPR0FobDdMZk1iajVVTnhpdWVfcW1Hc0VPd1hyUnBUZ0IwWjRLTVZnd3oxMjhxc1RFekVGZ0hGUjJTZTUwc0JLdUJIN2o0MHF3YkZmbkRqWUMxZktKTm1uTXRkSnNKSktYaVpCTFVsQU9fbUE0eVJMSWxpOC1qYkE0Ty1IRTdmOHNhSENEQQ?oc=5"
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Salamanca Superintendent sets the record straight on AI-powered robot coming to the classroom",
+   "blurb": "",
+   "src": "WKBW",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMFRfYVBIMm81RWQzNnVlb2tpb2hYbF80M1BBMjdPald6QlloMkN0SDZETmx5ZHRYVU10cG5felgzZ0djSVpLaGl2Nko5dmFQRWpyUHFpUDRzeHloanpGSk9PLWsyX2JFNUY2NnQ3ampsT0Q2clJaaE1LWU0td2ZzVUdJZ0dPTEZFcGJqQXJxMUVIeTgzVTVuZmMwTENvWUttbVM3QXU1MEgyMUdHQ0VjRFduTXNWeWIydjZrZ2habGpDaGhaZUJpYlNnVkloUDZsN1cxTjJPTFlMMlQtX3VyR2x3Zw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "China considers tighter export controls on AI models and chips, FT reports",
+   "blurb": "",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +31,10 @@
   },
   {
    "cat": "ai",
-   "title": "China's New AI Model Halts New Subscriptions as Demand Swamps Capacity",
+   "title": "Top American AI Execs Sound Alarm on Chinese Models",
    "blurb": "",
-   "src": "Broadband Breakfast",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajRVMmxqTGVXbmkybmtkZWk3ZVpFaGhxTFY5eExNYk04VzBnUExTWlcyUk02a0VIWW44a2EwYTc0VXVaTWxCNU8xaGtJSFFNYXpDQWVTRlFlbE9FZXdwRklRSjZwXzliT2laSG5GSHhleExnazhqYnNiYllkbGdJZHBTeE5TUDBPZlBMemZmQnZrUFdCUWN0bnJncHZNSmF3T3o4?oc=5"
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjdKbzFPR0FobDdMZk1iajVVTnhpdWVfcW1Hc0VPd1hyUnBUZ0IwWjRLTVZnd3oxMjhxc1RFekVGZ0hGUjJTZTUwc0JLdUJIN2o0MHF3YkZmbkRqWUMxZktKTm1uTXRkSnNKSktYaVpCTFVsQU9fbUE0eVJMSWxpOC1qYkE0Ty1IRTdmOHNhSENEQQ?oc=5"
   },
   {
    "cat": "robo",
@@ -31,10 +45,10 @@
   },
   {
    "cat": "ai",
-   "title": "Opinion | Powerful AI models are being given away for free. It was inevitable.",
+   "title": "China's New AI Model Halts New Subscriptions as Demand Swamps Capacity",
    "blurb": "",
-   "src": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5"
+   "src": "Broadband Breakfast",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajRVMmxqTGVXbmkybmtkZWk3ZVpFaGhxTFY5eExNYk04VzBnUExTWlcyUk02a0VIWW44a2EwYTc0VXVaTWxCNU8xaGtJSFFNYXpDQWVTRlFlbE9FZXdwRklRSjZwXzliT2laSG5GSHhleExnazhqYnNiYllkbGdJZHBTeE5TUDBPZlBMemZmQnZrUFdCUWN0bnJncHZNSmF3T3o4?oc=5"
   },
   {
    "cat": "robo",
@@ -45,20 +59,6 @@
   },
   {
    "cat": "ai",
-   "title": "Alibaba’s New AI Model Takes On Anthropic. What It Means for the Stock.",
-   "blurb": "",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81RDFOZU9hbnpFbEJWVHlaN0YxMkJvd200SjlqTUt5M2MzaFVEVWYyLXNqN1JpUE9OMzFLNTJ2cEFpaWZTS2xEV3hQelRLcEhTZkZnek15V3JNSFdQNDAxM3NvSzN0WDZaSWlXMkd4V0tDem9XLWlQZzgtRlNJU3c?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China’s robot firms’ lament: if we only had a ‘brain’, and more data",
-   "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcy13ZnNONHl6SVNOSFRBMndFVlVFeGNCWWpIMzREc2FZLUFpS3lTX05EYmNfNUZHM0NkclZYRmZ3dXpMdzNwcDc3UHpXZ1VkNUMxTmZmakFFMGZDSS04dGNJUnZwNkhiLUhzdk5oeHVHb1lrWnRVUEFid1lMRUVvX3VBS3l3MC14WHdZVE53emN5TjMwU2lQRlctTHQ2OEVLSjJheE1yX19iVS1lY1pLeNIBsAFBVV95cUxQOFhlY2xTR29VU0JNbFFPUERHdjdfWTlKek1oeVhIcnRGMER3VldFbWFQWUJtNzRSSGtPSG1TUFd1UFNWT2JKR3VRVEEyMjluZ2dsdDNLczRVbE01SkxvQkFZYlgtZ05WcWV3a1RqTERMYk9aazJyYnRQR2Q1U0FVUHFCZDdLNUlacUdUVjMtVFREX1hqcnFQYTk1anJ5RHFNSlJPN2F3S2NjcTN1eHRhZQ?oc=5"
-  },
-  {
-   "cat": "ai",
    "title": "China weighs tighter export controls on AI models and chips",
    "blurb": "",
    "src": "Financial Times",
@@ -66,24 +66,24 @@
   },
   {
    "cat": "robo",
-   "title": "New York school district to deploy humanoid robot teacher this fall",
+   "title": "BMW Group Plant Landshut develops software for humanoid robotics in component production.",
    "blurb": "",
-   "src": "KLAS 8 News Now",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjN5QlVXRGNzTFFaU0U5ZHJ5aUJ4b0VHeHotWDFlZ1I3QUNYWnpPMFVWalhQSkh4VzNwZFVMMU95RXNHWnd3aVNGZ0RhUlAwUGJULTdLbEdiUVdjdnR3NFRNVnhDVE1aRXFRb2xhMWNiWG8zMVhNbEVaSEdSV0VrSHlibHp2YmpobXA1TVdCRS1FZkpyOENoS0hfQUttQkZoa01Ubk43MDVIWGVqdGhKUHhB0gG3AUFVX3lxTE5RU3pVM1FGYmxJRmVrZWpWN3pfbkZKUF9Bd1RzY1NWbzZoTW5jYkhDWDFENVJQOTNORHQ3QjhqRG5kWm52VHhkRDhRdjJBWTEyUFh0djZOY2xjNGxlU3hIZDA3N25oTEt6Vmtqb1lwLWVyajJYQmtqblNseldLakgxMUhocWZncmNTdnpTc1cxVzdTdXZFMV9qOFNiVHNtNmFvSFhwTjZwakpaaUtlS0pobHlYYXNqRQ?oc=5"
+   "src": "BMW Group",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZmZ2NExCOG9ocmc1YUg5WnNmRGdEZ1gwanAwTmtoYkhWNnVTVllPdUlHZ1pQcHlkWUlmUmI3X1ZvUEt1OUt4bV9kQ3Q4M3d1Vi1hX0c3SUF2TkZqUFVuTGdTWlR3dV9WbXJvQ0hNcnNtb3l4dEE3Z1ppQzlCLVRwV2ZELVhEUkQ2VWRmOVJVRDdoTzY0X21wNG5Rb3R3MDhWMElVcXhqVWFJc19YN3J2dFBhN2h5cm5MTVZtNXNfU04yRzBucjJpeHVYbFQ2eXc0T3U4Ym1MUWlSaE5FcjNzYnItTFlVbTFFLVkydU83ckxucVNEWHdZ?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Google Plans New ‘Frozen’ Chip to Run Its AI Models Much More Efficiently",
+   "title": "The secret Trump administration battle to fight Chinese AI",
    "blurb": "",
-   "src": "The Information",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREhZUV9lOUg2Wmpzd09yd05jUEdxOG1zXzVWOHhYUF9hTUlGQ1pSUWw5VTdvNk1XNUpWUmZrQ25jMUppNnN1VEZ1OXFXbkVQaUxyR0pJT2pxSVRuSVNuQkdUR0x4RmphcGFtTmN4QTN5azlhVjk0N0JjQ1pGem5yNE1UbWFkNmdUczNlMFEzcTNDdmtmd0Q3aTdR?oc=5"
+   "src": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PWTlIa1VpT2FIbVZmcFZOeURoNEtPdEE5MzVib0YxNGhUOWg2cFBncmxoLU1idmN4eXhLX1FxQzZpbjNIck9NdEZZcVBMNlRpaTVlTHNwSi1KYzYweW9xMm1RWGpWT0pyZ216Wk53?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent",
+   "title": "New York school district to deploy humanoid robot teacher this fall",
    "blurb": "",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3k1SFlJdlNnLTRQYl9nUGtibFg1dHlCektXZVVuVDBMRnRudF95b1hxbE5xcnZVcVlxVDllZndSZTlYV1MwdXQ0VkFlajFTVWtEVjVjdGFpWXRUUFVtVFRfSEJSNmQ2am5RR3BleHZKdlNfMkZIVWNZOEtiYVZ4elM2cUpLbG1CM3BxeW1VWWJ6dG9RV2RheXp6RzlES181Zm5lX1FyZ0ppZEE?oc=5"
+   "src": "WRIC ABC 8News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQajIxS3pzbWoyZnVpZ2YyWFVNdEVMWDZXTDZHWllMTWxMcE1oZVdBakN0VnVZNUo3a0tSMm9EN0doSTFqWlN4cnNpV05NYnJtNWVUNW9DWE9oRzhhZU9xSk5MdFJTZm9KMGRlSFlCeXpmRGVqSEgyRHJuaGl0UG5OY1F2YlN4RmhrSWJwRGZLNTNiWmNzTm5FaTJB0gGfAUFVX3lxTE5ZWFFvanpTOW1OTDA4TjlxSEdNVHFGZ0pzeFN5aWZTZV9jaTJfbjN0SVc0S243UjJ5eGdBZlVmVC00NkhDcWlRWXh5R3FoanhubDlCQTU3M3ExSmRFUHZHYTBuNVg0WFVIVzBRaWI5dEl5c1lONHBNZWVVbkhKYlk0SHBQS3VwT3RqLWV4ZHo3ZVVRLTd2SjNSS1ptbnNlbw?oc=5"
   }
  ]
 }
