@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-20T22:01:50.945Z",
+ "updated": "2026-07-21T05:53:52.467Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Google Plans New ‘Frozen’ Chip to Run Its AI Models Much More Efficiently",
+   "title": "Top American AI Execs Sound Alarm on Chinese Models",
    "blurb": "",
-   "src": "The Information",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREhZUV9lOUg2Wmpzd09yd05jUEdxOG1zXzVWOHhYUF9hTUlGQ1pSUWw5VTdvNk1XNUpWUmZrQ25jMUppNnN1VEZ1OXFXbkVQaUxyR0pJT2pxSVRuSVNuQkdUR0x4RmphcGFtTmN4QTN5azlhVjk0N0JjQ1pGem5yNE1UbWFkNmdUczNlMFEzcTNDdmtmd0Q3aTdR?oc=5"
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjdKbzFPR0FobDdMZk1iajVVTnhpdWVfcW1Hc0VPd1hyUnBUZ0IwWjRLTVZnd3oxMjhxc1RFekVGZ0hGUjJTZTUwc0JLdUJIN2o0MHF3YkZmbkRqWUMxZktKTm1uTXRkSnNKSktYaVpCTFVsQU9fbUE0eVJMSWxpOC1qYkE0Ty1IRTdmOHNhSENEQQ?oc=5"
   },
   {
    "cat": "robo",
@@ -17,38 +17,24 @@
   },
   {
    "cat": "ai",
+   "title": "China's New AI Model Halts New Subscriptions as Demand Swamps Capacity",
+   "blurb": "",
+   "src": "Broadband Breakfast",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajRVMmxqTGVXbmkybmtkZWk3ZVpFaGhxTFY5eExNYk04VzBnUExTWlcyUk02a0VIWW44a2EwYTc0VXVaTWxCNU8xaGtJSFFNYXpDQWVTRlFlbE9FZXdwRklRSjZwXzliT2laSG5GSHhleExnazhqYnNiYllkbGdJZHBTeE5TUDBPZlBMemZmQnZrUFdCUWN0bnJncHZNSmF3T3o4?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid Robots Are Coming To Factories. But Not The Way You Think",
+   "blurb": "",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWszTzlHLUNXQkJveDAwcGFGT1VMdll1SFNvVWdMdkVRTFVjS1dGd2NqTEpMQTMzRFpZSnIxT1hqdTVySkEtUXZES1hvLVEzQmZkUzgtTGJrLU5IN0hlU2Nza3drTXVUelBiREhBQUVOd0JXTmdLQVRZZV9QN21YVE00T1NEZFR5QXJhZGI3NFpwODh2VlpTTnRkZy1Ib19NWHQ5b1ZmSHVsSThlOUJKQ3M5b1N1RGdIR2hj?oc=5"
+  },
+  {
+   "cat": "ai",
    "title": "Opinion | Powerful AI models are being given away for free. It was inevitable.",
    "blurb": "",
    "src": "The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "WAIC 2026 | Matrix Robotics Unveils MATRIX-3 Humanoid Robot",
-   "blurb": "",
-   "src": "Gasgoo",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNDlyVVFfZ0M3Z3ZIOS05d0ROMldEbWJPRkd5eGlmLVUtVGd4QzFpYzhKWm4tSHJsM1JHVmJiODRqRXdhVnpRbGg4QXVlOGZ3UTZSazc3SkVwUERHRHJGT1FuanE5SDB6bVo4Y1VTRmVJT2tnb3lyZzlpWFV4a0FnSUFFbjU4bzhoQ3Q0b0RJNGxJTXhLU1czemIyVXBHU0lrTF9xaXVBVDVfa0FpOEkzVk1PQXhOQzIyN0pV?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Alibaba’s New AI Model Takes On Anthropic. What It Means for the Stock.",
-   "blurb": "",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81RDFOZU9hbnpFbEJWVHlaN0YxMkJvd200SjlqTUt5M2MzaFVEVWYyLXNqN1JpUE9OMzFLNTJ2cEFpaWZTS2xEV3hQelRLcEhTZkZnek15V3JNSFdQNDAxM3NvSzN0WDZaSWlXMkd4V0tDem9XLWlQZzgtRlNJU3c?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "End of Line Video Series: More Humanoid Robots, One-Handed Rx Bottles, and NAW Trial Re: EPR",
-   "blurb": "",
-   "src": "Healthcare Packaging",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMzdPVTR3SU9yUWlzQ3N2VWlvLWVyZUpPR3FXYW90MHluMzZWVHQzWThzSXhwdFBpakd0YUtHRkVjaXVoTjFUeGdDZjlwcW9pR0VOYTlvQ2k4WW44RVJCQXM4ZVNNakhTcHZRTWxDZWtLOHVZMVF6TTUxcWp0emRhcm9WVzBtWmZna2RxRmRTYm9vSnFHamRES2U0Mno1UzRYTHBhbi0xRDN6ejlFdDhPOFdIVWdjZE9DcVRGbWxJRGlmRWVEdkw5bk5iMkdRLTlIY3dTYnU3MGRXZ2ZNa2w5X2ZIMExZY2Y4eFRiSnhYVzl6bHpJSVlyajlVaVZLcy11YXBiZQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "The secret Trump administration battle to fight Chinese AI",
-   "blurb": "",
-   "src": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PWTlIa1VpT2FIbVZmcFZOeURoNEtPdEE5MzVib0YxNGhUOWg2cFBncmxoLU1idmN4eXhLX1FxQzZpbjNIck9NdEZZcVBMNlRpaTVlTHNwSi1KYzYweW9xMm1RWGpWT0pyZ216Wk53?oc=5"
   },
   {
    "cat": "robo",
@@ -59,10 +45,38 @@
   },
   {
    "cat": "ai",
-   "title": "China's New AI Model Halts New Subscriptions as Demand Swamps Capacity",
+   "title": "Alibaba’s New AI Model Takes On Anthropic. What It Means for the Stock.",
    "blurb": "",
-   "src": "Broadband Breakfast",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajRVMmxqTGVXbmkybmtkZWk3ZVpFaGhxTFY5eExNYk04VzBnUExTWlcyUk02a0VIWW44a2EwYTc0VXVaTWxCNU8xaGtJSFFNYXpDQWVTRlFlbE9FZXdwRklRSjZwXzliT2laSG5GSHhleExnazhqYnNiYllkbGdJZHBTeE5TUDBPZlBMemZmQnZrUFdCUWN0bnJncHZNSmF3T3o4?oc=5"
+   "src": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81RDFOZU9hbnpFbEJWVHlaN0YxMkJvd200SjlqTUt5M2MzaFVEVWYyLXNqN1JpUE9OMzFLNTJ2cEFpaWZTS2xEV3hQelRLcEhTZkZnek15V3JNSFdQNDAxM3NvSzN0WDZaSWlXMkd4V0tDem9XLWlQZzgtRlNJU3c?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "China’s robot firms’ lament: if we only had a ‘brain’, and more data",
+   "blurb": "",
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcy13ZnNONHl6SVNOSFRBMndFVlVFeGNCWWpIMzREc2FZLUFpS3lTX05EYmNfNUZHM0NkclZYRmZ3dXpMdzNwcDc3UHpXZ1VkNUMxTmZmakFFMGZDSS04dGNJUnZwNkhiLUhzdk5oeHVHb1lrWnRVUEFid1lMRUVvX3VBS3l3MC14WHdZVE53emN5TjMwU2lQRlctTHQ2OEVLSjJheE1yX19iVS1lY1pLeNIBsAFBVV95cUxQOFhlY2xTR29VU0JNbFFPUERHdjdfWTlKek1oeVhIcnRGMER3VldFbWFQWUJtNzRSSGtPSG1TUFd1UFNWT2JKR3VRVEEyMjluZ2dsdDNLczRVbE01SkxvQkFZYlgtZ05WcWV3a1RqTERMYk9aazJyYnRQR2Q1U0FVUHFCZDdLNUlacUdUVjMtVFREX1hqcnFQYTk1anJ5RHFNSlJPN2F3S2NjcTN1eHRhZQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "China weighs tighter export controls on AI models and chips",
+   "blurb": "",
+   "src": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURTZEhNNV8xRTlJSmtQbWZjNFRpc3dSanpRM01BZnlwT2lhbjlGMUQwTnROSWxJcDZLZ0NmSUh0dXd0aW82cWVtZ0hKMzY2LTN3dTBfR2JOVEJlNFYxejVtMzBzQmsyYlRGUUJmODM0WFJZNG1PVkZ5UEtzc2g3QTcyUlA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "New York school district to deploy humanoid robot teacher this fall",
+   "blurb": "",
+   "src": "KLAS 8 News Now",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjN5QlVXRGNzTFFaU0U5ZHJ5aUJ4b0VHeHotWDFlZ1I3QUNYWnpPMFVWalhQSkh4VzNwZFVMMU95RXNHWnd3aVNGZ0RhUlAwUGJULTdLbEdiUVdjdnR3NFRNVnhDVE1aRXFRb2xhMWNiWG8zMVhNbEVaSEdSV0VrSHlibHp2YmpobXA1TVdCRS1FZkpyOENoS0hfQUttQkZoa01Ubk43MDVIWGVqdGhKUHhB0gG3AUFVX3lxTE5RU3pVM1FGYmxJRmVrZWpWN3pfbkZKUF9Bd1RzY1NWbzZoTW5jYkhDWDFENVJQOTNORHQ3QjhqRG5kWm52VHhkRDhRdjJBWTEyUFh0djZOY2xjNGxlU3hIZDA3N25oTEt6Vmtqb1lwLWVyajJYQmtqblNseldLakgxMUhocWZncmNTdnpTc1cxVzdTdXZFMV9qOFNiVHNtNmFvSFhwTjZwakpaaUtlS0pobHlYYXNqRQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Google Plans New ‘Frozen’ Chip to Run Its AI Models Much More Efficiently",
+   "blurb": "",
+   "src": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREhZUV9lOUg2Wmpzd09yd05jUEdxOG1zXzVWOHhYUF9hTUlGQ1pSUWw5VTdvNk1XNUpWUmZrQ25jMUppNnN1VEZ1OXFXbkVQaUxyR0pJT2pxSVRuSVNuQkdUR0x4RmphcGFtTmN4QTN5azlhVjk0N0JjQ1pGem5yNE1UbWFkNmdUczNlMFEzcTNDdmtmd0Q3aTdR?oc=5"
   },
   {
    "cat": "robo",
@@ -70,20 +84,6 @@
    "blurb": "",
    "src": "Business Insider",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3k1SFlJdlNnLTRQYl9nUGtibFg1dHlCektXZVVuVDBMRnRudF95b1hxbE5xcnZVcVlxVDllZndSZTlYV1MwdXQ0VkFlajFTVWtEVjVjdGFpWXRUUFVtVFRfSEJSNmQ2am5RR3BleHZKdlNfMkZIVWNZOEtiYVZ4elM2cUpLbG1CM3BxeW1VWWJ6dG9RV2RheXp6RzlES181Zm5lX1FyZ0ppZEE?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Responsible AI: Governance, Principles, and Practical Guide",
-   "blurb": "",
-   "src": "Databricks",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vaVZmYURKYWh5R2lPcVRsa0ZPSTRURTc2eXJxNHRkOW96RFplYzRQME05VEZ0RXlrb0dfR3A1TnlXRERleXZjSnRueGIzb1JDbEFHZXJJTHplUQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid Companion Robots are Launching This September",
-   "blurb": "",
-   "src": "Core77",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2U3YmUtclVmdHBnUVg5YUZyQzA0OTJHdGhWVEMxNmxuV242eTc0Y09JLTdBTjk5TDNZR0d6QVFITXhtTmZoXzhkU3FNMi1Lbkc0WVB5QnFtcmRFeGlqWEEzWFdrR1A4UXpDejlWcEtkdmNHeElraXpsRjJ4ZTk1NjAtRzc3aWtaS2p0dVpxYTRKUzFQ?oc=5"
   }
  ]
 }
