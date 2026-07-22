@@ -1,26 +1,12 @@
 {
- "updated": "2026-07-21T22:05:06.542Z",
+ "updated": "2026-07-22T05:52:40.898Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Bessent says U.S. could sanction China over AI model 'theft'",
+   "title": "University of Iowa building AI model to forecast nitrate fluctuations",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMjZCODVvbTN4aEotRWJOTXcwVjdDdmpwZnFaY1g4VjN5enYtbW5RYWRMamJNd0dOUE1kQ0V4WDZ4cHRja3FCMlB4TlNqWEdJdklCeXVRY2xUaXFCQVI1NVJnUnJqNFJTdDZ3bk15TTHSAXZBVV95cUxPT1FCYk1ZMllVUk1BVEhXZUpXNmY3cERrUERGNVpaVjdyRDVKY1d5R29aTXFqSjlUem1fcklRdl9SSkpLamJBRjlLUndFSnZtOWJhQ3ktOWt0Zll0MnhYcGRsZEp2a0pTYWZXeW5QaXdhY1FTWGxB?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid robots: Hands, the Ultimate Brainteaser",
-   "blurb": "",
-   "src": "Natixis Corporate & Investment Banking - Natixis CIB",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzZVRGNXbE9RQUYtZi00U1pZbnJ4NGdZNkJndWl2SnVmbFV1aXVTUmhpeWd5WkwyV04zbWRDMkE0MDRkMTlkUEVwNV9LOTV5NjRTLTlOQkk5S3duemhDT3pwMS1BYVhoekl6cTJCb3hpMGk0MmZvai1VMkdyN25JV0lQeVMwUEFmYnhrRg?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Trump Administration Eyes Sanctions Over Chinese AI Model ‘Theft’",
-   "blurb": "",
-   "src": "MeriTalk",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWFXeGpNZEpyWjBPSnVVZ1E0Z3gtazhEdGpRSFo1MTI5T3J2MnZRRXZrMnZ6cmdJblJFeXlHbGJFTllOcDh4UE8yUWNKM0xaOVcxR3dXcjJKeDBXT3F6elJ0S3pjLTluTVQxUzdGTnZjTXd6bzlWNjRpc2ZLUkw0NWlSNGdoNElWekF1cGRBVWxWVE02OGVRd0pmWTEzVXM?oc=5"
+   "src": "Iowa Capital Dispatch",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1diWWFoakZfeVlMVDNPNko5UnB1NGFFT1RjRHBFcGdyVGQ0S2twWklpVlVoUUNZWTBuYzVKZFVoQUdZQjExazVPdmhGWHcwZzBsOUtnMS1obmpjUEVaMFVFdjdFbDZGbjF1MWt1UThQQlBuLWF2SjRnU0ktdWVCZU9hbjdMVFBJREdUNlFXaV94Ml9sWnhLNlZRcmJzMTVhTXNxZ0lzSlpETzR6dXlHR1pMbw?oc=5"
   },
   {
    "cat": "robo",
@@ -31,38 +17,52 @@
   },
   {
    "cat": "ai",
-   "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
+   "title": "OpenAI Models Escaped and Hacked a Company in Cybersecurity Test Gone Wrong",
    "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5"
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONTlEbXRvdDBMSWVxVWdNMnpCSFd5LUtuSG1IeGozNlRBLTNVYWFqM0Z4ckx1NlFieEVHQkJ3RG5Qdk1mbzVYdEQ5bTlNSmEyemd5dFRBM2hwXy1Zb094NEdPNkY4Wm95OW1KS1dQd182Y204aTRFTElKTzJxN3lQMWJUcEZaSGxaVzFfWERkM1NfZEFLbjFsMVN6TXhrdWJsODlxSlgzeXZqaktRSk5jejl3?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid robots: Hands, the Ultimate Brainteaser",
+   "blurb": "",
+   "src": "Natixis Corporate & Investment Banking - Natixis CIB",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzZVRGNXbE9RQUYtZi00U1pZbnJ4NGdZNkJndWl2SnVmbFV1aXVTUmhpeWd5WkwyV04zbWRDMkE0MDRkMTlkUEVwNV9LOTV5NjRTLTlOQkk5S3duemhDT3pwMS1BYVhoekl6cTJCb3hpMGk0MmZvai1VMkdyN25JV0lQeVMwUEFmYnhrRg?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+   "blurb": "",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOejZuVHE3NHBKYnY4N0VFS0U3M3JXd3pQeEJBemUyQ21BRTF6U3Vvc2JWVXdQQkdlUDVPYnN0OUZJRnpUNVh4NkhTUTRNT3NyTlhwaTJ1YmpBcm1PSUF5MUZhNjU0SnlLZ3VwdWR4X1MzalF1UDRjcWszR0daUmVtV01ibDQ1MWxBaVFfTWhJWmVpZ9IBlwFBVV95cUxPSmNOa05qbkpGTjB1YkFBZE5rNEZaMFcteW81SlRldGFvckpHRE0tdVI3RHlEa1FSWDVFSnRNbnNLSTBjQlRJSWpJZTZOSEhwU09lb1paM051X2k3ZzcyWXNPYTRrai1tRHdFSndVbS15MUlVWXNFQWtFZGNwM0ZIUVcxTmdPNUVWY2FrS0RWajJucGpDSk9v?oc=5"
   },
   {
    "cat": "robo",
    "title": "Could robots play sports professionally? Carnegie Mellon researcher says yes",
    "blurb": "",
    "src": "TribLIVE.com",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lck5CdVcwYm9wY1dJYWcxUEdtMlV6SHplay15MDlBTDEwT1FLT1FXSER3ajBuWUVZTDNEbUQ2VGhpdE0ydWgyTGNsbGF2dWxRb2JyZHBn?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sVTcwOHh6Qmpoei1IMjdCQ1ZtS0FqS3I5djloT3hXMlBHZW5CenBOVm9qWDlValF2WFRjNnBIT3FmV3pTelJVbDZxQW1EOHBBWWdUVXdzUkpsaEpSUksxaDVzdGpVazBrQlE?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+   "title": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company",
    "blurb": "",
-   "src": "blog.google",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5"
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWl1M2pOZE5xZlRtQUFKR1U5bDJKeTAtS2JLS201aTZ6dS1fcm9aYWlZR3BXalJpY21KNk8yQl9ldTJxdHlWNEh2dVN4S3MtRTlBYUxRYWNrdGV5YjIxcEVMRjhnZS1HbTNnQnFYYWZnMmlHVlNxMmRub0FZaEFaNEc1eG5PMF80YnNMMVZhRzZCTmxmVmhacFZPamZrQUhMX0ZRd1JRbUljT1NRcHIwUDl30gG3AUFVX3lxTE5FczYtUTZKSk1jNHJpYWtyVHdJbTY2QXROWnNxN3dhektwMXZRZzRSM3p3eGJ4TG5DM0FvSDZBbnZDb3BJa1lDMGlTcTJpX3pKc1NFRHFKcUZXZGU0TzNSWkFzWENzcDEzWTd0M3o3YThkY2pUU0Y0VG5HdDVDajVUbWoyY1BLMXNYR0VmcFdKTmRQcnlKeWFtMEZFd3JhVkZWVFlHLUdIQ1A4eEctODkxN1I5aEtCaw?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Humanoid raises $152M at $1.35B valuation to bring human-like robots into factories",
+   "title": "Humanoid robots aren’t coming for your automation; they’re coming for everything else",
    "blurb": "",
-   "src": "SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUlfQkZOcElXcWl1TmdhN2FWNUR4WTVTdTJLQnVLSjY5WmRRYlE2Sl9pMGRpZzhEUEEwQzd1SV9kYkhTOTVlekw1NXU2ZjRZeEM0UjNObUpoNjdOdlJSSF9Sc25nVFBXamV1bVBlSHBpMUk4ZWU5eTktRmNkTmNFalhMb0FDSW8wc0hmeXFsdy03Y2lkX013Yi10UEZlS0RMajNEWnFUTm90WHM?oc=5"
+   "src": "Engineering.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM1RfTzFhTTNvUFRoRnc4aEdKcl9rTFU1dHdpcUczQjFUNlBCOHBSUjZSSldIdFRsRUJWbHFlbVB2dE9yYk5ITHhrS2cxSjczbUZlY2NmVmtXZVdKTEIwc19hc21zc3NLLXBJMWFxUmhGNjJCSG9nUFc4QmhCcmdJWnFyNHRhM05PT251bC0zMnRMUW84c3NHOFlZMUtQYTlHTG1CVFp3QXktQkd4VTVjaA?oc=5"
   },
   {
    "cat": "ai",
-   "title": "US Threatens Sanctions on China Over Alleged AI Model Theft",
+   "title": "Morning Bid: The new ad for chips? An AI model Breaking Bad",
    "blurb": "",
-   "src": "PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWgyMGZkdno3UUlLcW5BMDE0Nk9LR3A4TzlqRGZLTV9tWUlROFlRbTctQVVodVgwNW1jUEdaQnNrOGpjTDN2NERLcjl4SHpRMFNBZjdoeUtndDhNNTA0LUtGQUd5cDVuZHFtZzBsQjBiSjFOQmNuLVVKZlJQazExdFpUTS1FMXhnd2wycFlvY3ZCOHVwZlUwRThjclBnQ1BHaEFYSUwtSmpyLVZ5d21mSFoySXl0ZFRqaU1ZS2pvemt5akU?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92cmVBOFBocWdmV1RWdExLeU04NUdCQ1c2MnRZNF9SUDdKa1JQRExHQ0c2eVlzaUdBbFMzMFJaV3dfTkZKbWtOaWVNVG02bDAwYVVRRWFEbW9EVFdPcEEzWVVxV3pQd0hBc2xvcV9GV3RfV1VaOGdVaFE5eDFYeHM?oc=5"
   },
   {
    "cat": "robo",
@@ -73,17 +73,17 @@
   },
   {
    "cat": "ai",
-   "title": "As US-Chinese AI model gap narrows, what next for Washington?",
+   "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
    "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2dZUDE4cW5MS29sVE1YOHY2RW12bTZBU3dwZlNUMjFkd28yMWc4SVYxTTZSb21oU0lSYWpVbkpVclZMSFdoWjVaYUlfRzJhRkRyMzJTYThMc2REVFhBSl9IRjFHZ29ybm9yRG0yLWI1WURYdHo1U25LaDBhU2x4RWNaVjcyRVlDdUFLM0FnSGJORXo3Y3ItU1Jrai1lMjg2RlhlN2xOUWxjNTI1Q0dr0gGvAUFVX3lxTFBCZjF4bE1oY0VVbDVuZk90Zk9HQllZQXhCQ3JUWUlWak42Ny1wa2xKcU8zX01fMHk4VE1EeFJVYkdUNk5JTlpUWWYyTFFyampnVEpwRlFjRXFDRFBYZGJOaUpIVkVXN1hyem4tVndFTTdzdG9qYl9lYnlGTXI1TlZuam96MWstX3ppOTBUVUdzZHNVbmx3LVZiM1VuWF9VUENmcEJST0gxQS0wVXhFV1U?oc=5"
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Humanoid robots aren’t coming for your automation; they’re coming for everything else",
+   "title": "Humanoid raises $152M at $1.35B valuation to bring human-like robots into factories",
    "blurb": "",
-   "src": "Engineering.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM1RfTzFhTTNvUFRoRnc4aEdKcl9rTFU1dHdpcUczQjFUNlBCOHBSUjZSSldIdFRsRUJWbHFlbVB2dE9yYk5ITHhrS2cxSjczbUZlY2NmVmtXZVdKTEIwc19hc21zc3NLLXBJMWFxUmhGNjJCSG9nUFc4QmhCcmdJWnFyNHRhM05PT251bC0zMnRMUW84c3NHOFlZMUtQYTlHTG1CVFp3QXktQkd4VTVjaA?oc=5"
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUlfQkZOcElXcWl1TmdhN2FWNUR4WTVTdTJLQnVLSjY5WmRRYlE2Sl9pMGRpZzhEUEEwQzd1SV9kYkhTOTVlekw1NXU2ZjRZeEM0UjNObUpoNjdOdlJSSF9Sc25nVFBXamV1bVBlSHBpMUk4ZWU5eTktRmNkTmNFalhMb0FDSW8wc0hmeXFsdy03Y2lkX013Yi10UEZlS0RMajNEWnFUTm90WHM?oc=5"
   }
  ]
 }
