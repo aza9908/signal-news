@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T16:21:06.235Z",
+ "updated": "2026-07-22T22:05:25.805Z",
  "items": [
   {
    "cat": "ai",
@@ -10,24 +10,38 @@
   },
   {
    "cat": "robo",
-   "title": "Samsung Makes Big Move Into Humanoid Robots— Hires Former Hyundai Robotics Leader to Lead the Charge",
+   "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
    "blurb": "",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWhyMnZRcklFUnQ4ZWY0c3E4dUtCMlhyUDZva3h5dElvenhxRFBCZGZ2V1JqV1dsMlBrVkVVUmhGTHJEM2IybU00R1V4ai13RnFPb05vN3JfcDdna09JQjVGQTNDaWh6NDVHY0FPRGR3WWdpMThsNGJyM0NVSU9oOFNjYzdpbUVTV25SVTFuZTNHLXhvSGNjYnhzSQ?oc=5"
+   "src": "Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY00yMzZzYmt4QTQ4dU9vRXI0c0VCVWgxQlQ0WENNb0FWM19ya0VOb2NvUXdFS2l2UWUtRi13N2hTcXppMWVXanRYcmI3VTYwaU9reGlBLTl5RHd6eVpkMmI4LXVWZEhtem5rRWI0WVZ0WmVrOFZ0UWJiTl9RbEVjZm9fZ2hMdkx4UF84a2hndlUyeVdEUFRHU0lzZFhEbUo2Z0o0SFo4ODd2TUVsS2ZUbVpfUQ?oc=5"
   },
   {
    "cat": "ai",
-   "title": "OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup",
+   "title": "OpenAI says its newest AI model autonomously gained unauthorized access to another company's systems",
    "blurb": "",
-   "src": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHhPdV9LUXlBaDlRWkxIay1RMkxOaDRpYllraUFyaXhHMHpXeUM3T1oxZTlGRWJUZmF3M2ptQm9uLWpfVmdtM29vSkhrX3diMEtKdE11ckNRM2x2NXdGS014Q0htT1VNU2hnZ25BXzB1ZldGeTFvd2RXajljUlU0RmJURnoyT284bWlKS3JXZTNZcEstYkNjcUNxd2Q1UG43RHFrd29VUTZTWmRNUEg2ZWpfTXhLY3hyczBuTA?oc=5"
+   "src": "KVUE",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0otSGRGNDZocmJWMlpkRDAtU0NzeklKbWNMY0lTU1dEckd2c1FHS2JlcGdnMVUtY3FpVHNCSl9JTFpCUjdKbzg0QnoxbTRlQnAyc3NtWllPN0dBUktTN0RONXlYQmNCY2VWZUFCc05Pck9falFNV2NnaXNNa0JuM1MzY2N5c2wzdG5uLUlRNmwwZ0JSRW9mUjJyY2ZQUlR2bEtVUXV1M2ZFMmI1MWhF?oc=5"
   },
   {
    "cat": "robo",
-   "title": "For The First Time Ever, Humanoid Robots Perform Surgery on Live Animals",
+   "title": "How Many Chips Does It Take to Build a Humanoid Robot?",
    "blurb": "",
-   "src": "ScienceAlert",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGUxcDZISmktczdGOU5ESDBzRnI2dUNkQkF1ODYtemFfMWlib0kxSGI0cGRRa0w1a3VnczFuS2E0RkJGbFdiVjZ2Qmlfc294TFZuUzExU1JWajJHX0xmbU9Vemg5elNnNjZMd0U1LUhKTmxJa3dBNUljN2FNOGdLaFpuaG1xel9mcVVmUUk2Slo4ZWRoaDNzTkpQY1h0SVVYQ2VUVV9IODR6TVh5Tk5CTVpGWkpBUmJFbGdBdzZn?oc=5"
+   "src": "Automation.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VVzg2VHdqbFMzMW9DeVBaQTRLWEZhSGlRVXJCZGFYeGNURjNxelZSOFZCeHplenlvbnREb3BrX0pUanAzNWkxdzQtV2xtemlBNEJlS0NIdVVnX29oNE54RUdxWWlhUklMUWlfSTVseGpLdWtGMTdkM0lB?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Why the OpenAI escape is the most worrying AI mishap yet",
+   "blurb": "",
+   "src": "The Economist",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTRLdXBPbEtzOHcyLU1pTjFBQzBsbFQ1UWR2eVpSWnhoR0xLVGl3OXFHMWh2V2dfSHh1bnIxbHB2WXAzU09STmpwdXlMbC1faUhXQ0d0aXc5M1VoX2xCWGZKWldYQnZXYXdVek9CcjdQUk9ZYXNkVTVrUVpZVWVfanpDZnVENTdMMDg4T1AyaGU3YnhVYXZZVFh6aUxwNVZCVXJ4VG5sOXNRSEllWEZaY2JvUDdSQVU?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "The Robots Are Getting Real: Lessons from Hannover Messe’s Industrial AI Reality",
+   "blurb": "",
+   "src": "Machine Design",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUzF3MVdhTndRTmhJMFpYdkg3bFJHVlZKZjRyc25zdXd2VHIzQjB4NU9wUms3bEJicU5VQ2ZCVGE1bkM0eHZ3Y3c3M1ZpVk9xVFJJZWxtY0lwV24zYmNSZmZTcVRnWm5BaDZVMEJYdTl3ME94SlpfWWpvS2IzQUQxUEM0RmRGY0Z0Um5FTWJwY0JPT2M0WW9ZeGtsTHpYQ2gxNXRKREtBM0VZaGExQ25LdkhqdzBuNWR1YXdfaWRVVE84SWY5enNuS2U5cDFvd3N2eHlTTWN6WFg?oc=5"
   },
   {
    "cat": "ai",
@@ -38,52 +52,38 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots Are Coming To Factories. But Not The Way You Think",
+   "title": "For The First Time Ever, Humanoid Robots Perform Surgery on Live Animals",
    "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWszTzlHLUNXQkJveDAwcGFGT1VMdll1SFNvVWdMdkVRTFVjS1dGd2NqTEpMQTMzRFpZSnIxT1hqdTVySkEtUXZES1hvLVEzQmZkUzgtTGJrLU5IN0hlU2Nza3drTXVUelBiREhBQUVOd0JXTmdLQVRZZV9QN21YVE00T1NEZFR5QXJhZGI3NFpwODh2VlpTTnRkZy1Ib19NWHQ5b1ZmSHVsSThlOUJKQ3M5b1N1RGdIR2hj?oc=5"
+   "src": "ScienceAlert",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGUxcDZISmktczdGOU5ESDBzRnI2dUNkQkF1ODYtemFfMWlib0kxSGI0cGRRa0w1a3VnczFuS2E0RkJGbFdiVjZ2Qmlfc294TFZuUzExU1JWajJHX0xmbU9Vemg5elNnNjZMd0U1LUhKTmxJa3dBNUljN2FNOGdLaFpuaG1xel9mcVVmUUk2Slo4ZWRoaDNzTkpQY1h0SVVYQ2VUVV9IODR6TVh5Tk5CTVpGWkpBUmJFbGdBdzZn?oc=5"
   },
   {
    "cat": "ai",
-   "title": "OpenAI says its AI model went rogue and hacked startup",
+   "title": "OpenAI says AI model went rogue, launched cyberattack",
    "blurb": "",
-   "src": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnM5UEVFTnNwYWQ5WXJlNHp3eWozbjhDOGxkOV9aOVJzMFRQa1p6YngxMXc3NjdhU3lOZWt0VlktZVFQOGlYWjhTOWlHZ0gtOW1DY01jTjJHbS1BRmlWUWdleks0ZzNscWRIbGludUNXaUVRRzZJam1SRTFCYUlTS1NadFhZZ3lUNTFVODZ5a3FSdWZWTVFHaXpwM3nSAZwBQVVfeXFMUGR6bnJpQUEtU1MtZThKdElrdUpTa3IweGxoM1dkLU9lZzVmRWx1YmpxRGctdm5Tb0lkanVIRnJTOUdhSTB2ZDljNzJqYmZfaHJ3cThhTzhPMFR2eVdQNkpUSlc1Mk9YV0w0cmQ1S1ZldXZXZnlxR29Ybm5YMDN2bEh3bjRCeFhrRElrR1VPWmVLRW83SmdvTXFYZktL?oc=5"
+   "src": "wng.org",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3RKOFpwTU9hSWVJTUZNajloVFlzQWppdE9FR0VtU3ZtUE9ic2MtTUk1eDJiUHFPazlkZnlrdzJET2d6NmgtQWlnbXdlTy1WWXRxRTZIZkc5Um1zVGpuYnh5cHZpQmJHaVJyTWZRV1kwWlF2RWd0eTVrTVJxN0JDN3c3c2MzNzIwTWtRV1Bxai1LdVpKemJrYjQtQzRjbnpOTFNzRVUzZklhWHBEU0E?oc=5"
   },
   {
    "cat": "robo",
-   "title": "This UK Startup Just Became Europe's First Humanoid Robot Unicorn — Worth $1.35 Billion In 2 Years",
+   "title": "Keep Chinese Humanoid Robots Out of U.S. Markets",
    "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTUzVzdVemZTYjFNRDBjVENoeEJySExQTnRmdi1JQmpyMXRESUh6bmJSUEFFTEpBcDA3eEoyTEljUFNBa0kzeDFUUEJISE5HTGJCRkFaaVBod3oxZnN1aWlSVzNPY21qZkx2N2lYbVF6aG1fbVB3bG5Vb1djTFZidzRCZ2ZkR29MSzFiaHoxVHVKTnpJZEctaFhpSG5CdHNGdGw3ZkwzMzk4amxwSHhUYzl5SGRydXhwWDdkZTFSTjJacGR4a3ZWUEljc1NMTDRMcUE?oc=5"
+   "src": "Daily Signal",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcThjZ3RBdUo4Y2N0c283blRyc1BFUXd4X2J5YjhCTy1kQXlaaWNMa2F3RTVJZTRJb1JJNFJnZGdGSVcxOGJVVVFpazZqX2RRMFY3YzdNODVMeWEzSXlhYXVfanp3MUtKUnpuV292dkZUNHlrNkNYTmZ6dlpnYWxUN25qdE16SzNkbWdrMWNocGlqNXZfd2VsTA?oc=5"
   },
   {
    "cat": "ai",
-   "title": "A Powerful New Chinese AI Model Just Arrived: 6 Steps Employers Should Take Before Employees Start Using Moonshot’s Kimi K3",
+   "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
    "blurb": "",
-   "src": "JD Supra",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOelVKb1gxU0dTWWRTZjBQQ2IyU0tDWWgwY0xEVnIxUlN5WDc2alY1b0NmVUxZVGxTN19WV1dtTkNiS0pBX2pRLUM2d2otNzNFY0d2WFFGNlJQU1d5XzR6T3hnV20xVi1yS1c4U2EwQUdaSWtTT0Q2cm01TXJzWm9TNHFPTEZjUQ?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Could robots play sports professionally? Carnegie Mellon researcher says yes",
+   "title": "Samsung Makes Big Move Into Humanoid Robots— Hires Former Hyundai Robotics Leader to Lead the Charge",
    "blurb": "",
-   "src": "TribLIVE.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXk3S3FvR21NVS05TzVqa1NlcWRESUt1QVRvRVpqaG92WFMtWF9LYzdxUUdrc3B5dnRfaVNCYkhwSWd2OV9lbXFmZVlzM3QyUkJNbUQ2dFhmUTYzU0lvVlhlSGk5TnRHeC11SVRHUkpUTFRiT0xzUVpBLVdTOEkwa0lwMEhudl9RVDhwUUZGejlWbTBtZ0V0bHE0b0xKYldwQWVxc1dxcHNSQzU3MGxIM3B5eU5IV1pIUXJlUjBuQQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
-   "blurb": "",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnlKVXR0aTVRX0FzM2J3UHBCRUlKbGxfU0JDSFVlMEtzQzFEMndhQ19CUjdhVEtNY1l6b2J2RUpibkZvT0FTNGhQRUZ2V0JVNzU3cUtWMlZHdlFDMTFlUlN4cEFldXhFeXRIUW9oMTJuUjVLTENHVnRWbWFwOXlsTVA3UkpZQVpka3ZQOG9HWld1VGZDWWQ0TDdTeTM1anNHcWNEUWNtMkI0cUkyYUc2ZWczQWVXWG00eG15WnNqbUhWTW5XOEJRbA?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Industry Insights: Generative Bionics Humanoids Are Centers Safety and Modularity",
-   "blurb": "",
-   "src": "A3 Association for Advancing Automation",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEp3NDREdmh6M2tEUVRsQktrOHYtT0h3UDJHQTlhWU1KWTJfeEhoOHllemRiTXBaM0ZlUTJRQi1FVUVSYUh1U050ZGFaeXpCbC1xdGV6T1hfVVdqZXR2UGF6S1kzYk9zVzBSUXVjbEZXYlF5YzM4cWtYajJOT01tOGNLb0RpVTQwV3I5MkdiSWxwR3g1QWRVMjdseVBIRVlKX09CTldpVTJWZ05EUDdQZjZxcGZDWFlyZm9vQV9WaHRLdw?oc=5"
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWhyMnZRcklFUnQ4ZWY0c3E4dUtCMlhyUDZva3h5dElvenhxRFBCZGZ2V1JqV1dsMlBrVkVVUmhGTHJEM2IybU00R1V4ai13RnFPb05vN3JfcDdna09JQjVGQTNDaWh6NDVHY0FPRGR3WWdpMThsNGJyM0NVSU9oOFNjYzdpbUVTV25SVTFuZTNHLXhvSGNjYnhzSQ?oc=5"
   }
  ]
 }
