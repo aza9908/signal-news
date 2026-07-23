@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T11:12:56.489Z",
+ "updated": "2026-07-23T16:37:46.646Z",
  "items": [
   {
    "cat": "ai",
@@ -10,10 +10,10 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots Are Coming To Factories. But Not The Way You Think",
+   "title": "The Robots Cometh",
    "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWszTzlHLUNXQkJveDAwcGFGT1VMdll1SFNvVWdMdkVRTFVjS1dGd2NqTEpMQTMzRFpZSnIxT1hqdTVySkEtUXZES1hvLVEzQmZkUzgtTGJrLU5IN0hlU2Nza3drTXVUelBiREhBQUVOd0JXTmdLQVRZZV9QN21YVE00T1NEZFR5QXJhZGI3NFpwODh2VlpTTnRkZy1Ib19NWHQ5b1ZmSHVsSThlOUJKQ3M5b1N1RGdIR2hj?oc=5"
+   "src": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IWHNaMU1KVFdtazJHNFVqZzZBLXViYmc0cXNSLWFDV2F1cGhsb2dmd0J3d3hsNGJNcHVEYWQyMTc0dkxGdHk0TlVaTE0wOERDSHpGOXJ6aUdHRU1IbnllVjNqTFEyU1Zjd19QR0tQYXplYVU?oc=5"
   },
   {
    "cat": "ai",
@@ -24,10 +24,24 @@
   },
   {
    "cat": "robo",
-   "title": "Keep Chinese Humanoid Robots Out of US Markets",
+   "title": "Robots Are Coming — But Not Everywhere",
    "blurb": "",
-   "src": "Daily Signal",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcThjZ3RBdUo4Y2N0c283blRyc1BFUXd4X2J5YjhCTy1kQXlaaWNMa2F3RTVJZTRJb1JJNFJnZGdGSVcxOGJVVVFpazZqX2RRMFY3YzdNODVMeWEzSXlhYXVfanp3MUtKUnpuV292dkZUNHlrNkNYTmZ6dlpnYWxUN25qdE16SzNkbWdrMWNocGlqNXZfd2VsTA?oc=5"
+   "src": "MIT Sloan Management Review",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QMzhvNXQxMEJON2dzVm9IX05IR0lLSkx0RUpWbzVHazU4dmF3ektDMlFrSy1JOEVXaU5EZkVVdkVrdVpXYUpiSVctbDJXWGFpaUZJdjFPS0JFc0dFMHktTW56WWlHOG5fLTFXLTNmNl9PUHAyVngyRUduSWZkZw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
+   "blurb": "",
+   "src": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "UCF Researchers Win International Award for Robotic Technology That Shares Immersive Experiences",
+   "blurb": "",
+   "src": "University of Central Florida",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUxHdVVYM2JYbXlxTk1kVTQ4ckhZVHJOc2FzTEFka2NHM3lTeFRDdGVpNDBHaWYwUXZ0dmZmSWFNb1hyUkljRXBIQWJiX0owM2EzV0xGVXVZUHRBUWNUcTVQTWtibWgxNC1ZbWNfei1RMzk5X0JDUHlpUUhoMml1eWpxb09aUGtyZ0JHYk1qYVhrSE1MUkR2d3lFMUF1djNZclNJNE0wWkNUMlB5OXpSR3U1M3o3Nno5bnVzbm5uUQ?oc=5"
   },
   {
    "cat": "ai",
@@ -38,52 +52,38 @@
   },
   {
    "cat": "robo",
-   "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+   "title": "US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies",
    "blurb": "",
-   "src": "Ars Technica",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY00yMzZzYmt4QTQ4dU9vRXI0c0VCVWgxQlQ0WENNb0FWM19ya0VOb2NvUXdFS2l2UWUtRi13N2hTcXppMWVXanRYcmI3VTYwaU9reGlBLTl5RHd6eVpkMmI4LXVWZEhtem5rRWI0WVZ0WmVrOFZ0UWJiTl9RbEVjZm9fZ2hMdkx4UF84a2hndlUyeVdEUFRHU0lzZFhEbUo2Z0o0SFo4ODd2TUVsS2ZUbVpfUQ?oc=5"
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZU9UUzljVDNZZzU0Q2JtbHJhRE41WXRCdmtDSmt0bUZudkV4X1ZjampZRENUQVRwd3BKNF8yTk9DSTJ0czdRMExJSFZ6UmM5dlZIWlpkdzJoSTQyQlY5Z3RGMktXRXZlaVFScWlfWkZ0VlpMbkdDaG5FS19MYjdyZGlkTE1qQU80Q2kyUWJBdkxQOEMwOXBua2EzVHc2Uk1FZmZIZ3lEeHZPd09vamNPcGo2RzFsR2N6RnfSAboBQVVfeXFMTmVPVFM5Y1QzWWc1NENibWxyYURONVl0QnZrQ0prdG1GbnZFeF9WY2pqWURDVEFUcHdwSjRfMk5PQ0kydHM3UTBMSUhWelJjOXZWSFpaZHcyaEk0MkJWOWd0RjJLV0V2ZWlRUnFpX1pGdFZaTG5HQ2huRUtfTGI3cmRpZExNakFPNENpMlFiQXZMUDhDMDlwbmthM1R3NlJNRWZmSGd5RHh2T3dPb2pjT3BqNkcxbEdjekZ3?oc=5"
   },
   {
    "cat": "ai",
-   "title": "OpenAI’s models broke free and launched a cyberattack. Congress wants new rules before it happens again.",
+   "title": "How are companies, governments responding to the OpenAI hack?",
+   "blurb": "",
+   "src": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW96eUhrWEN1WEJMbW44MmZGOWZZZGlPMmZPaGJ4WWlVd0Rvakd3YkZXbHpZalZpclhJR0JnMjRkR2hMVHdaeGdQRk9FbjlpSDJ4dWhwN1BDaU5jVjdDenlKeFFHVU9zUENSbmt6SVA5SFNwSDBqVmQyWlpoR0w5Tkd2ajFGRnk0SkdTTXdsNnVyQ0FnendpRW1zSURyNlBnY1HSAacBQVVfeXFMUF9IS3J5MUhkcFdjT2Rnb0U3Q0QtVWY2MUc1RklGd3JQMmJlaUxJZ2RKNHJhdjVnRGg5Xzc2emdiVlBTeEF4cmJOa29maHJsdkJSWlBPWFcyNllZcEZ6N0tqaVpXNmFfZmJIWWEzelNtQWtpQ1B5YjhOdENUZERPUGZGak5oZEdMaHg3bGVnem95ZC11TzVDaWh3WjBTWl9RMDhEc29xaXM?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Fraunhofer IPA launches benchmark to assess humanoid robots for cleanroom and industrial applications",
+   "blurb": "",
+   "src": "Cleanroom Technology",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRG1QRGV1bHowS2dMMXFzUkxqU1JKZ2xERURtYmUxd3RZWTdhSG9nMTRsMktXa09rMjR5eG1lN0hWakVIS3Q2RGIxNTdjTHFPZ3hpRTZqWTJ5UXBxU081aHJ3WGVLQnVRUFdyOFNFSndqX01ZUU5RM1EwZ3RnbnEzUGQxQnZNVktQcWszeFlfb1RGS3Z6WFdmMXpJRQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "House AI ‘kill switch’ bill unveiled as OpenAI hack raises alarms",
    "blurb": "",
    "src": "Politico",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVBiMDJ6bVBicG4yNHRjMFNTM01QWGx4Wmdpd3czNzFvQ2t4cE5UeTMzNGRUbW5pcEM4T1JNdGMzQTJibi0wR09qaFdvVENkZUF6a05hWDJ4ZVFNdjlIV3JoTjQtTzZEU2ZsRWx3cVNDaFZramotbWh2U3JzVmRCSlZjY0JCM0JhSUFLQlFNalU?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVllZVDU1VkNKYWd4ZXc3ZldlNFlIdXR1clJCeS1RQVZCR1N3dl9yVXNIWFJ1UGFWc2MweVJGWnJEbk95dzUzZktFRjBKZXlDSGYzMV9QWmxvZExKaUFFVjRxaUlaUmRVT1VfdWplZWY4b3dHOFVHT25IeGgyYURhMDFIR0RlOF8zMzJwamhHTEhBSzVpcGhKZ1JVSW44aHkzZGhOQlJ2WGlQOGQtS1VhRGNSWQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "How Many Chips Does It Take to Build a Humanoid Robot?",
+   "title": "Humanoid Raises $152 Million at $1.35 Billion Post-Money Valuation, Becoming Europe's First Pure-Play Humanoid Robotics Unicorn",
    "blurb": "",
-   "src": "Automation.com",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VVzg2VHdqbFMzMW9DeVBaQTRLWEZhSGlRVXJCZGFYeGNURjNxelZSOFZCeHplenlvbnREb3BrX0pUanAzNWkxdzQtV2xtemlBNEJlS0NIdVVnX29oNE54RUdxWWlhUklMUWlfSTVseGpLdWtGMTdkM0lB?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Breakthroughs in Chinese AI models threaten U.S. lead in tech race",
-   "blurb": "",
-   "src": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcnN5d0hRTGxoMGJGeEZKNUFpeDhnekRvQVlzOURRWHhYLTV2cGZQWk5samV6RFVfVzNpdFR0TXlnQ2xTMVdpZVN6Q0o2bk5hTG1nUnota0VFS1FoYlNVSy1uOGFqX01qbFkySXZsZWxxV1h2MGVsbmZycHU3M2JYYjA4OURpZXVWZ19mVkQ4Y3dyMl9mN2lnRlBYa1ZPTlVk?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "The Robots Changing the World Don’t Have Faces",
-   "blurb": "",
-   "src": "HackerNoon",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkY1hqYWZBZWZyOXUxTWxTaXRMQTA4dkZjV0pNYm0zalo3emNXbFBvYmt2TGgzQllqeTNXdDBTYnRCd0pxeHZEX0VubUlvb3U0UlBwVm9XN1hXdzlqOUlHR0R3RG9iTkJ0YXdySFZZclRadV9kZE1B?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI says AI model autonomously hacked rival's systems during internal test",
-   "blurb": "",
-   "src": "LiveNOW from FOX",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfNnBURDNqRGQ5dnNDbFVKdXFlS18yRDNCcTdNLTM5RFRHczRFWTJfWnRRR0ZCZVhWckdjTERmZU9RbmQ1bkxqNFdGM21iT01kZkEwQkd0cWlWZUE1R3FaRE05THVMaTZXNVZrYVJDNVlReGxKYmc?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Hyundai's 35,000 striking workers just forced the first real test of who controls humanoid robots on the factory floor",
-   "blurb": "",
-   "src": "Startup Fortune",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOGxwb05PWUJ0VGpHc1ZQZTBPaWJFOUJBOHJ2eXBkUXJMVDQ1bUtNNzlPeURxWXZmOHZQZXRVOGEtNEo3dGVPNXYySUdMRlB1RnhqbVB0NVZQaHNoa2g4VkVJLWZVeF9GQkFxVXRZdlVJZXp3VHBZUUNJQ2R0Z2pkRmgyMjNzMW5sT2tUSm8yclNJdGp5T2tqazFNQ0tpSWprRGgzYzNLME5LTF9yemNNMnNYN2FzNGtNaE5EQkpENk9RVDYwcC1lMkJoX093aUpiTnNlWURKeFUtTE1F?oc=5"
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFo3bEVlQjUweUdSa25UMU9PaktwandrY1N1b19qR3Roa3g4YXJwQ3JzZm5CUkplQmQtdnRCZEJhM3RXN0RIRC0yTmdWZUk0c1J3eVpCaERRdWw5eXA1b1ZXV2w4RUttaFZwa3A5VGdsSFEzQWQxazZyRDd3UXlBS09SQU5jMExlbzk3YWZmNmFGeURPeVNKdA?oc=5"
   }
  ]
 }
