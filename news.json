@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T05:57:14.466Z",
+ "updated": "2026-07-23T11:12:56.489Z",
  "items": [
   {
    "cat": "ai",
@@ -10,6 +10,20 @@
   },
   {
    "cat": "robo",
+   "title": "Humanoid Robots Are Coming To Factories. But Not The Way You Think",
+   "blurb": "",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWszTzlHLUNXQkJveDAwcGFGT1VMdll1SFNvVWdMdkVRTFVjS1dGd2NqTEpMQTMzRFpZSnIxT1hqdTVySkEtUXZES1hvLVEzQmZkUzgtTGJrLU5IN0hlU2Nza3drTXVUelBiREhBQUVOd0JXTmdLQVRZZV9QN21YVE00T1NEZFR5QXJhZGI3NFpwODh2VlpTTnRkZy1Ib19NWHQ5b1ZmSHVsSThlOUJKQ3M5b1N1RGdIR2hj?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "For years tech experts imagined AI breaking free. Now they have to stop it.",
+   "blurb": "",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzJ6UTNnai1IR1AtWlJ3Mm9hZG1pelQ4UUxVN1k3RE1fMzNwYWIwZHQ3Y2Z5TFQwWS1wYndwcWN1WGlGU1J2bFhsNFpsOG9CODJ2SnhTVkM4THNvSkgza0JQN1Q0SThFMlJ0TVZsLWJZUE84RERBTzg0MkZPbFN3MVk1dC1JQk0wWDZiU050MWV2U3JvaXdpNTBhYzhPSEwyOFUwLVRoYi05bjRCbC1LU2o0WXVERlJ5eUNMbXBn?oc=5"
+  },
+  {
+   "cat": "robo",
    "title": "Keep Chinese Humanoid Robots Out of US Markets",
    "blurb": "",
    "src": "Daily Signal",
@@ -17,10 +31,10 @@
   },
   {
    "cat": "ai",
-   "title": "OpenAI’s models broke free and launched a cyberattack. Congress wants new rules before it happens again.",
+   "title": "US-China AI rivalry heats up as Chinese models gain ground",
    "blurb": "",
-   "src": "Politico",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVBiMDJ6bVBicG4yNHRjMFNTM01QWGx4Wmdpd3czNzFvQ2t4cE5UeTMzNGRUbW5pcEM4T1JNdGMzQTJibi0wR09qaFdvVENkZUF6a05hWDJ4ZVFNdjlIV3JoTjQtTzZEU2ZsRWx3cVNDaFZramotbWh2U3JzVmRCSlZjY0JCM0JhSUFLQlFNalU?oc=5"
+   "src": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU9HTVR2emZCeEU5SmdSbDlQTzRsNmpHbTRhcTNfbFpkNktxTlVqcVFRNEZnUERVS2pScGQ4dmFrNkhKSldBNUF3ZTFIdDZMT1QtUFUzNEtUd0IxUXVyaFB6M1NRUkZBQXJEajkxREF0dXZUdmtrQng4Y0tDeGo4VTU4ZDhPaUVrYl9mZS1BT0ZkN3F0OUHSAZYBQVVfeXFMTWRqV1RxQmloamtTd0RpNzVfQUYtd3BRZmR5VUk1R25Pbi00RWZfX3dqcl8wOXZnX0lRM1NpVnpxUmdNVktCZG5uV1lpWG9qY3FEYWV5SnF5MVhGOWY2UXh6cG1NY3pwVm55VmtzVVZ3YVlvWHRBTFNKblY4ZDctR2YxdlJDVzB4TVRyZTY0dGRxai1RRzlR?oc=5"
   },
   {
    "cat": "robo",
@@ -31,24 +45,10 @@
   },
   {
    "cat": "ai",
-   "title": "Breakthroughs in Chinese AI models threaten U.S. lead in tech race",
+   "title": "OpenAI’s models broke free and launched a cyberattack. Congress wants new rules before it happens again.",
    "blurb": "",
-   "src": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcnN5d0hRTGxoMGJGeEZKNUFpeDhnekRvQVlzOURRWHhYLTV2cGZQWk5samV6RFVfVzNpdFR0TXlnQ2xTMVdpZVN6Q0o2bk5hTG1nUnota0VFS1FoYlNVSy1uOGFqX01qbFkySXZsZWxxV1h2MGVsbmZycHU3M2JYYjA4OURpZXVWZ19mVkQ4Y3dyMl9mN2lnRlBYa1ZPTlVk?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid Robots Are Coming To Factories. But Not The Way You Think",
-   "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWszTzlHLUNXQkJveDAwcGFGT1VMdll1SFNvVWdMdkVRTFVjS1dGd2NqTEpMQTMzRFpZSnIxT1hqdTVySkEtUXZES1hvLVEzQmZkUzgtTGJrLU5IN0hlU2Nza3drTXVUelBiREhBQUVOd0JXTmdLQVRZZV9QN21YVE00T1NEZFR5QXJhZGI3NFpwODh2VlpTTnRkZy1Ib19NWHQ5b1ZmSHVsSThlOUJKQ3M5b1N1RGdIR2hj?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Memphis experts call for safeguards after AI model goes “rogue”",
-   "blurb": "",
-   "src": "FOX13 Memphis",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0ZheEZubkRvUnlXRDRSc2ZJRzFpcHRGWW01aTFQZXJpcl9zaVExNGRvMTBoTnZONmk2bEkxQjBTbU1BTm5uWm1GLW9XR3c3SFI4Uy1DZHg0MkhzS0VYSjFzNWFKZ0dBNjhGd1d0Q1VMOXV1SFRoVVBJbHN4NEZHYVE4WXptakZhS09mTjd0SlVIVHJhLVJZYjRHSGtWdVRWMEx2VVRmNGJZaTlwamZEQl9yc2pRWkg5b0MyMkdYM0drcmdYdDJLWDNsOUctOC1JWDRERTlqZDA2eEVHUlE?oc=5"
+   "src": "Politico",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVBiMDJ6bVBicG4yNHRjMFNTM01QWGx4Wmdpd3czNzFvQ2t4cE5UeTMzNGRUbW5pcEM4T1JNdGMzQTJibi0wR09qaFdvVENkZUF6a05hWDJ4ZVFNdjlIV3JoTjQtTzZEU2ZsRWx3cVNDaFZramotbWh2U3JzVmRCSlZjY0JCM0JhSUFLQlFNalU?oc=5"
   },
   {
    "cat": "robo",
@@ -56,6 +56,20 @@
    "blurb": "",
    "src": "Automation.com",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VVzg2VHdqbFMzMW9DeVBaQTRLWEZhSGlRVXJCZGFYeGNURjNxelZSOFZCeHplenlvbnREb3BrX0pUanAzNWkxdzQtV2xtemlBNEJlS0NIdVVnX29oNE54RUdxWWlhUklMUWlfSTVseGpLdWtGMTdkM0lB?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Breakthroughs in Chinese AI models threaten U.S. lead in tech race",
+   "blurb": "",
+   "src": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcnN5d0hRTGxoMGJGeEZKNUFpeDhnekRvQVlzOURRWHhYLTV2cGZQWk5samV6RFVfVzNpdFR0TXlnQ2xTMVdpZVN6Q0o2bk5hTG1nUnota0VFS1FoYlNVSy1uOGFqX01qbFkySXZsZWxxV1h2MGVsbmZycHU3M2JYYjA4OURpZXVWZ19mVkQ4Y3dyMl9mN2lnRlBYa1ZPTlVk?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "The Robots Changing the World Don’t Have Faces",
+   "blurb": "",
+   "src": "HackerNoon",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkY1hqYWZBZWZyOXUxTWxTaXRMQTA4dkZjV0pNYm0zalo3emNXbFBvYmt2TGgzQllqeTNXdDBTYnRCd0pxeHZEX0VubUlvb3U0UlBwVm9XN1hXdzlqOUlHR0R3RG9iTkJ0YXdySFZZclRadV9kZE1B?oc=5"
   },
   {
    "cat": "ai",
@@ -70,20 +84,6 @@
    "blurb": "",
    "src": "Startup Fortune",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOGxwb05PWUJ0VGpHc1ZQZTBPaWJFOUJBOHJ2eXBkUXJMVDQ1bUtNNzlPeURxWXZmOHZQZXRVOGEtNEo3dGVPNXYySUdMRlB1RnhqbVB0NVZQaHNoa2g4VkVJLWZVeF9GQkFxVXRZdlVJZXp3VHBZUUNJQ2R0Z2pkRmgyMjNzMW5sT2tUSm8yclNJdGp5T2tqazFNQ0tpSWprRGgzYzNLME5LTF9yemNNMnNYN2FzNGtNaE5EQkpENk9RVDYwcC1lMkJoX093aUpiTnNlWURKeFUtTE1F?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI says its newest AI model autonomously gained unauthorized access to another company's systems",
-   "blurb": "",
-   "src": "KVUE",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0otSGRGNDZocmJWMlpkRDAtU0NzeklKbWNMY0lTU1dEckd2c1FHS2JlcGdnMVUtY3FpVHNCSl9JTFpCUjdKbzg0QnoxbTRlQnAyc3NtWllPN0dBUktTN0RONXlYQmNCY2VWZUFCc05Pck9falFNV2NnaXNNa0JuM1MzY2N5c2wzdG5uLUlRNmwwZ0JSRW9mUjJyY2ZQUlR2bEtVUXV1M2ZFMmI1MWhF?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Samsung Makes Big Move Into Humanoid Robots— Hires Former Hyundai Robotics Leader to Lead the Charge",
-   "blurb": "",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWhyMnZRcklFUnQ4ZWY0c3E4dUtCMlhyUDZva3h5dElvenhxRFBCZGZ2V1JqV1dsMlBrVkVVUmhGTHJEM2IybU00R1V4ai13RnFPb05vN3JfcDdna09JQjVGQTNDaWh6NDVHY0FPRGR3WWdpMThsNGJyM0NVSU9oOFNjYzdpbUVTV25SVTFuZTNHLXhvSGNjYnhzSQ?oc=5"
   }
  ]
 }
