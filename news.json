@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-23T16:37:46.646Z",
+ "updated": "2026-07-23T22:06:35.165Z",
  "items": [
   {
    "cat": "ai",
-   "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+   "title": "AI models' breakout from human control brings a told-you-so moment for technology researchers",
    "blurb": "",
-   "src": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5"
+   "src": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5"
   },
   {
    "cat": "robo",
@@ -17,24 +17,38 @@
   },
   {
    "cat": "ai",
-   "title": "For years tech experts imagined AI breaking free. Now they have to stop it.",
+   "title": "How a Chinese AI model put Big Tech on notice",
    "blurb": "",
-   "src": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzJ6UTNnai1IR1AtWlJ3Mm9hZG1pelQ4UUxVN1k3RE1fMzNwYWIwZHQ3Y2Z5TFQwWS1wYndwcWN1WGlGU1J2bFhsNFpsOG9CODJ2SnhTVkM4THNvSkgza0JQN1Q0SThFMlJ0TVZsLWJZUE84RERBTzg0MkZPbFN3MVk1dC1JQk0wWDZiU050MWV2U3JvaXdpNTBhYzhPSEwyOFUwLVRoYi05bjRCbC1LU2o0WXVERlJ5eUNMbXBn?oc=5"
+   "src": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSXBpSEJhNHpTTnVKdGJKekxtYXN4aW5QSUdqZUpob1lOY3ZkYnJXaC1EXzcweXRUSDdDa1pMN3JuaFFod3VBNFBKdExka2ZibkRpbEJLOGY0WC1KQXNDWlQ0T1dyYmU0VjBJMHl4MW9aUGJseWNVN1JGVlZfSGRTbFRaSUV2STlWS2hCNnhTNDVSaS1L?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Robots Are Coming — But Not Everywhere",
+   "title": "Robots Are Coming — but Not Everywhere",
    "blurb": "",
    "src": "MIT Sloan Management Review",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QMzhvNXQxMEJON2dzVm9IX05IR0lLSkx0RUpWbzVHazU4dmF3ektDMlFrSy1JOEVXaU5EZkVVdkVrdVpXYUpiSVctbDJXWGFpaUZJdjFPS0JFc0dFMHktTW56WWlHOG5fLTFXLTNmNl9PUHAyVngyRUduSWZkZw?oc=5"
   },
   {
    "cat": "ai",
-   "title": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
+   "title": "Rogue AI Model Leads a Strange and Scary Week in AI",
    "blurb": "",
-   "src": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5"
+   "src": "U.S. News & World Report",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVZSUlc5SU1DMHY2RXlkT3BJSUkwWTdfNzlrUlAzaUQxbXVEektkMnp6VDdwb0w0M3I3d3kzcUUya3hZMnNEYkcxV0V4Q3Mxc1hQMWlKWGtQbXVkRVlJUkx0VGhhamdsU0FEWEtLYlZmUzFlMnUxX3Q0eV9aVUZObldKMVh5YThCM3dMRFdpWlFHNGhTY3NuZmlzRUNZYmJ6Tlg2WkMxQW5jTy1raFZIa3MtMDU4bnBKMGN1X09GRjh0Zw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Nvidia, Meet AMD, Your New Competition For Humanoid Robot Brains",
+   "blurb": "",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlF1elBDZXRlMFczTEtpNm9nZk5sdzlOSDFMdEtoVVg0WU9oTVRtSW04OGQyWDFCSzRwU0tvTlR1bVlEemhOMS1fZmJtR0JGRkdoRW9Wb3Z4b2paenBsVEZZLWdkWnhpQ1RyX3c2d0JvdnNmUGNiVThySUF2ckJYRkJxNTZHaGwtVUNvS0dVY2gwaXpDbERQeVNrc0FPWmhsNjVoMFR6WHZWcTVKU2dyRnpNZjlpM1E?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Exclusive | Stripe in Talks to Buy Buzzy AI-Model Marketplace OpenRouter",
+   "blurb": "",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDM4VnpReE5Hb0hQdm8tOVlYMGMxZjlnSEpEZXRBV2JYbmJaWW9hbVU5TjU0cFBYVVVWWl9LUXRfZjc4M2JjSFphbEt6aDh2Y2Q3eTZVTUV2S2FDWVVLMG5WUEktUm1aazhJRWJacTVsSmFrNWVsaXFMUFRnVk9RcWRmdXRabm9nNnlaX3JNQkZSdVRNU2xKWl9HeFBqQQ?oc=5"
   },
   {
    "cat": "robo",
@@ -45,45 +59,31 @@
   },
   {
    "cat": "ai",
-   "title": "US-China AI rivalry heats up as Chinese models gain ground",
+   "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
    "blurb": "",
-   "src": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU9HTVR2emZCeEU5SmdSbDlQTzRsNmpHbTRhcTNfbFpkNktxTlVqcVFRNEZnUERVS2pScGQ4dmFrNkhKSldBNUF3ZTFIdDZMT1QtUFUzNEtUd0IxUXVyaFB6M1NRUkZBQXJEajkxREF0dXZUdmtrQng4Y0tDeGo4VTU4ZDhPaUVrYl9mZS1BT0ZkN3F0OUHSAZYBQVVfeXFMTWRqV1RxQmloamtTd0RpNzVfQUYtd3BRZmR5VUk1R25Pbi00RWZfX3dqcl8wOXZnX0lRM1NpVnpxUmdNVktCZG5uV1lpWG9qY3FEYWV5SnF5MVhGOWY2UXh6cG1NY3pwVm55VmtzVVZ3YVlvWHRBTFNKblY4ZDctR2YxdlJDVzB4TVRyZTY0dGRxai1RRzlR?oc=5"
+   "src": "OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5"
   },
   {
    "cat": "robo",
-   "title": "US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies",
+   "title": "Foundation Robotics And AMD Partner To Power Phantom Humanoid Robots For Industrial And Defense Applications",
    "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZU9UUzljVDNZZzU0Q2JtbHJhRE41WXRCdmtDSmt0bUZudkV4X1ZjampZRENUQVRwd3BKNF8yTk9DSTJ0czdRMExJSFZ6UmM5dlZIWlpkdzJoSTQyQlY5Z3RGMktXRXZlaVFScWlfWkZ0VlpMbkdDaG5FS19MYjdyZGlkTE1qQU80Q2kyUWJBdkxQOEMwOXBua2EzVHc2Uk1FZmZIZ3lEeHZPd09vamNPcGo2RzFsR2N6RnfSAboBQVVfeXFMTmVPVFM5Y1QzWWc1NENibWxyYURONVl0QnZrQ0prdG1GbnZFeF9WY2pqWURDVEFUcHdwSjRfMk5PQ0kydHM3UTBMSUhWelJjOXZWSFpaZHcyaEk0MkJWOWd0RjJLV0V2ZWlRUnFpX1pGdFZaTG5HQ2huRUtfTGI3cmRpZExNakFPNENpMlFiQXZMUDhDMDlwbmthM1R3NlJNRWZmSGd5RHh2T3dPb2pjT3BqNkcxbEdjekZ3?oc=5"
+   "src": "Pulse 2.0",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOU1ZRTBfSlJuNmVWN1RocXFacFQ0VXVGVDYwbmllendJUkU2WUZfNUZtT0o2NTVMLXh6bk1SWC1rYnBDVXV3RXl0SmJpci1xeFJmSlIxa0RLWXRKVF9yYmdMbjdrVHJ1YnJOMTVyMXNsUEJWSVVOcWQ3MEE1aEdndGNjSm1OTUJDRjI4QkNOc3RmU29xQXVkbVBZR2JzclBiUlUzcmFjVndhdEpHSDJWcEFsaEV2aHE3R0FETGdyMFFaTWl3TDRJ0gHMAUFVX3lxTE1nSEl0VDdRY3FOZkg5a1hoYUtRcm5uWkFtRGpUVzdkYzRoTVd3NzRyYkdIX21DNlpDSmRUSUdFZEoydUxucXA0bkdYeWZrQWdIbEZLMnhnTmI5S1dVdHdTZWFYbU53OVdvWjVhM29QcF9QQkxqazdhaC1oZ1F4UWdrUHRtNEcyc2FGcU9sV29KTzNKbGxsVkE3N0ZpTFY0TDdsTl90ZEJBcHR6SzJONmJBX3d5WEpYb0EwN215R1p2U2lOdXlfMllqLThLSg?oc=5"
   },
   {
    "cat": "ai",
-   "title": "How are companies, governments responding to the OpenAI hack?",
+   "title": "Lawmakers introduce bill mandating kill switches for AI models",
    "blurb": "",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW96eUhrWEN1WEJMbW44MmZGOWZZZGlPMmZPaGJ4WWlVd0Rvakd3YkZXbHpZalZpclhJR0JnMjRkR2hMVHdaeGdQRk9FbjlpSDJ4dWhwN1BDaU5jVjdDenlKeFFHVU9zUENSbmt6SVA5SFNwSDBqVmQyWlpoR0w5Tkd2ajFGRnk0SkdTTXdsNnVyQ0FnendpRW1zSURyNlBnY1HSAacBQVVfeXFMUF9IS3J5MUhkcFdjT2Rnb0U3Q0QtVWY2MUc1RklGd3JQMmJlaUxJZ2RKNHJhdjVnRGg5Xzc2emdiVlBTeEF4cmJOa29maHJsdkJSWlBPWFcyNllZcEZ6N0tqaVpXNmFfZmJIWWEzelNtQWtpQ1B5YjhOdENUZERPUGZGak5oZEdMaHg3bGVnem95ZC11TzVDaWh3WjBTWl9RMDhEc29xaXM?oc=5"
+   "src": "Nextgov/FCW",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaC1sRWhJUUMzWFMyeERQT0h6V2N0OEw1U3Vqd1I4bWRyb3dxbEpVaUZSaUJFY0JqV2dnWFk4QjhyQWoyUW16anhMUUcyZ1JUamhxTmkyR3N5aUNSZ3g3TnlqaGR4aDNmcVNLdG5pT1VLemxPRUlGMDZFTzdsZWpPWElhN1ZicXNIeEhDb2JIUnZsNDFmT2NYemc0bWQ4dmhBSk85dEEtaDZURTZJd3g0c3ltaWMzYmhueXpKcEh2TXMyVjZjcDQ3SEdBSjBmNUYzSF8zMWVaVlBvSW8?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Fraunhofer IPA launches benchmark to assess humanoid robots for cleanroom and industrial applications",
-   "blurb": "",
-   "src": "Cleanroom Technology",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRG1QRGV1bHowS2dMMXFzUkxqU1JKZ2xERURtYmUxd3RZWTdhSG9nMTRsMktXa09rMjR5eG1lN0hWakVIS3Q2RGIxNTdjTHFPZ3hpRTZqWTJ5UXBxU081aHJ3WGVLQnVRUFdyOFNFSndqX01ZUU5RM1EwZ3RnbnEzUGQxQnZNVktQcWszeFlfb1RGS3Z6WFdmMXpJRQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "House AI ‘kill switch’ bill unveiled as OpenAI hack raises alarms",
-   "blurb": "",
-   "src": "Politico",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVllZVDU1VkNKYWd4ZXc3ZldlNFlIdXR1clJCeS1RQVZCR1N3dl9yVXNIWFJ1UGFWc2MweVJGWnJEbk95dzUzZktFRjBKZXlDSGYzMV9QWmxvZExKaUFFVjRxaUlaUmRVT1VfdWplZWY4b3dHOFVHT25IeGgyYURhMDFIR0RlOF8zMzJwamhHTEhBSzVpcGhKZ1JVSW44aHkzZGhOQlJ2WGlQOGQtS1VhRGNSWQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid Raises $152 Million at $1.35 Billion Post-Money Valuation, Becoming Europe's First Pure-Play Humanoid Robotics Unicorn",
+   "title": "Michael Burry Mocks Need for a Humanoid Robotics 'ChatGPT Moment,' Says AI's Biggest Breakthrough Was Making 'Cheating In School A Literal No-Brainer'",
    "blurb": "",
    "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFo3bEVlQjUweUdSa25UMU9PaktwandrY1N1b19qR3Roa3g4YXJwQ3JzZm5CUkplQmQtdnRCZEJhM3RXN0RIRC0yTmdWZUk0c1J3eVpCaERRdWw5eXA1b1ZXV2w4RUttaFZwa3A5VGdsSFEzQWQxazZyRDd3UXlBS09SQU5jMExlbzk3YWZmNmFGeURPeVNKdA?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUU9tYVJ2WlI4Z2tzZ3lGTlV1eVh0aTdTRGxTOVRlTGl5YW5nUmpvNkZSRmdQVjBRSXNyS3Y4UW9XNDlaRVNJRzFpOVVPT3ZTWFBSekRPMlhTZGw2Tl8tUGxYWTJxdGJVVmVBNnBmeUt1cW10LXFlRXMwTGY1WTgyRU5SNFktOGRPRU5ybC1CUVVjdmVfb2tLaGpBNS1ubzByTVlZ?oc=5"
   }
  ]
 }
