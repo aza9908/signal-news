@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-23T22:06:35.165Z",
+ "updated": "2026-07-24T05:52:11.006Z",
  "items": [
   {
    "cat": "ai",
-   "title": "AI models' breakout from human control brings a told-you-so moment for technology researchers",
+   "title": "Stripe Eyes $10 Billion Deal for AI Model Marketplace OpenRouter",
    "blurb": "",
-   "src": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5"
+   "src": "PYMNTS.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUZGZjNaQUxnYXZIa202bXM0YmpodUg4WFhqeFJtT01TamxCckxpSk45aXVPQzJhWkJISWY2TFRtUkxwOGwtaDR5R1BwaE9EZDVpQS1fRWxRU0ZSQkpZTjFlMzVTVXI5VERGSkc0Y252elB3cEg2eXBQdmRtekFHSF93a3N1dkE0eDRlaHJ5cFlpYVZSOTVCNXBRUmpCLTlMSlYzZ1RvY1Q4ZnBjMkctejBFREJfUEE1SXJ0VEFB?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +17,10 @@
   },
   {
    "cat": "ai",
-   "title": "How a Chinese AI model put Big Tech on notice",
+   "title": "AI models' breakout from human control brings a told-you-so moment for technology researchers",
    "blurb": "",
-   "src": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSXBpSEJhNHpTTnVKdGJKekxtYXN4aW5QSUdqZUpob1lOY3ZkYnJXaC1EXzcweXRUSDdDa1pMN3JuaFFod3VBNFBKdExka2ZibkRpbEJLOGY0WC1KQXNDWlQ0T1dyYmU0VjBJMHl4MW9aUGJseWNVN1JGVlZfSGRTbFRaSUV2STlWS2hCNnhTNDVSaS1L?oc=5"
+   "src": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5"
   },
   {
    "cat": "robo",
@@ -31,10 +31,24 @@
   },
   {
    "cat": "ai",
-   "title": "Rogue AI Model Leads a Strange and Scary Week in AI",
+   "title": "Exclusive | Stripe in Talks to Buy Buzzy AI-Model Marketplace OpenRouter",
    "blurb": "",
-   "src": "U.S. News & World Report",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVZSUlc5SU1DMHY2RXlkT3BJSUkwWTdfNzlrUlAzaUQxbXVEektkMnp6VDdwb0w0M3I3d3kzcUUya3hZMnNEYkcxV0V4Q3Mxc1hQMWlKWGtQbXVkRVlJUkx0VGhhamdsU0FEWEtLYlZmUzFlMnUxX3Q0eV9aVUZObldKMVh5YThCM3dMRFdpWlFHNGhTY3NuZmlzRUNZYmJ6Tlg2WkMxQW5jTy1raFZIa3MtMDU4bnBKMGN1X09GRjh0Zw?oc=5"
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDM4VnpReE5Hb0hQdm8tOVlYMGMxZjlnSEpEZXRBV2JYbmJaWW9hbVU5TjU0cFBYVVVWWl9LUXRfZjc4M2JjSFphbEt6aDh2Y2Q3eTZVTUV2S2FDWVVLMG5WUEktUm1aazhJRWJacTVsSmFrNWVsaXFMUFRnVk9RcWRmdXRabm9nNnlaX3JNQkZSdVRNU2xKWl9HeFBqQQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "CHINA’S HUMANOID ROBOTS 🤖 Photos show humanoid robots inside the Beijing Innovation Center of Humanoid Robotics in China on Thursday. The major Chinese state-backed facility focuses on general-purpose humanoid robot prototypes, scaled manuf",
+   "blurb": "",
+   "src": "facebook.com",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa3dlbFFOLTRIeWFqdC1RWmlxekJMb3lZOVBEQm1jM0NDZnlZODMzLWR3cTI3T05pdVRHcURMTGtZZHFoUC03bTlrTzVtREZGZVB5Y2NiMFR2QS0zSm1rWGR5d0Jvdll5LWhuYmVRWUd3UEJvbU5ycXl1ajJReTRCRjlCTTdQa0dhTjJjQlJyeVF5SWptOGlJaE1aNEk5b2psM2NTWjJhYkNmV3U0V0lEZFdBODRZVGtjRmZlRzR1cy1RV3VnMW1TaTlwbFVJUERBQlUtSmtrc3lfa3Y2?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "How a Chinese AI model put Big Tech on notice",
+   "blurb": "",
+   "src": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSXBpSEJhNHpTTnVKdGJKekxtYXN4aW5QSUdqZUpob1lOY3ZkYnJXaC1EXzcweXRUSDdDa1pMN3JuaFFod3VBNFBKdExka2ZibkRpbEJLOGY0WC1KQXNDWlQ0T1dyYmU0VjBJMHl4MW9aUGJseWNVN1JGVlZfSGRTbFRaSUV2STlWS2hCNnhTNDVSaS1L?oc=5"
   },
   {
    "cat": "robo",
@@ -45,10 +59,10 @@
   },
   {
    "cat": "ai",
-   "title": "Exclusive | Stripe in Talks to Buy Buzzy AI-Model Marketplace OpenRouter",
+   "title": "Rogue AI Model Leads a Strange and Scary Week in AI | U.S. News Decision Points | U.S. News",
    "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDM4VnpReE5Hb0hQdm8tOVlYMGMxZjlnSEpEZXRBV2JYbmJaWW9hbVU5TjU0cFBYVVVWWl9LUXRfZjc4M2JjSFphbEt6aDh2Y2Q3eTZVTUV2S2FDWVVLMG5WUEktUm1aazhJRWJacTVsSmFrNWVsaXFMUFRnVk9RcWRmdXRabm9nNnlaX3JNQkZSdVRNU2xKWl9HeFBqQQ?oc=5"
+   "src": "U.S. News & World Report",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVZSUlc5SU1DMHY2RXlkT3BJSUkwWTdfNzlrUlAzaUQxbXVEektkMnp6VDdwb0w0M3I3d3kzcUUya3hZMnNEYkcxV0V4Q3Mxc1hQMWlKWGtQbXVkRVlJUkx0VGhhamdsU0FEWEtLYlZmUzFlMnUxX3Q0eV9aVUZObldKMVh5YThCM3dMRFdpWlFHNGhTY3NuZmlzRUNZYmJ6Tlg2WkMxQW5jTy1raFZIa3MtMDU4bnBKMGN1X09GRjh0Zw?oc=5"
   },
   {
    "cat": "robo",
@@ -70,20 +84,6 @@
    "blurb": "",
    "src": "Pulse 2.0",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOU1ZRTBfSlJuNmVWN1RocXFacFQ0VXVGVDYwbmllendJUkU2WUZfNUZtT0o2NTVMLXh6bk1SWC1rYnBDVXV3RXl0SmJpci1xeFJmSlIxa0RLWXRKVF9yYmdMbjdrVHJ1YnJOMTVyMXNsUEJWSVVOcWQ3MEE1aEdndGNjSm1OTUJDRjI4QkNOc3RmU29xQXVkbVBZR2JzclBiUlUzcmFjVndhdEpHSDJWcEFsaEV2aHE3R0FETGdyMFFaTWl3TDRJ0gHMAUFVX3lxTE1nSEl0VDdRY3FOZkg5a1hoYUtRcm5uWkFtRGpUVzdkYzRoTVd3NzRyYkdIX21DNlpDSmRUSUdFZEoydUxucXA0bkdYeWZrQWdIbEZLMnhnTmI5S1dVdHdTZWFYbU53OVdvWjVhM29QcF9QQkxqazdhaC1oZ1F4UWdrUHRtNEcyc2FGcU9sV29KTzNKbGxsVkE3N0ZpTFY0TDdsTl90ZEJBcHR6SzJONmJBX3d5WEpYb0EwN215R1p2U2lOdXlfMllqLThLSg?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Lawmakers introduce bill mandating kill switches for AI models",
-   "blurb": "",
-   "src": "Nextgov/FCW",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaC1sRWhJUUMzWFMyeERQT0h6V2N0OEw1U3Vqd1I4bWRyb3dxbEpVaUZSaUJFY0JqV2dnWFk4QjhyQWoyUW16anhMUUcyZ1JUamhxTmkyR3N5aUNSZ3g3TnlqaGR4aDNmcVNLdG5pT1VLemxPRUlGMDZFTzdsZWpPWElhN1ZicXNIeEhDb2JIUnZsNDFmT2NYemc0bWQ4dmhBSk85dEEtaDZURTZJd3g0c3ltaWMzYmhueXpKcEh2TXMyVjZjcDQ3SEdBSjBmNUYzSF8zMWVaVlBvSW8?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Michael Burry Mocks Need for a Humanoid Robotics 'ChatGPT Moment,' Says AI's Biggest Breakthrough Was Making 'Cheating In School A Literal No-Brainer'",
-   "blurb": "",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUU9tYVJ2WlI4Z2tzZ3lGTlV1eVh0aTdTRGxTOVRlTGl5YW5nUmpvNkZSRmdQVjBRSXNyS3Y4UW9XNDlaRVNJRzFpOVVPT3ZTWFBSekRPMlhTZGw2Tl8tUGxYWTJxdGJVVmVBNnBmeUt1cW10LXFlRXMwTGY1WTgyRU5SNFktOGRPRU5ybC1CUVVjdmVfb2tLaGpBNS1ubzByTVlZ?oc=5"
   }
  ]
 }
