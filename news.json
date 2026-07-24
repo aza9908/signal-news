@@ -1,6 +1,20 @@
 {
- "updated": "2026-07-24T05:52:11.006Z",
+ "updated": "2026-07-24T11:04:36.569Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "HOPPR Introduces New AI Model for Chest CT Exams",
+   "blurb": "",
+   "src": "dicardiology.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Mark Cuban Predicts Humanoid Robots Will Flop on 'Latency, Processing Power, Dexterity,' and Specialized",
+   "blurb": "",
+   "src": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSTJGOXlCY19ERE4wTkpaWnNTWkdHMjlsaFU3TEhuRVk2em5oZ0JkTE1xSlFPSXRNYTdlLTRZUjVEV2FtOExScGo2ekYwUkNHZzFneXlLZ2dELXNuOEFzRWNzMU5NdUh1MEJKNGtYYm5SSHdmOTB4OVFaTUhnVmRwcGM1T3hHbVhxY0pydkZJTWhhckNBRnpTZDNBMkxRbUlwTTFnR0I2cFFySVhZMmxnTGlNZWRMdGd0WDFBckpKOGo5eEx1eHduWldoSGdsRXdvS3pUeHRFM0xpdmk0QjdxUmRCdTdTdzU4MFlMQVVqYzA3R2Y0djFrWUplMklvNm9CQVBhSTVFN2xmTndONnp4TzhhVjR3Y3p5U2hmRjBxOVUteVNzM1E?oc=5"
+  },
   {
    "cat": "ai",
    "title": "Stripe Eyes $10 Billion Deal for AI Model Marketplace OpenRouter",
@@ -17,6 +31,20 @@
   },
   {
    "cat": "ai",
+   "title": "US-China AI rivalry heats up as Chinese models gain ground",
+   "blurb": "",
+   "src": "dw.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU9HTVR2emZCeEU5SmdSbDlQTzRsNmpHbTRhcTNfbFpkNktxTlVqcVFRNEZnUERVS2pScGQ4dmFrNkhKSldBNUF3ZTFIdDZMT1QtUFUzNEtUd0IxUXVyaFB6M1NRUkZBQXJEajkxREF0dXZUdmtrQng4Y0tDeGo4VTU4ZDhPaUVrYl9mZS1BT0ZkN3F0OUHSAZYBQVVfeXFMTWRqV1RxQmloamtTd0RpNzVfQUYtd3BRZmR5VUk1R25Pbi00RWZfX3dqcl8wOXZnX0lRM1NpVnpxUmdNVktCZG5uV1lpWG9qY3FEYWV5SnF5MVhGOWY2UXh6cG1NY3pwVm55VmtzVVZ3YVlvWHRBTFNKblY4ZDctR2YxdlJDVzB4TVRyZTY0dGRxai1RRzlR?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Elon Musk says Optimus could be Tesla's biggest product ever. It still has 3 huge hurdles.",
+   "blurb": "",
+   "src": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUY0MHF5VV81TTNybXRNTnN2ZU96U1F6X2RMNlJaVjZreG4xck9oNUNPVXlubU9vVUhfNG4wSlpPLUVXRDg4S0hlZGR0STBndmVVRUZWNFdCNmFVQ1JBUDJOaTc5emI2SWdGT0w1ZmlyNndGbzRLa005LTY3V1dJdXVIRHVnZUdwNnFiRUdrQUhNSzhYZ2FqeQ?oc=5"
+  },
+  {
+   "cat": "ai",
    "title": "AI models' breakout from human control brings a told-you-so moment for technology researchers",
    "blurb": "",
    "src": "AP News",
@@ -24,31 +52,17 @@
   },
   {
    "cat": "robo",
-   "title": "Robots Are Coming — but Not Everywhere",
+   "title": "From Copy to Reality: Are Humanoid Robots Becoming Our Next Companions?",
    "blurb": "",
-   "src": "MIT Sloan Management Review",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QMzhvNXQxMEJON2dzVm9IX05IR0lLSkx0RUpWbzVHazU4dmF3ektDMlFrSy1JOEVXaU5EZkVVdkVrdVpXYUpiSVctbDJXWGFpaUZJdjFPS0JFc0dFMHktTW56WWlHOG5fLTFXLTNmNl9PUHAyVngyRUduSWZkZw?oc=5"
+   "src": "ARC Advisory Group",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWdVLUluN3c4Y0p4ejlZenpZNFlWLXJ4cFczV0tvTEQ1UHJ2cU84Zm9oZVljS1ZhX1NrWW5UUnNDQ2tKZHY5MU9TUGU4eEhJV0wwRzhUZU1ieWhkOUVjb3JTRENXREhUZXVIQ1FJN3hsR2diWEpweFNtRHFpTWdrb1J3bzFUUGZ0WWRXMnF3?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Exclusive | Stripe in Talks to Buy Buzzy AI-Model Marketplace OpenRouter",
+   "title": "As AI grows more powerful, a US-China feud threatens safety efforts",
    "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDM4VnpReE5Hb0hQdm8tOVlYMGMxZjlnSEpEZXRBV2JYbmJaWW9hbVU5TjU0cFBYVVVWWl9LUXRfZjc4M2JjSFphbEt6aDh2Y2Q3eTZVTUV2S2FDWVVLMG5WUEktUm1aazhJRWJacTVsSmFrNWVsaXFMUFRnVk9RcWRmdXRabm9nNnlaX3JNQkZSdVRNU2xKWl9HeFBqQQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "CHINA’S HUMANOID ROBOTS 🤖 Photos show humanoid robots inside the Beijing Innovation Center of Humanoid Robotics in China on Thursday. The major Chinese state-backed facility focuses on general-purpose humanoid robot prototypes, scaled manuf",
-   "blurb": "",
-   "src": "facebook.com",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa3dlbFFOLTRIeWFqdC1RWmlxekJMb3lZOVBEQm1jM0NDZnlZODMzLWR3cTI3T05pdVRHcURMTGtZZHFoUC03bTlrTzVtREZGZVB5Y2NiMFR2QS0zSm1rWGR5d0Jvdll5LWhuYmVRWUd3UEJvbU5ycXl1ajJReTRCRjlCTTdQa0dhTjJjQlJyeVF5SWptOGlJaE1aNEk5b2psM2NTWjJhYkNmV3U0V0lEZFdBODRZVGtjRmZlRzR1cy1RV3VnMW1TaTlwbFVJUERBQlUtSmtrc3lfa3Y2?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "How a Chinese AI model put Big Tech on notice",
-   "blurb": "",
-   "src": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSXBpSEJhNHpTTnVKdGJKekxtYXN4aW5QSUdqZUpob1lOY3ZkYnJXaC1EXzcweXRUSDdDa1pMN3JuaFFod3VBNFBKdExka2ZibkRpbEJLOGY0WC1KQXNDWlQ0T1dyYmU0VjBJMHl4MW9aUGJseWNVN1JGVlZfSGRTbFRaSUV2STlWS2hCNnhTNDVSaS1L?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTVEV25mbEljZGR4REN5cm5RdFZockt4TlBqYUFPS3FseExuOGJ4NFdBR3NsY1l3dnhSNlJ5RXNrdktZaDlDRWN3OTZHRkJnbk1LVk5FS0F4LUZwOHVEQ3FXUFp2aWhYbnlabkZUS3p4M09DbVRvR2NpR3dITjhTWXpzajE3eVNVeEJyeVZadlFsMGFzMnZ0SVMwRS1oZUt0NFhZUExCR3NSYl9teXE5NTNWVUQ?oc=5"
   },
   {
    "cat": "robo",
@@ -59,20 +73,6 @@
   },
   {
    "cat": "ai",
-   "title": "Rogue AI Model Leads a Strange and Scary Week in AI | U.S. News Decision Points | U.S. News",
-   "blurb": "",
-   "src": "U.S. News & World Report",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVZSUlc5SU1DMHY2RXlkT3BJSUkwWTdfNzlrUlAzaUQxbXVEektkMnp6VDdwb0w0M3I3d3kzcUUya3hZMnNEYkcxV0V4Q3Mxc1hQMWlKWGtQbXVkRVlJUkx0VGhhamdsU0FEWEtLYlZmUzFlMnUxX3Q0eV9aVUZObldKMVh5YThCM3dMRFdpWlFHNGhTY3NuZmlzRUNZYmJ6Tlg2WkMxQW5jTy1raFZIa3MtMDU4bnBKMGN1X09GRjh0Zw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "UCF Researchers Win International Award for Robotic Technology That Shares Immersive Experiences",
-   "blurb": "",
-   "src": "University of Central Florida",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUxHdVVYM2JYbXlxTk1kVTQ4ckhZVHJOc2FzTEFka2NHM3lTeFRDdGVpNDBHaWYwUXZ0dmZmSWFNb1hyUkljRXBIQWJiX0owM2EzV0xGVXVZUHRBUWNUcTVQTWtibWgxNC1ZbWNfei1RMzk5X0JDUHlpUUhoMml1eWpxb09aUGtyZ0JHYk1qYVhrSE1MUkR2d3lFMUF1djNZclNJNE0wWkNUMlB5OXpSR3U1M3o3Nno5bnVzbm5uUQ?oc=5"
-  },
-  {
-   "cat": "ai",
    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
    "blurb": "",
    "src": "OpenAI",
@@ -80,10 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "Foundation Robotics And AMD Partner To Power Phantom Humanoid Robots For Industrial And Defense Applications",
+   "title": "UK Humanoid Startup Raises $152M as Bosch and Schaeffler Back Wheels Over Legs",
    "blurb": "",
-   "src": "Pulse 2.0",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOU1ZRTBfSlJuNmVWN1RocXFacFQ0VXVGVDYwbmllendJUkU2WUZfNUZtT0o2NTVMLXh6bk1SWC1rYnBDVXV3RXl0SmJpci1xeFJmSlIxa0RLWXRKVF9yYmdMbjdrVHJ1YnJOMTVyMXNsUEJWSVVOcWQ3MEE1aEdndGNjSm1OTUJDRjI4QkNOc3RmU29xQXVkbVBZR2JzclBiUlUzcmFjVndhdEpHSDJWcEFsaEV2aHE3R0FETGdyMFFaTWl3TDRJ0gHMAUFVX3lxTE1nSEl0VDdRY3FOZkg5a1hoYUtRcm5uWkFtRGpUVzdkYzRoTVd3NzRyYkdIX21DNlpDSmRUSUdFZEoydUxucXA0bkdYeWZrQWdIbEZLMnhnTmI5S1dVdHdTZWFYbU53OVdvWjVhM29QcF9QQkxqazdhaC1oZ1F4UWdrUHRtNEcyc2FGcU9sV29KTzNKbGxsVkE3N0ZpTFY0TDdsTl90ZEJBcHR6SzJONmJBX3d5WEpYb0EwN215R1p2U2lOdXlfMllqLThLSg?oc=5"
+   "src": "Tech Times",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVAyRl9LYUZoS2xzd3RIeWtEUEFYSldKT21pUVdxT1lkenRjeDZHNVpSTjVoV3ZUdHZQYUR5b29fUkZfZURnLTE4RnRPMWVpelI2MHVGX2lmR0lMZ1RZMlZ0WS1KZUpZOHJMYlA3UjV0MlB3cVFib0pZbFhwTTRDMFkwX0JxeTBJY2lTX0dqY3hJcEFBOG5lRlJOOEJCdFgwNlZPb2Q4QnhZcnh2QWY5WGtPREg3cFRabjNWZFVSVHBKcUk?oc=5"
   }
  ]
 }
