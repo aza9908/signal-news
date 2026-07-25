@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T05:44:45.601Z",
+ "updated": "2026-07-25T10:35:38.782Z",
  "items": [
   {
    "cat": "ai",
@@ -40,8 +40,22 @@
    "cat": "robo",
    "title": "China's humanoid robots face their real test on the factory floor",
    "blurb": "",
-   "src": "People's Daily Online",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpLWR6eWh4Ulg5OVRoSHQ3NGdmdXRDekNfbFYxbG9NVFhUQ2oyYWJJbXBPQjN3T3p1VnhjbDROcnlxSEJsanRnWXNPWDByRlFEQkpQTUZvYkNVTUREeUt5eGxkX0w?oc=5"
+   "src": "news.cgtn.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTm9Ib3dlNzF0QS10eTlSdXN2bVBNc25abE5JajBsMk5rSEgxRkRlSm9BOUxzZXE0X2NrQnJtelk4LXdiV1puTzZQTDRtWTlrQTd3MmZ3Ti1GX0FJRFg2TDg2MFBtaG5zamt3a09oMmZFS1NScUZYVTg3eFJBM2dVb1UtNFZoaWkxOGVLdFR5R0lCNHNRNnVKUXY5NzU5ZnpYQWlhd0laMllRWmljOFh2Sk9reVJaQUpLVTJ2Q3dnRDR5R1BlbDUyeTR3?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "The Week in Breakingviews: When AI models collide",
+   "blurb": "",
+   "src": "Breakingviews",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLUNCLVhPNUh1Tmx1NWlQVnlZRjl5LXhJM19aZEFJZmVoNWhDNzhCSjRsWjZmdU03ajZPc0piUmk1NFJoRUJ6Mk54YVhuSWRIVWMxQU1MVVlfbVAxZV9jQjdKcmFOaGhVeHVmTHNzTklhYzN2UFNLaE9nR2FGbXBhQTB6aUlsdkl6Z3BiZFdxVGZmWndTSDZCT2c4QnBiRGFndzlwTWFEeFRjcDA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Can a robot tutor give too much help?",
+   "blurb": "",
+   "src": "EurekAlert!",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43WmhVWUVoRllpSUN2WFZMY1FQU1BOc21lQkdxdkExVVhBRWlxMVA3d3hOYkN4WlZSNHlXeHdPcU9oX3k3OUVHaVdMemhtNVlZcTFFNS1JZ0hNWl90?oc=5"
   },
   {
    "cat": "ai",
@@ -59,20 +73,6 @@
   },
   {
    "cat": "ai",
-   "title": "AI competition brings cheaper options to RI businesses",
-   "blurb": "",
-   "src": "Uprise RI",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vMXRCcmFVeklOMExpWlBtWFlxbGdMenhJcmdKQkdpU2VpTEV6MlA2X3BaTVhrOTNXR012QURhVXY4dW5oRWJXWmxVdGRVLWxqTUZVdUxfQV9ROWktQmVvYlVaT0dxNS1mVEpEZk1ZSVRhMWRYUWJ4UFhRRC0?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "iCode Bringing Unitree R1 EDU Humanoid Robots to 16 Campuses for New Youth Innovation Program",
-   "blurb": "",
-   "src": "EIN Presswire",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbk4xbEVPUi1mSUZrV3BReHdYUFQ0Q2VnNDNqRmc3TXJPZUg2cVFiR2hPSWg5X1kxbzAxVUdZNkZueWRXUVZvc2tEZzVoRzBTVHdSeW5mMHR0S2UtdXo2RDRPRkVuS2Vpb0FZbXdjdTZuWXRSbnpVSkg5M2tKMWxhSkRQZllfM3Z5eXY3WWw0cHdrU1h1RWtna0lyVWcwRm93Ml91YU5jdFFaSFJ1azJuQzlaNFRBbnpQUUNYTkV5NllaVFFINlhjMlg3VFZxYkhjOHAwUnRFTQ?oc=5"
-  },
-  {
-   "cat": "ai",
    "title": "Nvidia, other tech giants caution against open-source AI ban in open letter",
    "blurb": "",
    "src": "SiliconANGLE",
@@ -80,10 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "The dance crew, the robot and the AI Cloud: How Ultimate Bots built physical AI on Nebius",
+   "title": "Humanoid Robots Are Coming To Factories. But Not The Way You Think",
    "blurb": "",
-   "src": "Nebius",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ObUhhS0U0MHd5d2dsZV9QckFfb2ZnSFVSQ3BrcEF0a09naklCX1hxNjFUMG9yR01kbUpRUlVvMW9lUEpFQ0NiN2E3ei1nT25hOEJPbEpLNDVHckRtR0E?oc=5"
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWszTzlHLUNXQkJveDAwcGFGT1VMdll1SFNvVWdMdkVRTFVjS1dGd2NqTEpMQTMzRFpZSnIxT1hqdTVySkEtUXZES1hvLVEzQmZkUzgtTGJrLU5IN0hlU2Nza3drTXVUelBiREhBQUVOd0JXTmdLQVRZZV9QN21YVE00T1NEZFR5QXJhZGI3NFpwODh2VlpTTnRkZy1Ib19NWHQ5b1ZmSHVsSThlOUJKQ3M5b1N1RGdIR2hj?oc=5"
   }
  ]
 }
