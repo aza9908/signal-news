@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T22:06:52.141Z",
+ "updated": "2026-07-25T05:44:45.601Z",
  "items": [
   {
    "cat": "ai",
@@ -24,20 +24,6 @@
   },
   {
    "cat": "robo",
-   "title": "US moves to ban 'Made in China' humanoid robots from military use",
-   "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0R3MmZvQm9Zdk1uVXVnZmI1SjhCNzJVbTdVamdMaHhtbkd3bmwyVFF1OGt2SEtFbGZ1VmpmbTFZdlV1RzIxVmJWM3I1V1ZETVpvQ0ExWVBkbnJjeUpMNUpwQk96RHk3c3VRcE4tbHZGV3VRM29kZ3NFS2llOGtjWGpwa2stMU4y?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Big Tech companies defend open-weight AI models",
-   "blurb": "",
-   "src": "Politico",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmRxcmw1WmJqMk1SekYzRFZYdm52RWtoMmZDbWtpeTlsdU02bXY3dDV5VkVmSnNnT1VDaXZOd2I1aDNzX0J3Y2NoZHg1ZWxEQTVOdzFPMGVpOV9LY2ZuQ2FwR0FFRFhhcWoySTREUnNXdTVXb0l6VnkwV1JBNHlFeFpzZmtQNkdTX3VwQWUxVXBURExKa3U5N2RxVkJKdw?oc=5"
-  },
-  {
-   "cat": "robo",
    "title": "The Robots Cometh",
    "blurb": "",
    "src": "Time Magazine",
@@ -52,38 +38,52 @@
   },
   {
    "cat": "robo",
-   "title": "Elon Musk says Optimus could be Tesla's biggest product ever. It still has 3 huge hurdles.",
+   "title": "China's humanoid robots face their real test on the factory floor",
    "blurb": "",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUY0MHF5VV81TTNybXRNTnN2ZU96U1F6X2RMNlJaVjZreG4xck9oNUNPVXlubU9vVUhfNG4wSlpPLUVXRDg4S0hlZGR0STBndmVVRUZWNFdCNmFVQ1JBUDJOaTc5emI2SWdGT0w1ZmlyNndGbzRLa005LTY3V1dJdXVIRHVnZUdwNnFiRUdrQUhNSzhYZ2FqeQ?oc=5"
+   "src": "People's Daily Online",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpLWR6eWh4Ulg5OVRoSHQ3NGdmdXRDekNfbFYxbG9NVFhUQ2oyYWJJbXBPQjN3T3p1VnhjbDROcnlxSEJsanRnWXNPWDByRlFEQkpQTUZvYkNVTUREeUt5eGxkX0w?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
+   "title": "Big Tech companies defend open-weight AI models",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0dWcGxxaVZCeDd0ejF4ZjQ4RExpVkduWG9JVlR3WlM0QUNiSmZpUHR2dWxicEY3WF9fMlhvWU1VY1BWZ3pBZ1NTTWc0ZFp3TmVaTTl0eXNHOVQ1MzJWa2hCaDlpcXRIX20tNEIwTnVLOVhBNldFVU1jYTI3RC1ZZS1B0gGHAUFVX3lxTE9SLWl6OUtCMHkwTDg1QXhpR2tyRHBpbzUzYmVUdHFPUTcxUTRRN19KcDlZd0dPVmM2d05QSkxaRnl4M3BGVzJrNUlscjJtclJZSlVqUXoyTy1wU0gwODE4VTltQTJzNVYyODJ0T3RuMG5ZdzlDR3lUQlBWOXE1RE1laGZTaU1BOA?oc=5"
+   "src": "Politico",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmRxcmw1WmJqMk1SekYzRFZYdm52RWtoMmZDbWtpeTlsdU02bXY3dDV5VkVmSnNnT1VDaXZOd2I1aDNzX0J3Y2NoZHg1ZWxEQTVOdzFPMGVpOV9LY2ZuQ2FwR0FFRFhhcWoySTREUnNXdTVXb0l6VnkwV1JBNHlFeFpzZmtQNkdTX3VwQWUxVXBURExKa3U5N2RxVkJKdw?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Detailed Robot Feedback Can Overload Human Learners",
+   "title": "China unveils humanoid robots with dual-battery hot swap for nonstop factory operations",
    "blurb": "",
-   "src": "Neuroscience News",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uU2tYbFRnYTQ4TWI4ZFJCbkZ0RjNoZVk1VV9pNUxHc0NXaGl3M3l2Z1JLZV9IZXgxcmRTVXlGUnZmZlRnU0pYZTRpdWVqOXBoblp3VG5hck9xVnN3VThRVzIyMXoxWDk2dWxNLXM0dFRBVmp5cXFBTTVlTGlmLU0?oc=5"
+   "src": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWhSSGhvU0RrUU4zSU01bkdhNHZWYS05OHNBeFlJMjZSalk5VHlxVVlVbWNVd05PRDZRWl9Wb0NqZTROVmdHYmFNTEgtbzhENU5JcmVFNmtneFVRY1Vzd29adnRvdGxjWE9DRkNRODRJcGgxNWZxUkUzVHRmSzhYUmF0c2hNQnpNSzE0Q1V1MXlnN1dseUsydWVEMVU0UQ?oc=5"
   },
   {
    "cat": "ai",
-   "title": "‘Hit the brakes’: UAB expert alarmed after AI model hacks on its own",
+   "title": "AI competition brings cheaper options to RI businesses",
    "blurb": "",
-   "src": "WBRC",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWWdQeVRyZGNybmNVem1CX2RNeUJhZ2JNa1RPa0Z6X0RDMDd1TnhNaFpnNHlyRzIxTXZteWI4eGdrcmV4OUVIaVdiMUpJVGxHYm16TXB1QmgxS2FmX3NnT2g5N19fTEttbC15c05OZ1plb0tJTkNjeVRUR0RtWTVJWUI4TmVJelludjdDcFlZaDloX1ZHdXfSAaoBQVVfeXFMUElrT2dtcU5od0ktQWwxNzFDWWVfaFFsNVowUnRTbndpV0FTd1RTMjJ1bVBwUlZrZXhPYmdHTkk5LU1aV3FMeE5yTVloUy10cmpERkpKYWZaWlFDaUFCeVJlLW9KcG1jcTBNa2VlRzdwMVVsakpnWnhWSUFvYzh6T1U3MVNudVlCYWtWTkljUjA0UXNFanVCMUZUaFNOeVMwS1BWZW56NjloRlE?oc=5"
+   "src": "Uprise RI",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vMXRCcmFVeklOMExpWlBtWFlxbGdMenhJcmdKQkdpU2VpTEV6MlA2X3BaTVhrOTNXR012QURhVXY4dW5oRWJXWmxVdGRVLWxqTUZVdUxfQV9ROWktQmVvYlVaT0dxNS1mVEpEZk1ZSVRhMWRYUWJ4UFhRRC0?oc=5"
   },
   {
    "cat": "robo",
-   "title": "From Copy to Reality: Are Humanoid Robots Becoming Our Next Companions?",
+   "title": "iCode Bringing Unitree R1 EDU Humanoid Robots to 16 Campuses for New Youth Innovation Program",
    "blurb": "",
-   "src": "ARC Advisory Group",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWdVLUluN3c4Y0p4ejlZenpZNFlWLXJ4cFczV0tvTEQ1UHJ2cU84Zm9oZVljS1ZhX1NrWW5UUnNDQ2tKZHY5MU9TUGU4eEhJV0wwRzhUZU1ieWhkOUVjb3JTRENXREhUZXVIQ1FJN3hsR2diWEpweFNtRHFpTWdrb1J3bzFUUGZ0WWRXMnF3?oc=5"
+   "src": "EIN Presswire",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbk4xbEVPUi1mSUZrV3BReHdYUFQ0Q2VnNDNqRmc3TXJPZUg2cVFiR2hPSWg5X1kxbzAxVUdZNkZueWRXUVZvc2tEZzVoRzBTVHdSeW5mMHR0S2UtdXo2RDRPRkVuS2Vpb0FZbXdjdTZuWXRSbnpVSkg5M2tKMWxhSkRQZllfM3Z5eXY3WWw0cHdrU1h1RWtna0lyVWcwRm93Ml91YU5jdFFaSFJ1azJuQzlaNFRBbnpQUUNYTkV5NllaVFFINlhjMlg3VFZxYkhjOHAwUnRFTQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Nvidia, other tech giants caution against open-source AI ban in open letter",
+   "blurb": "",
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFpzT3RyX3VCWmd3Tjd3cFlzM29kRUxYZFBRY0x6TlNSbTNBSGlqdTZmNzZOLXJleENiNGhZZ1g5QXV0b0tXSlJiS01EMTl4aC1vX0RrQTJnTDhlQm5Zd010WnhnSmM4ckJvNmFHSWN2cDVNSTYyNGZidUFKeTByUUZZQ2k3TFpDak1LamZoN3lEaGhUVTBxbTVB?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "The dance crew, the robot and the AI Cloud: How Ultimate Bots built physical AI on Nebius",
+   "blurb": "",
+   "src": "Nebius",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ObUhhS0U0MHd5d2dsZV9QckFfb2ZnSFVSQ3BrcEF0a09naklCX1hxNjFUMG9yR01kbUpRUlVvMW9lUEpFQ0NiN2E3ei1nT25hOEJPbEpLNDVHckRtR0E?oc=5"
   }
  ]
 }
