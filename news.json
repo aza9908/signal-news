@@ -1,6 +1,48 @@
 {
- "updated": "2026-07-25T21:58:45.188Z",
+ "updated": "2026-07-26T06:08:08.601Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
+   "blurb": "",
+   "src": "Action News Jax",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWFEMHgwVGE1ODhNQkF6TUNvZ3dKZ282Rks5ZEpOSjBsMERoWHhHaXhvVFBZa3N4aldRUWRBbzhzV1lMZE0xMHdCNzNncHJVV19sX0M1MHR1M19jV0tvNU4wRzZfRkprcU9rR0Vmd3B1VVY4aDZJRk1PZFAxUzNjZDJfaWFEUERJczN2REcwdzF1NmhRRi16WFpWdmNRUWgt0gGgAUFVX3lxTFBhYUQweDBUYTU4OE1CQXpNQ29nd0pnbzZGSzlkSk5KMGwwRGhYeEdpeG9UUFlrc3hqV1FRZEFvOHNXWUxkTTEwd0I3M2dwclVXX2xfQzUwdHUzX2NXS281TjBHNl9GSmtxT2tHRWZ3cHVVVjhoNklGTU9kUDFTM2NkMl9pYURQRElzM3ZERzB3MXU2aFFGLXpYWlZ2Y1FRaC0?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "With Washington’s help, humanoid robots can transform US manufacturing",
+   "blurb": "",
+   "src": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdjJ5eVY3cWhGc0FfeHBER3Z2NmdIOFRRanhod3diSW5fNEE1LUV2eEQzVjJkRVFiLTBjenNfOXYzVzFQZDNMT09WQ2J1Vmg0R1doS2hyS3c3VnFYN1FsdmZFNHA0ajBNOTBBUU44dlUybjc0NlBEVzJjWi05dG1PT9IBhgFBVV95cUxOdjBKY01XLWRQckdMLVFFeWxvSkxEMGs4NkMyRHlTczJzRnNmTTBVcm5DRHlyUk5XQVhoTVJvNkRwN3ZQWHhKR2RHd1BRVU15eGRpeE5RdlpaWEF0b2JnaXF5OXlSbkFsX3licGlCcUczOTlsRzVsaEtlNDZhQ3JRbEIxcmxydw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
+   "blurb": "",
+   "src": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnA2ck1JMW9sTV9SOU1jVHFzSko3NEtoZTNna3E1eTZGajN6eUhsY3dsNjYyVzdLNXJBeXFEejFfN0swS0h6MG9HbXdGWGZ2NWNtUkIxR2taOXZONDRndG4taDRnc1o1UUEzRUFjRVRvYW1tSnh0Q0J0SDhjT2gwb000dFphRXk3Y0Q2VVhLd0F0bzFJdFowMTJn?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoids loading crates and robot dogs sniffing out gas leaks",
+   "blurb": "",
+   "src": "Siemens Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBJVlVXT0VkMTUyYmNNeVlWWHVSbzZSb2lEeW1VLW1ZYU9lNnF5SThna2N5d2JpY2dDTzhlalhNdXdzX0dJR09SRzY1ajJTMjVkQURJeHNsVkRCYmR4LUNzMGRRZ29iN2xpYnE5RXlWbGc1QmcxSzVLRG11QXpkMkpiaG9jU2tFUExSUnc0NGVIR2d4?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
+   "blurb": "",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "BYD may unveil humanoid robot in early August, teaser suggests",
+   "blurb": "",
+   "src": "CnEVPost",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kNUtWN3hKRDBqSHdCaTJTam9VQ1VQSUdBSTZfeDl2Ri1OclM5Z3FPajZQb09oQ2JtaVEtcnpCSDF3eXJxd2IwWXhQekw2VVhLcXg2NUxZQzJCd1BUdlpENU5vaXZxV01ySlJFR1dJNDFtOXpN?oc=5"
+  },
   {
    "cat": "ai",
    "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
@@ -17,20 +59,6 @@
   },
   {
    "cat": "ai",
-   "title": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
-   "blurb": "",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnA2ck1JMW9sTV9SOU1jVHFzSko3NEtoZTNna3E1eTZGajN6eUhsY3dsNjYyVzdLNXJBeXFEejFfN0swS0h6MG9HbXdGWGZ2NWNtUkIxR2taOXZONDRndG4taDRnc1o1UUEzRUFjRVRvYW1tSnh0Q0J0SDhjT2gwb000dFphRXk3Y0Q2VVhLd0F0bzFJdFowMTJn?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "With Washington’s help, humanoid robots can transform US manufacturing",
-   "blurb": "",
-   "src": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdjJ5eVY3cWhGc0FfeHBER3Z2NmdIOFRRanhod3diSW5fNEE1LUV2eEQzVjJkRVFiLTBjenNfOXYzVzFQZDNMT09WQ2J1Vmg0R1doS2hyS3c3VnFYN1FsdmZFNHA0ajBNOTBBUU44dlUybjc0NlBEVzJjWi05dG1PT9IBhgFBVV95cUxOdjBKY01XLWRQckdMLVFFeWxvSkxEMGs4NkMyRHlTczJzRnNmTTBVcm5DRHlyUk5XQVhoTVJvNkRwN3ZQWHhKR2RHd1BRVU15eGRpeE5RdlpaWEF0b2JnaXF5OXlSbkFsX3licGlCcUczOTlsRzVsaEtlNDZhQ3JRbEIxcmxydw?oc=5"
-  },
-  {
-   "cat": "ai",
    "title": "How OpenAI Lost Control of an AI Model—and What Needs to Change",
    "blurb": "",
    "src": "Time Magazine",
@@ -38,24 +66,10 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots Enter the Factory: IEEE Humanoids 2026 Sets Labor Displacement as Its Defining Theme",
+   "title": "M'bishi Motors teams up with startup to mass produce humanoid robots",
    "blurb": "",
-   "src": "Tech Times",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc1FOcVhScFlkM0kwa0pwcTh3NndYNDBlZ0xlZ0M3cWlWRkFES0tLRkI3REZTeUFDTm5lVFNtQ1NHOXJqX1ZvelNWUmhqVUFUbFZMNHVubDRqUVJPSWJOMzNfaWxXc3E2SXFOZXZTcmxwWjd5MjBTUUJ2dC1fN3BkeEROcTI3ZmRHa1NWV1VHSDFnOXdPVkhVTHRUZUpwTVd2YXBNV3NiclQyX1BqTVE4dmF2bDJ3N3NaY0RnREZEQWZqSVlPVWEtZXYzQ3JtdWNpeVpIV1VVUGREZHk1OFR1Ug?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "‘Open-Washing’ Is Everywhere in AI. Four Criteria Cut Through It",
-   "blurb": "",
-   "src": "Tech Policy Press",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUNEOURxMG15bHBmcTNfVXFhckhlc2pNTHhfcU1FWXEtb2ZjZ2xZQnhObVFZamRPLTNXVmJXRC02cWNvbWZDMlJFaHNPM2lPY2dQRzYtUEd4TkhENHlrZS1pN1F3WGwtdUVVbnZMVkhpS1RYZUVRYWxROFQ5UkdCWWo0eEJ4T1ZZaWxibFFUVQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "The Robots Cometh",
-   "blurb": "",
-   "src": "Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IWHNaMU1KVFdtazJHNFVqZzZBLXViYmc0cXNSLWFDV2F1cGhsb2dmd0J3d3hsNGJNcHVEYWQyMTc0dkxGdHk0TlVaTE0wOERDSHpGOXJ6aUdHRU1IbnllVjNqTFEyU1Zjd19QR0tQYXplYVU?oc=5"
+   "src": "Japan Wire by Kyodo News",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SR3hxT3RFaXRrc2ZncExSdWpHcXRab0lTaEhyYmV1eUNNMUc4U1ZOMFJCS2R5cHIzY2RVSVZjWm9IQVZQcGc0emVJMXJuOGJhYm5MQU5FeHVLQQ?oc=5"
   },
   {
    "cat": "ai",
@@ -66,24 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears",
+   "title": "New York school district to deploy humanoid robot teacher this fall",
    "blurb": "",
-   "src": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFRzMEhQRWhqbWRydE5iakxOZzBYN3B0dWVDT3JxUzNZWDUyRl80Um5lUmVhWmItRkc3bmpyMUlIOE8wSWpCazVSdm5mTVNSN3g1U05jMDlFS05rR2cyMUljVUM2bjlhUTJoWEpoZFlfZ0xxQWFHNW1qVnJ2Q09yQ3BxYVJ5SGRnUzR1N01QQkRLUDRoOWdvRnBn?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
-   "blurb": "",
-   "src": "Politico",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVm0tMHRNVTFOYy1DazJ4U0hlNmEzQ3VqRmtjdVRsakJJNndjdFhHWENQU1U2Sk5oTmU5eHpSdU1BS3Jna1duOEd2bkhTdkdzRXpSZ25TZkliQTRVQlQyM194dVU0a3lORURrc2FPZDVnVHJKMDB1NVBfcUtJUlY5LVVONmZlZk9GOVZjWi1vaXo4bmIwYWxpaVB6dndQSjZOdnNnMzIxbnlfTF9aVlFlMUVNUnlqRTQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Gene.01 Humanoid Robot was Built in Six Months to Sense and Share the Workspace",
-   "blurb": "",
-   "src": "TechEBlog -",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN3gzWXZveGlyWFEzQ2Qtc094QzVrMWZqeE9jbW1FQ29TbUIxa1hjQUFOTldIRE5VYkVJaDNWVVhyVVlQb3BtZi0xMmVuWUxvVHM1Z3hUUGZOUzFnT1BvWkQtdWNsS3hpY3NMbktlMzM3aXFVYmthSHdSTEdxN3U5eUlxQQ?oc=5"
+   "src": "WKRN News 2",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmZjbzNlVjJxV3BETWVJWDlWNG5TQnVWZW8yeXR0SHgwT3hwdXZ6N3pHS1hfMjlXalR1QmNTcjh6S3RQemlqT2lfZUJJdVRMM3ZBN05CWHZMSmxnRWljZUJIenBzOUVzTE1pTFdhNUh5Z21ZbktBcDQyQlNCdDdHUXc1YkN6NnR1QVlWS01iaW5paWltdmNjMGpiZlNHem9WMEpZa1pUSW5Gb1HSAasBQVVfeXFMT2ZmY28zZVYycVdwRE1lSVg5VjRuU0J1VmVvMnl0dEh4ME94cHV2ejd6R0tYXzI5V2pUdUJjU3I4ekt0UHppak9pX2VCSXVUTDN2QTdOQlh2TEpsZ0VpY2VCSHpwczlFc0xNaUxXYTVIeWdtWW5LQXA0MkJTQnQ3R1F3NWJDejZ0dUFZVktNYmluaWlpbXZjYzBqYmZTR3pvVjBKWWtaVEluRm9R?oc=5"
   }
  ]
 }
