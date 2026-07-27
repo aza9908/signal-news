@@ -1,12 +1,54 @@
 {
- "updated": "2026-07-27T12:26:26.431Z",
+ "updated": "2026-07-27T17:00:07.461Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+   "blurb": "",
+   "src": "NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jbERSYTYzMDlvaExvNHBYWTZrU2Zfd210S2U0NHAyMDBqWG5DS0hkenZPaUgxVDcxcEtPUUhrbVhObUpvQzV2b0VKSzRjOF9sMW9WdW03ZVhyUC1TaG5XVGdHS3Q?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Gene.01 humanoid robot with smart skin",
+   "blurb": "",
+   "src": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XY2FaQXI5dk15TjZlYUowanM4eEx6U21wRGl3TkdUSVpyakdVVnZDVWc3ZlhoX2doVXVYSVRoM0NEX3VFekRQaGtkaldxZ2N5SXJkVnUtSzZUbVR5SXRMRDFVYkppUVlWR0l0SkpNSHptdnd6?oc=5"
+  },
   {
    "cat": "ai",
    "title": "China’s Moonshot to Release Breakthrough AI Model for Download",
    "blurb": "",
-   "src": "Bloomberg.com",
+   "src": "Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmtYSDI3eU9xMml4XzdCZV85a29MLXVtRjFsX2JOQ2hvTTJJMXZWQTd4ZjZiUlhNNDhnMTZMZVlmSEstSGNqcFA0TWtLTm90LTNsbEFDZHZNb1JobWRhVjg2N0FXLXBsWlFXZDVvcTJmcUdOLVdFWjF2SnNfQlRfV1pNZFRHQ2JkZHhRUVRjUmVNenBXVFl0czFSclBOeDAweVAzMVE1QlpwSTNQX0F5Vk5oRQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Building Robots, Is It Really Profitable?",
+   "blurb": "",
+   "src": "Gasgoo",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGZCYjdLa1g4aFBzUUljejRFcVN6Z21Xb3ZsYU5BSThZYWh6TVQ4LXZGeUctWVE1U2xnUFVNNXZWOUE0UWM5a005UEN5Mlg4dnFuRF9yMzQza3VYUy03SkcteUNtbEg2dTVpN3ZwRVBQOVQ3d3AtUzFWeDI1bVlfVmNyekNGMTdpVGJQaUR3ZmJKNzhuNDM2UzREckU1UDFkQUVz?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
+   "blurb": "",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "2,000 humanoids to take on textile production in Chinese firm's push",
+   "blurb": "",
+   "src": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0ppVVpzWmQ2LUdURHNEQmY5N3JDaXVtUzFTbmtPR1ZCYmhKSTR2MXBlNUNkWDU0SnU2QWdLc2R6d09XTEZhSGpJYV90LUpPbUxKX3h0dmRmVHVILXREdDZNeDVFMHoxYjJJVUtGTWtpZENDZk91aUpqaXVpZ1NyUG1qd3dKOEZRRkxMS2hwU2xJaUJv?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say",
+   "blurb": "",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iUFV0dFc4SG92VDZ2QXgyenpqWUV6blU5RFB5NWpZRnUyY0xDRmZFa05MdHg0d0pWU2VlSkVRNkhPVXk4dWx0anhHU3BYRFJOV1pYbUJLVEtuZFdmNFU2QXNKNDZ3eDV1SG05R2p0VGU0N2dpcUxKNTZ30gF_QVVfeXFMTjM4TFdCdHRJNGptTXoxYnpoRmQ5WjJFOGdpZkpFOW05aHd4SnFoZUFSSUl0cmUwVGtlaUdKbzhkRUcwZExBdHNaTnJyeDRkOEluMjJJWjVZdjk3by1yZGlldUpKUnNRalgxQ3ZCMF9IbmNDWGFmVS1lQVgycDliQQ?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +59,24 @@
   },
   {
    "cat": "ai",
-   "title": "AI Models Are Getting Better At Hacking. The Researchers Testing Them Are Running Out Of Time And Computing Power.",
+   "title": "Artificial Intelligence and Extremist Capability: How AI Lowers the Barriers Between Intent and Capability",
    "blurb": "",
-   "src": "International Business Times",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWUplMmFVTlpNbUtPYUpJZDlXcGRkTUVhSGNGQWVpQjZXMjRFTGlFMlRERzZudnVpZXJqSHFiZS1vZUVteWE1Z1NybE11OGprVGZCU242bm9abkhKaEo2WHNBTmxkX2I4aVpoeGozTE5kdXU0YU1WZFpEYWNKZWZSMVhnSTZ6aHhqWVhlR3lHRGxWZDBHNjBvOUx4bFZ6S3hETUtKeWVXR1lqZGk2Qm1rUS03dHZmWm1ROVVTQnVQRnFLQQ?oc=5"
+   "src": "Global Network on Extremism and Technology",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMnpxdnNUZlc0SmJmeFRYWW40OGtoc1B0a2lkTElYbTBrbnJVLXFGWUkybU1vc2FPTXMwa2UyQkYzcXQwR3U1VlVZUUpRYzlSYkhxNDVRblFiSXk2NHUzZWJMR2t3WkFZWHYzdmpZT2N4Nkw5RHBIdTVTSWZDWHBjZ0xqU2dnVGlRdEZjLVU2akd0RGRCNmhfSGpyc0ZORkJqcnlmM2hHdElwc2kyeVU2MTF6T1B1UVE2LWlxNWt1X194YnlvYi0xV3NGd1F1bFlwaldoSGNQRzk5ZDQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Virtuix Sells First Enterprise System to Tesla for Optimus Humanoid Robot Division",
+   "blurb": "",
+   "src": "Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXo5NFdaSGtDOTdiajE0dnY0dnREbjAyMHAtVFdNUjA5WDdncC1vU2pRdXVGbFFuVVo2aEZYV3Rsem9COWdSVUdieENvdUgzRHVJRktaQVNTRmJPSE9WUjRIRjVSNm51QVV1OXd4MW9hVldWcHVldkh2clJwaU1mZ0RwTmRZRjlCVjQ1Q0NERQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "China accuses US of 'AI hegemonism', threatens countermeasures over potential probes",
+   "blurb": "",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2l6SXZVb29hZ244bE5rbTdWWkNINUw0VTN5TlhHemFDWG5VSmd3d0M2OTBnWUNDMUFRekpWOWwtME9MTTIwTTVvVFpuNVRmYnJ1eDFLVUR1bnVZVWNSdHJZOXhEZXBWdWpaT05JbHlhRXBVdUZlSE14M29ReDhHYTVvQmplZXhJYVNfeHNDZ0JxUmhIelFmbmROeWZudGwxXzJwRHgwV2RMVjVBdjJHSDQ0NmlmZXZoOU9YYjZCZkl5X1FB?oc=5"
   },
   {
    "cat": "robo",
@@ -28,62 +84,6 @@
    "blurb": "",
    "src": "The Guardian",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0pGendBaUVBclBmRjlZRHM0T0VCMjJlU0xKdHQwR0lEaE13TGZwcHE1VDlHVFBfZmV3bnNsWlFUYW8xXzc0LXAwMk85N2hHZ242QVE3Um5ZT2RKTnlIdmlPXzRCT2VSeFlkRjZYX0FYM1V4VnlXTXA0ME5EVEFOQ0VUakxQOU5OcENsbjJubHE?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Predictive AI Analytics: Transforming Raw Data into Future Intelligence",
-   "blurb": "",
-   "src": "intlbm",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVhOWG1RalJjcE9Rb1RaOVh0WGJaTTQ0QkU4TjJDMDU5d3ZKZ0lMekY0UnNfUmVKbVEzUG5NekZkUmg3cWxLQWRvemVaV043b3daOHIwODlidVJXajY1OEhpRFpjcFhxRnY3dFAtOVRrdDJURmpWRjF5UGxYaUxjWFZTa3VpRW05Um15SHE3UzRheGd2eXVOYnJQYVZmM1BzT1FN?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "The Robots Cometh",
-   "blurb": "",
-   "src": "Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IWHNaMU1KVFdtazJHNFVqZzZBLXViYmc0cXNSLWFDV2F1cGhsb2dmd0J3d3hsNGJNcHVEYWQyMTc0dkxGdHk0TlVaTE0wOERDSHpGOXJ6aUdHRU1IbnllVjNqTFEyU1Zjd19QR0tQYXplYVU?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the U.S.",
-   "blurb": "",
-   "src": "Los Angeles Times",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOG9xZXdnSm5sYXJDbHMxZDZ1SWJVWTdMLVNmVDNnbW96VHhvaUd6TGl4T1lFSGk3WUFlMGhlNmxIdG5PRUQ4SVVqQTBRYkRNRUJzSFhCUnVxU3NXczlvbHB0SGJ2V2h0emJiOFdnb2hHb0pLQXlSaWlFUzFrQzBPa1hFeW9IZUdrQWhfYUxHS19nOFh3aVhNUlhPdG95eG1iNzAxWUVyZWY5bmRtT3UwZjBMT1ZNM0xWS0picUM0Q2ZBSHl0dWk1SXFsM21xWVVhREE?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Unitree Robotics founder featured in TIME magazine",
-   "blurb": "",
-   "src": "China Daily",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVkVGZVd0TEVySFdYVVZTVW1jWEV6WWdpcEk5Rm1GaU13YUZVNjBoYXF4bFN6UzgwWTh6cXlWVUR1bzlMdGVfeWk5ajNiZlZrX0ZneVpPWUh4a3VYNm5RTWp0LWptOHc4UllTR05FNk9tR0VnanExSi03UlBzdw?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Nvidia and Microsoft push Washington to protect open AI models",
-   "blurb": "",
-   "src": "calcalistech.com",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrN0E0NHI5bk4xb1ZLTHUxcGdDVjA3bXJuZ2VPRGFDU3hxQkpadmhxbTdGc1BEaUhyTFRNeXEtQUJvTmtGUjdHcFR3YkFqNExZTlRyZFJ3cHdLZENoNkN5blpkbUNkOElX?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Generative Bionics' smart robot skin prevents collisions",
-   "blurb": "",
-   "src": "New Atlas",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YTDE3M0xabnh0eTI1OV82dWswdG1nSVl4Vl9BYWFzRS1nQ1Vnd3ZLZnpsUURrRUxsY1VDZGlOQk5mZG1UanctaW03bWlzV1NHTGMtYmZKOXNFYURRTFdMSjc4WjY0cGlHZEJr?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "How OpenAI Lost Control of an AI Model—and What Needs to Change",
-   "blurb": "",
-   "src": "Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2SXZ0SXhYeUpETjZ2T2N1aDNZaml2bzZYUmpSWlhnMENQZ2VZTWNCemJsT24zWHNQQnJ6UlZraVd0Wk1wdkNrUXdGLUhQeENDWjJTd0ZiSmUtcWU0aXd5V2xWbmt4cHFnMkFhaTlEaGg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "With Washington’s help, humanoid robots can transform US manufacturing",
-   "blurb": "",
-   "src": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdjJ5eVY3cWhGc0FfeHBER3Z2NmdIOFRRanhod3diSW5fNEE1LUV2eEQzVjJkRVFiLTBjenNfOXYzVzFQZDNMT09WQ2J1Vmg0R1doS2hyS3c3VnFYN1FsdmZFNHA0ajBNOTBBUU44dlUybjc0NlBEVzJjWi05dG1PT9IBhgFBVV95cUxOdjBKY01XLWRQckdMLVFFeWxvSkxEMGs4NkMyRHlTczJzRnNmTTBVcm5DRHlyUk5XQVhoTVJvNkRwN3ZQWHhKR2RHd1BRVU15eGRpeE5RdlpaWEF0b2JnaXF5OXlSbkFsX3licGlCcUczOTlsRzVsaEtlNDZhQ3JRbEIxcmxydw?oc=5"
   }
  ]
 }
