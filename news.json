@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T06:32:51.563Z",
+ "updated": "2026-07-27T12:26:26.431Z",
  "items": [
   {
    "cat": "ai",
@@ -10,6 +10,20 @@
   },
   {
    "cat": "robo",
+   "title": "Warehouse Humanoid Robots Market : Global Industry Analysis and Opportunity Assessment, 2036",
+   "blurb": "",
+   "src": "Future Market Insights",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVWU4WDhha2g5QnFOeXZrUVdLQlNBQ0xMS1lUWDN6RXA1czk2TlJlbDdtb3JTdVlqWDJmT1dfQ1pFSmhDa1otUDRXcEtPaHJ6SUx1RXA3Y3o0TGxPNTFUYjg2aXhIbEJNYVNJSVpucU92UXMyMXJjZnZTTllsX0k4alFJTQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "AI Models Are Getting Better At Hacking. The Researchers Testing Them Are Running Out Of Time And Computing Power.",
+   "blurb": "",
+   "src": "International Business Times",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWUplMmFVTlpNbUtPYUpJZDlXcGRkTUVhSGNGQWVpQjZXMjRFTGlFMlRERzZudnVpZXJqSHFiZS1vZUVteWE1Z1NybE11OGprVGZCU242bm9abkhKaEo2WHNBTmxkX2I4aVpoeGozTE5kdXU0YU1WZFpEYWNKZWZSMVhnSTZ6aHhqWVhlR3lHRGxWZDBHNjBvOUx4bFZ6S3hETUtKeWVXR1lqZGk2Qm1rUS03dHZmWm1ROVVTQnVQRnFLQQ?oc=5"
+  },
+  {
+   "cat": "robo",
    "title": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
    "blurb": "",
    "src": "The Guardian",
@@ -17,10 +31,10 @@
   },
   {
    "cat": "ai",
-   "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the U.S.",
+   "title": "Predictive AI Analytics: Transforming Raw Data into Future Intelligence",
    "blurb": "",
-   "src": "Los Angeles Times",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOG9xZXdnSm5sYXJDbHMxZDZ1SWJVWTdMLVNmVDNnbW96VHhvaUd6TGl4T1lFSGk3WUFlMGhlNmxIdG5PRUQ4SVVqQTBRYkRNRUJzSFhCUnVxU3NXczlvbHB0SGJ2V2h0emJiOFdnb2hHb0pLQXlSaWlFUzFrQzBPa1hFeW9IZUdrQWhfYUxHS19nOFh3aVhNUlhPdG95eG1iNzAxWUVyZWY5bmRtT3UwZjBMT1ZNM0xWS0picUM0Q2ZBSHl0dWk1SXFsM21xWVVhREE?oc=5"
+   "src": "intlbm",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVhOWG1RalJjcE9Rb1RaOVh0WGJaTTQ0QkU4TjJDMDU5d3ZKZ0lMekY0UnNfUmVKbVEzUG5NekZkUmg3cWxLQWRvemVaV043b3daOHIwODlidVJXajY1OEhpRFpjcFhxRnY3dFAtOVRrdDJURmpWRjF5UGxYaUxjWFZTa3VpRW05Um15SHE3UzRheGd2eXVOYnJQYVZmM1BzT1FN?oc=5"
   },
   {
    "cat": "robo",
@@ -31,6 +45,20 @@
   },
   {
    "cat": "ai",
+   "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the U.S.",
+   "blurb": "",
+   "src": "Los Angeles Times",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOG9xZXdnSm5sYXJDbHMxZDZ1SWJVWTdMLVNmVDNnbW96VHhvaUd6TGl4T1lFSGk3WUFlMGhlNmxIdG5PRUQ4SVVqQTBRYkRNRUJzSFhCUnVxU3NXczlvbHB0SGJ2V2h0emJiOFdnb2hHb0pLQXlSaWlFUzFrQzBPa1hFeW9IZUdrQWhfYUxHS19nOFh3aVhNUlhPdG95eG1iNzAxWUVyZWY5bmRtT3UwZjBMT1ZNM0xWS0picUM0Q2ZBSHl0dWk1SXFsM21xWVVhREE?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Unitree Robotics founder featured in TIME magazine",
+   "blurb": "",
+   "src": "China Daily",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVkVGZVd0TEVySFdYVVZTVW1jWEV6WWdpcEk5Rm1GaU13YUZVNjBoYXF4bFN6UzgwWTh6cXlWVUR1bzlMdGVfeWk5ajNiZlZrX0ZneVpPWUh4a3VYNm5RTWp0LWptOHc4UllTR05FNk9tR0VnanExSi03UlBzdw?oc=5"
+  },
+  {
+   "cat": "ai",
    "title": "Nvidia and Microsoft push Washington to protect open AI models",
    "blurb": "",
    "src": "calcalistech.com",
@@ -38,31 +66,17 @@
   },
   {
    "cat": "robo",
-   "title": "BYD to unveil first humanoid robot in early August",
+   "title": "Generative Bionics' smart robot skin prevents collisions",
    "blurb": "",
-   "src": "TechNode",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWpSeklNTGhCMmNrUTFlcEMyeFcxSVpabVJ1NWx5a0xsZXhaaGR2VWxpNnd1RXp1dTQ4ZTQwdm5HTHh4d0pzS0F5NGZWZjN6LWJPYXBmR1B3dlBzNkRQbjJ6NUtYUFpyZ2lyb1NhWGtMV0E4SEJocnFleTRmME1JQlBJVlF2MG1sYzUw?oc=5"
+   "src": "New Atlas",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YTDE3M0xabnh0eTI1OV82dWswdG1nSVl4Vl9BYWFzRS1nQ1Vnd3ZLZnpsUURrRUxsY1VDZGlOQk5mZG1UanctaW03bWlzV1NHTGMtYmZKOXNFYURRTFdMSjc4WjY0cGlHZEJr?oc=5"
   },
   {
    "cat": "ai",
-   "title": "AI model and platform spending to reach US$64 billion as buyers tighten scrutiny",
+   "title": "How OpenAI Lost Control of an AI Model—and What Needs to Change",
    "blurb": "",
-   "src": "CRN Asia",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2lnNzRCdE41Q3dhU1diUjNycjlxdGpMMU5tak9mTWd6NTdxY09BVjA0VXZwUjNtaXgtQXBaemJRam1JckFkRnIwZTdRaHNwVzE2Y1VQenRval9jZFQ1V1l5aXkwVVJIdlJ3Vl9jNmttdkZWbnpva1dZLUI5bzg4NGhwRThaV29laC16eS1XMkZIRWcyRWRqQVNrSFF3MzhESzRDZGJmRlY1ZnBuaFNXWlVnRHdmWTRJM1E?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "From livestream to embodied AI: Richtech Robotics is redefining the human–robot interaction",
-   "blurb": "",
-   "src": "Digital Journal",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMW1RTFB1bWhxalJsakVWVmZ5Y1B5WFZyZlAwcWhVZ29UTHE1WlBtU3MwLXZKam1UVmdLRUlZRHQzUHBmRU1sZmRMaEN1dk1CeXlCUUVKSm1UbFE0dWVGM3d6aF9SRWFwemt6SnM4Mmw3WDgyTXdUZmwzTmtrX2t6aDlrbzk1WS1qLUxEc1FsekRWNEdyU1pJTGFLMkF4a215VG1tYjNMLVczQ0RMUDFGakpvQ1h0RjBvam91Q3lKVmFPU1NQTDItRVlR?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "What is the risk of using Chinese open AI models like Kimi K3?",
-   "blurb": "",
-   "src": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwZ0VIRjNVbXhaWDhDMm5STUprMWp6UnR4Q05CQnl3cXNhNFZBaFZVa0FLSjN1SUlUZXUwcG1iRnItV3d5dWVnOU93TF93U2NjTnNnRnZtUjlOUWMxa0kySXM3VzFyUGJHUzNkaWVJazQ?oc=5"
+   "src": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2SXZ0SXhYeUpETjZ2T2N1aDNZaml2bzZYUmpSWlhnMENQZ2VZTWNCemJsT24zWHNQQnJ6UlZraVd0Wk1wdkNrUXdGLUhQeENDWjJTd0ZiSmUtcWU0aXd5V2xWbmt4cHFnMkFhaTlEaGg?oc=5"
   },
   {
    "cat": "robo",
@@ -70,20 +84,6 @@
    "blurb": "",
    "src": "The Hill",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdjJ5eVY3cWhGc0FfeHBER3Z2NmdIOFRRanhod3diSW5fNEE1LUV2eEQzVjJkRVFiLTBjenNfOXYzVzFQZDNMT09WQ2J1Vmg0R1doS2hyS3c3VnFYN1FsdmZFNHA0ajBNOTBBUU44dlUybjc0NlBEVzJjWi05dG1PT9IBhgFBVV95cUxOdjBKY01XLWRQckdMLVFFeWxvSkxEMGs4NkMyRHlTczJzRnNmTTBVcm5DRHlyUk5XQVhoTVJvNkRwN3ZQWHhKR2RHd1BRVU15eGRpeE5RdlpaWEF0b2JnaXF5OXlSbkFsX3licGlCcUczOTlsRzVsaEtlNDZhQ3JRbEIxcmxydw?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI Models Going Rogue Fuels Debate on Cybersecurity",
-   "blurb": "",
-   "src": "The Daily Upside",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXFDYjZBa2w5eF94YnlHREpCSFlNY1pIRlF4Ymc5TlZ0M3ZlSTV6Y2hmWWdPSzMyZzBRdFc2cHMwODZWSlZxRWdReG1fZ1dxb2ExcEhnSU1KcWJEZXE5OEZxV2x3X1ZHcUhuMXZXQVRCTVR2el9Iak1vLUdIdTZwUHoyODVtcG5XSk5hamNfYzdRUzNFQ2ZWWlN3bmotdTVvcDlyUnFSZmw5aUdSS3pCaVREbXg5b3EwVUh0OVMwS0s?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Mark Cuban Predicts Humanoid Robots Will Flop on 'Latency, Processing Power, Dexterity,' and Specialized Robots Will Win Instead: 'Logistics Have Already....'",
-   "blurb": "",
-   "src": "Yahoo Tech",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUpETmswOGdfSV9mUlFDdTFPbms0NTN0VlBjLXM3Z3dnQjhpWlJyaVIxS2pKTGxKbmN3VzctMDAyaUdDQzZkMlRnMEJSU213OU5RX05aaVozZmZldmEyb19ib2xGVXFHcDF5T3R2LTR1alI3amZvNUdEYmpxYmh1cFJfMXkyX01LMWkzX2JsdFVSV3FP?oc=5"
   }
  ]
 }
