@@ -1,54 +1,54 @@
 {
- "updated": "2026-07-27T22:10:15.842Z",
+ "updated": "2026-07-28T05:48:57.931Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Soil carbon effectively measured by new, efficient AI model",
+   "title": "Microsoft touts cost-saving AI model for cybersecurity",
    "blurb": "",
-   "src": "Phys.org",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85WmR2bmNBZ05aX2F3emFaRTl6UWVDOFZ2ZXd3VHNaOU5xVjl4R3A3dzF3T0dUOHR6MXZDOEE0Y1dyT0NncmJJNDk3cUkwMjVsczZVMjhyejJfYk1oMjhnZ1o2akFHRUs5bnNveVRKTm1NTDBiaXlQSjZnUQ?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnZFX2lLV3Z4VE5EX25vQ2ZPREJ2bTFaVVRXTnc5dXBqNWNaZE9nWnVUNklzaTFabFFVbWk4UXowc2ZRdndPZEt1NDdGU1Fpbk9fOF82dWFMVlNibU9wUWdsZ0NXQTBYZnd0SzJDVE1aMzFKUGtuOVFjWFI5UlJWcGVkR3NxR29PSkdScTh0MDZlQUVlREHSAZsBQVVfeXFMTU5GWlQ5MUNid1Bnb2JxRzZqd2VyYTZiYjgxeGZrUUZsaHBqSUlVX3pmVHE0QnJUM3hJSzBDRXRiRFdpOTVqdl81Z3JMM1VvLXpwbVUtNWpvaEd2X2N5ZHROOVVZNzJWOXdDanp2TFJJVXoxQU9XLVFkNmt0SnY2ZFdjcjNjajc0VnhKVEZ2VzhXbjRkaG9pdjZ3UjA?oc=5"
   },
   {
    "cat": "robo",
-   "title": "A $57,590 Robot Was Supposed to Transform Learning. Instead, It Triggered a Backlash",
+   "title": "Xiao Zhi Weekly News | First batch of \"Henan-made\" humanoid robots rolls off the line; Mobileye founder shifts focus to robotics",
    "blurb": "",
-   "src": "inc.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVlB1bVI5QkJqWU1zR3pVeHVNamJ2WnR6cEVJQ3N6eGRVenNieUlDZkwwLW1McUxQaFgzSFJhQmdsUEZiNHg2UkhRN2I0T2tyZkY1amUxcnloLXNZMEs5YkJ5SUc2V3FhaTFtVHBnd3luazQ3OEhGTEg4N2tzbDFmWlZuRVllRGl5b3JpSnVLbmZlZVQ1OFFDRnlnbW95alhJUWJfR19VOA?oc=5"
+   "src": "Gasgoo",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcHlLV0c1WHJJY3hoUlhVRzNWODM5ZUtUM1RsQkhaVEZjM1VOYkMxLWRyTmNRZnBLU3VFNF8zQ2hxeW9MelpDbWdqNXhMeVZ4Tk5xUGlyVmlvc1VGaFpLSWtFcnhwTnlmQ19DREFqVHpNcnA5T3pYbDVHRlkzZXpvaW1CNDM3RXh2UGZNNGFOUURaVlMzWUlrZTdpWm9GcUhNU0trdnJJbENHV3JtREVXbVJLRmhydWF2SGRwakFHdEFHc0YwNWU1OXRTWEJQMGdETjZKb2ZwcUNOZTZJcUZxZUlTeU9VOGdNeGJkdVdRWkdQazFCZW4wR2RYblFlVlRyQzY3LWVXbUQ0RVdlTnFCTzhQMA?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Chinese Start-Up Moonshot Details New A.I. Model",
+   "title": "Rethinking security for the age of AI",
+   "blurb": "",
+   "src": "The Official Microsoft Blog",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUE1SeFVsNUUtTlBQWG1TN2JZcVl3WWpTYzVudk1iekRabVRoNHNWREtjZ19SSklYOVlPWHZ3YnZ6cVRpTWtaVllFc2xCc09hZUhJdDBPdFBpXzVFTlRtR0xsSEtHSGxxYjdNblpiZTdNOEtpOXh0WEdSdGx5OWFjVlp1VW52YnpPMlE?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid Global Provides Update on Agility Robotics Public Listing & Opens Silicon Valley AI Hub to Scale Digit Deployments",
+   "blurb": "",
+   "src": "Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3I2LUR5Q20wWGNBWEhjM3ItdlRrRkI3ekZtcnNBREpqS3FCVHRWNnp2YWszaUtQMjNRRWxBQ2dWUk8tODRnN2FFZk1xbWRVNVZTXzFkSkYyd0lVZ3ZyYVhaVF9ydDY1QVEtdG5sZndGR2lFOEE5WjhyLUJVYzBiWV8yTFdWVGtMamNUQ0lybTU1eWJW?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Chinese A.I. Start-Up Shows the World What It Has Built",
    "blurb": "",
    "src": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9veDlGZlRsc29JNlFwSDFXUEI0V1pJMFBOR05lSjFtRmRWZmw4cldKUXFYaGVmZW9MM0JiMWt1Z0Jnem5od1AtdmJrdUhSZU5VZlVxZWVWaG1zUGNvR3dBQTVjckxrNjFUci00b3UxdHV3QUFXSVVnZ1N3ajJramc?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom",
+   "title": "How Siemens Is Scaling Humanoid Robots in Manufacturing",
    "blurb": "",
-   "src": "Yonkers Times",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbU5paW1PTmpZaldSUlJ4TEMxY2hUVFVDenBJanJHMWVOOEFQY3FSbTE2amJjYk9iRzNxUGROd3JTcDVpMElZOU5iWklFSFBZSk5wQzMwRkdZb3M2djJqd1djelJ4clJfMEphMzB6dW94enFsSVdvb0x0d2hfdGExTTlNX3VYSW1xQWMyN0VVNW91VVB4b1dIVzl6ZFk2QkRELS1fSEJtX1JzY1FuODJJ?oc=5"
+   "src": "Thomasnet",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1RQVk85LWI5SEFYMHNLdkdRWFRlSW1LZnhVdjRERWF1QjFMN2JFc0xjX2lBSHBnVzJEUzVIalVjTk5wcHR5MEtyS3MxeDFYYUhZM29OMXlINkQwcFRQaFNUSGs1MEJnZnNlUV9tejllVXdHUTJvU0ZONE1wV2prZWhCOFM4ak9YLS1Fag?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Opinion | AI Shouldn’t Require a Permission Slip",
+   "title": "Soil carbon effectively measured by new, efficient AI model",
    "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vYU9KVmR0MkRYeEo2aHd6dEtrbWFUa1F4eVBKR0k0UmJRekxkbDlkMkhOcG1GLWlRdVFJNllyMUFXNGlQQlJKdTAzQzB1cm1rSUZZVkdPaUMyUlIwVEx4NGxlc3NiRFF2aVJDLU9ka3d5N1lMb1ZpTm02R2tyQkU?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "2,000 humanoids to take on textile production in Chinese firm's push",
-   "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0ppVVpzWmQ2LUdURHNEQmY5N3JDaXVtUzFTbmtPR1ZCYmhKSTR2MXBlNUNkWDU0SnU2QWdLc2R6d09XTEZhSGpJYV90LUpPbUxKX3h0dmRmVHVILXREdDZNeDVFMHoxYjJJVUtGTWtpZENDZk91aUpqaXVpZ1NyUG1qd3dKOEZRRkxMS2hwU2xJaUJv?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "NIST unveils new AI evaluation platform",
-   "blurb": "",
-   "src": "Nextgov/FCW",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk51UlB1TF8ySnVUdWszZ2FoT0Y2Wmk0TjROdlRkMC1tLW5GbXVGMENURERlWkxrcHR1Y0o0aFZwLXhPeVh1Vkh2cjUwWlV0cmlEUTRLMUNvQndhbnhMbUpEeFFFaWpjODhBZ0ZmYUk2RmNxc2VHT2NpXzJtRWJyNEd0LUtoNHJrOG95aUhCSmdLbmZTV1hZcG1JbE1kSWgyaVNUdkZ3?oc=5"
+   "src": "Phys.org",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85WmR2bmNBZ05aX2F3emFaRTl6UWVDOFZ2ZXd3VHNaOU5xVjl4R3A3dzF3T0dUOHR6MXZDOEE0Y1dyT0NncmJJNDk3cUkwMjVsczZVMjhyejJfYk1oMjhnZ1o2akFHRUs5bnNveVRKTm1NTDBiaXlQSjZnUQ?oc=5"
   },
   {
    "cat": "robo",
@@ -59,17 +59,17 @@
   },
   {
    "cat": "ai",
-   "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+   "title": "NIST unveils new AI evaluation platform",
    "blurb": "",
-   "src": "NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jbERSYTYzMDlvaExvNHBYWTZrU2Zfd210S2U0NHAyMDBqWG5DS0hkenZPaUgxVDcxcEtPUUhrbVhObUpvQzV2b0VKSzRjOF9sMW9WdW03ZVhyUC1TaG5XVGdHS3Q?oc=5"
+   "src": "Nextgov/FCW",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk51UlB1TF8ySnVUdWszZ2FoT0Y2Wmk0TjROdlRkMC1tLW5GbXVGMENURERlWkxrcHR1Y0o0aFZwLXhPeVh1Vkh2cjUwWlV0cmlEUTRLMUNvQndhbnhMbUpEeFFFaWpjODhBZ0ZmYUk2RmNxc2VHT2NpXzJtRWJyNEd0LUtoNHJrOG95aUhCSmdLbmZTV1hZcG1JbE1kSWgyaVNUdkZ3?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Building Robots, Is It Really Profitable?",
+   "title": "A $57,590 Robot Was Supposed to Transform Learning. Instead, It Triggered a Backlash",
    "blurb": "",
-   "src": "Gasgoo",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGZCYjdLa1g4aFBzUUljejRFcVN6Z21Xb3ZsYU5BSThZYWh6TVQ4LXZGeUctWVE1U2xnUFVNNXZWOUE0UWM5a005UEN5Mlg4dnFuRF9yMzQza3VYUy03SkcteUNtbEg2dTVpN3ZwRVBQOVQ3d3AtUzFWeDI1bVlfVmNyekNGMTdpVGJQaUR3ZmJKNzhuNDM2UzREckU1UDFkQUVz?oc=5"
+   "src": "inc.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVlB1bVI5QkJqWU1zR3pVeHVNamJ2WnR6cEVJQ3N6eGRVenNieUlDZkwwLW1McUxQaFgzSFJhQmdsUEZiNHg2UkhRN2I0T2tyZkY1amUxcnloLXNZMEs5YkJ5SUc2V3FhaTFtVHBnd3luazQ3OEhGTEg4N2tzbDFmWlZuRVllRGl5b3JpSnVLbmZlZVQ1OFFDRnlnbW95alhJUWJfR19VOA?oc=5"
   },
   {
    "cat": "ai",
@@ -80,10 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "Gene.01 humanoid robot with smart skin",
+   "title": "Humanoid startup Agility Robotics doesn't want 'coin-operated employees'",
    "blurb": "",
-   "src": "Mashable",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XY2FaQXI5dk15TjZlYUowanM4eEx6U21wRGl3TkdUSVpyakdVVnZDVWc3ZlhoX2doVXVYSVRoM0NEX3VFekRQaGtkaldxZ2N5SXJkVnUtSzZUbVR5SXRMRDFVYkppUVlWR0l0SkpNSHptdnd6?oc=5"
+   "src": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5"
   }
  ]
 }
