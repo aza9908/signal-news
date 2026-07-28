@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T05:48:57.931Z",
+ "updated": "2026-07-28T11:20:07.039Z",
  "items": [
   {
    "cat": "ai",
@@ -10,10 +10,38 @@
   },
   {
    "cat": "robo",
+   "title": "BYD confirms plan to unveil humanoid robot in August",
+   "blurb": "",
+   "src": "CnEVPost",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EeURFdkdiVG9wWTQtLUNCWXkxQmEwd3JQOE1OaGNTanU0X25odDhnTVVMVFJ6RE5rWG1OQkhaUS1CQWliTUJNLWJuTThaVWg4TnBYdWxvNndYUnpZOTAyLTQyZEkyMnExX0NiZHc1STdrX3BqeHZRcA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Mira Murati’s Inkling AI Model Review: Best Open-Weights Model in the West",
+   "blurb": "",
+   "src": "Decrypt",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xdHQ0VnNRUlAwdWNuWFRrZTJUNmJNQXBQdXpESGEwNzJNRDBBV0U3YnpQWmJxYTBmZjU3cW11VThxd2JFeHRBMTkyNF94ZXlGeDRIa1I4cC1LRVJoQjJpN1RKc2FOTXlQT0NMYV9OdWRCYzY4QkZ6a19GT0hiQdIBhgFBVV95cUxOeU0xWnFqc3ZLMk5rVG5zZmZaaTlUTi1uQV8xV0J1clMxUVZSVGtYUTZHOHI3WlFfTDFJYWpuOXA1Tzl0QXR2OE9LS1dJdGxjMHh3dDBtZ3JlYUx0UHVQTUx2UzQ5d2FGRkVxTjR3dEl4UmlIelkwb00zZ0Nub1BKMWdSN3JSQQ?oc=5"
+  },
+  {
+   "cat": "robo",
    "title": "Xiao Zhi Weekly News | First batch of \"Henan-made\" humanoid robots rolls off the line; Mobileye founder shifts focus to robotics",
    "blurb": "",
    "src": "Gasgoo",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcHlLV0c1WHJJY3hoUlhVRzNWODM5ZUtUM1RsQkhaVEZjM1VOYkMxLWRyTmNRZnBLU3VFNF8zQ2hxeW9MelpDbWdqNXhMeVZ4Tk5xUGlyVmlvc1VGaFpLSWtFcnhwTnlmQ19DREFqVHpNcnA5T3pYbDVHRlkzZXpvaW1CNDM3RXh2UGZNNGFOUURaVlMzWUlrZTdpWm9GcUhNU0trdnJJbENHV3JtREVXbVJLRmhydWF2SGRwakFHdEFHc0YwNWU1OXRTWEJQMGdETjZKb2ZwcUNOZTZJcUZxZUlTeU9VOGdNeGJkdVdRWkdQazFCZW4wR2RYblFlVlRyQzY3LWVXbUQ0RVdlTnFCTzhQMA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Chinese Start-Up Moonshot Details New A.I. Model",
+   "blurb": "",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9veDlGZlRsc29JNlFwSDFXUEI0V1pJMFBOR05lSjFtRmRWZmw4cldKUXFYaGVmZW9MM0JiMWt1Z0Jnem5od1AtdmJrdUhSZU5VZlVxZWVWaG1zUGNvR3dBQTVjckxrNjFUci00b3UxdHV3QUFXSVVnZ1N3ajJramc?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "A startup founded by a UCLA PhD team that focuses on developing the foundation model for humanoid robots has secured nearly 500 million yuan in Angel++ round financing | Hard Krypton Exclusive First Release",
+   "blurb": "",
+   "src": "36氪",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiTkhJa0FNVTQtRjVoVzgxX3NzSy1GalBzTWV5R1FxUDBSRUgxSDRPQ3lDSmNrVDRCQnZLdVRYMkZQaDJRNFNadWpfaXZyZTlXMkhz?oc=5"
   },
   {
    "cat": "ai",
@@ -24,24 +52,10 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Global Provides Update on Agility Robotics Public Listing & Opens Silicon Valley AI Hub to Scale Digit Deployments",
+   "title": "United & Delta Become Latest Airlines To Ban Humanoid Robots From All Flights",
    "blurb": "",
-   "src": "Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3I2LUR5Q20wWGNBWEhjM3ItdlRrRkI3ekZtcnNBREpqS3FCVHRWNnp2YWszaUtQMjNRRWxBQ2dWUk8tODRnN2FFZk1xbWRVNVZTXzFkSkYyd0lVZ3ZyYVhaVF9ydDY1QVEtdG5sZndGR2lFOEE5WjhyLUJVYzBiWV8yTFdWVGtMamNUQ0lybTU1eWJW?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Chinese A.I. Start-Up Shows the World What It Has Built",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9veDlGZlRsc29JNlFwSDFXUEI0V1pJMFBOR05lSjFtRmRWZmw4cldKUXFYaGVmZW9MM0JiMWt1Z0Jnem5od1AtdmJrdUhSZU5VZlVxZWVWaG1zUGNvR3dBQTVjckxrNjFUci00b3UxdHV3QUFXSVVnZ1N3ajJramc?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "How Siemens Is Scaling Humanoid Robots in Manufacturing",
-   "blurb": "",
-   "src": "Thomasnet",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1RQVk85LWI5SEFYMHNLdkdRWFRlSW1LZnhVdjRERWF1QjFMN2JFc0xjX2lBSHBnVzJEUzVIalVjTk5wcHR5MEtyS3MxeDFYYUhZM29OMXlINkQwcFRQaFNUSGs1MEJnZnNlUV9tejllVXdHUTJvU0ZONE1wV2prZWhCOFM4ak9YLS1Fag?oc=5"
+   "src": "Simple Flying",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb1RWeWxNSFlZSE5JZmZvSmlMTkp1a3RiZHVKNTduTHVfeW9CWmhhNldSQl90T3E0MVpJbTlFYU9wNWVVa1B3OGZMZGpaSjVnVS1iNGE0MzFYVHZMSWk3cFhTNEtub2N2NWRFRlkxWUlVOVpQOEt0Ty1Yd2luaXk4dW9RRQ?oc=5"
   },
   {
    "cat": "ai",
@@ -52,38 +66,24 @@
   },
   {
    "cat": "robo",
-   "title": "United & Delta Become Latest Airlines To Ban Humanoid Robots From All Flights",
+   "title": "Humanoid Global Provides Update on Agility Robotics Public Listing & Opens Silicon Valley AI Hub to Scale Digit Deployments",
    "blurb": "",
-   "src": "Simple Flying",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb1RWeWxNSFlZSE5JZmZvSmlMTkp1a3RiZHVKNTduTHVfeW9CWmhhNldSQl90T3E0MVpJbTlFYU9wNWVVa1B3OGZMZGpaSjVnVS1iNGE0MzFYVHZMSWk3cFhTNEtub2N2NWRFRlkxWUlVOVpQOEt0Ty1Yd2luaXk4dW9RRQ?oc=5"
+   "src": "Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3I2LUR5Q20wWGNBWEhjM3ItdlRrRkI3ekZtcnNBREpqS3FCVHRWNnp2YWszaUtQMjNRRWxBQ2dWUk8tODRnN2FFZk1xbWRVNVZTXzFkSkYyd0lVZ3ZyYVhaVF9ydDY1QVEtdG5sZndGR2lFOEE5WjhyLUJVYzBiWV8yTFdWVGtMamNUQ0lybTU1eWJW?oc=5"
   },
   {
    "cat": "ai",
-   "title": "NIST unveils new AI evaluation platform",
+   "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports",
    "blurb": "",
-   "src": "Nextgov/FCW",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk51UlB1TF8ySnVUdWszZ2FoT0Y2Wmk0TjROdlRkMC1tLW5GbXVGMENURERlWkxrcHR1Y0o0aFZwLXhPeVh1Vkh2cjUwWlV0cmlEUTRLMUNvQndhbnhMbUpEeFFFaWpjODhBZ0ZmYUk2RmNxc2VHT2NpXzJtRWJyNEd0LUtoNHJrOG95aUhCSmdLbmZTV1hZcG1JbE1kSWgyaVNUdkZ3?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2NzVEU5THRFZ3EzNVVuaGY4d1RrSUtldW1SM2pWN3hjWjM1cF9nSXUyZThsazlDa2x0Y014Z05DN29lZjA2YS1LdUpBV1k1cXpqdmV0OHVoVEg5T3QwMkhzMFUxX2VNOC1fd0JxT2daUy11Ti1WNnFtc3QteC1jcVhFcUpLWGdXUXc4a1pqU3JvczRENmE5ZTVLWWFqUjN3YTR4dmUxNmk5eGlUMjhOYUh1cnYtLWpFS1hjUE5ZOFJ5QkZId00yZ1JsVzJuWEJsYkRv?oc=5"
   },
   {
    "cat": "robo",
-   "title": "A $57,590 Robot Was Supposed to Transform Learning. Instead, It Triggered a Backlash",
+   "title": "How Siemens Is Scaling Humanoid Robots in Manufacturing",
    "blurb": "",
-   "src": "inc.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVlB1bVI5QkJqWU1zR3pVeHVNamJ2WnR6cEVJQ3N6eGRVenNieUlDZkwwLW1McUxQaFgzSFJhQmdsUEZiNHg2UkhRN2I0T2tyZkY1amUxcnloLXNZMEs5YkJ5SUc2V3FhaTFtVHBnd3luazQ3OEhGTEg4N2tzbDFmWlZuRVllRGl5b3JpSnVLbmZlZVQ1OFFDRnlnbW95alhJUWJfR19VOA?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "New Method Significantly Boosts AI Speed, Energy Efficiency on Existing Hardware",
-   "blurb": "",
-   "src": "UC Davis College of Engineering",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFh3Z3JkWDFHYmQ3cmJ6MVg5b1duQzRzX29TdkFkMkdrU3BNdVZ4NzNYa18wLXlKOGtaaWdxS0ZrMVdtZkQ3R0JJVjBDa2M0Z0xkS0oyUGRPQWVoTzluenUzR3Z6NXFSMGlZcm96a0VUNk8xb08xaDExd1ZnMmRPWVoyNmJqeXlrQjF1R0RveWZLUWxrcmZtOVVDcUdTYzBXbFlJTndWaTN6U2ozWlhucHpvZw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid startup Agility Robotics doesn't want 'coin-operated employees'",
-   "blurb": "",
-   "src": "AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFJGdVducEtSNUVtN2ZoSzJnQ00td1JFbmN1ak9UQ05GSlVrcC16YjFPWWp2dHY0bnhvdFlzRGtHbjkyeURRdHFpZFBpZ2p0eFc0ZWE0eDhtT2FJMzZrNHpGZ2pzMVNjYTAtOU1sYWFnT2VxVDRHc3psdmk3dW5SUTVnXzJGRmFlVGtMZA?oc=5"
+   "src": "Thomasnet",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1RQVk85LWI5SEFYMHNLdkdRWFRlSW1LZnhVdjRERWF1QjFMN2JFc0xjX2lBSHBnVzJEUzVIalVjTk5wcHR5MEtyS3MxeDFYYUhZM29OMXlINkQwcFRQaFNUSGs1MEJnZnNlUV9tejllVXdHUTJvU0ZONE1wV2prZWhCOFM4ak9YLS1Fag?oc=5"
   }
  ]
 }
