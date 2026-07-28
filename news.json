@@ -1,12 +1,26 @@
 {
- "updated": "2026-07-28T16:41:58.685Z",
+ "updated": "2026-07-28T22:05:56.478Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Microsoft touts cost-saving AI model for cybersecurity",
+   "title": "How to Fix the AI Model Theft Bill Before It Becomes Law",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnZFX2lLV3Z4VE5EX25vQ2ZPREJ2bTFaVVRXTnc5dXBqNWNaZE9nWnVUNklzaTFabFFVbWk4UXowc2ZRdndPZEt1NDdGU1Fpbk9fOF82dWFMVlNibU9wUWdsZ0NXQTBYZnd0SzJDVE1aMzFKUGtuOVFjWFI5UlJWcGVkR3NxR29PSkdScTh0MDZlQUVlREHSAZsBQVVfeXFMTU5GWlQ5MUNid1Bnb2JxRzZqd2VyYTZiYjgxeGZrUUZsaHBqSUlVX3pmVHE0QnJUM3hJSzBDRXRiRFdpOTVqdl81Z3JMM1VvLXpwbVUtNWpvaEd2X2N5ZHROOVVZNzJWOXdDanp2TFJJVXoxQU9XLVFkNmt0SnY2ZFdjcjNjajc0VnhKVEZ2VzhXbjRkaG9pdjZ3UjA?oc=5"
+   "src": "Center for Data Innovation",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjVhQlpyRWhUWFpPR2pTMGlQNDJmeWRlak1qSlVoRVllSHIxS0hSSkFhZFJGcTZ3M2tLa3A5VW5NaFhsYzFTak9mRWlMMnh1N053c2ZsUUJ2Qk1hd1dUUzlnaVBhcHlzRlhsRGllQmRYN3laMlJuN1hxekRtR0dReUtZRm1yd1lRcE42ckdVWGkwUmphcjVJ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout",
+   "blurb": "",
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "What Is Open-Weight A.I.?",
+   "blurb": "",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56YnotT2gtQVRYdTR4V1ZzYS1PUjZOLWhyMURzMHNWR2VyQXgtYWRYLTBCbC1PdzB4MGJROG9ieEdwZDdyR0ZIY2dIU1lxWWFHZExjT3ZHcGJoTUpYN2U4Wmt4Qlo4UGNoaXVxY25TNDBoUXM?oc=5"
   },
   {
    "cat": "robo",
@@ -17,73 +31,59 @@
   },
   {
    "cat": "ai",
-   "title": "AI model compression startup Multiverse raises $570M at $1.7B valuation",
+   "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
    "blurb": "",
-   "src": "SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0liTnRDV3JidnVMVkxoX2Y3d29FdGpUTVNRaUtlS200MUZOWFN3ZHU1cEoyalNyRUZxQUJlLUxMWG5hYkZxZmpYOWRNU01zd3ZqSmF1cTV5WGtBTDFaRWNwbURHNkNMUmlXYzdxa2Y4NVFKeGsyWjZNSkNreE80bmlmNjVtSHM1RVAzZGxrY0EtZjFKOFIzcVpvbW1OdVV5Q3RwbktB?oc=5"
+   "src": "Decrypt",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMExJcjdQcFQxY3lZWDM1V1JpT0NtSzNYZTJNNWxaMVBkNUg5MnpMeWZrOHBKdS1vSmxtUm5yNHIwdm1XdU5JVDA5SDdTVEp5ZEJyLTFFTmlGMTBXTEJCbS1vQWpaSE41VEJfLURFU0xldlByX2N6LXpVZ1hWN1FvTWFR0gGKAUFVX3lxTE5UR1FvbGoydUljejR0cUU0WFotem5PNzNMYVd1a2p1T2xhLUphZnloSlVmUUswQkNMcTlBMFVQcUhZd1dOX1o4d2tnaXRzUkMxNUZESzB3aUZibllPTHFLU1hpZlJidGkzcmJmd0lpZ2EwSFNLZzVNWUdSODI3enFaXzRRR3BNa0NaUQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "How Integrated Actuators Improve Humanoid Robot Joint Performance and System Integration",
+   "title": "How integrated actuators improve humanoid robot joint performance and systemintegration",
    "blurb": "",
    "src": "The Robot Report",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbGVONXRDN2ZzT0R1dTVZTEw0cmxQa2psNmI1aDZrWk5xb3hNUUJIckl1ZkFhRlB6eGFKaktxeW5Qa3ZYdWtncUFPOGltT3VFa2VPX1hGQWhtbXlCeVhYaFBma2VZSU01VlFzZXVPZTJEZ0RfWU12c2xGQ2dHeHQ0Q1FXRlM3QVRDdkhGVnFhZzQ5ZnA4UTJDaUQ2aGU3enkyWmJkbXA3MnNHTUFyRkpnZGk3RnVERHRsby1DLQ?oc=5"
   },
   {
    "cat": "ai",
-   "title": "AI models explain 17% of earnings-day stock moves, up from 5%",
+   "title": "Brain-Inspired AI Uses Cognitive Maps",
    "blurb": "",
-   "src": "Phys.org",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQRzRJVU5wQXJrYWc0TF9mLTFPeXRqRFRkb1JGRFhzMWFqa2puQ24wMHRGWmJfMk54N1VQRm1aTjVZOWU4NHlRV25HZnE0WEpla3JhWEVFa1lHUlE?oc=5"
+   "src": "Neuroscience News",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jRExYUW4zWnY0aFNiSl9IVFZ3WFNleVk4UkI0d1lCbldCbmt0eDhQMnFjQ2NIUzlqeGdCX3JFR2pIN2dPQXVDU2UwQUkzQXRPUXZFSTg2M1J2eUlQQjY3eFdDcm4wc0ZsSW5qYWRJU0Zza0x1RU0w?oc=5"
   },
   {
    "cat": "robo",
-   "title": "China’s Lifelike Emotional Companion Bots Go on Sale",
+   "title": "FCC bans foreign humanoid robots, expanding campaign against Chinese tech",
    "blurb": "",
-   "src": "Sixth Tone",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55dWhMZ2pMYzdrSlJreFo1UGtPdGI1LTdOdHVadm1VWVBUZTQ1dUFVbUJieVE5TDFiakJtMXRfN0NpRFdnRkFNVEo5Z0VGQ0k?oc=5"
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGQ5Tm5mQWgxMlJDa1o5TmdqVzV3RXJabGF5NGVCQUNXTERITmQwdUY5eDRtS05yV1FMeXZibWotVjlvbnNJeEhvMnFTVkl6MFFDUTROUkpYdmdnSFVnRlAzdTJKVXRKTkstdXJMUDllVl9oTUJVUllYd2FCMTROQ0pWajZUbjVKMTZQZDI4SVUtSlZCQ3N6SEd0UTZsN2tUUUJjZS1WUGhLZzdaTC1pdGozSTUxeXVHNWJEWWU1ajljTmN2?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports",
+   "title": "FDA clears AI software for limiting false-positive ICM alerts",
    "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2NzVEU5THRFZ3EzNVVuaGY4d1RrSUtldW1SM2pWN3hjWjM1cF9nSXUyZThsazlDa2x0Y014Z05DN29lZjA2YS1LdUpBV1k1cXpqdmV0OHVoVEg5T3QwMkhzMFUxX2VNOC1fd0JxT2daUy11Ti1WNnFtc3QteC1jcVhFcUpLWGdXUXc4a1pqU3JvczRENmE5ZTVLWWFqUjN3YTR4dmUxNmk5eGlUMjhOYUh1cnYtLWpFS1hjUE5ZOFJ5QkZId00yZ1JsVzJuWEJsYkRv?oc=5"
+   "src": "Cardiovascular Business",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNay10aHloQk93OVBQZi1YUFhDdE4wRW9PQWh0WWVVZGpGaEhHX2VFUU9GOExMOFR5dXd3M18wVzZKRzQ2eTRDMmVRcjVXSXFPVGY5TTBwbTdWU3lYenNLMXF5YmZKUktjcTBUVjJkOXBEM2ZCLXVzRV83dXdtcHFEX0tDU1RLYTFpZ29YSThsZzBrOXJqQmtHSC1LSkdWT2RBQUVNbmEzN0JQcjhRR0ZwSGU2dGlqTzZVcTNMZ05GTEo?oc=5"
   },
   {
    "cat": "robo",
-   "title": "US airlines tighten rules, ban humanoid robots from commercial flights",
+   "title": "Trump administration to ban new Chinese robots and inverters, protecting U.S. AI",
+   "blurb": "",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUhfNzlWYWJHaXJWMzBsSEl3bDRLN2kzUVlxY2w3VjRnZExObnFUZjdkU0FPR2FfQldHNS11d1Q5eUt0RW85SzRyX2xwZC1yOUVFanZqbDg5am5MVzBvbHdDWW1iNEJTeC1ReTVVN1RZdjgwNUloMjZybzB0ZEJ4Z0xQQUp4ZDZwOEs5VFo2T2tfRGRJUGtQT3JILU02NWtuWFpHYVNLSkRHV29FQmdvc1RPMjPSAboBQVVfeXFMUDNHY3htbmhOLWpkMno3YXZFNE0yYUFZV3l6R2ZtdDVwZGJRQnZ5N19Jd3ZZUHFJZXZoRWE4Rkt6SFhGdTg5MWxOU0RuYWlmUmdESnpzWTg2a0xnMFlyZTR3d2pLOHVpdGpmM1pObGNrRy1NVmZGeGxNTzg5UVJzZ2htMVZMLXg2eTMyRy1OYmEwZ0ZYcTlYN1VZZ0l6VjNEZExrRGZPbDllQTd3TmRwVUlDcXBzcVJ3c2Vn?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Nvidia CEO tries to quell concerns over open-source AI models and China in Congress visit",
+   "blurb": "",
+   "src": "Washington Examiner",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamtjRll0NEI2emR5blRfbXJHRkIxWk83VUF3S0ZlME5iQVd2R1U2OHpqX2RqS0tGM0JVS1BpOTRYZHVtcTZDb3A4QkJKOE15d0Q2eklhRnZEWWNuVWxNeWNmOTJVUDk1Qko5aDhwRGJCTTBkcGlXelNYMU5lS3h3dEZXWEJTWnAwSlZYT0pzRWViRkNkN01lTlV2WTJtUUozdkxzeHNEZlI?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "US airlines are banning humanoid robots from flights as safety concerns grow",
    "blurb": "",
    "src": "Interesting Engineering",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMGZSUmhsb2wzbWdRaHdCNnNQUkk5LTNXUVdrcXFXc3BLcTB6SWZKa1AydG5uV0VVdnFvekZqLUZfMzhvQkhsTTBWTXpoNEt5cWx6alFlX3M2MDVxcFpVcW85NG81eXVoeEZfTE5FY3NhRnpfVnJpLWwtUTlDRFJONkVmNmlIdjRhLXVnYXo1WDc4MHRFYlF3cjVSQzc3S3VhS2FvMjh6RTU2VEJ0R1ZTcElXTTZRVUdxQ3gzRlVhQ2g?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model",
-   "blurb": "",
-   "src": "SecurityWeek",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXlhbXpTS2VCcFZkV1BqU01LMi1TVEVDQkpCNFNOYUo1aElxZko1M3BlcThGSnBMQTVobEd0RjFma0pZd0RuYmVjVVg0WGRRLTZlNGt5bjJwVWxjVHQwNWxtZ04xR3ljRGFjdEY5WHdIQVQ5djJqTS0xTGg1b3BHRjZSVkJFV3pJTUI5bkZoc0dwU2Uta1FDX050dUZTcHPSAaQBQVVfeXFMUDZCNndiTjU5dHg0YkJMbVBPVnhnWml1QXVWMUQyWkNFdWpPQ2ZOYm5EVDkwZWVkeUFFQm9Jb2RMNC1vckRCQ1E2b0IyeDZJRWpFQjlHZlU1RGhtZk5kaG85d0o0YnByWXBVX2xiakxId0tkdWtTZUJDbVR1c2ZnWU9UaERjX0s0LVBuMjlRWUtTVzJza0FOLWYyRlpJU0U5VGtTWTg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "What Jobs Will Humanoid Robots Take? An Honest 2026 Answer",
-   "blurb": "",
-   "src": "RoboZaps",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0R2RzcjRlbUhQTWVFamtQdlNvQmZHN3dfdlRqR3JfZjNCOXFCMWhCQ0VMRjVkVnVLX0o3YUxXZHc3Sm9BNktKd0JydkREc0lQTGtPNE9VbUkzTmFPcnhFTFdkaVdfU2c0S2FOdmlvRTM?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Moonshot Seeks More Nvidia Chips for Next AI Model, Report Says",
-   "blurb": "",
-   "src": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDhrMk1pcTJidi1SQlVucF9Sd3pOTC1xa0tnb3pPZlloZFdWbzNkc0taMVRHeFBYUW5xZ1RtcXNzRi16T2VlR21GS3FYZHJGUmx5bFNDdFFUZk15VXI3UmlCRmVGd2N0Rkh1Tk1VcUp2ZENaYnpuckZtX2dqZzJsNXJpOHFiTHlKbWdrNE9UUm5nSVJaakJyWUVKb3NRQnpoeWR5c3hfbVJQYkQySXh5TDAxbw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "BYD confirms plan to unveil humanoid robot in August",
-   "blurb": "",
-   "src": "CnEVPost",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EeURFdkdiVG9wWTQtLUNCWXkxQmEwd3JQOE1OaGNTanU0X25odDhnTVVMVFJ6RE5rWG1OQkhaUS1CQWliTUJNLWJuTThaVWg4TnBYdWxvNndYUnpZOTAyLTQyZEkyMnExX0NiZHc1STdrX3BqeHZRcA?oc=5"
   }
  ]
 }
