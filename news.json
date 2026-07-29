@@ -1,6 +1,34 @@
 {
- "updated": "2026-07-29T05:54:36.451Z",
+ "updated": "2026-07-29T11:27:42.506Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "What Is Open-Weights A.I.?",
+   "blurb": "",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56YnotT2gtQVRYdTR4V1ZzYS1PUjZOLWhyMURzMHNWR2VyQXgtYWRYLTBCbC1PdzB4MGJROG9ieEdwZDdyR0ZIY2dIU1lxWWFHZExjT3ZHcGJoTUpYN2U4Wmt4Qlo4UGNoaXVxY25TNDBoUXM?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "US bans foreign-made humanoid robots, targeting China over national security",
+   "blurb": "",
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZy1mNDd5VXAwaDlRenRDRmNtVXBtQm1PakhhMmVqMm9rQ2xQeWpyM3A4V0ptMGFETmgzWmY2RGp3MG5GbVJwR29PNW5BSGZVUDZISUsxTG82bHR1RE1rYWJLUlFwaDExVTNZemNRVThCUTI3cC1vdTVIcDBjbmpIVU9pcHJjdnNhMXdGNkRFSnVyMDE0ME5VVDBCcmg3MExibkZn0gGoAUFVX3lxTE1PaVdkTXlzV2pGSnJZM1hXRjVINW05RkhoZ1B2UTV0MGFXbTFjTTRITjVtdE96ajFMQTIxbEJCUUhobTBBTEZzSTlzdC1vRWV5d2o3bVVXUWFZTHBveHhzZi04eFNILWRVNDJPeVhzVXl0ejc4QzRULWFWMl9DdUVqQ1hfUGdrbUxoeUE3MUZ2dmh2UklueGNpdGJmZjZRendiZC03RHNoNw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "AI model accurately predicts how effectively the heart pumps blood",
+   "blurb": "",
+   "src": "News-Medical",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkc0RWhVNmdjQnJNNElweEVfRmxrbEVjMkZVZ2ZkVTBtYU56ZkVhQklaY0JTUXZQYWc4WG05VnpJZi1iRFlZNEVXWmpDSW41SlFZSkdweExFTmd3MU81SDZUMGtOVUtWQjZZTGZJaG1UUnROOURsMFVlQzF0WFJrMjZGZnN4WUp6YzRZd2VBa2VlMVBVS0EzM0pHUzR4andNMWVxTVZ3VnJIRk1wQ01hX2xGRl8?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+   "blurb": "",
+   "src": "NPR",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uVUJabGdkUnpOTmdmdnlqVmhndzNiWjJ6LUhUcG5sbDdjcjNsR25pUUd1MHVlc0VYTjBERGJ2bG5sSkl1ck5qdGRIdzk0M3BCckhpNmVaNDJvMjZzYWZfbmdLeTdzOFluN0NR?oc=5"
+  },
   {
    "cat": "ai",
    "title": "How to Fix the AI Model Theft Bill Before It Becomes Law",
@@ -24,66 +52,38 @@
   },
   {
    "cat": "robo",
+   "title": "US bans Chinese and foreign-made humanoid robots",
+   "blurb": "",
+   "src": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGxuNDNhMHhFU3RGUnJWZXJ4NmpfU1Vzd09sWG5LNjZ0c0UwVVR0bm9TNzl1dXNQNGJ2bWpxeXZVOWN5SVhna3BLZHJjVHlQNXNzV092OEJScm8xTWFBUGZUaWhJV0JMR3UyWUpCenNPYlVHdENhSnMzSlVGSDVudU9qZGMzYzVR0gGIAUFVX3lxTE40bG40M2EweEVTdEZSclZlcng2al9TVXN3T2xYbks2NnRzRTBVVHRub1M3OXV1c1A0YnZtanF5dlU5Y3lJWGdrcEtkcmNUeVA1c3NXT3Y4QlJybzFNYUFQZlRpaElXQkxHdTJZSkJ6c09iVUd0Q2FKczNKVUZINW51T2pkYzNjNVE?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Q&A: Nvidia genAI chief explains why open models matter in AI",
+   "blurb": "",
+   "src": "Computerworld",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNektRMnZqVV9rclZVdENOMG5OUENIMUJ2VC1MbVNQSmFULVl4bTc5VTdTcjdMNExESlRBYWtEVVNmQVk2a0YyTHZoVWUzajlQUGNUdzZ4UHQ3Nkoxa0huUkhRTjR1TVNlTnZzM0pEc3VwRGFwZFBWb2k1aUMwRzJZWDFPc3gzem82WmVoY0dHMDZaX3RXTEZ4b1hNWTNBQkw1QTl4T2t3ZjVZOHItemVv?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Trump administration bans new Chinese humanoid robots",
+   "blurb": "",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUV3REY1FKRXJqTFF4ek5ZS0xqeXY0bU1pUkxkUGx5cFlaMklqWmM3NFk0ZzdVRlhPaEhBYTlTU0YyZ2tfSG0zZENjb1dmVWU2ZzdlMktkRDlFUQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Thank you, Xi: Cheap Chinese AI may be the best thing to happen to American tech companies.",
+   "blurb": "",
+   "src": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcU1RNG9VN254ZllEOTVNeGdoQXh1TlVKY0IyVGpUS3poVTFoUUlDbGM1TFVBYlh1cldkUHZpRXZxNHNQRmFHR0lwZzN6TTg0UzFrMU1NbDUzMVU1QzBYWmNqVWZKWmI1OXlVLWhrb0hLM2pwY1k0dkRVYWh3ZFVOSU9fX2FkQmFBeFpfQ1pZcVRwRXlI?oc=5"
+  },
+  {
+   "cat": "robo",
    "title": "FCC bans foreign humanoid robots, expanding campaign against Chinese tech",
    "blurb": "",
    "src": "The Washington Post",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGQ5Tm5mQWgxMlJDa1o5TmdqVzV3RXJabGF5NGVCQUNXTERITmQwdUY5eDRtS05yV1FMeXZibWotVjlvbnNJeEhvMnFTVkl6MFFDUTROUkpYdmdnSFVnRlAzdTJKVXRKTkstdXJMUDllVl9oTUJVUllYd2FCMTROQ0pWajZUbjVKMTZQZDI4SVUtSlZCQ3N6SEd0UTZsN2tUUUJjZS1WUGhLZzdaTC1pdGozSTUxeXVHNWJEWWU1ajljTmN2?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
-   "blurb": "",
-   "src": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVFuWnA0aUNnUld3UFpWczJKenhXdk9sSUw0QzFjUXBZeC1XMzVvVUdaeF9MZ3VEaVJFem5HdGRpenZTbnBxTW02WXBOcmZrbGFiRDR5TXN6c2hJejUtV2lsX18wWVJNbXJDNXVyQXFOU1JJUlpyc09KYl94b3NraE01VXp1VUJHNTNUSlM3TlFwRi1qOS0xZWIyOVQ4allKVWVyZXZsQ2RodzFwaGk4N0VEd9IBuAFBVV95cUxPMWI1aWhqSG9qMUk2UlFFRXJtQVNMWUxteUYxZU90XzFuRnNKdl9qWTJhSkJod1d6TTBfT3V5Uy01dHNtNWpUM0EzeG9ZUGRrLUQtXzhUNkVzN0V6UjlJVnRVY2FwZ2RwRnhuWng2WXdhVHBtQll1NUFqZHRscERFQUpLdzlYbVBHRXMxZUd0czVvS1o1bC1LMGpLbXVfOXZGUDRzcEM5S2hHcGpObEV3N0QtVjVqZjl4?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Trump administration bans new Chinese humanoid robots, to protect US AI buildout",
-   "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "UC Berkeley researchers, entrepreneurs create first healthcare AI model trained to understand clinical decisions",
-   "blurb": "",
-   "src": "UC Berkeley Haas News",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVjV4MWd5TGdTTHM2NkN2YnRuSnhRLURGM2pEUWNJcWVHcEFfZS1kU1o2NGp4X0VLQ2RaT21QSDB2RlQxZ0FTRU1tc09wcTJ4QnFjLUNCTmttd0pDT3I2UGJFZVM0M2pFN3JvQVRSRWVpYlU2YUNFUW1GWWRibmhYVUc5Y3p1YjFKTTVHUFdUQllKejNnNUZESnpRZW81NzBTMEl4Tzd6cExZcldxR2ZSX0J6VFFYTmRKNm42ZUdvSUJzbTBQci0wS3VfRkZhUUM0bWtMR1JUaU54cXk1Mmtqcg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China sweeps global humanoid robot start-up ranking as US imposes ban",
-   "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYkVSMk9kbGxlMGZCeDRTLWY0b2JUdEFFUUFQM1pwTTRTYXRSNm5CcHQ0dXNsbFdpcDFJdzQ1SXA2ZjgwSzVaRzhmN1RvUUpQeFp6ZC0ydVVUSE1qSnZZSG41NXRzTFdwT2VOWC1EZk8zTThYUDRKbFBwZ1Z0YXRzZUMyUGltcnFkU2JjYktxLXVGZ1BWUlZUNmxCNnpuV0o1c0FaenBYVUl4dVRtWmp0QzJEZmlhOEptZFdIZtIBvAFBVV95cUxQUmZ4eEdSYXJaNjl5RXV0aWo0b1RBMnY1Q0hVMHMtVmVjVmdIZm04NHNDN1J2cnhHdk1wYjRGUENxM1FvOG1kY1pQQlprSWN5bEhlRDd5RDRxLWFNQmUzc1JISXJOVzB5ZUxUd3pJcHI5bGZJWUt5YWpudkRUeTJ2ZzJTSUFDOHkxYjItT2VPZmttZWg5ZlVtWnhmeXN2aDFGMWpiNS1Ya0hMaWg5MkU1VTBGSTFKdjdkc2VDcQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "What Is Open-Weights A.I.?",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56YnotT2gtQVRYdTR4V1ZzYS1PUjZOLWhyMURzMHNWR2VyQXgtYWRYLTBCbC1PdzB4MGJROG9ieEdwZDdyR0ZIY2dIU1lxWWFHZExjT3ZHcGJoTUpYN2U4Wmt4Qlo4UGNoaXVxY25TNDBoUXM?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoids loading crates and robot dogs sniffing out gas leaks",
-   "blurb": "",
-   "src": "Siemens Newsroom",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNVg4MmZTbFNYODQ2VWNfQlJfOXNJOW44eENOdXh0NXNIbzdwRUlGb1Y1VkRXX1JiNENlRnNRdmJ4dHhYdDBELUV0VVVxWU9GdFpZQnFRMVRtYzkyOC13QWM0YTFkNzNEMjZQS0wyZHY0MjQ4QzdFLWsyN3p0U3B5MEEtc2pFcTA0NlJWTWUteWwycnZP?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI competition heats up as US targets Southeast Asia’s public sector",
-   "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWhpYnc5LTctRGhpWVhGMDRlSjlxTTZTa3dVTW02OWo5ZVBpZFMwUzcwN21WRVNvMEktUWxqdHh1cnhZY0ZrQVA2a083RHpid2tiOXRoVkhIUGJpcnU2SlpXelJfQ3g1MXUwYjFmVWIyNmtJVjU5NXFUWUU2U1MxWUxRRzdYYVplNERhYzNkN1FMRG5kZGFCT21rSnJySTYxdDdvYnU5b2J3OVJkbHhrVHdqbmdST1BkYXfSAboBQVVfeXFMTzFoaWJ3OS03LURoaVlYRjA0ZUo5cU02U2t3VU1tNjlqOWVQaWRTMFM3MDdtVkVTbzBJLVFsanR4dXJ4WWNGa0FQNmtPN0R6YndrYjl0aFZISFBiaXJ1NkpaV3pSX0N4NTF1MGIxZlViMjZrSVY1OTVxVFlFNlNTMVlMUUc3WGFaZTREYWMzZDdRTERuZGRhQk9ta0pyckk2MXQ3b2J1OW9idzlSZGx4a1R3am5nUk9QZGF3?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "US government bans humanoid robots manufactured abroad",
-   "blurb": "",
-   "src": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeEFNZTczMU40ZjNzYVFkMHlJMjZhT29hVnBfajdHOEh4Qk1UTnBwWDlMNUE0Yklxdm1HTnZpczlyd2w2VVZkZl9IandHRnhJaG1PQVp4cjBtajBtem9EZjhRQ3NwYjJKQWpUWm5hWHVjZktYdDVYTUlCeS1ISFlnMDdOTnBrTGdiWEtzd2ZoZmkyUFR4TlA0b1pRdTVzTnp1VEVR?oc=5"
   }
  ]
 }
