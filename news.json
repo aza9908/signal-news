@@ -1,26 +1,40 @@
 {
- "updated": "2026-07-29T11:27:42.506Z",
+ "updated": "2026-07-29T16:23:15.577Z",
  "items": [
   {
    "cat": "ai",
-   "title": "What Is Open-Weights A.I.?",
+   "title": "NIST Launches AI Model Evaluation Program to Benchmark Performance on Blind Test Data",
    "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56YnotT2gtQVRYdTR4V1ZzYS1PUjZOLWhyMURzMHNWR2VyQXgtYWRYLTBCbC1PdzB4MGJROG9ieEdwZDdyR0ZIY2dIU1lxWWFHZExjT3ZHcGJoTUpYN2U4Wmt4Qlo4UGNoaXVxY25TNDBoUXM?oc=5"
+   "src": "PYMNTS.com",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ1lfQkRkMUlFZXU4aUphdmlReExfcHFVZE8tVUJnMzdtVU9BcG9uNGZQa2Z5Vlo3MXBMUzY1MElIM0xMS2tfU3lOWlZVTE9SQTluQWZjS3I4OVhPQW83NDNWMzVjUnF5NURGVVZxQ3puMGotNDlROWVaMlpWeUlabmk0ZnRUWEFlV1JYdERtejVMOHdjOHNtbDdoRGl0QXlzWlYxQXEzMHpzd2hSZWpPWkFjMDlIS1FBaDNIY090SlVRRGZQcnZKb2laQ28tdG4za0NN?oc=5"
   },
   {
    "cat": "robo",
    "title": "US bans foreign-made humanoid robots, targeting China over national security",
    "blurb": "",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZy1mNDd5VXAwaDlRenRDRmNtVXBtQm1PakhhMmVqMm9rQ2xQeWpyM3A4V0ptMGFETmgzWmY2RGp3MG5GbVJwR29PNW5BSGZVUDZISUsxTG82bHR1RE1rYWJLUlFwaDExVTNZemNRVThCUTI3cC1vdTVIcDBjbmpIVU9pcHJjdnNhMXdGNkRFSnVyMDE0ME5VVDBCcmg3MExibkZn0gGoAUFVX3lxTE1PaVdkTXlzV2pGSnJZM1hXRjVINW05RkhoZ1B2UTV0MGFXbTFjTTRITjVtdE96ajFMQTIxbEJCUUhobTBBTEZzSTlzdC1vRWV5d2o3bVVXUWFZTHBveHhzZi04eFNILWRVNDJPeVhzVXl0ejc4QzRULWFWMl9DdUVqQ1hfUGdrbUxoeUE3MUZ2dmh2UklueGNpdGJmZjZRendiZC03RHNoNw?oc=5"
+   "src": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3JUMFFydWtDTXluS0Z3VHcteFJTMWpscXFqcWNGRDhWOVU1RndmNUpKZ0ZFRTVPODFDVHFHMTVyLWE2eEk4WmZVMTZkNmNKcjR3UFJReF9Rem5RRkNzSS1BZHNRb2gzOHNSeGh4dXpXWk0zNHpGTzQtSkZYZnVpZkw5NGxrYzJDUzFQS0UycUp0enk1eDM4Sg?oc=5"
   },
   {
    "cat": "ai",
-   "title": "AI model accurately predicts how effectively the heart pumps blood",
+   "title": "New research framework aims to assess and track clinical AI models",
    "blurb": "",
-   "src": "News-Medical",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkc0RWhVNmdjQnJNNElweEVfRmxrbEVjMkZVZ2ZkVTBtYU56ZkVhQklaY0JTUXZQYWc4WG05VnpJZi1iRFlZNEVXWmpDSW41SlFZSkdweExFTmd3MU81SDZUMGtOVUtWQjZZTGZJaG1UUnROOURsMFVlQzF0WFJrMjZGZnN4WUp6YzRZd2VBa2VlMVBVS0EzM0pHUzR4andNMWVxTVZ3VnJIRk1wQ01hX2xGRl8?oc=5"
+   "src": "Healthcare IT News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFRmTHQ5N25DUko3eDJfMUIxd1N3VGhfcGZqb1ZHb254cXpid1d5SXFZVFVzaTFabDF1dlB4RVIwejk3cnBIY3oxRTZKMlhPaTZ2cGdSNUlHM2NSVmVZUmdxVkl1UGJ3cEV2RnN4RnJNTnVCcmFuV19sMWh5M0ZVVkdQX3ZNSUNPWlNwNWtZd054c3RUb1M0em9HOEZlOEhMNmd3?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Walberg Sends Letter to Sec. Lutnick Regarding Risks of Foreign Humanoid Robot Technology",
+   "blurb": "",
+   "src": "Congressman Tim Walberg | (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmxIYi1zdUZnRmhCWlNYY0x0LU9sUXRGWm1ka1c1YjljNFI5V0lfU3luYkRGU0NnREExTm9tTUV3bWFyX3EwbXpYa2tybDM3MWJ6em5Yd1A2LUZlMjNGeHNoOVVUT2RrNW9adTlmVm80OEVfYVZjZ3BrclN5Q00wVTNFVnlSWUFqXzZPQjZYM2JCeV8waHZsak9PcFZqYXluMEREVmxJUmpWQ1JaWUNjdUREd2Z2U01wVXc?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "What Is Open-Weights A.I.?",
+   "blurb": "",
+   "src": "nytimes.com",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56YnotT2gtQVRYdTR4V1ZzYS1PUjZOLWhyMURzMHNWR2VyQXgtYWRYLTBCbC1PdzB4MGJROG9ieEdwZDdyR0ZIY2dIU1lxWWFHZExjT3ZHcGJoTUpYN2U4Wmt4Qlo4UGNoaXVxY25TNDBoUXM?oc=5"
   },
   {
    "cat": "robo",
@@ -31,31 +45,17 @@
   },
   {
    "cat": "ai",
-   "title": "How to Fix the AI Model Theft Bill Before It Becomes Law",
+   "title": "AI model accurately predicts how effectively the heart pumps blood",
    "blurb": "",
-   "src": "Center for Data Innovation",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjVhQlpyRWhUWFpPR2pTMGlQNDJmeWRlak1qSlVoRVllSHIxS0hSSkFhZFJGcTZ3M2tLa3A5VW5NaFhsYzFTak9mRWlMMnh1N053c2ZsUUJ2Qk1hd1dUUzlnaVBhcHlzRlhsRGllQmRYN3laMlJuN1hxekRtR0dReUtZRm1yd1lRcE42ckdVWGkwUmphcjVJ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "United States Bans Chinese Humanoid & Quadruped Robots, Citing National Security",
-   "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbml6UUp3UkUyRHlUOGxKTjNPTnZvTlBxSmdid3BuRmFINnhzaHVmS1U3M1lrd1VGRkxWU3lyRnZUdUVuSjB6SnVJc1JaSGFWQ1lUOE9JZUhWeVlhNW1zaUx4U183NmtFaU1pSjZNcW03YnlaNFI1dUFRMGlfQ0RYVVUwMlpweGlDZDByT2ZXSldmVW9DV195Z2xGSGczQ3dHM3pHSDZoMC05R3dZOXdXNnFFQXBLYXFSV2RTMmtOMkNmeFU0MGNDbWRlakc?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack",
-   "blurb": "",
-   "src": "Politico",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaElSVC1WQ2JsMi1JTEZTNGg1dGZ4cDhMZldRajFrTzN5SW5QRXZyNTdCZkxxZklxUXJBOXNOblZQbmZXMkJvZ0VNaE5SR255T0FzbTdBbFNiWjZWMm51cUJPbERTenhWYXNqOVhUYmRidnJaVzZYUmxCeGZ6cVdwUTBCQnhja0JqU2tWbkVCLUx1dnM?oc=5"
+   "src": "News-Medical",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkc0RWhVNmdjQnJNNElweEVfRmxrbEVjMkZVZ2ZkVTBtYU56ZkVhQklaY0JTUXZQYWc4WG05VnpJZi1iRFlZNEVXWmpDSW41SlFZSkdweExFTmd3MU81SDZUMGtOVUtWQjZZTGZJaG1UUnROOURsMFVlQzF0WFJrMjZGZnN4WUp6YzRZd2VBa2VlMVBVS0EzM0pHUzR4andNMWVxTVZ3VnJIRk1wQ01hX2xGRl8?oc=5"
   },
   {
    "cat": "robo",
    "title": "US bans Chinese and foreign-made humanoid robots",
    "blurb": "",
-   "src": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGxuNDNhMHhFU3RGUnJWZXJ4NmpfU1Vzd09sWG5LNjZ0c0UwVVR0bm9TNzl1dXNQNGJ2bWpxeXZVOWN5SVhna3BLZHJjVHlQNXNzV092OEJScm8xTWFBUGZUaWhJV0JMR3UyWUpCenNPYlVHdENhSnMzSlVGSDVudU9qZGMzYzVR0gGIAUFVX3lxTE40bG40M2EweEVTdEZSclZlcng2al9TVXN3T2xYbks2NnRzRTBVVHRub1M3OXV1c1A0YnZtanF5dlU5Y3lJWGdrcEtkcmNUeVA1c3NXT3Y4QlJybzFNYUFQZlRpaElXQkxHdTJZSkJ6c09iVUd0Q2FKczNKVUZINW51T2pkYzNjNVE?oc=5"
+   "src": "dw.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVzdodUNiZmlGaW1xSHhjZ2xOTXZXUDkxckR5WTRQZDdMdzlEaWxVZGh1ZXdTaUxNSDlzVHRpMzRma2NfTEJoVWVDcDFVcFFzNEFqaXp5cTBKeHdZcG5ZVGVNdXgwUk1kZHAwbVFzUUU1ZFdlbHdrbTZrUXNnOWcwTkFHMEtIREF30gGIAUFVX3lxTE40bG40M2EweEVTdEZSclZlcng2al9TVXN3T2xYbks2NnRzRTBVVHRub1M3OXV1c1A0YnZtanF5dlU5Y3lJWGdrcEtkcmNUeVA1c3NXT3Y4QlJybzFNYUFQZlRpaElXQkxHdTJZSkJ6c09iVUd0Q2FKczNKVUZINW51T2pkYzNjNVE?oc=5"
   },
   {
    "cat": "ai",
@@ -66,24 +66,24 @@
   },
   {
    "cat": "robo",
-   "title": "Trump administration bans new Chinese humanoid robots",
+   "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
    "blurb": "",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUV3REY1FKRXJqTFF4ek5ZS0xqeXY0bU1pUkxkUGx5cFlaMklqWmM3NFk0ZzdVRlhPaEhBYTlTU0YyZ2tfSG0zZENjb1dmVWU2ZzdlMktkRDlFUQ?oc=5"
+   "src": "The Robot Report",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSTItNXlMTEc1ZkN6TUVicmMtU0JuUTI3Y092Q2FVMHJ1V1EzaEY1U211NXdiUkYyTlVweWtBNDI4UG9QNzZrV3dLWld3VldUNVdENzhaZE55Rm5jOFFMZDRjMWxGZzV0OFZPN09HY29NNC1TQmhHMmY3RWJ4VFJjSG45TmpjLWM0aXRDT2pDMkw1NGR5bTJFdVBkTnQ4dw?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Thank you, Xi: Cheap Chinese AI may be the best thing to happen to American tech companies.",
+   "title": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack",
    "blurb": "",
-   "src": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcU1RNG9VN254ZllEOTVNeGdoQXh1TlVKY0IyVGpUS3poVTFoUUlDbGM1TFVBYlh1cldkUHZpRXZxNHNQRmFHR0lwZzN6TTg0UzFrMU1NbDUzMVU1QzBYWmNqVWZKWmI1OXlVLWhrb0hLM2pwY1k0dkRVYWh3ZFVOSU9fX2FkQmFBeFpfQ1pZcVRwRXlI?oc=5"
+   "src": "Politico",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaElSVC1WQ2JsMi1JTEZTNGg1dGZ4cDhMZldRajFrTzN5SW5QRXZyNTdCZkxxZklxUXJBOXNOblZQbmZXMkJvZ0VNaE5SR255T0FzbTdBbFNiWjZWMm51cUJPbERTenhWYXNqOVhUYmRidnJaVzZYUmxCeGZ6cVdwUTBCQnhja0JqU2tWbkVCLUx1dnM?oc=5"
   },
   {
    "cat": "robo",
-   "title": "FCC bans foreign humanoid robots, expanding campaign against Chinese tech",
+   "title": "United States Bans Chinese Humanoid & Quadruped Robots, Citing National Security",
    "blurb": "",
-   "src": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGQ5Tm5mQWgxMlJDa1o5TmdqVzV3RXJabGF5NGVCQUNXTERITmQwdUY5eDRtS05yV1FMeXZibWotVjlvbnNJeEhvMnFTVkl6MFFDUTROUkpYdmdnSFVnRlAzdTJKVXRKTkstdXJMUDllVl9oTUJVUllYd2FCMTROQ0pWajZUbjVKMTZQZDI4SVUtSlZCQ3N6SEd0UTZsN2tUUUJjZS1WUGhLZzdaTC1pdGozSTUxeXVHNWJEWWU1ajljTmN2?oc=5"
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbml6UUp3UkUyRHlUOGxKTjNPTnZvTlBxSmdid3BuRmFINnhzaHVmS1U3M1lrd1VGRkxWU3lyRnZUdUVuSjB6SnVJc1JaSGFWQ1lUOE9JZUhWeVlhNW1zaUx4U183NmtFaU1pSjZNcW03YnlaNFI1dUFRMGlfQ0RYVVUwMlpweGlDZDByT2ZXSldmVW9DV195Z2xGSGczQ3dHM3pHSDZoMC05R3dZOXdXNnFFQXBLYXFSV2RTMmtOMkNmeFU0MGNDbWRlakc?oc=5"
   }
  ]
 }
