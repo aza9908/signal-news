@@ -1,20 +1,6 @@
 {
- "updated": "2026-07-29T22:02:55.894Z",
+ "updated": "2026-07-30T05:43:49.067Z",
  "items": [
-  {
-   "cat": "ai",
-   "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-   "blurb": "",
-   "src": "WIRED",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNFBwNDJQRkw0VnhCelRZOHl4a3E3TnNBNzY4VFpNZVhYUU9nc1ZrSllwdjdxbC1BWnRLcjRWWkRwVkFzWHh3TzNnMGNESWJPVk51di1TdVhNZlVTT2xWYl8yN1hPNk1ZZzZjZzhxLWs1X1BqZC1TQTYyeDRwX29IV0tzNzFGUVJzWTdFVA?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "US bans foreign-made humanoid robots, targeting China over national security",
-   "blurb": "",
-   "src": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3JUMFFydWtDTXluS0Z3VHcteFJTMWpscXFqcWNGRDhWOVU1RndmNUpKZ0ZFRTVPODFDVHFHMTVyLWE2eEk4WmZVMTZkNmNKcjR3UFJReF9Rem5RRkNzSS1BZHNRb2gzOHNSeGh4dXpXWk0zNHpGTzQtSkZYZnVpZkw5NGxrYzJDUzFQS0UycUp0enk1eDM4Sg?oc=5"
-  },
   {
    "cat": "ai",
    "title": "Sam Altman previews new AI model on Capitol Hill after cyber breach",
@@ -38,9 +24,23 @@
   },
   {
    "cat": "robo",
+   "title": "Humanoid robots are 'next stage' in farming",
+   "blurb": "",
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yZnF1WlBudkVJTG1KY3p0X241SnlNczhrZDc4amVGb25TRTlEdFllbmVnVVpNR01ZSmZSVjVoangxeGowOXpuUFo3c0MxakJ2Vm50V0NBTzM1dw?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+   "blurb": "",
+   "src": "WIRED",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNFBwNDJQRkw0VnhCelRZOHl4a3E3TnNBNzY4VFpNZVhYUU9nc1ZrSllwdjdxbC1BWnRLcjRWWkRwVkFzWHh3TzNnMGNESWJPVk51di1TdVhNZlVTT2xWYl8yN1hPNk1ZZzZjZzhxLWs1X1BqZC1TQTYyeDRwX29IV0tzNzFGUVJzWTdFVA?oc=5"
+  },
+  {
+   "cat": "robo",
    "title": "US bans Chinese and foreign-made humanoid robots",
    "blurb": "",
-   "src": "dw.com",
+   "src": "DW.com",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVzdodUNiZmlGaW1xSHhjZ2xOTXZXUDkxckR5WTRQZDdMdzlEaWxVZGh1ZXdTaUxNSDlzVHRpMzRma2NfTEJoVWVDcDFVcFFzNEFqaXp5cTBKeHdZcG5ZVGVNdXgwUk1kZHAwbVFzUUU1ZFdlbHdrbTZrUXNnOWcwTkFHMEtIREF30gGIAUFVX3lxTE40bG40M2EweEVTdEZSclZlcng2al9TVXN3T2xYbks2NnRzRTBVVHRub1M3OXV1c1A0YnZtanF5dlU5Y3lJWGdrcEtkcmNUeVA1c3NXT3Y4QlJybzFNYUFQZlRpaElXQkxHdTJZSkJ6c09iVUd0Q2FKczNKVUZINW51T2pkYzNjNVE?oc=5"
   },
   {
@@ -52,31 +52,31 @@
   },
   {
    "cat": "robo",
-   "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+   "title": "US bans foreign-made humanoid robots, targeting China over national security",
    "blurb": "",
-   "src": "NPR",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uVUJabGdkUnpOTmdmdnlqVmhndzNiWjJ6LUhUcG5sbDdjcjNsR25pUUd1MHVlc0VYTjBERGJ2bG5sSkl1ck5qdGRIdzk0M3BCckhpNmVaNDJvMjZzYWZfbmdLeTdzOFluN0NR?oc=5"
+   "src": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3JUMFFydWtDTXluS0Z3VHcteFJTMWpscXFqcWNGRDhWOVU1RndmNUpKZ0ZFRTVPODFDVHFHMTVyLWE2eEk4WmZVMTZkNmNKcjR3UFJReF9Rem5RRkNzSS1BZHNRb2gzOHNSeGh4dXpXWk0zNHpGTzQtSkZYZnVpZkw5NGxrYzJDUzFQS0UycUp0enk1eDM4Sg?oc=5"
   },
   {
    "cat": "ai",
-   "title": "NIST Launches New Testbed Program to Evaluate AI Model Performance",
+   "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
    "blurb": "",
-   "src": "ExecutiveGov",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnpSeHhDY09YalRUN0FuVXV1Rk4yU2daQWhNQ0FXTXhPb19iR3VxaHBOa0ZMcFNab3FHZi1wamNWWnV4TmFMQk5GdWR1cWQ4cVU3NHRpTDMwWUxJWEtUUDV5U1AxWDBQUHBRMEpSSjB3UDhGMHAza3JpZmdPZ1pxSGRPSGk?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0NuUWo0T3ZqdENYT0g1QXQwaVU1aFRiLWNGWF9vTFlXMElXOHpHVC1MTHJHVDV5N0RzcHpjLVFYeWJDUWQ1dUE2WE1TdzBKRkM3dGs2MjltajZoVHd5OV9FckpteFJLTVhWRkVMU2x2Z1B6VXF3YTZpN0h3dXNWSlBJSmZiUnYzSHVRVGlNdkhIdDhMSWQ3aGx2dk1vTjNO0gGmAUFVX3lxTE5teTZtWnB4c2pVNU05TkY1Qm8zTFRoNU9fdVptVmJmY3FRVHhOdXFJSHhUNk8xb0VlN2JVUnRFcnBjdDV3Z1NnYkxHM1d0ajNiUmN2WHFBVTEtSG5EU3ZCQVlYSi1lTFFlOWtoUEJ0OWNlYWhzREE4M250eHR6SUhjbDM5M0o4UnpkdzE2MmZLRzNQNllpU0tNVDdKX0hOZWNNOWluMnc?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Walberg Sends Letter to Sec. Lutnick Regarding Risks of Foreign Humanoid Robot Technology",
+   "title": "Who wins and who loses after US bans foreign robots?",
    "blurb": "",
-   "src": "Congressman Tim Walberg | (.gov)",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWZkZHpWNXpJNDZ4anB6TzZ4OUE4UXZ6cmktZ3g0SWRna2R1ZTVWZ2dCSUNjck5aMGRJMnhPa0IyUTZfb0pOSEhrRldDYWNwTUtwLVMtdXRsakNZZWF2bzVQX19mSmhCRHhWUkQxR2ZDQ1o0V1FwUWdKNXhLczlJVmF1MXNxUml6cC1rSDBCWmxoelNvclZXTGlaNkVmLVJsb1loS1dTcG42SkhJemN5elE2RWF4eUFv?oc=5"
+   "src": "Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNazl6Z0xmMVduVDM4WWJWUkZ6OVBVdXB4Mk1FeERRM1NPNHBwa3VhcTl2WkZ5SjdvTFNfYklZUTA3SHNVUTBJVmVuMDZhZTl4dWRjRUQwa0JVQS1jeEo0MllYajJDQ0ZfWDcyblNvaHlQQ3VPTTFhaFVaYjFIVXlQRHROR0R4R0JsQVdSMVJlRUc?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Altman Discusses ‘Need to Pace’ AI Development With White House",
+   "title": "Open-weight AI vs. open-source AI: What’s the difference?",
    "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa2hZcFdyU0VoTE02bUpfeGdsQk9zUG1MWm12NTRlTDlQeHBnZ1pjbUk4aDQ4RWZIdWdxWnJBMFRuVFMydWllVENSbFJPSjUtTkpWZW5ySDdNazNoZERJRjZVZFhuQ09nYjNZRnRya0tUYzdKNi1VeFFZOFNoRWM2WHR1R2dyLXFEaU5uRUFLd1JKYklyWWxDb00xa2pjcWVoVW0xT2lNOHQzMVRiNmVId3ROMzM?oc=5"
+   "src": "fierce-network.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHFMYzhoNjhGWkZaSU1GMjd2RkF2bHhHendtNU9NSllhZ0tRSVprVmY2bk5heGs4dFJ6amdHRmlrRkZRVzl4OXcwb0duVWVQeFAxZTAwR1hSSTdKM1ZaNEN3UjYxVHhvYmJiNUEwLVRMYlQybzBRaWkyeVoxdm9VRkMzcjFnQUkyV3lKaHBiZ3M5UQ?oc=5"
   },
   {
    "cat": "robo",
