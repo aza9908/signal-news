@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T11:30:15.720Z",
+ "updated": "2026-07-31T16:46:58.979Z",
  "items": [
   {
    "cat": "ai",
@@ -7,6 +7,20 @@
    "blurb": "",
    "src": "Anthropic",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid robots: Trump's latest China trade battle?",
+   "blurb": "",
+   "src": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVhSLVlXeXpHNVpwTHFFQTFSZkU0bmxkaFRobXUwdWw0WEVjSHVEQzlVeU1wZk8yVFBoQUFBRWdRRDNIOFhYbVlXcDhPQzAyT2NzQjVOTW1fNVBKRURadWJNd0lXaEgzQnFNdEtQVXRDTjJ3RnZmc3Rua0J3Q282cENEUS1sN2VXd1EwaVRXZEdDWGN0RHIzNjZLUVpUbEtvVFA3NFBqLUN5eW_SAasBQVVfeXFMUFZMTEdhYXRRMEZxWlhTejMxcDlmMTZnaS1UQlFQWXpfRTNGTnJpVmVkc1lXOEhySHFuZGlYaUdFY0NhU2xENkt5Q2Y4SmZHSi0zdEhfR09JNlhsV0ljbXdnWDFUU0JHblV4V1BWZW9Kc3V5RmFjcFVUNzlBYnVrSmJmOHAzSTRTeU0yN1dYSmhJQmo2cnBkN09TdGxsVXQ0VnVHbEVZNlhzUndF?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+   "blurb": "",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmlsRTliVVMyYzluS1l0d2JPUmxUMDY4cjZKYWp6bERkUHhuVkszem1Ga0ZJYTN1dXVfcVNHbGx3U2QzY3lYNkNjN0VlZjhxU1FrRkNTZGJueTVZSFFEWEFodjNCUTZnVHVmaXU4LTJZWnFKRlhqMmVYV05xX3lFT2dn0gGHAUFVX3lxTE5tc09LT0c2aXdwa3c5RmlSVExTbmRsTmdqb2w1QmxsMGNQb1ctVzJCQ2VGZ3djTkpqSHRWZFhhY3A2QVItWUhpUVlXS2hwTVlCbVplOS1jSEZoU1hIVVFBanluczl5dHk2X0d5Mm9RTzFiVEtoQU5rWFI3SF9iVlJaSlR3SDc4QQ?oc=5"
   },
   {
    "cat": "robo",
@@ -24,66 +38,52 @@
   },
   {
    "cat": "robo",
-   "title": "Google DeepMind debuts Gemini Robotics 2 model series for humanoid robots",
+   "title": "Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry",
    "blurb": "",
-   "src": "SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlZtZnFSTS1kc29MekdCRGRXaDZiNVBMWFRpSmlLSlNaQlhuUW15dnFfNVlHbGViRTlxWlhqejlSYU1Ib3lkNlpZdmFDckN3eE1qbk5LNWl1VmkyYkMyRTdlbDVxNXJjZFV5dVRMMHR3MFNmdTVTRXEwMG1BM3I3Qkd0UFVaN050S3hna1NqdWJ5WGQwQkRnS3RQWDJ4NFNGd1kxNU9MRVRPZw?oc=5"
+   "src": "IEEE Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FUEhCRlhLdlYxa3E5YzdXMHBFcWlweklFSDU2NGY4X1RPM3EzcjRkWGdTSmwwRTQ3d0lURkh6NnhMaU5ST2pNRzg2MEo5SFdGNmFTcWg3Njl6VTNDMjJid0hyT0E?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Anthropic admits its AI models hacked three companies during testing",
+   "title": "Anthropic says its AI models escaped test and hacked 3 organizations on their own",
    "blurb": "",
-   "src": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbzQxbW1KMTRxY1p2emdBc2xmTnlxZnlTUmp6dHJ1b3RRMl95cmdqZklrRnpoYW1LQUUyVjNEaHVoMVpNY2F2U1BwS2FJeGNTZE1xVzRCSEhheVQyNWhJY2dhNGRwdkhtaG81OGFvQ1c4SFluZnJ4eldjWkg2MzVFaUZGWFFDSld1aE0zb1kzREx3MkJRZUpDQlpKRktLQVpwMGdsV3pwRFNoVTdNVTNLSmt1TjItTlo4TnRZZ29TTC1fcThhMWpvcEYtUQ?oc=5"
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Google’s Gemini Can Now Stomp Around as a Humanoid Robot",
+   "title": "Humanoid Robot Pilot Program Launches at SSE Steel Fabrication",
    "blurb": "",
-   "src": "WIRED",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RS09fOW4xUm8tWkJwWm1Tc0VhREhMdGc2WVU2UHpLY2Y3UkVTSmF2MU10NXExWFVreG83YlRsNFBsdTdIbWRFeS1sWUhLUm40aURLa2pqdmxjWGROZEhGMWVKVTdMbXE0VDlmc3psRm1iXzZRLVhVR3lB?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "DeepSeek Unveils Public Beta API for Flagship AI Model",
-   "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1pZTHVrcm9PbnNRSENDdzlxTlJQVW9OMXE4d1pwYzhGNXJrODZyN0hmRkxKR2ktMjAyU1BDZ0JKZkRPbEZKcVJxRzZXd3pSQUdtMkIzZUlSY2ZXMDE1ZS15bG1VYmNRS190aVViVnJjTFM1X1dTZy1XM2QyMG1ka3htc1dYaTFXa0c5OUZrSmRzZGM5VXpBRFFmZXc1aC1QMEZocjVjVVc?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "BYD's Humanoid Robot to Debut in August",
-   "blurb": "",
-   "src": "Gasgoo",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObkgyX21zOGRvM1BUcURtSkRoOVhxSWxWMWpBdUczejZNQVJ5X0d0M0ctNjVka1RpRC02SDJhUVVKdGs4dUhWcU96T1FuRlpBUDRWY3J1S0w3V3M3LVN0OWtjMURJejh3ZjdOTk9HYndWaG9xakJvaXVaZ3U5RkMwY2hNWTMyN294c2RPLWVtSmwwdWYwYXJHTWRaN0VralhhR1E?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Anthropic's AI models hacked 3 organizations during testing",
-   "blurb": "",
-   "src": "Politico",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTEFHeGt5X29ILWZpbzJ1Z2hxR2lNXzlDS0xOVGJ6MDNHQkZVUFE2ODk0LVVsbFZBZ0k4MHJoV0hzS2dpOFFVTGlBOWgwdlRibzJsQWxmRE1iWWVBTFhrMm00b2RmbXNab0FRY1EzVXlNYV9TQmU1ZVVaQzNJb0U?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "BYD just joined the fight over humanoid robots",
-   "blurb": "",
-   "src": "thestreet.com",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa01yd3pzM0FXNWRXY0FZeEN3c2xBSHk1S0VqcTI2UlBlOFdGb2QyeFdpZFlGeWhjN0Utd0xVcWJqR3p0T1RNbWxkVFVadjZFXzZlM01FN2E4SkVMNnltbzc2Qnd4RS1nZTZXbDJ0YlRxazhJSmhVNTloTWxsNjF5VWNNNkd2M2tjdUk0?oc=5"
+   "src": "Biz New Orleans",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORG5CeEUzejNGbmRoYWdtVHNNWFJfWFRlazY0MmlqTXJDUjNFX2lfcDlkeVZSMVFsbTVySnRTa1VvVHozQlA2N2IyM0VFb1pjMnprbWpDNUhNQ3lPS3NBQ184S0w5OUktVnhpbUxIbXhNaWFjY0dJeS1zclVLQklsMnJTRkg1UHctNHc0bw?oc=5"
   },
   {
    "cat": "ai",
    "title": "Anthropic says its AI models hacked 3 organizations during testing",
    "blurb": "",
-   "src": "WPTZ",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSkZBcVI3YXZ3VkVIYlp4OUNtVkNGSFJNZU1IVEJ3WmpUQ2RIQUJhbkl2dkpPNjdQZHhPaXVFR053MU10bkxnUExfN1B6TXpLZDJObVdLVGRsYnVQNEZVVkFfUXZJSzZlbTRZX3ZpVFJETkhOY3JCWFQ2SENDdXYzSGYyM1I2dXFkdFBEMTh3?oc=5"
+   "src": "ABC7 New York",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkozMzhjajg0NjV0dkJSSVVvSzBJMjBSSVR5eUFtLWV2SjMtR1k2UW1oeTdhVVhlNWJUZHJYZC01UFhpTlUtUXZ0ZTNRUzh3RERlcHBDbU1fMW1YUVc1S2JYbVBfdkE0TDJ6ejRud1lfcG1JVThXTXVua21WUEstbEhseVoxMTVRVmZSWXN4RnFyTC1KQ2NuOUFvWmhjQW51MGfSAaIBQVVfeXFMTUpKMzM4Y2o4NDY1dHZCUklVb0swSTIwUklUeXlBbS1ldkozLUdZNlFtaHk3YVVYZTViVGRyWGQtNVBYaU5VLVF2dGUzUVM4d0REZXBwQ21NXzFtWFFXNUtiWG1QX3ZBNEwyeno0bndZX3BtSVU4V011bmttVlBLLWxIbHlaMTE1UVZmUllzeEZxckwtSkNjbjlBb1poY0FudTBn?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Everyone Is Talking About Humanoid Robots. Procurement Data Shows What Comes Next.",
+   "title": "Humanoid Robot Patents: China Most, U.S. Best?",
    "blurb": "",
-   "src": "HackerNoon",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN01YQTkzdWw3Nk1HQzJNeUE2cGozVlIwQUdYbkhHb25IUGgxTEM5alBub0l6SXMxNEFnWHhPbEs4MFI5N3JVTnZ0LUJ0Z2RrVm12d1pRTzJWOVdhVlV1bUpicVllZGVRWnFlM1RMY2pNWkRVWV9Vc3BBelZJbDdweUlDNVF6X3RMb2FCaks4WnZHMkdQWFRjdEFqbUJraGhqdzZiM1V3?oc=5"
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRmQjVwUmh5UXZDNjgzN1BtcXpSM3NsR2EydmJteWNtR0l4TXk3ZFBUNW1JOVFSbHJTTEJKTElIX19uTnctdzBxMGhoU2lLeFNnRWdlSExVaVNpVndWSkFWajdmOTlSUExQbXUzUE0xVnEzdGVTX0duVmFBbHFUMU1kSjVXSlVSNld2eVF1MXFuQ2xCX294WlVVQQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "10 AI Terms Every Employer Should Know",
+   "blurb": "",
+   "src": "JD Supra",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVcyTGZBNWZ6NWVWYUpnODQ0MFZ1ZFMzNjJ6UmpFeldLS2FzRktRekhXeUFJYjc1THUwbTFuckg3bURFUEY4akZQU1lkNm42R1N2b1gxaDliVW1KTExscVdtWmNxd2xhWmtndUg0TXVKOGJ2R3RWUWpsbGNhRHh1SGhoRDF1OGp0?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Google DeepMind debuts Gemini Robotics 2 model series for humanoid robots",
+   "blurb": "",
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlZtZnFSTS1kc29MekdCRGRXaDZiNVBMWFRpSmlLSlNaQlhuUW15dnFfNVlHbGViRTlxWlhqejlSYU1Ib3lkNlpZdmFDckN3eE1qbk5LNWl1VmkyYkMyRTdlbDVxNXJjZFV5dVRMMHR3MFNmdTVTRXEwMG1BM3I3Qkd0UFVaN050S3hna1NqdWJ5WGQwQkRnS3RQWDJ4NFNGd1kxNU9MRVRPZw?oc=5"
   }
  ]
 }
