@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-30T22:08:04.847Z",
+ "updated": "2026-07-31T06:15:43.714Z",
  "items": [
   {
    "cat": "ai",
-   "title": "China’s open-weight model lead exposes America’s AI blind spot",
+   "title": "Investigating three real-world incidents in our cybersecurity evaluations",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKTFg2dllTS3ZtQlZ1NTVHQ3V2anRpN1NjVlZFNFVqTkdDY0xpSHBURGhSYXJ4NENJSE1QcHB2U2ZsOUFCV0JwWmdzelhNVTlaLUpKRVFvYmZPNW10djBONzJFYzR3VGFzRDYxSzh1dzTSAXZBVV95cUxPeHFIY255ZlV3emk5ZXBHX3gwZlp2Z1lRdTVOb2hGUzdtdHVoN01ocFh6RFJhQmhxeVZVa2tBSERXOTA1STRpeFZUN19iTUg3WVRZNUUyNGxjaTZJZHNIX0hTV05xeVl6WmZBeVFxVXhEdk84dmZn?oc=5"
+   "src": "Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
   },
   {
    "cat": "robo",
@@ -17,38 +17,52 @@
   },
   {
    "cat": "ai",
-   "title": "AI model predicts retinal function in geographic atrophy | Eye Care Network - Modern Retina",
+   "title": "Explainer: What is AI model distillation and why is it becoming a US-China flashpoint?",
    "blurb": "",
-   "src": "ophthalmologytimes.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWVNYSXdxYmRPMWhYVC11eTVxNnYzbm0yX0NCN3p5V3BRZmFBODVSQ3NKS1E0Q3BiRjlHUUJZaXd2OG01SlkwNGp1YXBESVFzdDdZTGFjd0l4djY0Z0M1Ui1IbG94VHJZUlB4YnlNTDRWUWNrbzZvZi0zWld2WUgyR2p2WkFSTFB4WTI0Sy0xLUR2a3V4bHNfX2pBR18?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3E5WURUSGY0XzgwWkpzN1BZcElmbnQ0anhTSTRETHU5bHJRQ0Q2VTJpLUlBcXljWGlSX0U0QUhaVVJMTXZGN1hfbVFBU3RZckxBQW40bG52b0NKYkM5SEpobExSRDVIaENMYUpJZzUtaDFwNWZndk1jY2h1TE9Pc2VDZzdCaUJGcUJ3M2Jjcml4Nm54MDFnaVg3c2tlQ3lQX1dQSXhTeHFWR1l4Y3o2c3h1UjJONnc?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+   "title": "Google DeepMind debuts Gemini Robotics 2 model series for humanoid robots",
    "blurb": "",
-   "src": "Google DeepMind",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEljb2ZqM3EyZWp0SHNWT3NaaWJEQWpITjMtSGQyaHYwd1d0dndlZ2luNl9RaERRbUR4cmlZcDIzUmJDUDNHZ0tDTWNKd0FjTFBFaUc5STF2QkZKbEVJMHhDZzFxOWFpWHZCU2hwTHljQWhNTmZpSlpoN0lTZkwySW9qaTVodnB6Nm9XNjM2MkJEUQ?oc=5"
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlZtZnFSTS1kc29MekdCRGRXaDZiNVBMWFRpSmlLSlNaQlhuUW15dnFfNVlHbGViRTlxWlhqejlSYU1Ib3lkNlpZdmFDckN3eE1qbk5LNWl1VmkyYkMyRTdlbDVxNXJjZFV5dVRMMHR3MFNmdTVTRXEwMG1BM3I3Qkd0UFVaN050S3hna1NqdWJ5WGQwQkRnS3RQWDJ4NFNGd1kxNU9MRVRPZw?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
+   "title": "Anthropic's AI models hacked 3 organizations during testing",
    "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5"
+   "src": "Politico",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTEFHeGt5X29ILWZpbzJ1Z2hxR2lNXzlDS0xOVGJ6MDNHQkZVUFE2ODk0LVVsbFZBZ0k4MHJoV0hzS2dpOFFVTGlBOWgwdlRibzJsQWxmRE1iWWVBTFhrMm00b2RmbXNab0FRY1EzVXlNYV9TQmU1ZVVaQzNJb0U?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Industry City tenant Highline Commerce uses humanoid robots for its expansion",
+   "title": "BYD's Humanoid Robot to Debut in August",
    "blurb": "",
-   "src": "Brooklyn Eagle",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10X24xb3lId24wQTZ6SFNmV3JQZlhhdkg5RE5hYW9vdTNkU0JRamJkbXZxekNLaXpJZ3pFWG14bndTd2VSOHV4dks3SWlDV2d6OTRkMkxCT05GTjQzUjNTX1A5T25WbUd0QU9vdUZwVWdtSi1oUlp0Qy1xSVE?oc=5"
+   "src": "Gasgoo",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObkgyX21zOGRvM1BUcURtSkRoOVhxSWxWMWpBdUczejZNQVJ5X0d0M0ctNjVka1RpRC02SDJhUVVKdGs4dUhWcU96T1FuRlpBUDRWY3J1S0w3V3M3LVN0OWtjMURJejh3ZjdOTk9HYndWaG9xakJvaXVaZ3U5RkMwY2hNWTMyN294c2RPLWVtSmwwdWYwYXJHTWRaN0VralhhR1E?oc=5"
   },
   {
    "cat": "ai",
-   "title": "QUICK SPARK: OpenAI Cuts AI Model Prices as Businesses Push Back on Rising Costs",
+   "title": "Second major AI company says its systems hacked into other firms",
    "blurb": "",
-   "src": "Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVGlScFk1ZEhuWGVEcXhmQ1J2MkRQNUt1ekJYUTE1R05YRWQxY2cxeGY3NzdXNjU1RVU1UUVETkRtSXBfUE0wWlljWmFDd2hNdlF3NU5FQ0ZKUjRQVnJKSzg4MW05ekliNlFYZDR3dE5CaFFUSXVGRU9PZzZqVWRqMDlMMk1TSms4MHBvLWd5NGxzSklhdE5GWWY1SmMzVWprVVFqc3BDOTYtZWRBZ2ZCZnlrT2J4R3BtLXdxSW50dU5tNkpueVNyaEpuRV9hXy1Mak9sTUFhVHlWQjA?oc=5"
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1N2TTQ5aVc0a2ZSUC1WVnpFRGlUTWNMNGhHdGtnbFdGVm9Ic05JaDRObUdBcFdkdXFPSnBrT0ZnTWhKTUNFeE9XZ244V0kzbmY0Z0lrSDZ3dG96akdYMU9LUHBrWk1tZFZjUnlkLTdDcEFGNkRjWWkwQTFRRWNPNVd4akM2c3FFa3MwY0ZHTkNMcUZWaUpiZm5MY1I0b2llcEQ1TmVHalVObzZEREVXUzZSNTRKeVVOX29F?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "BYD just joined the fight over humanoid robots",
+   "blurb": "",
+   "src": "thestreet.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa01yd3pzM0FXNWRXY0FZeEN3c2xBSHk1S0VqcTI2UlBlOFdGb2QyeFdpZFlGeWhjN0Utd0xVcWJqR3p0T1RNbWxkVFVadjZFXzZlM01FN2E4SkVMNnltbzc2Qnd4RS1nZTZXbDJ0YlRxazhJSmhVNTloTWxsNjF5VWNNNkd2M2tjdUk0?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Anthropic admits its AI models hacked three companies during testing",
+   "blurb": "",
+   "src": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1lseXp0NEVTOFJ0RXVXWnZ5SDJ1ZkduS3N2RFZrb2RTS1E1VmZOUGRIUDNKeEtlRlN0UURCX1lyQ09sblp0b09IT2N2U3g3dEo2NTZHWFRyUXlKMy1lekwyNGs0dWhIVGxSZlJFVlVDaGtfNzFHUndqcXU0TkZ6aXhxaFlpV0hMdWgxUGpfbHYwcVlGRTMtbHo0NEFMS3BURExSakJoZ0p5R2tNOVNKVDFKanE3V3Y1TUluTVhtRC1YLVM5?oc=5"
   },
   {
    "cat": "robo",
@@ -59,31 +73,17 @@
   },
   {
    "cat": "ai",
-   "title": "Pusan National University Study Rethinks How Artificial Intelligence Supports Investment Decisions",
+   "title": "Anthropic AI Models Hacked Three Organizations During Tests",
    "blurb": "",
-   "src": "EurekAlert!",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZVWZ0cnk3VUZCOWFoOWZsaXJnUnJIVldUTzZDenBlcUNJUks3b3BLNnRWNUFHZS02TGZkMmR2TXhRbXhhcnJvVURZTHlsZm5hcWZ6amJ2UWVWUmpv?oc=5"
+   "src": "bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1c2ZzFZczlaRDdURDJTaFJWUkZOMlhmX1pJMlpEN0xmZlRLemZDSk9QMU1iTFNvQURqQUxidVpMNXpfWmRWcmZ1QXlibExBcU9GdzMyNTk2bWlFOU5rSmlfazRLOE01R2RJbEZoYjRURGxqZDdDZnpqcGFoZE5Bc3M0Q2FnZ3I3ci1pcG9ESXVUZXo5OThhVEtmRWlCUDd0MGIzaFoyd0lsVno3WF9NYnVB?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Industry Insights: Google DeepMind Brings Gemini Robotics to Humanoids",
+   "title": "The US battle with China over humanoid robots — how close are they to becoming reality?",
    "blurb": "",
-   "src": "A3 Association for Advancing Automation",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkxIUzR4RlZTMXhqNlRBcTV4LTBmbjZxSGNMOW9sMGZYR2VJbWN6ZG1wZW91aFdlaWRJSTRwVkp2clZzMHVDOXlSaVh4WkdISC1yeXh3bEwwMVJRZ3Z1OWg3ZDcwT3ExZmNzLU5MdFJqTFZYTV9ndVhDNThpVy14R0hIbW5RakptcXlabEU1b3k5bHQwWWlvbk0weFhmWDRJejlFSVhPSjJ2RkF4cjVud1VxamtHOEZicm5nckd3dWZzaktSbHc?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI: China’s ‘open-weight’ models might be the future",
-   "blurb": "",
-   "src": "The Week",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnS0ROWXl4X2NWZDNBYktXS0FMVHhmeTZBSm1xemFNRVVWTkFtOUpzUUEzZldWU3p0eHpvLVdVa2xETDFrd3FVTmZRZDBacXN5dzc3eklYZjlnZFJPQU1XQWlvM0lzQjdQNTBJZC1BbHJfY2d2SXdlQVNYOFo?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China Threatens Retaliation as U.S. Moves to Block Robot Imports",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1T3JKbkY0Mm8zQUd4Z0pSWWEybk82T2tuYWQ0aFBDZXVkVDh3eWFZQml4TUxFbjlCRVBkUE5rMFRLX1lFT3VrQVo0X3g1WEptZVV1WURPRDdHSFFYRUpLUDUzNUJURWxmdjZNMjZZeG5LRng2d1dZTQ?oc=5"
+   "src": "Washington Examiner",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX3lzcVBLNUVoVjlZcFR4cUYwSEdUUnU0TEkyeUJTVmpRYktvcDZfZ2JDMU81WEY0Ukh1a09LcmRBeUlkTU5UbDNQTHpJMDJYVlF3cnRiME56LVNRVDd4cFlWZjdudkJ2V2RDLWZTMzRHd054LTFFSUIwUE1lVk9mZEJVOVp6Nm92cWtsTDBvWHQwYmg0bTk5VlRfbWgyRzU0OHNpanhrc0xocVpOenVlTEF4OTZCNDBwcC1QcA?oc=5"
   }
  ]
 }
