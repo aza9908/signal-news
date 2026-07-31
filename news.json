@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T16:46:58.979Z",
+ "updated": "2026-07-31T22:07:56.103Z",
  "items": [
   {
    "cat": "ai",
@@ -17,10 +17,24 @@
   },
   {
    "cat": "ai",
-   "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+   "title": "Anthropic's AI model Claude hacked three companies during testing",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmlsRTliVVMyYzluS1l0d2JPUmxUMDY4cjZKYWp6bERkUHhuVkszem1Ga0ZJYTN1dXVfcVNHbGx3U2QzY3lYNkNjN0VlZjhxU1FrRkNTZGJueTVZSFFEWEFodjNCUTZnVHVmaXU4LTJZWnFKRlhqMmVYV05xX3lFT2dn0gGHAUFVX3lxTE5tc09LT0c2aXdwa3c5RmlSVExTbmRsTmdqb2w1QmxsMGNQb1ctVzJCQ2VGZ3djTkpqSHRWZFhhY3A2QVItWUhpUVlXS2hwTVlCbVplOS1jSEZoU1hIVVFBanluczl5dHk2X0d5Mm9RTzFiVEtoQU5rWFI3SF9iVlJaSlR3SDc4QQ?oc=5"
+   "src": "upi.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHFOMU5uOVJGQWwtYlpNblJUdWVLdXFlcTFha0l3X0dtcFVHVVZsZDR6SlZYb0swZ3V4VUJGV0lxVUEzYlJidUpEQ0RReGRiSTBLanF5eUZlODZHVmk5bkNyd0ZMZzJVVVV6Wkd6RkJSNThUWHYtYmpId1VleEtndThB0gGHAUFVX3lxTFBPS0t6XzZoSWw4UENMR2EzdmJfcktyWGJCUXBQVXU0RGQ5TGxUc3RvOENHQ1VjREhDZzFLRzJRcllNZm95SWdsanZtclVnVjV2eHdZQ3YtU2NZUVM0WTBMcC05Qk5FMXNGRThWaWcyU0dhdzdCRmV6cVNTZlNXNkY1Wi1LY19LMA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry",
+   "blurb": "",
+   "src": "IEEE Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FUEhCRlhLdlYxa3E5YzdXMHBFcWlweklFSDU2NGY4X1RPM3EzcjRkWGdTSmwwRTQ3d0lURkh6NnhMaU5ST2pNRzg2MEo5SFdGNmFTcWg3Njl6VTNDMjJid0hyT0E?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
+   "blurb": "",
+   "src": "MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMi00STBRR0tIb0pibXJaM3hEQlI0VEctOXozWGJOSTJRMTkyNVB4TFpxLTJwLXA2b2lSUVhhRXFnU3liTUxkSWh1NE85czVMWUczTkt1NUYyNnM1V0FWNi1vTHFRMHpEdW1GSjYyYkgtdW4yVVZnZ1RDbkdJRndwT1BhYVBJdjhrMGtzbHBDTkpxV01XZHNKWjI2OC1wU1N6cV9BX2J3OHY2VXZjbkVEa3NrRTNjcXAxY2JoOEJlbHVRLW5JdG5RcmgtMkJaZzY0ckdr?oc=5"
   },
   {
    "cat": "robo",
@@ -33,57 +47,43 @@
    "cat": "ai",
    "title": "What is AI model distillation and why is it becoming a US-China flashpoint?",
    "blurb": "",
-   "src": "Reuters",
+   "src": "reuters.com",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3E5WURUSGY0XzgwWkpzN1BZcElmbnQ0anhTSTRETHU5bHJRQ0Q2VTJpLUlBcXljWGlSX0U0QUhaVVJMTXZGN1hfbVFBU3RZckxBQW40bG52b0NKYkM5SEpobExSRDVIaENMYUpJZzUtaDFwNWZndk1jY2h1TE9Pc2VDZzdCaUJGcUJ3M2Jjcml4Nm54MDFnaVg3c2tlQ3lQX1dQSXhTeHFWR1l4Y3o2c3h1UjJONnc?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry",
-   "blurb": "",
-   "src": "IEEE Spectrum",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FUEhCRlhLdlYxa3E5YzdXMHBFcWlweklFSDU2NGY4X1RPM3EzcjRkWGdTSmwwRTQ3d0lURkh6NnhMaU5ST2pNRzg2MEo5SFdGNmFTcWg3Njl6VTNDMjJid0hyT0E?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Anthropic says its AI models escaped test and hacked 3 organizations on their own",
-   "blurb": "",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid Robot Pilot Program Launches at SSE Steel Fabrication",
-   "blurb": "",
-   "src": "Biz New Orleans",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORG5CeEUzejNGbmRoYWdtVHNNWFJfWFRlazY0MmlqTXJDUjNFX2lfcDlkeVZSMVFsbTVySnRTa1VvVHozQlA2N2IyM0VFb1pjMnprbWpDNUhNQ3lPS3NBQ184S0w5OUktVnhpbUxIbXhNaWFjY0dJeS1zclVLQklsMnJTRkg1UHctNHc0bw?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Anthropic says its AI models hacked 3 organizations during testing",
-   "blurb": "",
-   "src": "ABC7 New York",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkozMzhjajg0NjV0dkJSSVVvSzBJMjBSSVR5eUFtLWV2SjMtR1k2UW1oeTdhVVhlNWJUZHJYZC01UFhpTlUtUXZ0ZTNRUzh3RERlcHBDbU1fMW1YUVc1S2JYbVBfdkE0TDJ6ejRud1lfcG1JVThXTXVua21WUEstbEhseVoxMTVRVmZSWXN4RnFyTC1KQ2NuOUFvWmhjQW51MGfSAaIBQVVfeXFMTUpKMzM4Y2o4NDY1dHZCUklVb0swSTIwUklUeXlBbS1ldkozLUdZNlFtaHk3YVVYZTViVGRyWGQtNVBYaU5VLVF2dGUzUVM4d0REZXBwQ21NXzFtWFFXNUtiWG1QX3ZBNEwyeno0bndZX3BtSVU4V011bmttVlBLLWxIbHlaMTE1UVZmUllzeEZxckwtSkNjbjlBb1poY0FudTBn?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid Robot Patents: China Most, U.S. Best?",
+   "title": "America’s AI Trade War Expands To Humanoid Robots",
    "blurb": "",
    "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRmQjVwUmh5UXZDNjgzN1BtcXpSM3NsR2EydmJteWNtR0l4TXk3ZFBUNW1JOVFSbHJTTEJKTElIX19uTnctdzBxMGhoU2lLeFNnRWdlSExVaVNpVndWSkFWajdmOTlSUExQbXUzUE0xVnEzdGVTX0duVmFBbHFUMU1kSjVXSlVSNld2eVF1MXFuQ2xCX294WlVVQQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTGp3R0pFQzB3Slk0cmxHVTIxWVpPS0ozZGN6MGZfVVJyVnhheXJXWE04c1hMRzFpTHZNWndpd3NBS3ljVDFhQVoxWVBFdFc2cXlqc0dUeGFFdHBvQ0tXeGN5NnJCaHJSeVE0YjFzdDk3d0pIbjlyN3hlWHZSMENTaFBzYnAyQQ?oc=5"
   },
   {
    "cat": "ai",
-   "title": "10 AI Terms Every Employer Should Know",
+   "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
    "blurb": "",
-   "src": "JD Supra",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVcyTGZBNWZ6NWVWYUpnODQ0MFZ1ZFMzNjJ6UmpFeldLS2FzRktRekhXeUFJYjc1THUwbTFuckg3bURFUEY4akZQU1lkNm42R1N2b1gxaDliVW1KTExscVdtWmNxd2xhWmtndUg0TXVKOGJ2R3RWUWpsbGNhRHh1SGhoRDF1OGp0?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmlsRTliVVMyYzluS1l0d2JPUmxUMDY4cjZKYWp6bERkUHhuVkszem1Ga0ZJYTN1dXVfcVNHbGx3U2QzY3lYNkNjN0VlZjhxU1FrRkNTZGJueTVZSFFEWEFodjNCUTZnVHVmaXU4LTJZWnFKRlhqMmVYV05xX3lFT2dn0gGHAUFVX3lxTE5tc09LT0c2aXdwa3c5RmlSVExTbmRsTmdqb2w1QmxsMGNQb1ctVzJCQ2VGZ3djTkpqSHRWZFhhY3A2QVItWUhpUVlXS2hwTVlCbVplOS1jSEZoU1hIVVFBanluczl5dHk2X0d5Mm9RTzFiVEtoQU5rWFI3SF9iVlJaSlR3SDc4QQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Google DeepMind debuts Gemini Robotics 2 model series for humanoid robots",
+   "title": "Humanoid robots now cleaning homes in San Francisco for $30",
    "blurb": "",
-   "src": "SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlZtZnFSTS1kc29MekdCRGRXaDZiNVBMWFRpSmlLSlNaQlhuUW15dnFfNVlHbGViRTlxWlhqejlSYU1Ib3lkNlpZdmFDckN3eE1qbk5LNWl1VmkyYkMyRTdlbDVxNXJjZFV5dVRMMHR3MFNmdTVTRXEwMG1BM3I3Qkd0UFVaN050S3hna1NqdWJ5WGQwQkRnS3RQWDJ4NFNGd1kxNU9MRVRPZw?oc=5"
+   "src": "The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2s3czE4bE9OdzlvMG5MSVZpNXJ4NklueDVGX2U2ajYyZ2pYdTdUcHpsYTMyQXMtTURNNmtRU25VREllSWh4dmNXTFc5eW5uOG5RSEZzcno2N2cya0x6N3dmTVoxdzhYcE9EVTFabGJGWk1WY2RQNnUxZUVNSzVpN056eXFPS0RwUjF3d2lPdERGcklWTXdZdWpxZ2c4U0NTVy1qV0JvSUtzMG1fNFNV?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "House lawmakers are pressing DoorDash to explain its use of a Chinese AI model",
+   "blurb": "",
+   "src": "qz.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YRUtnMVZTSFFpY3RRN0dyT2hnaE9kQktud2k4ZkF3NDJISmxxa01KQmMzQjhQUlByTGtCNHVSLTJQU3FSRXJRZTNxNlJiZUtseFZtS2NEZTJ6VkxaYngyX3dIM05ubDI1blA5SjU4cTRCVnBHY2tEU3gya2VuQQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Why the US Banned Chinese Humanoid Robots Over Cyber Risks",
+   "blurb": "",
+   "src": "Cyber Magazine",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNXzlQRXVMNFM4ZHhvVmJCd0VKcDVVU3FQQkdkeTBHUUpvY2xGUUM1cUVYSTJ0aWNacWh4R2U3M0VPalp3TG85OUhrLWlkdjlxRUsyYUctMV91eElTaFl2ZDYwRVJxVnpZdGFCYmNrdGlfeEpoTXNZVm5CbTZ1QlVsemNDNGxTZDBXb1lPUGF1WDJBbmM?oc=5"
   }
  ]
 }
