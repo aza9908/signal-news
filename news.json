@@ -1,11 +1,39 @@
 {
- "updated": "2026-08-01T10:42:18.280Z",
+ "updated": "2026-08-01T16:02:38.878Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+   "blurb": "",
+   "src": "Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Top 10 robotics stories of July 2026",
+   "blurb": "",
+   "src": "The Robot Report",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0d1o2a2JMcWpaN25ER2c4dVA3VVFHd0RqdWR1UjhIT05XYmh2Y3lBbXhtSVFheGgxTXdILTEtLTBUV2M5Rjl6TWphMk1hVloyeVFia1RRR3VjX0Jxb2N1R3R0MkNQaldJUktFNkZIU3BnSzA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Is A.I. ‘Scheming’ Against Us?",
+   "blurb": "",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWDZqc2pLTU1peVM2Y1J0cEIyNFZpN0kwWHRiOVVZeVp5RjVJU1p4UGdPdXozOUx0Y05fa1J1SlNuR3hBSnFOc2REaEZQRGw3bmdKOXhVRllRaFVKU3V4UGR1dmd6clFNU2dsRA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "You can hire these humanoid robots from Tau Robotics to clean your home in San Francisco",
+   "blurb": "",
+   "src": "ABC7 Bay Area",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlh2ZGNFRkdmV1JaMGE3OE55YTlJdGRKeDRwTW5Oa1VEdTVFTTYzWDd4Z1VRNVdBaVlsRzkyNzJGdWVsR0lfUXkxSFNHb05UWm9hRF9BN1doeC1vLWxYUEl4SGVzSmFPN1NKS29PWUk4U0VCY0ZTU2JQQ24tZWtxLWU5NTFaLXNpME9kcTBpNUJqUlpYa05DYTU2SHZadGvSAaQBQVVfeXFMTXhlanNMblNPVi0tWjZMaEZMNzJEdTE1d21VWnZUSndkdnVHajFwT1Z0U243U2phRzVNUE1sNEt2R3Z3VHpUaFR6Mng4RHIxYThyd1ZsMnhFMXN1MUtGalRUTmhkUkd5a2ozcHZvaFI4TkdTbnV3cmdIOXEwY0lRek1fdFlWMGduRktMN2tCbUhuQ1pnS0owYzI2b2lCTkdjT0pHNFM?oc=5"
+  },
   {
    "cat": "ai",
    "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
    "blurb": "",
-   "src": "npr.org",
+   "src": "NPR",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXNtVEtudEtnV3NPSmczc29QRmhZNGpXcU1SakQwOWNEel9CbEtrNEhUYjRhbzBnLVVJQ0tvdHNVM0ctTS01dVo4SGtzczZtRVVuV2ZjVW0takpNcUZtNWxhdmt3SGdxUFVBYVplSUVnUC1xdm1NR2RKQ2Rkc04xcTJHYU9wVDlwZGtUOXdjX1U?oc=5"
   },
   {
@@ -17,34 +45,6 @@
   },
   {
    "cat": "ai",
-   "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-   "blurb": "",
-   "src": "Anthropic",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "You can hire these humanoid robots from Tau Robotics to clean your home in San Francisco",
-   "blurb": "",
-   "src": "ABC7 Bay Area",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlh2ZGNFRkdmV1JaMGE3OE55YTlJdGRKeDRwTW5Oa1VEdTVFTTYzWDd4Z1VRNVdBaVlsRzkyNzJGdWVsR0lfUXkxSFNHb05UWm9hRF9BN1doeC1vLWxYUEl4SGVzSmFPN1NKS29PWUk4U0VCY0ZTU2JQQ24tZWtxLWU5NTFaLXNpME9kcTBpNUJqUlpYa05DYTU2SHZadGvSAaQBQVVfeXFMTXhlanNMblNPVi0tWjZMaEZMNzJEdTE1d21VWnZUSndkdnVHajFwT1Z0U243U2phRzVNUE1sNEt2R3Z3VHpUaFR6Mng4RHIxYThyd1ZsMnhFMXN1MUtGalRUTmhkUkd5a2ozcHZvaFI4TkdTbnV3cmdIOXEwY0lRek1fdFlWMGduRktMN2tCbUhuQ1pnS0owYzI2b2lCTkdjT0pHNFM?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Is A.I. ‘Scheming’ Against Us?",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWDZqc2pLTU1peVM2Y1J0cEIyNFZpN0kwWHRiOVVZeVp5RjVJU1p4UGdPdXozOUx0Y05fa1J1SlNuR3hBSnFOc2REaEZQRGw3bmdKOXhVRllRaFVKU3V4UGR1dmd6clFNU2dsRA?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "What The Tech? Humanoid robot ban",
-   "blurb": "",
-   "src": "WILX",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTczcVJZT1Job3NTQTZwMVlad0l4SzJIRGdDNmVPYVJMeDg2d0VVXzVPTGs0b1pzWGVZd1Z4Rno0N2NiNF9xLVNzblRQY19qbFNBMzdmTmJULTNhNXo5dlVIdGdzS09mTFFydHRNUWQ5eVdMY1VuRkRJM2p0d1NpeFdB0gGCAUFVX3lxTFA1NzNxUllPUmhvc1NBNnAxWVp3SXhLMkhEZ0M2ZU9hUkx4ODZ3RVVfNU9MazRvWnNYZVl3VnhGejQ3Y2I0X3EtU3NuVFBjX2psU0EzN2ZOYlQtM2E1ejl2VUh0Z3NLT2ZMUXJ0dE1RZDl5V0xjVW5GREkzanR3U2l4V0E?oc=5"
-  },
-  {
-   "cat": "ai",
    "title": "How Chinese AI Models Could Upend Anthropic, OpenAI, and Nvidia",
    "blurb": "",
    "src": "Barron's",
@@ -52,10 +52,10 @@
   },
   {
    "cat": "robo",
-   "title": "Gemini Robotics 2: Google DeepMind's Humanoid Robot AI",
+   "title": "China holds six of top 10 humanoid robot spots; US leads in quality",
    "blurb": "",
-   "src": "RoboZaps",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQ3hWcU9XX1plZnVEU0tNckhWMTBSeENfOGRET3IwZG9iazBQbzNuVTVGRUc5NFBTbzBDZm5JQmdPR0RwQXM0a0tXOURrRl91X0c2bzFMSWpTY2dpN2dNSzRNcG52UnBaTk1Dc0xpNHk?oc=5"
+   "src": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGNfel9kM3hUM2NrZFdjcUU5Y2RxUWJfZ0dXQzJOM2VBT1IwTVZpWlh5a2M5OUEtWXpMUFRzclhUSHphdFgtZllhLTQ2ZEJWajBUTTdUeWtmN21XQ1R2ai11LW9Oa1luemI5ZUU2Q1NrZ1dPREhXdXVaeks5VG1DWXpBck5EV2QwcTdj?oc=5"
   },
   {
    "cat": "ai",
@@ -66,24 +66,24 @@
   },
   {
    "cat": "robo",
-   "title": "Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry",
+   "title": "What The Tech? Humanoid robot ban",
    "blurb": "",
-   "src": "IEEE Spectrum",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FUEhCRlhLdlYxa3E5YzdXMHBFcWlweklFSDU2NGY4X1RPM3EzcjRkWGdTSmwwRTQ3d0lURkh6NnhMaU5ST2pNRzg2MEo5SFdGNmFTcWg3Njl6VTNDMjJid0hyT0E?oc=5"
+   "src": "WILX",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTczcVJZT1Job3NTQTZwMVlad0l4SzJIRGdDNmVPYVJMeDg2d0VVXzVPTGs0b1pzWGVZd1Z4Rno0N2NiNF9xLVNzblRQY19qbFNBMzdmTmJULTNhNXo5dlVIdGdzS09mTFFydHRNUWQ5eVdMY1VuRkRJM2p0d1NpeFdB0gGCAUFVX3lxTFA1NzNxUllPUmhvc1NBNnAxWVp3SXhLMkhEZ0M2ZU9hUkx4ODZ3RVVfNU9MazRvWnNYZVl3VnhGejQ3Y2I0X3EtU3NuVFBjX2psU0EzN2ZOYlQtM2E1ejl2VUh0Z3NLT2ZMUXJ0dE1RZDl5V0xjVW5GREkzanR3U2l4V0E?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
+   "title": "What is AI model distillation and why is it becoming a US-China flashpoint?",
    "blurb": "",
-   "src": "MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMi00STBRR0tIb0pibXJaM3hEQlI0VEctOXozWGJOSTJRMTkyNVB4TFpxLTJwLXA2b2lSUVhhRXFnU3liTUxkSWh1NE85czVMWUczTkt1NUYyNnM1V0FWNi1vTHFRMHpEdW1GSjYyYkgtdW4yVVZnZ1RDbkdJRndwT1BhYVBJdjhrMGtzbHBDTkpxV01XZHNKWjI2OC1wU1N6cV9BX2J3OHY2VXZjbkVEa3NrRTNjcXAxY2JoOEJlbHVRLW5JdG5RcmgtMkJaZzY0ckdr?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3E5WURUSGY0XzgwWkpzN1BZcElmbnQ0anhTSTRETHU5bHJRQ0Q2VTJpLUlBcXljWGlSX0U0QUhaVVJMTXZGN1hfbVFBU3RZckxBQW40bG52b0NKYkM5SEpobExSRDVIaENMYUpJZzUtaDFwNWZndk1jY2h1TE9Pc2VDZzdCaUJGcUJ3M2Jjcml4Nm54MDFnaVg3c2tlQ3lQX1dQSXhTeHFWR1l4Y3o2c3h1UjJONnc?oc=5"
   },
   {
    "cat": "robo",
-   "title": "What the Tech: How the New FCC Robot Restrictions Affect You",
+   "title": "The US Threw the First Punch in the Global Robot Wars. How Will China Respond?",
    "blurb": "",
-   "src": "WRDW",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTVMwMDVMZjRNYm1YbUxYV2Y2TFBGUG91MXhrOG1rcklvLUQ1WXdCSEd4RG01eEpXNk9vMHdfRGpwTlpGVjRxLU9NcHhGS3hVQkkzbVBnQWFFbW0xSG9GM01lM1lRMHREaWx5MUh0WnJnRVNwREtmTzktVlk5bGp3R2JiMDJlbkIyUDhSMdIBoAFBVV95cUxQLUVDYTBLei01aER6Y2tDWjFicHMwcjdJMjlQOVF5MzZIUi1kN0k5M0tWNUVKa2l6Tk9JVnl4TkplUS13aTRBVlcyYWpGbEh1OUY4UkpJaC14SE9YakZ2bVFOX1A0elBjSi1VTUszUDNuakNRMW80cDluaW9LblhjMHN5NFU5MTJ4MkN3RnJNYk51RkJsdnJpbXViQi1mY1dv?oc=5"
+   "src": "CNET",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0OFV0aHRLNWlJRUxlTXVwUnpyWTYyQ2dvVVlVLVNLeTRiVjJQSDlsazVMem9nbUF0cXFBUlg3VHZoMjBDOXl5dE81d21mSHNYblVTNThUQjBlWXBlQnRjek9LMmxxdm5KRVE?oc=5"
   }
  ]
 }
