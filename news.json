@@ -1,26 +1,26 @@
 {
- "updated": "2026-08-01T05:57:16.400Z",
+ "updated": "2026-08-01T10:42:18.280Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
+   "blurb": "",
+   "src": "npr.org",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXNtVEtudEtnV3NPSmczc29QRmhZNGpXcU1SakQwOWNEel9CbEtrNEhUYjRhbzBnLVVJQ0tvdHNVM0ctTS01dVo4SGtzczZtRVVuV2ZjVW0takpNcUZtNWxhdmt3SGdxUFVBYVplSUVnUC1xdm1NR2RKQ2Rkc04xcTJHYU9wVDlwZGtUOXdjX1U?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid robots: Trump's latest China trade battle?",
+   "blurb": "",
+   "src": "dw.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVhSLVlXeXpHNVpwTHFFQTFSZkU0bmxkaFRobXUwdWw0WEVjSHVEQzlVeU1wZk8yVFBoQUFBRWdRRDNIOFhYbVlXcDhPQzAyT2NzQjVOTW1fNVBKRURadWJNd0lXaEgzQnFNdEtQVXRDTjJ3RnZmc3Rua0J3Q282cENEUS1sN2VXd1EwaVRXZEdDWGN0RHIzNjZLUVpUbEtvVFA3NFBqLUN5eW_SAasBQVVfeXFMUFZMTEdhYXRRMEZxWlhTejMxcDlmMTZnaS1UQlFQWXpfRTNGTnJpVmVkc1lXOEhySHFuZGlYaUdFY0NhU2xENkt5Q2Y4SmZHSi0zdEhfR09JNlhsV0ljbXdnWDFUU0JHblV4V1BWZW9Kc3V5RmFjcFVUNzlBYnVrSmJmOHAzSTRTeU0yN1dYSmhJQmo2cnBkN09TdGxsVXQ0VnVHbEVZNlhzUndF?oc=5"
+  },
   {
    "cat": "ai",
    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
    "blurb": "",
    "src": "Anthropic",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "What The Tech? Humanoid robot ban",
-   "blurb": "",
-   "src": "WILX",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTczcVJZT1Job3NTQTZwMVlad0l4SzJIRGdDNmVPYVJMeDg2d0VVXzVPTGs0b1pzWGVZd1Z4Rno0N2NiNF9xLVNzblRQY19qbFNBMzdmTmJULTNhNXo5dlVIdGdzS09mTFFydHRNUWQ5eVdMY1VuRkRJM2p0d1NpeFdB0gGCAUFVX3lxTFA1NzNxUllPUmhvc1NBNnAxWVp3SXhLMkhEZ0M2ZU9hUkx4ODZ3RVVfNU9MazRvWnNYZVl3VnhGejQ3Y2I0X3EtU3NuVFBjX2psU0EzN2ZOYlQtM2E1ejl2VUh0Z3NLT2ZMUXJ0dE1RZDl5V0xjVW5GREkzanR3U2l4V0E?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Anthropic's AI model Claude hacked three companies during testing",
-   "blurb": "",
-   "src": "upi.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHFOMU5uOVJGQWwtYlpNblJUdWVLdXFlcTFha0l3X0dtcFVHVVZsZDR6SlZYb0swZ3V4VUJGV0lxVUEzYlJidUpEQ0RReGRiSTBLanF5eUZlODZHVmk5bkNyd0ZMZzJVVVV6Wkd6RkJSNThUWHYtYmpId1VleEtndThB0gGHAUFVX3lxTFBPS0t6XzZoSWw4UENMR2EzdmJfcktyWGJCUXBQVXU0RGQ5TGxUc3RvOENHQ1VjREhDZzFLRzJRcllNZm95SWdsanZtclVnVjV2eHdZQ3YtU2NZUVM0WTBMcC05Qk5FMXNGRThWaWcyU0dhdzdCRmV6cVNTZlNXNkY1Wi1LY19LMA?oc=5"
   },
   {
    "cat": "robo",
@@ -31,24 +31,24 @@
   },
   {
    "cat": "ai",
-   "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
+   "title": "Is A.I. ‘Scheming’ Against Us?",
    "blurb": "",
-   "src": "MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMi00STBRR0tIb0pibXJaM3hEQlI0VEctOXozWGJOSTJRMTkyNVB4TFpxLTJwLXA2b2lSUVhhRXFnU3liTUxkSWh1NE85czVMWUczTkt1NUYyNnM1V0FWNi1vTHFRMHpEdW1GSjYyYkgtdW4yVVZnZ1RDbkdJRndwT1BhYVBJdjhrMGtzbHBDTkpxV01XZHNKWjI2OC1wU1N6cV9BX2J3OHY2VXZjbkVEa3NrRTNjcXAxY2JoOEJlbHVRLW5JdG5RcmgtMkJaZzY0ckdr?oc=5"
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWDZqc2pLTU1peVM2Y1J0cEIyNFZpN0kwWHRiOVVZeVp5RjVJU1p4UGdPdXozOUx0Y05fa1J1SlNuR3hBSnFOc2REaEZQRGw3bmdKOXhVRllRaFVKU3V4UGR1dmd6clFNU2dsRA?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Humanoid robots: Trump's latest China trade battle?",
+   "title": "What The Tech? Humanoid robot ban",
    "blurb": "",
-   "src": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVhSLVlXeXpHNVpwTHFFQTFSZkU0bmxkaFRobXUwdWw0WEVjSHVEQzlVeU1wZk8yVFBoQUFBRWdRRDNIOFhYbVlXcDhPQzAyT2NzQjVOTW1fNVBKRURadWJNd0lXaEgzQnFNdEtQVXRDTjJ3RnZmc3Rua0J3Q282cENEUS1sN2VXd1EwaVRXZEdDWGN0RHIzNjZLUVpUbEtvVFA3NFBqLUN5eW_SAasBQVVfeXFMUFZMTEdhYXRRMEZxWlhTejMxcDlmMTZnaS1UQlFQWXpfRTNGTnJpVmVkc1lXOEhySHFuZGlYaUdFY0NhU2xENkt5Q2Y4SmZHSi0zdEhfR09JNlhsV0ljbXdnWDFUU0JHblV4V1BWZW9Kc3V5RmFjcFVUNzlBYnVrSmJmOHAzSTRTeU0yN1dYSmhJQmo2cnBkN09TdGxsVXQ0VnVHbEVZNlhzUndF?oc=5"
+   "src": "WILX",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTczcVJZT1Job3NTQTZwMVlad0l4SzJIRGdDNmVPYVJMeDg2d0VVXzVPTGs0b1pzWGVZd1Z4Rno0N2NiNF9xLVNzblRQY19qbFNBMzdmTmJULTNhNXo5dlVIdGdzS09mTFFydHRNUWQ5eVdMY1VuRkRJM2p0d1NpeFdB0gGCAUFVX3lxTFA1NzNxUllPUmhvc1NBNnAxWVp3SXhLMkhEZ0M2ZU9hUkx4ODZ3RVVfNU9MazRvWnNYZVl3VnhGejQ3Y2I0X3EtU3NuVFBjX2psU0EzN2ZOYlQtM2E1ejl2VUh0Z3NLT2ZMUXJ0dE1RZDl5V0xjVW5GREkzanR3U2l4V0E?oc=5"
   },
   {
    "cat": "ai",
-   "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+   "title": "How Chinese AI Models Could Upend Anthropic, OpenAI, and Nvidia",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmlsRTliVVMyYzluS1l0d2JPUmxUMDY4cjZKYWp6bERkUHhuVkszem1Ga0ZJYTN1dXVfcVNHbGx3U2QzY3lYNkNjN0VlZjhxU1FrRkNTZGJueTVZSFFEWEFodjNCUTZnVHVmaXU4LTJZWnFKRlhqMmVYV05xX3lFT2dn0gGHAUFVX3lxTE5tc09LT0c2aXdwa3c5RmlSVExTbmRsTmdqb2w1QmxsMGNQb1ctVzJCQ2VGZ3djTkpqSHRWZFhhY3A2QVItWUhpUVlXS2hwTVlCbVplOS1jSEZoU1hIVVFBanluczl5dHk2X0d5Mm9RTzFiVEtoQU5rWFI3SF9iVlJaSlR3SDc4QQ?oc=5"
+   "src": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fbU9CMFNDdzVFR25taEt1ZzlmY01POUxMQnFLT0VTZzBqYU4tMWE1b3h6MThLbWhfZmlOdWNRM2tCOUx4MEFfMWw1TEtSc0tVSDRGbl9seF9sNmxaZzFnWmNjRGk3LWNINElEQ3ZDYTg4SHB0VnFienZPSTM?oc=5"
   },
   {
    "cat": "robo",
@@ -59,10 +59,10 @@
   },
   {
    "cat": "ai",
-   "title": "The AI That Cheated and Why Experts Are Concerned",
+   "title": "Anthropic's AI model Claude hacked three companies during testing",
    "blurb": "",
-   "src": "KEYE",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGh4OXl2ck8yb3U5cmZqNDE2eUN0MzhUOHJOQm9TZ3BVdzVWUEFYMmxGNTVyY2JLU3pUc1puSk15T2ItdEJNWFp0NnIwMFNjTTU3eXhkUWIwLXIwbDd6NVNuaG1xZ2I5cHM3cDNkTER4U25oSkdLdHIyRmQ2d2RnU2ZObkEyOFdIamRJV1V5ODBzZlNJ?oc=5"
+   "src": "upi.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHFOMU5uOVJGQWwtYlpNblJUdWVLdXFlcTFha0l3X0dtcFVHVVZsZDR6SlZYb0swZ3V4VUJGV0lxVUEzYlJidUpEQ0RReGRiSTBLanF5eUZlODZHVmk5bkNyd0ZMZzJVVVV6Wkd6RkJSNThUWHYtYmpId1VleEtndThB0gGHAUFVX3lxTFBPS0t6XzZoSWw4UENMR2EzdmJfcktyWGJCUXBQVXU0RGQ5TGxUc3RvOENHQ1VjREhDZzFLRzJRcllNZm95SWdsanZtclVnVjV2eHdZQ3YtU2NZUVM0WTBMcC05Qk5FMXNGRThWaWcyU0dhdzdCRmV6cVNTZlNXNkY1Wi1LY19LMA?oc=5"
   },
   {
    "cat": "robo",
@@ -73,10 +73,10 @@
   },
   {
    "cat": "ai",
-   "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
+   "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
    "blurb": "",
-   "src": "NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcjZvZjlTbDI3MUxoTURqUU81N1VLUExIZEI2QVZBN21JSkt2WW1BYXhtOXp5WV9PLWRlYng4ZDN2MEZFWEhZc2d5dVRyQjY4Z0J6ZjZaRURjbGZVd0dhQ0EzWmpmVjUxaDNHc2UtM3ZCMm5sTW01SDdLb0lLSVFjU09HUHZwamstZ1VpT0M2d3ZqemtjX1R4a3lCWVZERV9Ec1lLUk9TQ3FyTVhERk40?oc=5"
+   "src": "MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMi00STBRR0tIb0pibXJaM3hEQlI0VEctOXozWGJOSTJRMTkyNVB4TFpxLTJwLXA2b2lSUVhhRXFnU3liTUxkSWh1NE85czVMWUczTkt1NUYyNnM1V0FWNi1vTHFRMHpEdW1GSjYyYkgtdW4yVVZnZ1RDbkdJRndwT1BhYVBJdjhrMGtzbHBDTkpxV01XZHNKWjI2OC1wU1N6cV9BX2J3OHY2VXZjbkVEa3NrRTNjcXAxY2JoOEJlbHVRLW5JdG5RcmgtMkJaZzY0ckdr?oc=5"
   },
   {
    "cat": "robo",
