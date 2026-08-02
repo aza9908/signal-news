@@ -1,26 +1,12 @@
 {
- "updated": "2026-08-02T06:07:22.523Z",
+ "updated": "2026-08-02T10:42:20.787Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+   "title": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math",
    "blurb": "",
-   "src": "Anthropic",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Tau Robotics launches humanoid robot home cleaning service in San Francisco",
-   "blurb": "",
-   "src": "ABC10",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR29VeVk5NTg5VWNEQjl3bmJ4Wnhzd2NLOVlhNlJqS0FMWk1rTVRTQmtLMk8tbTNJNWFQTUFaY2s2eFpkajY4S0dOMXdrZ0pSZGJ6QVA3MWM5RTg4X0ZLc0xvbmpoVXZvWEJFTnlyU3JVR0RwRjVULWFvSXp1LU90ckdZaTNLWTkzemlsMEVjVVpjV2IxSjFfMzRwWm9QemxuRFdINHd0dmRESDNyQXJsMENxRlA3dDduUVRGMFFYUUU1bjVVR2ZlenRwaEpCbFdMT3pwSUxwOEFZaHJzalFTZWZWSXl4YzQ2Z244OFVXcVN5aUpQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Is A.I. ‘Scheming’ Against Us?",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWDZqc2pLTU1peVM2Y1J0cEIyNFZpN0kwWHRiOVVZeVp5RjVJU1p4UGdPdXozOUx0Y05fa1J1SlNuR3hBSnFOc2REaEZQRGw3bmdKOXhVRllRaFVKU3V4UGR1dmd6clFNU2dsRA?oc=5"
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjRxVEJ0YVIyTFBhRHpXaWw0V0xVRnFsT3REanBuRDFBWkZDeTJ2OWRPZk5CR3pjMjBVXzhNRzlQN1M5bE1pQUpONHN3TC0zQnJWVEpVZkVtNnA3Y2h4ang4SVlDYnEtTzlJNzBITHBacWN5MnRPejFONUVJZFZWM3RpYVpwLW5rVnhLTmE1b1hibW5FSG9kYjB2NDVUWGVWVzRhLUUwZzFvWDBiN0tZZ0JISVZmTGJTMUE?oc=5"
   },
   {
    "cat": "robo",
@@ -31,17 +17,17 @@
   },
   {
    "cat": "ai",
-   "title": "Anthropic Says Its AI Modeals Hacked 3 Organizations During Testing",
+   "title": "Global interest in China’s Kimi K3 model strains capacity and intensifies pressure in the US-China AI race",
    "blurb": "",
-   "src": "Broadband Breakfast",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2s4NW5JaHVhUVdoNHF0WjZUM3FOdTN0YmVjU1U3dGRvOVBuNnZzWEV3UnFTT25KclFfelRXOFJ2YklFNDJPMGhGcS1MQk9RcU9sUDYwYk1ybjhHc09PdnZjSXNoZG44MFNzcm4wOEpIUkpVdkIxUVplWnAxV1hpZFZuRXZYUjdqS2lfVUtqaGkzd29lTG9wZGhjbHYxMFlP?oc=5"
+   "src": "Milwaukee Independent",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV0VybHVwcTZ4bTJzLUpIcmNxXzZmekZfOURjaGtncmRjdF9CSXJmUzFNbENfdnFYTDl0RUl1ZHN3REZVekRoR181dk9oYW1sTGU3SVF6QTZnQ2J4dm5URUFFMWxkSld1eWszZnEzb1ZuaXQtZ1NCRWhBUlV4eGM1a2dYb2liS25FQkJNRFZwTlMzSTF3aHRXVXFGV3ZGZFRnaGRMT2J5cUlwN0prY3FoV2lwMkNDN2hYeHF3T0drWFlBTXE2MHhRajc0eWZkRHd4OFRn?oc=5"
   },
   {
    "cat": "robo",
-   "title": "New humanoid robot has skin that can feel your touch. No, it's not for sex.",
+   "title": "Tau Robotics launches humanoid robot home cleaning service in San Francisco",
    "blurb": "",
-   "src": "Mashable",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QdXhOVGM2NG5sSkZKa2FnS0NoYkQ5VmF5c2pWSUx2OF9ESWdFZERTZHlTOEpIY1VTMmhDVHp6UXJNZ2ZMX0t2b01SWWp6cmtpeXVDWmthSUpnaHRaRzcyWFVoVDZBM2tYdVZVX0FhSHZ3TE5TMk0yZ2Q1SFFfOEk?oc=5"
+   "src": "ABC10",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR29VeVk5NTg5VWNEQjl3bmJ4Wnhzd2NLOVlhNlJqS0FMWk1rTVRTQmtLMk8tbTNJNWFQTUFaY2s2eFpkajY4S0dOMXdrZ0pSZGJ6QVA3MWM5RTg4X0ZLc0xvbmpoVXZvWEJFTnlyU3JVR0RwRjVULWFvSXp1LU90ckdZaTNLWTkzemlsMEVjVVpjV2IxSjFfMzRwWm9QemxuRFdINHd0dmRESDNyQXJsMENxRlA3dDduUVRGMFFYUUU1bjVVR2ZlenRwaEpCbFdMT3pwSUxwOEFZaHJzalFTZWZWSXl4YzQ2Z244OFVXcVN5aUpQ?oc=5"
   },
   {
    "cat": "ai",
@@ -52,38 +38,52 @@
   },
   {
    "cat": "robo",
-   "title": "Top 10 robotics stories of July 2026",
+   "title": "New humanoid robot has skin that can feel your touch. No, it's not for sex.",
    "blurb": "",
-   "src": "The Robot Report",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0d1o2a2JMcWpaN25ER2c4dVA3VVFHd0RqdWR1UjhIT05XYmh2Y3lBbXhtSVFheGgxTXdILTEtLTBUV2M5Rjl6TWphMk1hVloyeVFia1RRR3VjX0Jxb2N1R3R0MkNQaldJUktFNkZIU3BnSzA?oc=5"
+   "src": "mashable.com",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QdXhOVGM2NG5sSkZKa2FnS0NoYkQ5VmF5c2pWSUx2OF9ESWdFZERTZHlTOEpIY1VTMmhDVHp6UXJNZ2ZMX0t2b01SWWp6cmtpeXVDWmthSUpnaHRaRzcyWFVoVDZBM2tYdVZVX0FhSHZ3TE5TMk0yZ2Q1SFFfOEk?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
+   "title": "Investigating three real-world incidents in our cybersecurity evaluations",
    "blurb": "",
-   "src": "NPR",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXNtVEtudEtnV3NPSmczc29QRmhZNGpXcU1SakQwOWNEel9CbEtrNEhUYjRhbzBnLVVJQ0tvdHNVM0ctTS01dVo4SGtzczZtRVVuV2ZjVW0takpNcUZtNWxhdmt3SGdxUFVBYVplSUVnUC1xdm1NR2RKQ2Rkc04xcTJHYU9wVDlwZGtUOXdjX1U?oc=5"
+   "src": "Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Humanoid robot skin senses people before contact",
+   "title": "Mixed feelings: can China’s companion robots win a place at home?",
    "blurb": "",
-   "src": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXRqU1lRXzA4eDJtRms5QUF0Mlp5UTBvUm5hWlVUWmgtYzNIaDctcm5RclB2RmV3TTBBdGk4Mmg1RVVWTkdXb2Y1aDUzSjdMQzZycm80Y0FfdXI0emE0ZGxhR2w1dmZmYUYyN0pmYU5vUXpOaW5LNEs2TkJHZFl6bk5mRdIBiAFBVV95cUxQcWt5SHN4cHItc3hwNEY5Mjl5aFUzTGpuMmVXeXlvdVZ1eVB2dGQyMlowRncyUHhMRUtxemd6dXQ4QVRHNjduYjV0V3Y2NWdHcFNyX2hsUVpfZ2JmdUhWTHBMQmEyUVFqSTlWdm8taWowdzFZMjFUYXdsZDhVc2wtVExlWi1Vbmtl?oc=5"
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3N5TEl5bnk5b1B6cTM0QzljVTQ3NlVYekdBM3RNVVY4dEQxNEtTNkd0X1lMV0hwVkM4YzlyY2djdkU5Y2ZtV0dnMDhxSjMzTTZiazFWdEVpazZfLXpacklFZFdXQ1JFZ3NIUm0wdTVpeVJZb1NFYUdscTVsUDBhVGlxREFWcVRrYmhlN0FlUUVzOUdtQm82N0hBd19jaGQzTHBPcE9rTUpVVDBLc2Z0MDZsVFhpdnAwc1FhSjZSUEZrXzkzV2FZWG1iaUg3X3E4MHfSAdIBQVVfeXFMTmdZd1NtOERmdGt4S2R1MEk2YnZDWHRSelVTQXFkYjJWaE9KMWZjelRwVUpGeXNjYzF5M2pEOU9OZ3JUYm13SlM3bDV5V0d5dElScDFBTmZ3bUtLU3BvVW84OWF0NU9PcUJqYWtpRTRxWTcwYzY3YmZNS3l3UmgtaGdaa2hWVzVkVFZxc1pWYWlRNFVNUURINW1admE5ak5FOF96VUpzaVhINVFpNjE2ak9YQ096Y1Jwd19oTGZsRzdfMlJfdnEyYnZfQmZXMmM4TVJ3?oc=5"
   },
   {
    "cat": "ai",
-   "title": "The Race to Build an American Alternative to Cheap AI From China",
+   "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
    "blurb": "",
-   "src": "wsj.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5"
+   "src": "AI News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hQcXlIMVB5UFFwVXM1Y0pZQm5XOXBzUmNveTg4RjZCc2RNdjdOVFV4U2JDZWdrTTRuTVROZ3lodE5FRVpielNWTVUyaFJkQlhHLVZmSVBWc1BRUHhNS1dNUjNTZ1lCb0drYk9pQ2hLQUtIUXlQUUc4eDNGVGYxOVQ5S1JSaDF0Q3BKSFFncDBKYUZCVV9fTm1aZXd6bjZKanB2dg?oc=5"
   },
   {
    "cat": "robo",
-   "title": "China grabs six of top 10 humanoid robot spots, but US quality is higher: Report",
+   "title": "China has potential to lead global humanoid robotics: Founder of EngineAI",
    "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGNfel9kM3hUM2NrZFdjcUU5Y2RxUWJfZ0dXQzJOM2VBT1IwTVZpWlh5a2M5OUEtWXpMUFRzclhUSHphdFgtZllhLTQ2ZEJWajBUTTdUeWtmN21XQ1R2ai11LW9Oa1luemI5ZUU2Q1NrZ1dPREhXdXVaeks5VG1DWXpBck5EV2QwcTdj?oc=5"
+   "src": "us.acrofan.com",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qbGZ6dGZ2NmpDZDVUZ0ZHV3hmc3JlUUpfcGpNbUdseGw4UERudjM1WXMwZHlJdzhRcE1qV093ckxJcmJLWF9jTmItY3l1UGt0RVZFQi0zS3JsdFd6?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "EU rules on AI models become enforceable. What's going to change?",
+   "blurb": "",
+   "src": "Euronews",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0N5RG1SZlJJTjdNdU5zUVByNlhBdGhGYTRPMlFiX0JtbFgzQ1RpWElNakc2OTZkdjlhYklZdE0tOVBDa0YzaExySHhwX0dmMFdmeGlGQ0pxOW8xY01OV1hKSTRtVGt3MU9SeXhIWDlvUHMwamJybDhFekRNZFIxUm1CN3dmenlSaktBMlJmc2xCTzd2OGZkREk3dlp5Vk5Qa0NlQlR1ZnpCQ2t3?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid robots are 'next stage' in farming",
+   "blurb": "",
+   "src": "bbc.com",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yZnF1WlBudkVJTG1KY3p0X241SnlNczhrZDc4amVGb25TRTlEdFllbmVnVVpNR01ZSmZSVjVoangxeGowOXpuUFo3c0MxakJ2Vm50V0NBTzM1dw?oc=5"
   }
  ]
 }
