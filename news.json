@@ -1,33 +1,19 @@
 {
- "updated": "2026-08-01T21:58:45.998Z",
+ "updated": "2026-08-02T06:07:22.523Z",
  "items": [
   {
    "cat": "ai",
    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
    "blurb": "",
-   "src": "anthropic.com",
+   "src": "Anthropic",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
   },
   {
    "cat": "robo",
-   "title": "You can hire these humanoid robots from Tau Robotics to clean your home in San Francisco",
+   "title": "Tau Robotics launches humanoid robot home cleaning service in San Francisco",
    "blurb": "",
-   "src": "ABC7 Bay Area",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlh2ZGNFRkdmV1JaMGE3OE55YTlJdGRKeDRwTW5Oa1VEdTVFTTYzWDd4Z1VRNVdBaVlsRzkyNzJGdWVsR0lfUXkxSFNHb05UWm9hRF9BN1doeC1vLWxYUEl4SGVzSmFPN1NKS29PWUk4U0VCY0ZTU2JQQ24tZWtxLWU5NTFaLXNpME9kcTBpNUJqUlpYa05DYTU2SHZadGvSAaQBQVVfeXFMTXhlanNMblNPVi0tWjZMaEZMNzJEdTE1d21VWnZUSndkdnVHajFwT1Z0U243U2phRzVNUE1sNEt2R3Z3VHpUaFR6Mng4RHIxYThyd1ZsMnhFMXN1MUtGalRUTmhkUkd5a2ozcHZvaFI4TkdTbnV3cmdIOXEwY0lRek1fdFlWMGduRktMN2tCbUhuQ1pnS0owYzI2b2lCTkdjT0pHNFM?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
-   "blurb": "",
-   "src": "NPR",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXNtVEtudEtnV3NPSmczc29QRmhZNGpXcU1SakQwOWNEel9CbEtrNEhUYjRhbzBnLVVJQ0tvdHNVM0ctTS01dVo4SGtzczZtRVVuV2ZjVW0takpNcUZtNWxhdmt3SGdxUFVBYVplSUVnUC1xdm1NR2RKQ2Rkc04xcTJHYU9wVDlwZGtUOXdjX1U?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Top 10 robotics stories of July 2026",
-   "blurb": "",
-   "src": "The Robot Report",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0d1o2a2JMcWpaN25ER2c4dVA3VVFHd0RqdWR1UjhIT05XYmh2Y3lBbXhtSVFheGgxTXdILTEtLTBUV2M5Rjl6TWphMk1hVloyeVFia1RRR3VjX0Jxb2N1R3R0MkNQaldJUktFNkZIU3BnSzA?oc=5"
+   "src": "ABC10",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR29VeVk5NTg5VWNEQjl3bmJ4Wnhzd2NLOVlhNlJqS0FMWk1rTVRTQmtLMk8tbTNJNWFQTUFaY2s2eFpkajY4S0dOMXdrZ0pSZGJ6QVA3MWM5RTg4X0ZLc0xvbmpoVXZvWEJFTnlyU3JVR0RwRjVULWFvSXp1LU90ckdZaTNLWTkzemlsMEVjVVpjV2IxSjFfMzRwWm9QemxuRFdINHd0dmRESDNyQXJsMENxRlA3dDduUVRGMFFYUUU1bjVVR2ZlenRwaEpCbFdMT3pwSUxwOEFZaHJzalFTZWZWSXl4YzQ2Z244OFVXcVN5aUpQ?oc=5"
   },
   {
    "cat": "ai",
@@ -38,10 +24,24 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid robot skin senses people before contact",
+   "title": "You can hire these humanoid robots from Tau Robotics to clean your home in San Francisco",
    "blurb": "",
-   "src": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXRqU1lRXzA4eDJtRms5QUF0Mlp5UTBvUm5hWlVUWmgtYzNIaDctcm5RclB2RmV3TTBBdGk4Mmg1RVVWTkdXb2Y1aDUzSjdMQzZycm80Y0FfdXI0emE0ZGxhR2w1dmZmYUYyN0pmYU5vUXpOaW5LNEs2TkJHZFl6bk5mRdIBiAFBVV95cUxQcWt5SHN4cHItc3hwNEY5Mjl5aFUzTGpuMmVXeXlvdVZ1eVB2dGQyMlowRncyUHhMRUtxemd6dXQ4QVRHNjduYjV0V3Y2NWdHcFNyX2hsUVpfZ2JmdUhWTHBMQmEyUVFqSTlWdm8taWowdzFZMjFUYXdsZDhVc2wtVExlWi1Vbmtl?oc=5"
+   "src": "ABC7 Bay Area",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlh2ZGNFRkdmV1JaMGE3OE55YTlJdGRKeDRwTW5Oa1VEdTVFTTYzWDd4Z1VRNVdBaVlsRzkyNzJGdWVsR0lfUXkxSFNHb05UWm9hRF9BN1doeC1vLWxYUEl4SGVzSmFPN1NKS29PWUk4U0VCY0ZTU2JQQ24tZWtxLWU5NTFaLXNpME9kcTBpNUJqUlpYa05DYTU2SHZadGvSAaQBQVVfeXFMTXhlanNMblNPVi0tWjZMaEZMNzJEdTE1d21VWnZUSndkdnVHajFwT1Z0U243U2phRzVNUE1sNEt2R3Z3VHpUaFR6Mng4RHIxYThyd1ZsMnhFMXN1MUtGalRUTmhkUkd5a2ozcHZvaFI4TkdTbnV3cmdIOXEwY0lRek1fdFlWMGduRktMN2tCbUhuQ1pnS0owYzI2b2lCTkdjT0pHNFM?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Anthropic Says Its AI Modeals Hacked 3 Organizations During Testing",
+   "blurb": "",
+   "src": "Broadband Breakfast",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2s4NW5JaHVhUVdoNHF0WjZUM3FOdTN0YmVjU1U3dGRvOVBuNnZzWEV3UnFTT25KclFfelRXOFJ2YklFNDJPMGhGcS1MQk9RcU9sUDYwYk1ybjhHc09PdnZjSXNoZG44MFNzcm4wOEpIUkpVdkIxUVplWnAxV1hpZFZuRXZYUjdqS2lfVUtqaGkzd29lTG9wZGhjbHYxMFlP?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "New humanoid robot has skin that can feel your touch. No, it's not for sex.",
+   "blurb": "",
+   "src": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QdXhOVGM2NG5sSkZKa2FnS0NoYkQ5VmF5c2pWSUx2OF9ESWdFZERTZHlTOEpIY1VTMmhDVHp6UXJNZ2ZMX0t2b01SWWp6cmtpeXVDWmthSUpnaHRaRzcyWFVoVDZBM2tYdVZVX0FhSHZ3TE5TMk0yZ2Q1SFFfOEk?oc=5"
   },
   {
    "cat": "ai",
@@ -52,38 +52,38 @@
   },
   {
    "cat": "robo",
+   "title": "Top 10 robotics stories of July 2026",
+   "blurb": "",
+   "src": "The Robot Report",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0d1o2a2JMcWpaN25ER2c4dVA3VVFHd0RqdWR1UjhIT05XYmh2Y3lBbXhtSVFheGgxTXdILTEtLTBUV2M5Rjl6TWphMk1hVloyeVFia1RRR3VjX0Jxb2N1R3R0MkNQaldJUktFNkZIU3BnSzA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
+   "blurb": "",
+   "src": "NPR",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXNtVEtudEtnV3NPSmczc29QRmhZNGpXcU1SakQwOWNEel9CbEtrNEhUYjRhbzBnLVVJQ0tvdHNVM0ctTS01dVo4SGtzczZtRVVuV2ZjVW0takpNcUZtNWxhdmt3SGdxUFVBYVplSUVnUC1xdm1NR2RKQ2Rkc04xcTJHYU9wVDlwZGtUOXdjX1U?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid robot skin senses people before contact",
+   "blurb": "",
+   "src": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXRqU1lRXzA4eDJtRms5QUF0Mlp5UTBvUm5hWlVUWmgtYzNIaDctcm5RclB2RmV3TTBBdGk4Mmg1RVVWTkdXb2Y1aDUzSjdMQzZycm80Y0FfdXI0emE0ZGxhR2w1dmZmYUYyN0pmYU5vUXpOaW5LNEs2TkJHZFl6bk5mRdIBiAFBVV95cUxQcWt5SHN4cHItc3hwNEY5Mjl5aFUzTGpuMmVXeXlvdVZ1eVB2dGQyMlowRncyUHhMRUtxemd6dXQ4QVRHNjduYjV0V3Y2NWdHcFNyX2hsUVpfZ2JmdUhWTHBMQmEyUVFqSTlWdm8taWowdzFZMjFUYXdsZDhVc2wtVExlWi1Vbmtl?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "The Race to Build an American Alternative to Cheap AI From China",
+   "blurb": "",
+   "src": "wsj.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5"
+  },
+  {
+   "cat": "robo",
    "title": "China grabs six of top 10 humanoid robot spots, but US quality is higher: Report",
    "blurb": "",
    "src": "Interesting Engineering",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGNfel9kM3hUM2NrZFdjcUU5Y2RxUWJfZ0dXQzJOM2VBT1IwTVZpWlh5a2M5OUEtWXpMUFRzclhUSHphdFgtZllhLTQ2ZEJWajBUTTdUeWtmN21XQ1R2ai11LW9Oa1luemI5ZUU2Q1NrZ1dPREhXdXVaeks5VG1DWXpBck5EV2QwcTdj?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "How Chinese AI Models Could Upend Anthropic, OpenAI, and Nvidia",
-   "blurb": "",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fbU9CMFNDdzVFR25taEt1ZzlmY01POUxMQnFLT0VTZzBqYU4tMWE1b3h6MThLbWhfZmlOdWNRM2tCOUx4MEFfMWw1TEtSc0tVSDRGbl9seF9sNmxaZzFnWmNjRGk3LWNINElEQ3ZDYTg4SHB0VnFienZPSTM?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "U.S. Bans Imports of New Foreign-Made Humanoid Robots, Grid Inverters",
-   "blurb": "",
-   "src": "Fort Mill Sun",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMWFXcnU0bjFmVXRaY1RycW4tSnpDNk1oZWJaQk5ndkJQaG4zUWxZVWtWal92MXpsU2NXckJyVEo1bXhIZFlOaXF4cjFMb2dJQTd4ZE5QMnpvd2ExVVZENzMtWXZzQlZ0dGNKYjFPSnpKYTBhM0pUSXQ4WHRzQk5kemZRRkZyTXB4OW1TaHRwYktocjZmdnlXRloydkY2OGhtWEhXb1Y0Zy1TdlU?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-   "blurb": "",
-   "src": "artificialintelligence-news.com",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hQcXlIMVB5UFFwVXM1Y0pZQm5XOXBzUmNveTg4RjZCc2RNdjdOVFV4U2JDZWdrTTRuTVROZ3lodE5FRVpielNWTVUyaFJkQlhHLVZmSVBWc1BRUHhNS1dNUjNTZ1lCb0drYk9pQ2hLQUtIUXlQUUc4eDNGVGYxOVQ5S1JSaDF0Q3BKSFFncDBKYUZCVV9fTm1aZXd6bjZKanB2dg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid robots: Trump's latest China trade battle?",
-   "blurb": "",
-   "src": "dw.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVhSLVlXeXpHNVpwTHFFQTFSZkU0bmxkaFRobXUwdWw0WEVjSHVEQzlVeU1wZk8yVFBoQUFBRWdRRDNIOFhYbVlXcDhPQzAyT2NzQjVOTW1fNVBKRURadWJNd0lXaEgzQnFNdEtQVXRDTjJ3RnZmc3Rua0J3Q282cENEUS1sN2VXd1EwaVRXZEdDWGN0RHIzNjZLUVpUbEtvVFA3NFBqLUN5eW_SAasBQVVfeXFMUFZMTEdhYXRRMEZxWlhTejMxcDlmMTZnaS1UQlFQWXpfRTNGTnJpVmVkc1lXOEhySHFuZGlYaUdFY0NhU2xENkt5Q2Y4SmZHSi0zdEhfR09JNlhsV0ljbXdnWDFUU0JHblV4V1BWZW9Kc3V5RmFjcFVUNzlBYnVrSmJmOHAzSTRTeU0yN1dYSmhJQmo2cnBkN09TdGxsVXQ0VnVHbEVZNlhzUndF?oc=5"
   }
  ]
 }
