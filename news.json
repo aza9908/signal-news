@@ -1,12 +1,12 @@
 {
- "updated": "2026-08-02T16:02:11.494Z",
+ "updated": "2026-08-02T21:58:12.711Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Op-ed: The U.S. lead over China in AI is all but gone",
+   "title": "CEO of AI firm Hugging Face calls last month's hack by OpenAI model \"very weird and unprecedented\"",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?oc=5"
+   "src": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yaGFxS0d4QWgzRW02N01rMS1pT2haVWkxSDk1VkpLRFFOSEhrNTVrejY1eTF3VmgxRXVfWHE5dllWSGRlU0lqRXlvTnU1c3luLU5FRkNkZ21ybVB4TEtvYXdBQWVLVVB2c1RzcFl1aVB3dXBh?oc=5"
   },
   {
    "cat": "robo",
@@ -24,24 +24,10 @@
   },
   {
    "cat": "robo",
-   "title": "BYD confirms plan to unveil humanoid robot in Aug",
+   "title": "BYD's Humanoid Robot Debuts in August, and the Robot Isn't the Part That Should Worry Everyone Else",
    "blurb": "",
-   "src": "Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObXdJRi1jVC1SblNHQVNleXpsSkVDQk1IX0dMOG9vbEY0bFEyeHlOdVBMRjYwYXZXT2U3eXY0MFZ3dXl0RVUzQk0xU2xjREtmZDNCNFVlNnFXRUxHbTB4UzRPbnZxcldTUEhod1JYdW1CUEtfd2tyTGx6TVZMVVNmTnR6TllwS0UxVFpoVHB4SzEzc0Nzay1UQngwc3FZdVZFR2VubUd3?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math",
-   "blurb": "",
-   "src": "Gizmodo",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjRxVEJ0YVIyTFBhRHpXaWw0V0xVRnFsT3REanBuRDFBWkZDeTJ2OWRPZk5CR3pjMjBVXzhNRzlQN1M5bE1pQUpONHN3TC0zQnJWVEpVZkVtNnA3Y2h4ang4SVlDYnEtTzlJNzBITHBacWN5MnRPejFONUVJZFZWM3RpYVpwLW5rVnhLTmE1b1hibW5FSG9kYjB2NDVUWGVWVzRhLUUwZzFvWDBiN0tZZ0JISVZmTGJTMUE?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
-   "blurb": "",
-   "src": "therobotreport.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGhTUndQdUxFX3R6a1ZUTHV5ZkkweFE0bFAtSUE3cFF5QWU2NGg3N1VNRG4yRHgwNHhUR193VG1wcWIzLTExcE9aQnl1MFVtXzNaemt0MEhDS0doSGVvS2NLbGNEX2RXMWJieVh6SlR1SnpDcHFCVk5ZUS1fN1p6V1ctS1k3dUNlNWNjYzQxMWR2TlhEV1prajR1OUQ?oc=5"
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUV6X1dqRjlMb2xKNWU4SkxTeGFjY2xCTGp5eXdiMVVPWUk5MmZQbVRybEdad0tJWTFvTkgzV0IxaWRhRFFDaW1NWTB3cFMyazRidVVVbkV6dmpPZUN6NW9GcW5yQjcxQV91M1pSeE12TlN1MnpTeUlST25CR1JFVzAyZ2d6VGZwUjEtRFlYQWtXSDVpTXBKc21Nd0Z6QQ?oc=5"
   },
   {
    "cat": "ai",
@@ -52,38 +38,52 @@
   },
   {
    "cat": "robo",
-   "title": "Tau Robotics launches humanoid robot home cleaning service in San Francisco",
+   "title": "Mixed feelings: can China’s companion robots win a place at home?",
    "blurb": "",
-   "src": "ABC10",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR29VeVk5NTg5VWNEQjl3bmJ4Wnhzd2NLOVlhNlJqS0FMWk1rTVRTQmtLMk8tbTNJNWFQTUFaY2s2eFpkajY4S0dOMXdrZ0pSZGJ6QVA3MWM5RTg4X0ZLc0xvbmpoVXZvWEJFTnlyU3JVR0RwRjVULWFvSXp1LU90ckdZaTNLWTkzemlsMEVjVVpjV2IxSjFfMzRwWm9QemxuRFdINHd0dmRESDNyQXJsMENxRlA3dDduUVRGMFFYUUU1bjVVR2ZlenRwaEpCbFdMT3pwSUxwOEFZaHJzalFTZWZWSXl4YzQ2Z244OFVXcVN5aUpQ?oc=5"
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3N5TEl5bnk5b1B6cTM0QzljVTQ3NlVYekdBM3RNVVY4dEQxNEtTNkd0X1lMV0hwVkM4YzlyY2djdkU5Y2ZtV0dnMDhxSjMzTTZiazFWdEVpazZfLXpacklFZFdXQ1JFZ3NIUm0wdTVpeVJZb1NFYUdscTVsUDBhVGlxREFWcVRrYmhlN0FlUUVzOUdtQm82N0hBd19jaGQzTHBPcE9rTUpVVDBLc2Z0MDZsVFhpdnAwc1FhSjZSUEZrXzkzV2FZWG1iaUg3X3E4MHfSAdIBQVVfeXFMTmdZd1NtOERmdGt4S2R1MEk2YnZDWHRSelVTQXFkYjJWaE9KMWZjelRwVUpGeXNjYzF5M2pEOU9OZ3JUYm13SlM3bDV5V0d5dElScDFBTmZ3bUtLU3BvVW84OWF0NU9PcUJqYWtpRTRxWTcwYzY3YmZNS3l3UmgtaGdaa2hWVzVkVFZxc1pWYWlRNFVNUURINW1admE5ak5FOF96VUpzaVhINVFpNjE2ak9YQ096Y1Jwd19oTGZsRzdfMlJfdnEyYnZfQmZXMmM4TVJ3?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy",
+   "blurb": "",
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
+   "blurb": "",
+   "src": "The Robot Report",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGhTUndQdUxFX3R6a1ZUTHV5ZkkweFE0bFAtSUE3cFF5QWU2NGg3N1VNRG4yRHgwNHhUR193VG1wcWIzLTExcE9aQnl1MFVtXzNaemt0MEhDS0doSGVvS2NLbGNEX2RXMWJieVh6SlR1SnpDcHFCVk5ZUS1fN1p6V1ctS1k3dUNlNWNjYzQxMWR2TlhEV1prajR1OUQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math",
+   "blurb": "",
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjRxVEJ0YVIyTFBhRHpXaWw0V0xVRnFsT3REanBuRDFBWkZDeTJ2OWRPZk5CR3pjMjBVXzhNRzlQN1M5bE1pQUpONHN3TC0zQnJWVEpVZkVtNnA3Y2h4ang4SVlDYnEtTzlJNzBITHBacWN5MnRPejFONUVJZFZWM3RpYVpwLW5rVnhLTmE1b1hibW5FSG9kYjB2NDVUWGVWVzRhLUUwZzFvWDBiN0tZZ0JISVZmTGJTMUE?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "BYD confirms plan to unveil humanoid robot in Aug",
+   "blurb": "",
+   "src": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObXdJRi1jVC1SblNHQVNleXpsSkVDQk1IX0dMOG9vbEY0bFEyeHlOdVBMRjYwYXZXT2U3eXY0MFZ3dXl0RVUzQk0xU2xjREtmZDNCNFVlNnFXRUxHbTB4UzRPbnZxcldTUEhod1JYdW1CUEtfd2tyTGx6TVZMVVNmTnR6TllwS0UxVFpoVHB4SzEzc0Nzay1UQngwc3FZdVZFR2VubUd3?oc=5"
   },
   {
    "cat": "ai",
    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
    "blurb": "",
-   "src": "Anthropic",
+   "src": "anthropic.com",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid robots are 'next stage' in farming",
-   "blurb": "",
-   "src": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yZnF1WlBudkVJTG1KY3p0X241SnlNczhrZDc4amVGb25TRTlEdFllbmVnVVpNR01ZSmZSVjVoangxeGowOXpuUFo3c0MxakJ2Vm50V0NBTzM1dw?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "The Race to Build an American Alternative to Cheap AI From China",
-   "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1l1NDFOT09nMFNYX0lVNjlidGtVYmM5YWdNcU13NHlmVlZDS1YyYlVGeFdJZnd2Wk1ZenlBWUZUZ245M21tV25rMjZXTHBlWUNGU0hVX2NJb1lVMlV3a2lrazJhQTRxRVM3Z1pyazIxUDVFYWhSU0hUMHdmeDNmZUNXYk5nR2pXSFpVSmpyM3Y2bmZnOUFqdzBTTG5Qa3gxQXQw?oc=5"
   },
   {
    "cat": "robo",
    "title": "China has potential to lead global humanoid robotics: Founder of EngineAI",
    "blurb": "",
-   "src": "StreetInsider",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQci1ZaW1CSVZHdTd0cXp6ZE5ETUZTSWJjLVNKdE5BQk9NOHE2bWpEeC1Oa2RhdFhuRmVDdGszM0hvYWItbkpBTm9FYV96OGJtMVlhdnY5bm0xVXRGSUhUS2lJcDExdUxWTDBVQlNZREpxTDNJcVBWc2J3VEl3d3plSjVFSXg3V296NXAxVWlGSTlTM0JxRnlYenZKWnV1TmNpMTZncW1Eci1QQmVQaGxNMGRPWTJONkR6TnZGZ2x1U1NPMmNrQk9xVjZ3?oc=5"
+   "src": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT05FcEc1Y29uR20xUFJCeGdXU0tWb3pDTTBnaFlSeWRVZ2hxNHRaZTA5bmRMSHFQYUxpVFJyeFRoaEQzTFBDTEhFVEV4b0FkblI2RDRSQkhKUktaUFo2S3hfaTlQV1V2Z3FPeXVJUUc0VS10aUYzV2x6anZOMmI4Y2RRRWQtUUU?oc=5"
   }
  ]
 }
