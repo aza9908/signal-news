@@ -1,19 +1,33 @@
 {
- "updated": "2026-08-03T17:10:20.477Z",
+ "updated": "2026-08-03T22:10:46.982Z",
  "items": [
   {
    "cat": "ai",
    "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
    "blurb": "",
-   "src": "cnbc.com",
+   "src": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEdhN3psNkdrQ09mOFh4dU5Zek1FZFF4OU5VZl9iR2M2djJuRFFSY041ZV9yWFZHbnBIdDFHM0lQNXZJVmZmdDhXcTFNc0w0bG1WZ1lqQ19uRGFaVzR3QjA1dU1oT1ZiUGNrT0c2MmV2MWNqRXdFYkFyeHBheTZKNNIBhgFBVV95cUxNNFg3UDZnOXVtWjFkdHpjWnFNTlYxQ0lROEk5aUFSdE0tbEQ1VVk4STFfMnE1VTBZc1hoQktSWHVOanNuUU54bkwyUUdKX1h6WXk0WkJhMlM2VjU4aHZsd2U3cFY0QnFCS3o0c3F5UnM3YXdLdWx0WmVwQm1mbkxUdWdfRmpvUQ?oc=5"
   },
   {
    "cat": "robo",
    "title": "New Bill Would Ban Humanoid Robots in Schools After New York Focus Report",
    "blurb": "",
-   "src": "nysfocus.com",
+   "src": "New York Focus",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94LXBfX1pLSktOMXhINTlzQldRblgwVlhLSU02LS1rYlNFdFdSY3NhSXp0Y3l3Z3NzRjRSNDVad3VOSWlUa3JPUTR3a3dRdVdYWDgtdVE5RjctOVZCODVWRTJ0YTh0a0JRaXJyRlRJWlo0WTFL?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Alibaba Unveils Its Largest AI Model Yet As China Closes The Gap",
+   "blurb": "",
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZrRVRUMUlzdmp6dlNJdFdRSzhlYUQ0c3FoVm44WXhSVFd0MmdVX1BRQ2p4dW5VY09ta1h1cEpKamJJYlNiWXFiWnFUb2h2NWlQZW5RdVI4dnFfeURLeXBBQkYxZTlJU2NwbEQ3LVZ6NTZLbHBYU2VYTnhOdlQzZGk1RHpXS01pR2ZuTGxCV2VqYndpeTVKR3ZYelRCZHl0eFl3ZXpNdXNOME1UVlVfdzBaRHBnQ1BZN3N5Y1ZxZ1BqRTQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "An Expressive Robot Has More to Lose When It Makes Mistakes",
+   "blurb": "",
+   "src": "Drexel",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YcVUwWFpsc3pLaEgzUl9WdG5aNnFid2tZZ1c0OEF6NmFyU1diNV9UaHh4YUpoYXdmV0tJbXFjU2lsc2JCTzlDLWRlRVRvMnhSN1ppd2pPX1Z2QkV4SWtoenU1UHhFS1g3QW00bVNfOVlNTERVLS03UjRsMmhtT28?oc=5"
   },
   {
    "cat": "ai",
@@ -24,38 +38,10 @@
   },
   {
    "cat": "robo",
-   "title": "An Expressive Robot Has More to Lose When It Makes Mistakes",
+   "title": "China Threatens Retaliation Against U.S. Ban on Foreign Humanoid Robots",
    "blurb": "",
-   "src": "drexel.edu",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YcVUwWFpsc3pLaEgzUl9WdG5aNnFid2tZZ1c0OEF6NmFyU1diNV9UaHh4YUpoYXdmV0tJbXFjU2lsc2JCTzlDLWRlRVRvMnhSN1ppd2pPX1Z2QkV4SWtoenU1UHhFS1g3QW00bVNfOVlNTERVLS03UjRsMmhtT28?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI identifies health risks from routine sleep study data",
-   "blurb": "",
-   "src": "UW Medicine | Newsroom",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWFyc0pDMnl1Q0hXWjRDU0dsUzhLWVRWLUVPQVF3X2NoZkVJMXRwdmVyLTRCM0tNdm02dEhnLUlGZU5aYWQwd3B6MHpqWmt6RmNjdGRaWTk2NkNGUTJEZ2NiTG9Ya1RRODhjejlCQ2ZUeG5OS3FHQ3RHdjlvWlNQaWV4aXl2aFpWWkZJTS01OWJ1XzB2WEhhQkdB?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Beyond Humanoid Robots: Why Google DeepMind Is Building the Intelligence Layer for Physical AI",
-   "blurb": "",
-   "src": "Logistics Viewpoints",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY2JXdlBBZ3JwcDhoSXppdHZ6eURHbjZhdXBvVW84eXp0b3hUN1dyQXNHTXRFNXl4VmFfVFo3QUFVdTRhT2FWX0dRYXB0cVBwWmxwcEtrY0duMk11WUhPOG5XeWVZNjZIX3BpeGRyejBNRE5zOE8tXzBORXZVcE5UMVhBM0tTaVJreExpQ1JCV0VJRUJ4V0VnSlJET0UtVDFpaUlPbG5vTTlnOGxTYndTQ05JZzJfR0xvdzMtd05xUTNuT0xrQ3JWQVNCbnA4VGxOVXA4?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Alibaba Adds to China AI Breakthroughs With New Qwen Model",
-   "blurb": "",
-   "src": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "When expressive humanoid robots are awkward, people become wary: New brain study",
-   "blurb": "",
-   "src": "Brooklyn Eagle",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yZnkwbjRldmpmVHAwOWZadDkxNkQ4c19QUUFBV0tPNU1ZeTRuODJvcUpGMWxZRHZMckZOVFFOXy0wbXF2bWpEUTlHWEh3aEJsMWprUTJyRWJWLWJQVmlreTdHVzZORU9XdnNoeFp5RjFIUQ?oc=5"
+   "src": "Supply Chain Brain",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzkteVVEMWZBbHZ4enYtM3UzQjZWcEFVMUQ3UUZmUHF4dWJaNUtXRktSbGhualIxaUZfNkJOWGxIRlV2SHNPbjRNV3JocWJ6TWV2NmZKczFjZFlpZnR2WTI0LW44VnRXVmFWRmlaZWdKbUVEa21QNjZoU0dYVktTSWhuMVNwT0hUTmczTnF5UEFPT0Z0ZmYzU2hFUlhzLW9EcnUtbHh5UXhrMUJXZHpwektUNFI4R1RO?oc=5"
   },
   {
    "cat": "ai",
@@ -66,10 +52,24 @@
   },
   {
    "cat": "robo",
-   "title": "NY Focus: New Bill Would Ban Humanoid Robots in Schools After New York Focus Report",
+   "title": "When expressive humanoid robots are awkward, people become wary: New brain study",
    "blurb": "",
-   "src": "the wellsville sun",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEVxdkJQZnpmV1hFMlVxRGdFTk9EYnQ0dkk2bGMxVTFBelBDLWgwZTUwX0FfczVqbTNVMDBwQnFEWEpRdU5SN3RTenVlYXVhQXdfM3pWRG03d2dUYTduZVJTX1Npb2luQ3lWbXB1RDlqTGZ4S3NKUVNQZEdud3dDT0RyTzk0RW9XRVF3alFNaHdhZnp3YkNDMEJMR1NzaHdpdEhhWUV1X0dxZEdNTXlLUzVwQWR2dUQ2bzF6VmhGWTFVLTA?oc=5"
+   "src": "brooklyneagle.com",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yZnkwbjRldmpmVHAwOWZadDkxNkQ4c19QUUFBV0tPNU1ZeTRuODJvcUpGMWxZRHZMckZOVFFOXy0wbXF2bWpEUTlHWEh3aEJsMWprUTJyRWJWLWJQVmlreTdHVzZORU9XdnNoeFp5RjFIUQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Thought for the week: A shifting AI policy landscape",
+   "blurb": "",
+   "src": "IAPP",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekVLbVozR29fRk14RTVNRVctLW5lS09aZkZPc3IzYnV5ZVJ2NDYwc0FTQXg4N1hrNC1Ldk9jbkVnN2ZTWjFiTGRsMlJqMVNldl9ONlo2ZDMybXBJdkFPYkhWR2EzM1dsSXk4eHRsN0NNZDNoM0NUTUtsQXI4NGZWVQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Beyond Humanoid Robots: Why Google DeepMind Is Building the Intelligence Layer for Physical AI",
+   "blurb": "",
+   "src": "Logistics Viewpoints",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY2JXdlBBZ3JwcDhoSXppdHZ6eURHbjZhdXBvVW84eXp0b3hUN1dyQXNHTXRFNXl4VmFfVFo3QUFVdTRhT2FWX0dRYXB0cVBwWmxwcEtrY0duMk11WUhPOG5XeWVZNjZIX3BpeGRyejBNRE5zOE8tXzBORXZVcE5UMVhBM0tTaVJreExpQ1JCV0VJRUJ4V0VnSlJET0UtVDFpaUlPbG5vTTlnOGxTYndTQ05JZzJfR0xvdzMtd05xUTNuT0xrQ3JWQVNCbnA4VGxOVXA4?oc=5"
   },
   {
    "cat": "ai",
@@ -80,10 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robotics Are Booming",
+   "title": "Trump’s AI protectionism has come for robotics",
    "blurb": "",
-   "src": "Statista",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmxEX3htbURhcktuZG9rR3FBNkR6RGpqc3c5dks5aTY2aEFWSkVpbkt2YjlhWEZNZklrVEkySEQyRlZrT0RkWmNobkRPTGtlR1ZMM3hBTTZkWkZwUWdidm9heWJfRFlZTG9iQnhOQTJJOEQwWnlpbURiQ1dvQUJiRm93bGxmWXdnVEFLd2lJYm5BNjNQcmtLbdIBmAFBVV95cUxQRmxEX3htbURhcktuZG9rR3FBNkR6RGpqc3c5dks5aTY2aEFWSkVpbkt2YjlhWEZNZklrVEkySEQyRlZrT0RkWmNobkRPTGtlR1ZMM3hBTTZkWkZwUWdidm9heWJfRFlZTG9iQnhOQTJJOEQwWnlpbURiQ1dvQUJiRm93bGxmWXdnVEFLd2lJYm5BNjNQcmtLbQ?oc=5"
+   "src": "MIT Technology Review",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRXNQZFQyQTVMbEk4UXZRYWwwb3RaVHcyMlU5QmozdldfRVdrcVlGc1VYbDNyeXl2OGh0clJoRk1BN0VuQkxDUjU4WHdZQS1ERW5BTDdmOGtuZVpVOW0xbHM4QWRQVU01QWhpZzdFbkJtVG1HNEpuQTd2VUlJNFF6dWo3SjZ5VWcyMldDQlJvM0V5Q2pOYnBra245ZXlDNmfSAaQBQVVfeXFMTTR4N0dnSVBGNWl4NnVPWl9WQUlYLTExRXJvdXE3cHFJSThyak5tTXhHa0ZhaDBPdXhHYXJVbWRXa2xzVlo3bzN0QW1vTkJKbmQ3dFNjbGRmNkM2UWRqenVhTWFhSlcxaWczWkg2bW53Z2FKQ25yQVJPcmlsSFUzRnJzcVFqZnhDbWozOGdzUzhzZGdJRUhlS190VklEdER1WXJ2VXE?oc=5"
   }
  ]
 }
