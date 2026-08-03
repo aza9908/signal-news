@@ -1,26 +1,40 @@
 {
- "updated": "2026-08-03T12:26:48.575Z",
+ "updated": "2026-08-03T17:10:20.477Z",
  "items": [
   {
    "cat": "ai",
-   "title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says",
+   "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
    "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnd6ckhOVUhwcGJjRmxRdlhObS1ncXRhZm9OeVUwaEgwOTg5YmNBTGVWcHZsdXd4dXVrWWdlZGtsYkw0eDIyY1A3NjdSM0o0bFBGUEZRNDF2NjYwZEtCamNpeTFqN3ZaQVlTclNuQWYxNXh4ZVlqaWF3WkNNVk1fbmJXcTdISlBmUVVWS01STmFYZldLSGk5akJQZVB5X09OSzVoVWF4Wko4TEF4cGozQUlWM202dFJWMGxSRTdpcTNaaUp6bmNyZXpWbVRFb2JoSzdCVQ?oc=5"
+   "src": "cnbc.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEdhN3psNkdrQ09mOFh4dU5Zek1FZFF4OU5VZl9iR2M2djJuRFFSY041ZV9yWFZHbnBIdDFHM0lQNXZJVmZmdDhXcTFNc0w0bG1WZ1lqQ19uRGFaVzR3QjA1dU1oT1ZiUGNrT0c2MmV2MWNqRXdFYkFyeHBheTZKNNIBhgFBVV95cUxNNFg3UDZnOXVtWjFkdHpjWnFNTlYxQ0lROEk5aUFSdE0tbEQ1VVk4STFfMnE1VTBZc1hoQktSWHVOanNuUU54bkwyUUdKX1h6WXk0WkJhMlM2VjU4aHZsd2U3cFY0QnFCS3o0c3F5UnM3YXdLdWx0WmVwQm1mbkxUdWdfRmpvUQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "New York Bill Would Ban Humanoid Robots in Schools",
+   "title": "New Bill Would Ban Humanoid Robots in Schools After New York Focus Report",
    "blurb": "",
-   "src": "New York Focus",
+   "src": "nysfocus.com",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94LXBfX1pLSktOMXhINTlzQldRblgwVlhLSU02LS1rYlNFdFdSY3NhSXp0Y3l3Z3NzRjRSNDVad3VOSWlUa3JPUTR3a3dRdVdYWDgtdVE5RjctOVZCODVWRTJ0YTh0a0JRaXJyRlRJWlo0WTFL?oc=5"
   },
   {
    "cat": "ai",
-   "title": "For AI to Drive Science Discoveries, Highly Reproducible Data Is Key",
+   "title": "Alibaba Stock Pops on New AI Model but Here’s the Bad News",
    "blurb": "",
-   "src": "Newswise",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmZ0bk11TkU0V2MxdGpaM1JMZ1VNNXM1ZjAtUFZHd1NHOFdTanE5SUdsY2JKZXlkOXdyeW5DS2xnTS1PVDhneFRNVldRYU5kMnloQjVMZlVENzQyc0lhTFI0WDhhR2xTQ0FqZXYxTjFXS2d2MXdMWXVSejc4VElVOE9uLWRCd280Q3FjRjdFUDBzWVJsdnpiMHhRVzQ4T0NwM3hiUmhB0gGmAUFVX3lxTE9GZnRuTXVORTRXYzF0alozUkxnVU01czVmMC1QVkd3U0c4V1NqcTlJR2xjYkpleWQ5d3J5bkNLbGdNLU9UOGd4VE1WV1FhTmQyeWhCNUxmVUQ3NDJzSWFMUjRYOGFHbFNDQWpldjFOMVdLZ3Yxd0xZdVJ6NzhUSVU4T24tZEJ3bzRDcWNGN0VQMHNZUmx2emIweFFXNDhPQ3AzeGJSaEE?oc=5"
+   "src": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUlFUTYxRGZUcHhtd3daN0ZsV2U1U2ZvS245NHBjUW1FbXV5MWRxOXZxRGdiM1RTeXlFOHpSdVZLZ3Z5NEE2czhMZ0t5UjFxRTcyVW4yZ1ctbEhub2VQRzhNX0ZoLUstUWZYRTZBaGxKQnB0NVBNa1ZVckhiWW1CZ3BmbFRRaEFyaVpBX2VCWFA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "An Expressive Robot Has More to Lose When It Makes Mistakes",
+   "blurb": "",
+   "src": "drexel.edu",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YcVUwWFpsc3pLaEgzUl9WdG5aNnFid2tZZ1c0OEF6NmFyU1diNV9UaHh4YUpoYXdmV0tJbXFjU2lsc2JCTzlDLWRlRVRvMnhSN1ppd2pPX1Z2QkV4SWtoenU1UHhFS1g3QW00bVNfOVlNTERVLS03UjRsMmhtT28?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "AI identifies health risks from routine sleep study data",
+   "blurb": "",
+   "src": "UW Medicine | Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWFyc0pDMnl1Q0hXWjRDU0dsUzhLWVRWLUVPQVF3X2NoZkVJMXRwdmVyLTRCM0tNdm02dEhnLUlGZU5aYWQwd3B6MHpqWmt6RmNjdGRaWTk2NkNGUTJEZ2NiTG9Ya1RRODhjejlCQ2ZUeG5OS3FHQ3RHdjlvWlNQaWV4aXl2aFpWWkZJTS01OWJ1XzB2WEhhQkdB?oc=5"
   },
   {
    "cat": "robo",
@@ -31,59 +45,45 @@
   },
   {
    "cat": "ai",
-   "title": "Alibaba’s AI model Qwen3.8-Max widely accessible ahead of open-weights release",
-   "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2JaU2cyc2JoeTZWTk5Sa0JWOVZxUnlSaTd0NDhLZzVWX3U1RHZaRjBZTVg5cExTdVluWFZQamkyeVh2RklTVDYwNXQ0eER0eXpPbDJIWUVwSHZsNm1WbVBoOWItN3RiWUtyMVliZGIzVlZxb054MlpPd2JiLWlXSDVwQjd5ZmVlNjV0UV9QY1lTeFNqMkxPMUR2VGMwZG5iVWhNSE5XdFdkQ0pfNnRGZEZrMjlvVDhUYURyedIBvAFBVV95cUxNUjRzZjVrM0hfN3FGVUoyaFMzRUdvdjQxLUlsWVdTNjNXU3FzWGk4SXp0dDJQUElUdTNhTEVKYnZCNVhnWWJyb0tDWVlldXhlVDBqQnlvV1NxeGw4U3ZsLUJ6NzZzSlR2cDY3ekNPTlVmekotUGJfNmtLSWV1c1I3NDdDR21NVFVXSDNQTU5QWEE1bW11UkVPY2ZsbDhqWEdiSXg1ZnlwcmEwN2RzdzF1RGQzLWtxQXJxTW5ZRw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Byd to unveil functional humanoid robots in august",
-   "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVV8yd2lLeFo1QVpDU2pORldJYUNfYTgxWU1ZaVQyeENmemZCY1FSS0xzZGFXcEJwbmI4RTlsUk1pdlcwV2pDZDhFOWxtaVNGR21RSkJHU3JIS0VDNnl3dm52QlFmYkxwOHpRc2locUxrSGkwYlFpblZISlpTTUludlVUdGNOVURyT1BKOXRZMXItZnc1cEQ3ejVNSQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Alibaba unveils 'largest, most capable' AI model Qwen3.8-Max",
-   "blurb": "",
-   "src": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObi16NlhZLVl0b0FlSjZlZjFRbVY2dlU3cUVCdDNZNURHWUR1M21GSG9ha0dSODNxdzNjQVZRU3JaYVgwcVlOVTB5Nkw3ZmdzcXZCSWNwcEkzNlM3VHI4ajR3dU8zYVhIaGRMZGNQNDFuSkp2MXRabVN3TlhKeXY4TWo0VVdPMnJfaEhlMVBMNXhCZENSaktGS0hvbmlNdw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "You can hire these humanoid robots from Tau Robotics to clean your home in San Francisco",
-   "blurb": "",
-   "src": "ABC7 Bay Area",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlh2ZGNFRkdmV1JaMGE3OE55YTlJdGRKeDRwTW5Oa1VEdTVFTTYzWDd4Z1VRNVdBaVlsRzkyNzJGdWVsR0lfUXkxSFNHb05UWm9hRF9BN1doeC1vLWxYUEl4SGVzSmFPN1NKS29PWUk4U0VCY0ZTU2JQQ24tZWtxLWU5NTFaLXNpME9kcTBpNUJqUlpYa05DYTU2SHZadGvSAaQBQVVfeXFMTXhlanNMblNPVi0tWjZMaEZMNzJEdTE1d21VWnZUSndkdnVHajFwT1Z0U243U2phRzVNUE1sNEt2R3Z3VHpUaFR6Mng4RHIxYThyd1ZsMnhFMXN1MUtGalRUTmhkUkd5a2ozcHZvaFI4TkdTbnV3cmdIOXEwY0lRek1fdFlWMGduRktMN2tCbUhuQ1pnS0owYzI2b2lCTkdjT0pHNFM?oc=5"
-  },
-  {
-   "cat": "ai",
    "title": "Alibaba Adds to China AI Breakthroughs With New Qwen Model",
    "blurb": "",
-   "src": "bloomberg.com",
+   "src": "Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v?oc=5"
   },
   {
    "cat": "robo",
-   "title": "SKF officials explain entry into humanoid robot bearings",
+   "title": "When expressive humanoid robots are awkward, people become wary: New brain study",
    "blurb": "",
-   "src": "Post Journal -",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzdpS2N3ZFdrN01BSC1lVkhNMHhIeEpHUzlWdGNlRW9Jcm0zMU5GZUpEU0xyREdRNm5pTXR5VldyeWMxUWE2UWhpbFhGUzNRNDdfbE13ZmVTb2I1VW9HVE5JYUYwWWZZVG1HTVdxQ0dYcTdxTC1iSDdESW9GQ1NCd25JZ3VIOHo2MUNETkZkbWhTVEdFTXZxZTdSTUl1Xzh6ZzNVYzNxZjhnemc3QTJyVg?oc=5"
+   "src": "Brooklyn Eagle",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yZnkwbjRldmpmVHAwOWZadDkxNkQ4c19QUUFBV0tPNU1ZeTRuODJvcUpGMWxZRHZMckZOVFFOXy0wbXF2bWpEUTlHWEh3aEJsMWprUTJyRWJWLWJQVmlreTdHVzZORU9XdnNoeFp5RjFIUQ?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Alibaba launches Qwen3.8-Max, its largest AI model yet",
+   "title": "Regulate, Don’t Ban, Chinese AI Models",
    "blurb": "",
-   "src": "qz.com",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yc0Vzc2drLXFHWjZIQjhxWmlnNTBENGxsM1Z4emRhcWJ5Nm1xaWhYV2xUVEFrZ1YxOFI1X05QTDZNcHZHOTVfM01PZ0xDeHl3Y2NzY0hfeHp4VlBGanIxeTBJbU5RZkk?oc=5"
+   "src": "Just Security",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QUFRfbzg4VFlsLUZ6Vk43dWV6bnJzbFBHeFFSZFRhbV9WQjBoczJSVkVCOXJkUGljamhHYnJ1cDRCNVNONE5NWnRlMVphcjA1XzljcHJZUHlaQm1NMGREVEFRMExmMU52VDhkNlBKZl9KcUx2cDNPQ1c3UHA?oc=5"
   },
   {
    "cat": "robo",
-   "title": "FCC Bans Humanoid Robots From China",
+   "title": "NY Focus: New Bill Would Ban Humanoid Robots in Schools After New York Focus Report",
    "blurb": "",
-   "src": "The Presidential Prayer Team",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWVBb00ydU5LRGFzeGFmcnFKbkppRFRmd0hlb2pQc1RCRE16WVVfaUFGU2tpNjJsV0haeGI5RkNNSUR4dzBCWlRrY0s0R2xqVEtTZkRwUlgxaERld3h4RVg2MGRiR0NxRElEWUg5N25xWXhBRXIyUGNTU2VETEFXdnQ3dlZaS1N3YnlQMDVGcw?oc=5"
+   "src": "the wellsville sun",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEVxdkJQZnpmV1hFMlVxRGdFTk9EYnQ0dkk2bGMxVTFBelBDLWgwZTUwX0FfczVqbTNVMDBwQnFEWEpRdU5SN3RTenVlYXVhQXdfM3pWRG03d2dUYTduZVJTX1Npb2luQ3lWbXB1RDlqTGZ4S3NKUVNQZEdud3dDT0RyTzk0RW9XRVF3alFNaHdhZnp3YkNDMEJMR1NzaHdpdEhhWUV1X0dxZEdNTXlLUzVwQWR2dUQ2bzF6VmhGWTFVLTA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Biostatistics graduate’s artificial intelligence model could reshape how scientists evaluate disease research findings",
+   "blurb": "",
+   "src": "dailyuw.com",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53OTJtUng1WXVyMms0aUJON3NHMU1iYVJsXzA0a3NTMkNYeFBWdWtUMFBRVjhrSzNPVkVyTDRJUWpSbUowaFlmY290LWljeHpPbHVaeFczOTM1cm1ycEc4djVqdnpnOUltNEZWMjJ6RUpfVzg?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid Robotics Are Booming",
+   "blurb": "",
+   "src": "Statista",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmxEX3htbURhcktuZG9rR3FBNkR6RGpqc3c5dks5aTY2aEFWSkVpbkt2YjlhWEZNZklrVEkySEQyRlZrT0RkWmNobkRPTGtlR1ZMM3hBTTZkWkZwUWdidm9heWJfRFlZTG9iQnhOQTJJOEQwWnlpbURiQ1dvQUJiRm93bGxmWXdnVEFLd2lJYm5BNjNQcmtLbdIBmAFBVV95cUxQRmxEX3htbURhcktuZG9rR3FBNkR6RGpqc3c5dks5aTY2aEFWSkVpbkt2YjlhWEZNZklrVEkySEQyRlZrT0RkWmNobkRPTGtlR1ZMM3hBTTZkWkZwUWdidm9heWJfRFlZTG9iQnhOQTJJOEQwWnlpbURiQ1dvQUJiRm93bGxmWXdnVEFLd2lJYm5BNjNQcmtLbQ?oc=5"
   }
  ]
 }
