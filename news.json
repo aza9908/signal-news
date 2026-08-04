@@ -1,12 +1,40 @@
 {
- "updated": "2026-08-04T11:25:43.976Z",
+ "updated": "2026-08-04T16:53:58.818Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Alibaba Adds to China AI Breakthroughs With New Qwen Model",
+   "title": "What Is AI Model Distillation?",
    "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v?oc=5"
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oVW9lNHZZUVVubmlmTkViaWxTdk8zVE9SdVg1RzExaHhYZUh0WjVWTHdZZTB5bmI2Tk1xbGxLbDgyb2Y2ei1DMGhjVnVudC10S0tUSGtwWDY1UjN1MGlZZDMtTUZ4cFBMdWE2OA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoids won’t scale on factory floors until costs drop",
+   "blurb": "",
+   "src": "The Robot Report",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjNyRF9wYW1LemQ3c0lKR0dRT2Fmek54MkJxVEQ3NzAyY201b2FuZFFwV0RGd2loYkVZelBwRmp2TWlVTGpxMEY3TnByM2h0TlhkU2FjaXF2dkIxV0NhUk9RaDludWtuLTJzY3FVYVNleHhUQllBVm9hVGQ5b0ZYRDl1WjdQU19fZ3VvSm4ySVU?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "US Congress deepens investigation into Chinese AI models over critical infrastructure and data security risks",
+   "blurb": "",
+   "src": "Industrial Cyber",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV1ZYZVFoX3I1VnFGNUE5QUlvZWdSVklFQ3lKTFAwYWljZS11ckpHUlBjSEozS1hKdXBXNUVZQ0ppdDY5THhGeHgxUlYxakRMTnI3emNjNkpxS0V3VTFlY0NuRFY4WVAzOER2dTczNmNSNmo3Yk95VWpQUXdFUmUwUEl3Mms0MDI1UnhuNW8xVWlaZFdsS0p4dEItY3I2ZVNBRDRNTjdIeHZrVElnQkFzSm9NTzI1Y0RQYzdWdEJvRHhUSU5mZ1VyenNFMnoxNmdRUGpwMTRiNEw4ak52VEk4VVhSc1JveER1bmJCQUFXbFdBck0?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Expressive humanoids face steeper trust losses after mistakes: Study",
+   "blurb": "",
+   "src": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkJPSnhHaS1SQjZpVUpsZFpmd3Rmdmh1cWdIUHA1WmZhc3MyYkhicm5HbzFNbFB5aU9OcXE1b1ctMFZsU2xsM1RsTFh0Q1JTbDZaM3ZFd2Npb1VNOXVoVXhpQ05sSy1aMU94Nl92TjBzX0JsSGZ6ZGx0S3NHcUZSdWZPX2NhelYxeFBfd3k1OHZlSzJISFcwdQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "US AI leaders turn to Chinese open models, challenging closed AI safety claims",
+   "blurb": "",
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy14SEtwN2wwUDZ3ZUNuODZsN1UxVG1Bb3JEU25UUjh3TURoUXlFendtNnFzVEdLNUU1NXlpVFRDNGdpdWlVSFFYZm1PXzRhM1ZYNlY4QzFvM0ZuNjQ3SWVzMWdYQ2FwTnM5VW5CY2ZqLXFZb2pxcU5wa3I4bkJVclZudFRFUTdjVlZwMzVmUmVUcmt1TnNGRmt2bDE3T0t6enZFWmtNQUZVa2EwQVNQcml2TWdEWDBnQzB6Y2VFSTRYS3hVeDBUWHRn0gHKAUFVX3lxTE91M05qUXN1Zkl1TnY2U2lEOExTSHBRRVpKRlV3UERRMEh3eVowZnVhVEJvWHZPT055LUstQURVS2t6SXhRelZmd0labVVQSmdpSi15QWVZZzFIbVRkdkJzV0ZmbTRNaEo4bEU2NVRDcENDY1d5N3BpVHlmYzhlZ01LcFFvS0c3R0o5MFZVbVBFcXdZeUpjN2JkMjRBS2ZFaUhZMTZXRFdMTzlzdnlfUXlub3dlRFZJSGlhUjRjZGZkVGd4cEFtU3dhUFE?oc=5"
   },
   {
    "cat": "robo",
@@ -24,10 +52,24 @@
   },
   {
    "cat": "robo",
-   "title": "An Expressive Robot Has More to Lose When It Makes Mistakes",
+   "title": "Unitree expects first-half revenue growth as demand for humanoid robots accelerates",
    "blurb": "",
-   "src": "drexel.edu",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YcVUwWFpsc3pLaEgzUl9WdG5aNnFid2tZZ1c0OEF6NmFyU1diNV9UaHh4YUpoYXdmV0tJbXFjU2lsc2JCTzlDLWRlRVRvMnhSN1ppd2pPX1Z2QkV4SWtoenU1UHhFS1g3QW00bVNfOVlNTERVLS03UjRsMmhtT28?oc=5"
+   "src": "Robotics & Automation News",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcldXSEZ3dG40QWxERzVUcWpuUHNROEZtNDR2djFJUkpUbEVxbGNJZmVaU3FfLU1uR2VncXNhNHcyWU85dWlUS1VHRjAwX3pReThFUHhQSDBmRjFyRno3VWZLT0FyRGtJanYteG1oWGtNY3J6NlM3azJVa2UtOFlJcmdGSVdZbVZkOUlBWG5UeEZfRDdqcmp0LXVXM08yOFVyazZCb3Bid1Zod0RETUQ3RWFzcHoxVV9LYnZGaV9lcHFPdDlHbEZFc2NtV2NLS1hXWmVvZ3RQOA?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Alibaba Adds to China AI Breakthroughs With New Qwen Model",
+   "blurb": "",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "New York Bill Would Ban Humanoid Robots in Schools",
+   "blurb": "",
+   "src": "New York Focus",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94LXBfX1pLSktOMXhINTlzQldRblgwVlhLSU02LS1rYlNFdFdSY3NhSXp0Y3l3Z3NzRjRSNDVad3VOSWlUa3JPUTR3a3dRdVdYWDgtdVE5RjctOVZCODVWRTJ0YTh0a0JRaXJyRlRJWlo0WTFL?oc=5"
   },
   {
    "cat": "ai",
@@ -38,52 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "Smart vacuums swept up in U.S. ban on imports of Chinese robots",
+   "title": "An Expressive Robot Has More to Lose When It Makes Mistakes",
    "blurb": "",
-   "src": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnhDdTE3ZnhDMUZJdmJOU1lCam9fRkhxWmJzMmdhU3B5SW9jUXJiLU5GRFZ2T295d29hWVlGU0YwXy1XaGhlTTBxYmJNZHVBelBpNkNzb1kxSVJoRWJ3UjRvVnpfOU82OUdqaWRpblpfc0JHbWV6OTRJcVlkZ2ZtSUFQX3RjTHFvcllobGVuQjJvbTZjVUExc2Q0aw?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Alibaba Unveils Its Largest AI Model Yet As China Closes The Gap",
-   "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZrRVRUMUlzdmp6dlNJdFdRSzhlYUQ0c3FoVm44WXhSVFd0MmdVX1BRQ2p4dW5VY09ta1h1cEpKamJJYlNiWXFiWnFUb2h2NWlQZW5RdVI4dnFfeURLeXBBQkYxZTlJU2NwbEQ3LVZ6NTZLbHBYU2VYTnhOdlQzZGk1RHpXS01pR2ZuTGxCV2VqYndpeTVKR3ZYelRCZHl0eFl3ZXpNdXNOME1UVlVfdzBaRHBnQ1BZN3N5Y1ZxZ1BqRTQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Expressive humanoids face steeper trust losses after mistakes: Study",
-   "blurb": "",
-   "src": "interestingengineering.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkJPSnhHaS1SQjZpVUpsZFpmd3Rmdmh1cWdIUHA1WmZhc3MyYkhicm5HbzFNbFB5aU9OcXE1b1ctMFZsU2xsM1RsTFh0Q1JTbDZaM3ZFd2Npb1VNOXVoVXhpQ05sSy1aMU94Nl92TjBzX0JsSGZ6ZGx0S3NHcUZSdWZPX2NhelYxeFBfd3k1OHZlSzJISFcwdQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
-   "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEdhN3psNkdrQ09mOFh4dU5Zek1FZFF4OU5VZl9iR2M2djJuRFFSY041ZV9yWFZHbnBIdDFHM0lQNXZJVmZmdDhXcTFNc0w0bG1WZ1lqQ19uRGFaVzR3QjA1dU1oT1ZiUGNrT0c2MmV2MWNqRXdFYkFyeHBheTZKNNIBhgFBVV95cUxNNFg3UDZnOXVtWjFkdHpjWnFNTlYxQ0lROEk5aUFSdE0tbEQ1VVk4STFfMnE1VTBZc1hoQktSWHVOanNuUU54bkwyUUdKX1h6WXk0WkJhMlM2VjU4aHZsd2U3cFY0QnFCS3o0c3F5UnM3YXdLdWx0WmVwQm1mbkxUdWdfRmpvUQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China Threatens Retaliation Against U.S. Ban on Foreign Humanoid Robots",
-   "blurb": "",
-   "src": "Supply Chain Brain",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzkteVVEMWZBbHZ4enYtM3UzQjZWcEFVMUQ3UUZmUHF4dWJaNUtXRktSbGhualIxaUZfNkJOWGxIRlV2SHNPbjRNV3JocWJ6TWV2NmZKczFjZFlpZnR2WTI0LW44VnRXVmFWRmlaZWdKbUVEa21QNjZoU0dYVktTSWhuMVNwT0hUTmczTnF5UEFPT0Z0ZmYzU2hFUlhzLW9EcnUtbHh5UXhrMUJXZHpwektUNFI4R1RO?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "China’s AI blitz creates ‘death zone’ for rival U.S. model makers",
-   "blurb": "",
-   "src": "The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3pSM3ZvSlJfb0R2a1FXYWhIX2dYaVFoYXg5Qk1DeF9aVkZ0SjNTa0gtRDRXZUV2a09CQ1gzWVBuYTU4SkptdUh2TXdHMm5qUHFWbWl1UTRmNlgzN21wUUFtYkltanFfWGJhRlVYRzVJU3NhdGEtMHpocFkwUlJ4dkNxdXM?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "New York Bill Would Ban Humanoid Robots in Schools",
-   "blurb": "",
-   "src": "New York Focus",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94LXBfX1pLSktOMXhINTlzQldRblgwVlhLSU02LS1rYlNFdFdSY3NhSXp0Y3l3Z3NzRjRSNDVad3VOSWlUa3JPUTR3a3dRdVdYWDgtdVE5RjctOVZCODVWRTJ0YTh0a0JRaXJyRlRJWlo0WTFL?oc=5"
+   "src": "Drexel",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YcVUwWFpsc3pLaEgzUl9WdG5aNnFid2tZZ1c0OEF6NmFyU1diNV9UaHh4YUpoYXdmV0tJbXFjU2lsc2JCTzlDLWRlRVRvMnhSN1ppd2pPX1Z2QkV4SWtoenU1UHhFS1g3QW00bVNfOVlNTERVLS03UjRsMmhtT28?oc=5"
   }
  ]
 }
