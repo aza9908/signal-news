@@ -1,26 +1,12 @@
 {
- "updated": "2026-08-03T22:10:46.982Z",
+ "updated": "2026-08-04T05:49:28.491Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+   "title": "Alibaba Adds to China AI Breakthroughs With New Qwen Model",
    "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEdhN3psNkdrQ09mOFh4dU5Zek1FZFF4OU5VZl9iR2M2djJuRFFSY041ZV9yWFZHbnBIdDFHM0lQNXZJVmZmdDhXcTFNc0w0bG1WZ1lqQ19uRGFaVzR3QjA1dU1oT1ZiUGNrT0c2MmV2MWNqRXdFYkFyeHBheTZKNNIBhgFBVV95cUxNNFg3UDZnOXVtWjFkdHpjWnFNTlYxQ0lROEk5aUFSdE0tbEQ1VVk4STFfMnE1VTBZc1hoQktSWHVOanNuUU54bkwyUUdKX1h6WXk0WkJhMlM2VjU4aHZsd2U3cFY0QnFCS3o0c3F5UnM3YXdLdWx0WmVwQm1mbkxUdWdfRmpvUQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "New Bill Would Ban Humanoid Robots in Schools After New York Focus Report",
-   "blurb": "",
-   "src": "New York Focus",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94LXBfX1pLSktOMXhINTlzQldRblgwVlhLSU02LS1rYlNFdFdSY3NhSXp0Y3l3Z3NzRjRSNDVad3VOSWlUa3JPUTR3a3dRdVdYWDgtdVE5RjctOVZCODVWRTJ0YTh0a0JRaXJyRlRJWlo0WTFL?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Alibaba Unveils Its Largest AI Model Yet As China Closes The Gap",
-   "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZrRVRUMUlzdmp6dlNJdFdRSzhlYUQ0c3FoVm44WXhSVFd0MmdVX1BRQ2p4dW5VY09ta1h1cEpKamJJYlNiWXFiWnFUb2h2NWlQZW5RdVI4dnFfeURLeXBBQkYxZTlJU2NwbEQ3LVZ6NTZLbHBYU2VYTnhOdlQzZGk1RHpXS01pR2ZuTGxCV2VqYndpeTVKR3ZYelRCZHl0eFl3ZXpNdXNOME1UVlVfdzBaRHBnQ1BZN3N5Y1ZxZ1BqRTQ?oc=5"
+   "src": "bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v?oc=5"
   },
   {
    "cat": "robo",
@@ -31,10 +17,10 @@
   },
   {
    "cat": "ai",
-   "title": "Alibaba Stock Pops on New AI Model but Here’s the Bad News",
+   "title": "White House to host AI companies Tuesday to review new model-testing framework",
    "blurb": "",
-   "src": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUlFUTYxRGZUcHhtd3daN0ZsV2U1U2ZvS245NHBjUW1FbXV5MWRxOXZxRGdiM1RTeXlFOHpSdVZLZ3Z5NEE2czhMZ0t5UjFxRTcyVW4yZ1ctbEhub2VQRzhNX0ZoLUstUWZYRTZBaGxKQnB0NVBNa1ZVckhiWW1CZ3BmbFRRaEFyaVpBX2VCWFA?oc=5"
+   "src": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5"
   },
   {
    "cat": "robo",
@@ -45,10 +31,24 @@
   },
   {
    "cat": "ai",
-   "title": "Regulate, Don’t Ban, Chinese AI Models",
+   "title": "Alibaba Unveils Its Largest AI Model Yet As China Closes The Gap",
    "blurb": "",
-   "src": "Just Security",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QUFRfbzg4VFlsLUZ6Vk43dWV6bnJzbFBHeFFSZFRhbV9WQjBoczJSVkVCOXJkUGljamhHYnJ1cDRCNVNONE5NWnRlMVphcjA1XzljcHJZUHlaQm1NMGREVEFRMExmMU52VDhkNlBKZl9KcUx2cDNPQ1c3UHA?oc=5"
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGZrRVRUMUlzdmp6dlNJdFdRSzhlYUQ0c3FoVm44WXhSVFd0MmdVX1BRQ2p4dW5VY09ta1h1cEpKamJJYlNiWXFiWnFUb2h2NWlQZW5RdVI4dnFfeURLeXBBQkYxZTlJU2NwbEQ3LVZ6NTZLbHBYU2VYTnhOdlQzZGk1RHpXS01pR2ZuTGxCV2VqYndpeTVKR3ZYelRCZHl0eFl3ZXpNdXNOME1UVlVfdzBaRHBnQ1BZN3N5Y1ZxZ1BqRTQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "New Bill Would Ban Humanoid Robots in Schools After New York Focus Report",
+   "blurb": "",
+   "src": "New York Focus",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94LXBfX1pLSktOMXhINTlzQldRblgwVlhLSU02LS1rYlNFdFdSY3NhSXp0Y3l3Z3NzRjRSNDVad3VOSWlUa3JPUTR3a3dRdVdYWDgtdVE5RjctOVZCODVWRTJ0YTh0a0JRaXJyRlRJWlo0WTFL?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Alibaba Stock Pops on New AI Model but Here’s the Bad News",
+   "blurb": "",
+   "src": "Barron's",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUlFUTYxRGZUcHhtd3daN0ZsV2U1U2ZvS245NHBjUW1FbXV5MWRxOXZxRGdiM1RTeXlFOHpSdVZLZ3Z5NEE2czhMZ0t5UjFxRTcyVW4yZ1ctbEhub2VQRzhNX0ZoLUstUWZYRTZBaGxKQnB0NVBNa1ZVckhiWW1CZ3BmbFRRaEFyaVpBX2VCWFA?oc=5"
   },
   {
    "cat": "robo",
@@ -56,6 +56,20 @@
    "blurb": "",
    "src": "brooklyneagle.com",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yZnkwbjRldmpmVHAwOWZadDkxNkQ4c19QUUFBV0tPNU1ZeTRuODJvcUpGMWxZRHZMckZOVFFOXy0wbXF2bWpEUTlHWEh3aEJsMWprUTJyRWJWLWJQVmlreTdHVzZORU9XdnNoeFp5RjFIUQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Regulate, Don’t Ban, Chinese AI Models",
+   "blurb": "",
+   "src": "justsecurity.org",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QUFRfbzg4VFlsLUZ6Vk43dWV6bnJzbFBHeFFSZFRhbV9WQjBoczJSVkVCOXJkUGljamhHYnJ1cDRCNVNONE5NWnRlMVphcjA1XzljcHJZUHlaQm1NMGREVEFRMExmMU52VDhkNlBKZl9KcUx2cDNPQ1c3UHA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Trump’s AI protectionism has come for robotics",
+   "blurb": "",
+   "src": "MIT Technology Review",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRXNQZFQyQTVMbEk4UXZRYWwwb3RaVHcyMlU5QmozdldfRVdrcVlGc1VYbDNyeXl2OGh0clJoRk1BN0VuQkxDUjU4WHdZQS1ERW5BTDdmOGtuZVpVOW0xbHM4QWRQVU01QWhpZzdFbkJtVG1HNEpuQTd2VUlJNFF6dWo3SjZ5VWcyMldDQlJvM0V5Q2pOYnBra245ZXlDNmfSAaQBQVVfeXFMTTR4N0dnSVBGNWl4NnVPWl9WQUlYLTExRXJvdXE3cHFJSThyak5tTXhHa0ZhaDBPdXhHYXJVbWRXa2xzVlo3bzN0QW1vTkJKbmQ3dFNjbGRmNkM2UWRqenVhTWFhSlcxaWczWkg2bW53Z2FKQ25yQVJPcmlsSFUzRnJzcVFqZnhDbWozOGdzUzhzZGdJRUhlS190VklEdER1WXJ2VXE?oc=5"
   },
   {
    "cat": "ai",
@@ -68,22 +82,8 @@
    "cat": "robo",
    "title": "Beyond Humanoid Robots: Why Google DeepMind Is Building the Intelligence Layer for Physical AI",
    "blurb": "",
-   "src": "Logistics Viewpoints",
+   "src": "logisticsviewpoints.com",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY2JXdlBBZ3JwcDhoSXppdHZ6eURHbjZhdXBvVW84eXp0b3hUN1dyQXNHTXRFNXl4VmFfVFo3QUFVdTRhT2FWX0dRYXB0cVBwWmxwcEtrY0duMk11WUhPOG5XeWVZNjZIX3BpeGRyejBNRE5zOE8tXzBORXZVcE5UMVhBM0tTaVJreExpQ1JCV0VJRUJ4V0VnSlJET0UtVDFpaUlPbG5vTTlnOGxTYndTQ05JZzJfR0xvdzMtd05xUTNuT0xrQ3JWQVNCbnA4VGxOVXA4?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Biostatistics graduate’s artificial intelligence model could reshape how scientists evaluate disease research findings",
-   "blurb": "",
-   "src": "dailyuw.com",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53OTJtUng1WXVyMms0aUJON3NHMU1iYVJsXzA0a3NTMkNYeFBWdWtUMFBRVjhrSzNPVkVyTDRJUWpSbUowaFlmY290LWljeHpPbHVaeFczOTM1cm1ycEc4djVqdnpnOUltNEZWMjJ6RUpfVzg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Trump’s AI protectionism has come for robotics",
-   "blurb": "",
-   "src": "MIT Technology Review",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRXNQZFQyQTVMbEk4UXZRYWwwb3RaVHcyMlU5QmozdldfRVdrcVlGc1VYbDNyeXl2OGh0clJoRk1BN0VuQkxDUjU4WHdZQS1ERW5BTDdmOGtuZVpVOW0xbHM4QWRQVU01QWhpZzdFbkJtVG1HNEpuQTd2VUlJNFF6dWo3SjZ5VWcyMldDQlJvM0V5Q2pOYnBra245ZXlDNmfSAaQBQVVfeXFMTTR4N0dnSVBGNWl4NnVPWl9WQUlYLTExRXJvdXE3cHFJSThyak5tTXhHa0ZhaDBPdXhHYXJVbWRXa2xzVlo3bzN0QW1vTkJKbmQ3dFNjbGRmNkM2UWRqenVhTWFhSlcxaWczWkg2bW53Z2FKQ25yQVJPcmlsSFUzRnJzcVFqZnhDbWozOGdzUzhzZGdJRUhlS190VklEdER1WXJ2VXE?oc=5"
   }
  ]
 }
