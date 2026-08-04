@@ -1,12 +1,12 @@
 {
- "updated": "2026-08-04T16:53:58.818Z",
+ "updated": "2026-08-04T22:14:45.147Z",
  "items": [
   {
    "cat": "ai",
-   "title": "What Is AI Model Distillation?",
+   "title": "AI Briefing: Frontier AI Models Gone Rogue, DeepMind CEO Calls for Oversight Body, and NY Pauses Data Center Permits",
    "blurb": "",
-   "src": "Gizmodo",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oVW9lNHZZUVVubmlmTkViaWxTdk8zVE9SdVg1RzExaHhYZUh0WjVWTHdZZTB5bmI2Tk1xbGxLbDgyb2Y2ei1DMGhjVnVudC10S0tUSGtwWDY1UjN1MGlZZDMtTUZ4cFBMdWE2OA?oc=5"
+   "src": "Faegre Drinker Biddle & Reath LLP",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYlR6OFhaRkxRX29pV0s2S1M0NGJCVGhtUWJSYmxvQ3ktYTZRa3l0cml6cDkxUlFMcWo1WGZUWmxzMl8zSXlnRDU1VVB0a2pZZXFreVQwNHN1d1VMbV81UXkzMDgyTHQ0RGwwVmxWbUhzdUhHZnpwVnhUNjJmaEpBR2F5WV92NHdqMEkzUjYwTXJFTERNV3RzT3Y5N2lmemVUV3hISTVRdER0OGM4VERWWlFhamRzWWhrQllIbWo5dVY1RHU2MG1JbXk0QXNTREtIQjZURzkzXzNjdHdFNjhPWUltcElYeWtiSzVYcUREWFFMMEg1Wi1Ea2docktUZUw4NTFyS1BB?oc=5"
   },
   {
    "cat": "robo",
@@ -17,6 +17,20 @@
   },
   {
    "cat": "ai",
+   "title": "What Is AI Model Distillation?",
+   "blurb": "",
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oVW9lNHZZUVVubmlmTkViaWxTdk8zVE9SdVg1RzExaHhYZUh0WjVWTHdZZTB5bmI2Tk1xbGxLbDgyb2Y2ei1DMGhjVnVudC10S0tUSGtwWDY1UjN1MGlZZDMtTUZ4cFBMdWE2OA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Are these new Chinese humanoid robots too human to tell apart?",
+   "blurb": "",
+   "src": "Futura, le média qui explore le monde",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0dWbFZwMlppalhlSDlFZGRqNEVaVWlkd3FHLVNjV0VIYlhiWEE5UVhTMnFMeGhTSVAwaWZUN0ZYekZZQW9xeU4ycm81V0NncDgyTTBmdTV3ay1ucHVpellYSEwzZWktTFZJYi1tQU5fU0xyUHdiWVVyeFZ6UzVMSnBvSGFUV1lueWxncjJndWRZcjU4SE1SOFRValhDSVNTaFNnSS1n?oc=5"
+  },
+  {
+   "cat": "ai",
    "title": "US Congress deepens investigation into Chinese AI models over critical infrastructure and data security risks",
    "blurb": "",
    "src": "Industrial Cyber",
@@ -24,52 +38,10 @@
   },
   {
    "cat": "robo",
-   "title": "Expressive humanoids face steeper trust losses after mistakes: Study",
+   "title": "Researchers teleoperate with humanoid robots in first-of-its-kind study",
    "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkJPSnhHaS1SQjZpVUpsZFpmd3Rmdmh1cWdIUHA1WmZhc3MyYkhicm5HbzFNbFB5aU9OcXE1b1ctMFZsU2xsM1RsTFh0Q1JTbDZaM3ZFd2Npb1VNOXVoVXhpQ05sSy1aMU94Nl92TjBzX0JsSGZ6ZGx0S3NHcUZSdWZPX2NhelYxeFBfd3k1OHZlSzJISFcwdQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "US AI leaders turn to Chinese open models, challenging closed AI safety claims",
-   "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy14SEtwN2wwUDZ3ZUNuODZsN1UxVG1Bb3JEU25UUjh3TURoUXlFendtNnFzVEdLNUU1NXlpVFRDNGdpdWlVSFFYZm1PXzRhM1ZYNlY4QzFvM0ZuNjQ3SWVzMWdYQ2FwTnM5VW5CY2ZqLXFZb2pxcU5wa3I4bkJVclZudFRFUTdjVlZwMzVmUmVUcmt1TnNGRmt2bDE3T0t6enZFWmtNQUZVa2EwQVNQcml2TWdEWDBnQzB6Y2VFSTRYS3hVeDBUWHRn0gHKAUFVX3lxTE91M05qUXN1Zkl1TnY2U2lEOExTSHBRRVpKRlV3UERRMEh3eVowZnVhVEJvWHZPT055LUstQURVS2t6SXhRelZmd0labVVQSmdpSi15QWVZZzFIbVRkdkJzV0ZmbTRNaEo4bEU2NVRDcENDY1d5N3BpVHlmYzhlZ01LcFFvS0c3R0o5MFZVbVBFcXdZeUpjN2JkMjRBS2ZFaUhZMTZXRFdMTzlzdnlfUXlub3dlRFZJSGlhUjRjZGZkVGd4cEFtU3dhUFE?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "US Bans Chinese Humanoid Robots Amid Security Concerns",
-   "blurb": "",
-   "src": "Electropages",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXZIbmZiMDFocGI2blotNWx2SGUtNGtnVWtLV2ZZUmNEcHNiUGxSVFJzR3ZJY01rRENFV3htNV9DRTdjOVJJMDZKYnl2OV9scXlITEtvQzl3Wlpld1VwTmtrd010Rmk2VHlPdG5nNnd0TFQ3MlFqbDdYRWZoczR5Vk9pSmRKUQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Time to rethink US frontier AI model dominance",
-   "blurb": "",
-   "src": "Computer Weekly",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWGt3QWRUU3I5T052Qk9mMDlBNnlDbGJMbC11NVc4d1NQVFcwS3lkUER5eWdKMTN2MktEaDlrcEtHR1VjbE9Qbnktdl80cEtiTWYxaTlXZnh5ZXZPVGRXR1dUajZTcUJGa0E0UmpwTGxtaFprRWRyaVZKcnIwb1RJbW9DN0VjaE1lVnpEOHBqc0piYVlJR2NJ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Unitree expects first-half revenue growth as demand for humanoid robots accelerates",
-   "blurb": "",
-   "src": "Robotics & Automation News",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcldXSEZ3dG40QWxERzVUcWpuUHNROEZtNDR2djFJUkpUbEVxbGNJZmVaU3FfLU1uR2VncXNhNHcyWU85dWlUS1VHRjAwX3pReThFUHhQSDBmRjFyRno3VWZLT0FyRGtJanYteG1oWGtNY3J6NlM3azJVa2UtOFlJcmdGSVdZbVZkOUlBWG5UeEZfRDdqcmp0LXVXM08yOFVyazZCb3Bid1Zod0RETUQ3RWFzcHoxVV9LYnZGaV9lcHFPdDlHbEZFc2NtV2NLS1hXWmVvZ3RQOA?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Alibaba Adds to China AI Breakthroughs With New Qwen Model",
-   "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjlHM1ZsVFZ2VWZiRG4xcTd3aWdrU2U2SEwySXh3RWxPYWhBSlM0MTU2M2M3dlVDTnN5TDVUUkJvUGw5WXczVlB0ZzBPMk5NTjhOWkwwcGRHYWk4MGVUdjhRNUc5NXFkN1BFSHdrVnJtM0ZXSDNwM3phcnA5WE1LWjMwbUVhRHV2YUl2SmFBUVZUbXNTQ0EtZVBXRHhoSjlobzJuOWk4SnJvalVfZTdaWkVtRHdjN21v?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "New York Bill Would Ban Humanoid Robots in Schools",
-   "blurb": "",
-   "src": "New York Focus",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94LXBfX1pLSktOMXhINTlzQldRblgwVlhLSU02LS1rYlNFdFdSY3NhSXp0Y3l3Z3NzRjRSNDVad3VOSWlUa3JPUTR3a3dRdVdYWDgtdVE5RjctOVZCODVWRTJ0YTh0a0JRaXJyRlRJWlo0WTFL?oc=5"
+   "src": "Medical Design & Outsourcing",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmw5Q0JzTktWNnZWbVZiOXhBWkFkOFVjajJ5Nmh3VnZMSk9kWlo3MnUxSTNKYjh3SG1JdHpLaGNoU01oRkpSaDdjd2V3d1VXZ3V6cUItd3lsdjREdWdzUWJfVFlGR1ZBMHBVSl9tUlFicUo3cGhPbnE5SWl0Q2YyUTZlY29DUEFld21vY256NkJTRlY4X0xJMkd0RGFjb3hp?oc=5"
   },
   {
    "cat": "ai",
@@ -80,10 +52,38 @@
   },
   {
    "cat": "robo",
-   "title": "An Expressive Robot Has More to Lose When It Makes Mistakes",
+   "title": "Expressive humanoids face steeper trust losses after mistakes: Study",
    "blurb": "",
-   "src": "Drexel",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YcVUwWFpsc3pLaEgzUl9WdG5aNnFid2tZZ1c0OEF6NmFyU1diNV9UaHh4YUpoYXdmV0tJbXFjU2lsc2JCTzlDLWRlRVRvMnhSN1ppd2pPX1Z2QkV4SWtoenU1UHhFS1g3QW00bVNfOVlNTERVLS03UjRsMmhtT28?oc=5"
+   "src": "interestingengineering.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkJPSnhHaS1SQjZpVUpsZFpmd3Rmdmh1cWdIUHA1WmZhc3MyYkhicm5HbzFNbFB5aU9OcXE1b1ctMFZsU2xsM1RsTFh0Q1JTbDZaM3ZFd2Npb1VNOXVoVXhpQ05sSy1aMU94Nl92TjBzX0JsSGZ6ZGx0S3NHcUZSdWZPX2NhelYxeFBfd3k1OHZlSzJISFcwdQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "US AI leaders are using Chinese open models for cybersecurity. Here’s why",
+   "blurb": "",
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy14SEtwN2wwUDZ3ZUNuODZsN1UxVG1Bb3JEU25UUjh3TURoUXlFendtNnFzVEdLNUU1NXlpVFRDNGdpdWlVSFFYZm1PXzRhM1ZYNlY4QzFvM0ZuNjQ3SWVzMWdYQ2FwTnM5VW5CY2ZqLXFZb2pxcU5wa3I4bkJVclZudFRFUTdjVlZwMzVmUmVUcmt1TnNGRmt2bDE3T0t6enZFWmtNQUZVa2EwQVNQcml2TWdEWDBnQzB6Y2VFSTRYS3hVeDBUWHRn0gHKAUFVX3lxTE91M05qUXN1Zkl1TnY2U2lEOExTSHBRRVpKRlV3UERRMEh3eVowZnVhVEJvWHZPT055LUstQURVS2t6SXhRelZmd0labVVQSmdpSi15QWVZZzFIbVRkdkJzV0ZmbTRNaEo4bEU2NVRDcENDY1d5N3BpVHlmYzhlZ01LcFFvS0c3R0o5MFZVbVBFcXdZeUpjN2JkMjRBS2ZFaUhZMTZXRFdMTzlzdnlfUXlub3dlRFZJSGlhUjRjZGZkVGd4cEFtU3dhUFE?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "New York Bill Would Ban Humanoid Robots in Schools",
+   "blurb": "",
+   "src": "New York Focus",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94LXBfX1pLSktOMXhINTlzQldRblgwVlhLSU02LS1rYlNFdFdSY3NhSXp0Y3l3Z3NzRjRSNDVad3VOSWlUa3JPUTR3a3dRdVdYWDgtdVE5RjctOVZCODVWRTJ0YTh0a0JRaXJyRlRJWlo0WTFL?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Senate Democrats press Trump administration on access to advanced AI models",
+   "blurb": "",
+   "src": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVlduWWFvQzgxSXlZLU00TkVRR1FzOWhPRFdLRDZpckJJanN1dDBrdktnQXM3MXFzY3Rwd3o2Qm94ZkRqMHY3Q05kZ1dYRm9icmozVGNhQ1Npb24tN0U1ajhlbWZ2ektkT2FpbS14WTloVk13cF9SNER4dkRwTmtHRU14bFVZY2hJR3Rud9IBkgFBVV95cUxPa3I0Q0QwQ0g1RmdKbHRiZllseEdBSThyc1czQjJIUk5mcWo4cHpuTUNhWXhzTzhZbE5oQUUxVW14SkZBTFRzQmdDUXBjYTUxeDVuMV8tRWVNQU1IVEh0VjNQZUhqR0NYeF9rd251RVVnNHpCM2FxVEw5WFAxYURER1BhMlNrRFJ1Y2pfRmRjdk1pUQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Domestic robots reveal AI anxiety and hope",
+   "blurb": "",
+   "src": "Healthcare Finance News",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLW5iUExpQi01Z2ZUUEJlbVlLWTRIdHFkbWhFTEtvT0k1MkdoVnJZeFdlSHhVVmZ1eHRpbVlRY0NzakRNcG9Xc0hOakxhT0hOdk9tOHk0MTU0aFU4U0ptMU93V2tua0FCdDBsRFNzQXdiX1ktZGo1akJsMmtRN2RJZGxzZ2xya2dOUXpHcVowSTFjZGN2M2c?oc=5"
   }
  ]
 }
