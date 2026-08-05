@@ -1,12 +1,12 @@
 {
- "updated": "2026-08-04T22:14:45.147Z",
+ "updated": "2026-08-05T05:47:56.352Z",
  "items": [
   {
    "cat": "ai",
-   "title": "AI Briefing: Frontier AI Models Gone Rogue, DeepMind CEO Calls for Oversight Body, and NY Pauses Data Center Permits",
+   "title": "White House AI Guidelines Exempt U.S. Open Models From Government Review",
    "blurb": "",
-   "src": "Faegre Drinker Biddle & Reath LLP",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYlR6OFhaRkxRX29pV0s2S1M0NGJCVGhtUWJSYmxvQ3ktYTZRa3l0cml6cDkxUlFMcWo1WGZUWmxzMl8zSXlnRDU1VVB0a2pZZXFreVQwNHN1d1VMbV81UXkzMDgyTHQ0RGwwVmxWbUhzdUhHZnpwVnhUNjJmaEpBR2F5WV92NHdqMEkzUjYwTXJFTERNV3RzT3Y5N2lmemVUV3hISTVRdER0OGM4VERWWlFhamRzWWhrQllIbWo5dVY1RHU2MG1JbXk0QXNTREtIQjZURzkzXzNjdHdFNjhPWUltcElYeWtiSzVYcUREWFFMMEg1Wi1Ea2docktUZUw4NTFyS1BB?oc=5"
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGlqeXItS3prNUZ6V3BSRlQ0MzJ0NkdFNHF1SkVvY1RQUmlIb2wta2s3elpvUVNqMU4xS01WVEpRWVh1cGFJQlRlWHM1dzZsX0M3MS1fN0xfaVVESjJCWGJLc1NrcmxjWFpadDh4SldFeTg0RXNlSjNhdG5mVWNoY19BcWl0WTVUTXJHTmRHQVIyMENZZHRvZEo5dmV2aWNxVE1WY2lqLVpiSkFyNmc?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +17,24 @@
   },
   {
    "cat": "ai",
-   "title": "What Is AI Model Distillation?",
+   "title": "White House will exempt ‘open’ AI systems from security review",
    "blurb": "",
-   "src": "Gizmodo",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oVW9lNHZZUVVubmlmTkViaWxTdk8zVE9SdVg1RzExaHhYZUh0WjVWTHdZZTB5bmI2Tk1xbGxLbDgyb2Y2ei1DMGhjVnVudC10S0tUSGtwWDY1UjN1MGlZZDMtTUZ4cFBMdWE2OA?oc=5"
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2FLWUNZSExUajNLYzYtQzh2aVNJMkhsNlBJcjBZY1dEd3JFSXg1OEI0Nk9VM0NIRVhhb2J3c2VUSFpFaVBIQnk1aEhOMGpZWTJMazUxR3Z0YTEwRlEzUExuTHlzZkN2NUU5cjBqX1EwX1pJOHFVNWVObnk0YkVNTWhNNkJGNDFlRndnSnV4M2l0UDZrcmV1N2UtSVJoSHNJV0htMlg1T1g1VTg5eWc?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Mitsubishi to Mass-Produce Humanoid Robots at Former Engine Plant",
+   "blurb": "",
+   "src": "Assembly Magazine",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjFQZHdEa3ZsTXpuT3M2RGZRSFVBbW5GWnIxam9nREtZZXRBMkRqSUN5OGJ1X0J0Ny1EQmgzUzF5YThWNnJ5SERyZHA1UUI0WUtHS3ZUdHNodkxaZDRLY2UtNTBzZ2piOTBDYi1qY1plMGRlR0VNaXZsWklRWHU1VUdhZFd4OC03eDRhamFHUGYxM3NGb3JGYU5uRnU0RllabURnWVdrTlVYQW4weGc?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "NASA funding University of Iowa AI model project to forecast nitrate levels",
+   "blurb": "",
+   "src": "KCRG",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHNHUGxBSGhvVlVyMGhteEc2VnNFYnF5TVp5ZkQ4T3dhQ3FzdFV1YmwwM1lyVUpRNEpzc2JzTG45eERtVWdaZUhDOUltd1E5SnR4WUZZQ3hCdEpkTkhlMDBIOGtWMHZxT3lpY0F0WXFRcDd6ZVJwZWV0cEZWWG9ydk1fVDNQWTJZOEx0ZHIzMHh2M0NMTGVkT01aZk5VTVhpcEZPeNIBuAFBVV95cUxQTEw0NDY3SFhmT205dnAyTTQwZzJ5RnFYTzNZZE55UkszVkJBSGJBdEgzVnoxbjZnZlNfSXA4WDNqMkhxSlJYbzJyRmFtVFE2TE8yNmZwYW1SWW1adUFKd01rN3FPa251M3JvUm02M2N5OUNPOVNfWVEzVDMxWnhWbkdtZTVTYXlTWTYwdERDOFd0VGptX2RmcFoyLXZ1MjE0bVJOSVhFV1BxbEx0X3hxMExKUkZSalV4?oc=5"
   },
   {
    "cat": "robo",
@@ -31,38 +45,10 @@
   },
   {
    "cat": "ai",
-   "title": "US Congress deepens investigation into Chinese AI models over critical infrastructure and data security risks",
+   "title": "AI Briefing: Frontier AI Models Gone Rogue, DeepMind CEO Calls for Oversight Body, and NY Pauses Data Center Permits",
    "blurb": "",
-   "src": "Industrial Cyber",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV1ZYZVFoX3I1VnFGNUE5QUlvZWdSVklFQ3lKTFAwYWljZS11ckpHUlBjSEozS1hKdXBXNUVZQ0ppdDY5THhGeHgxUlYxakRMTnI3emNjNkpxS0V3VTFlY0NuRFY4WVAzOER2dTczNmNSNmo3Yk95VWpQUXdFUmUwUEl3Mms0MDI1UnhuNW8xVWlaZFdsS0p4dEItY3I2ZVNBRDRNTjdIeHZrVElnQkFzSm9NTzI1Y0RQYzdWdEJvRHhUSU5mZ1VyenNFMnoxNmdRUGpwMTRiNEw4ak52VEk4VVhSc1JveER1bmJCQUFXbFdBck0?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Researchers teleoperate with humanoid robots in first-of-its-kind study",
-   "blurb": "",
-   "src": "Medical Design & Outsourcing",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmw5Q0JzTktWNnZWbVZiOXhBWkFkOFVjajJ5Nmh3VnZMSk9kWlo3MnUxSTNKYjh3SG1JdHpLaGNoU01oRkpSaDdjd2V3d1VXZ3V6cUItd3lsdjREdWdzUWJfVFlGR1ZBMHBVSl9tUlFicUo3cGhPbnE5SWl0Q2YyUTZlY29DUEFld21vY256NkJTRlY4X0xJMkd0RGFjb3hp?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHNkTzBIRHZZR1ZuWkxUWW1QdjBtcU95NlJ2cm4xRUptS1hUOG9rUVdyOW9JUHFNa2ZwR2JGNExYbWV3TEY0cXAzNkRpcjNIbEdlUXZVUWNOazlRTmRjUHRXZmVFYzdyWHVLM3pQNmV5eWZQTTB1RFBjd3hqa0x0VU5USHczOGFJdmh5aw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Expressive humanoids face steeper trust losses after mistakes: Study",
-   "blurb": "",
-   "src": "interestingengineering.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkJPSnhHaS1SQjZpVUpsZFpmd3Rmdmh1cWdIUHA1WmZhc3MyYkhicm5HbzFNbFB5aU9OcXE1b1ctMFZsU2xsM1RsTFh0Q1JTbDZaM3ZFd2Npb1VNOXVoVXhpQ05sSy1aMU94Nl92TjBzX0JsSGZ6ZGx0S3NHcUZSdWZPX2NhelYxeFBfd3k1OHZlSzJISFcwdQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "US AI leaders are using Chinese open models for cybersecurity. Here’s why",
-   "blurb": "",
-   "src": "South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy14SEtwN2wwUDZ3ZUNuODZsN1UxVG1Bb3JEU25UUjh3TURoUXlFendtNnFzVEdLNUU1NXlpVFRDNGdpdWlVSFFYZm1PXzRhM1ZYNlY4QzFvM0ZuNjQ3SWVzMWdYQ2FwTnM5VW5CY2ZqLXFZb2pxcU5wa3I4bkJVclZudFRFUTdjVlZwMzVmUmVUcmt1TnNGRmt2bDE3T0t6enZFWmtNQUZVa2EwQVNQcml2TWdEWDBnQzB6Y2VFSTRYS3hVeDBUWHRn0gHKAUFVX3lxTE91M05qUXN1Zkl1TnY2U2lEOExTSHBRRVpKRlV3UERRMEh3eVowZnVhVEJvWHZPT055LUstQURVS2t6SXhRelZmd0labVVQSmdpSi15QWVZZzFIbVRkdkJzV0ZmbTRNaEo4bEU2NVRDcENDY1d5N3BpVHlmYzhlZ01LcFFvS0c3R0o5MFZVbVBFcXdZeUpjN2JkMjRBS2ZFaUhZMTZXRFdMTzlzdnlfUXlub3dlRFZJSGlhUjRjZGZkVGd4cEFtU3dhUFE?oc=5"
+   "src": "Faegre Drinker Biddle & Reath LLP",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYlR6OFhaRkxRX29pV0s2S1M0NGJCVGhtUWJSYmxvQ3ktYTZRa3l0cml6cDkxUlFMcWo1WGZUWmxzMl8zSXlnRDU1VVB0a2pZZXFreVQwNHN1d1VMbV81UXkzMDgyTHQ0RGwwVmxWbUhzdUhHZnpwVnhUNjJmaEpBR2F5WV92NHdqMEkzUjYwTXJFTERNV3RzT3Y5N2lmemVUV3hISTVRdER0OGM4VERWWlFhamRzWWhrQllIbWo5dVY1RHU2MG1JbXk0QXNTREtIQjZURzkzXzNjdHdFNjhPWUltcElYeWtiSzVYcUREWFFMMEg1Wi1Ea2docktUZUw4NTFyS1BB?oc=5"
   },
   {
    "cat": "robo",
@@ -73,17 +59,31 @@
   },
   {
    "cat": "ai",
-   "title": "Senate Democrats press Trump administration on access to advanced AI models",
+   "title": "US AI leaders are using Chinese open models for cybersecurity. Here’s why",
    "blurb": "",
-   "src": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVlduWWFvQzgxSXlZLU00TkVRR1FzOWhPRFdLRDZpckJJanN1dDBrdktnQXM3MXFzY3Rwd3o2Qm94ZkRqMHY3Q05kZ1dYRm9icmozVGNhQ1Npb24tN0U1ajhlbWZ2ektkT2FpbS14WTloVk13cF9SNER4dkRwTmtHRU14bFVZY2hJR3Rud9IBkgFBVV95cUxPa3I0Q0QwQ0g1RmdKbHRiZllseEdBSThyc1czQjJIUk5mcWo4cHpuTUNhWXhzTzhZbE5oQUUxVW14SkZBTFRzQmdDUXBjYTUxeDVuMV8tRWVNQU1IVEh0VjNQZUhqR0NYeF9rd251RVVnNHpCM2FxVEw5WFAxYURER1BhMlNrRFJ1Y2pfRmRjdk1pUQ?oc=5"
+   "src": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy14SEtwN2wwUDZ3ZUNuODZsN1UxVG1Bb3JEU25UUjh3TURoUXlFendtNnFzVEdLNUU1NXlpVFRDNGdpdWlVSFFYZm1PXzRhM1ZYNlY4QzFvM0ZuNjQ3SWVzMWdYQ2FwTnM5VW5CY2ZqLXFZb2pxcU5wa3I4bkJVclZudFRFUTdjVlZwMzVmUmVUcmt1TnNGRmt2bDE3T0t6enZFWmtNQUZVa2EwQVNQcml2TWdEWDBnQzB6Y2VFSTRYS3hVeDBUWHRn0gHKAUFVX3lxTE91M05qUXN1Zkl1TnY2U2lEOExTSHBRRVpKRlV3UERRMEh3eVowZnVhVEJvWHZPT055LUstQURVS2t6SXhRelZmd0labVVQSmdpSi15QWVZZzFIbVRkdkJzV0ZmbTRNaEo4bEU2NVRDcENDY1d5N3BpVHlmYzhlZ01LcFFvS0c3R0o5MFZVbVBFcXdZeUpjN2JkMjRBS2ZFaUhZMTZXRFdMTzlzdnlfUXlub3dlRFZJSGlhUjRjZGZkVGd4cEFtU3dhUFE?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Domestic robots reveal AI anxiety and hope",
+   "title": "Researchers teleoperate with humanoid robots in first-of-its-kind study",
    "blurb": "",
-   "src": "Healthcare Finance News",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLW5iUExpQi01Z2ZUUEJlbVlLWTRIdHFkbWhFTEtvT0k1MkdoVnJZeFdlSHhVVmZ1eHRpbVlRY0NzakRNcG9Xc0hOakxhT0hOdk9tOHk0MTU0aFU4U0ptMU93V2tua0FCdDBsRFNzQXdiX1ktZGo1akJsMmtRN2RJZGxzZ2xya2dOUXpHcVowSTFjZGN2M2c?oc=5"
+   "src": "medicaldesignandoutsourcing.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmw5Q0JzTktWNnZWbVZiOXhBWkFkOFVjajJ5Nmh3VnZMSk9kWlo3MnUxSTNKYjh3SG1JdHpLaGNoU01oRkpSaDdjd2V3d1VXZ3V6cUItd3lsdjREdWdzUWJfVFlGR1ZBMHBVSl9tUlFicUo3cGhPbnE5SWl0Q2YyUTZlY29DUEFld21vY256NkJTRlY4X0xJMkd0RGFjb3hp?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "What Is AI Model Distillation?",
+   "blurb": "",
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oVW9lNHZZUVVubmlmTkViaWxTdk8zVE9SdVg1RzExaHhYZUh0WjVWTHdZZTB5bmI2Tk1xbGxLbDgyb2Y2ei1DMGhjVnVudC10S0tUSGtwWDY1UjN1MGlZZDMtTUZ4cFBMdWE2OA?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Walden’s Wheeled Humanoids Aim to Redefine Factory Floor Work",
+   "blurb": "",
+   "src": "IEEE Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rbDBpX21LU0s1RkZvUVdlR0hYbFB5YzVCS3c1TXBQTW41b0lBUDUzZWpWT1FmYjd4N21ESXJVS0Z4aFN3WElSUW9EVjFGRUtNc0UwR2NKZk53VlZuVzNBRUROcFJVRVVZOXRnYWNCYWxxUQ?oc=5"
   }
  ]
 }
