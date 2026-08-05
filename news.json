@@ -1,12 +1,12 @@
 {
- "updated": "2026-08-05T16:43:26.215Z",
+ "updated": "2026-08-05T22:14:02.784Z",
  "items": [
   {
    "cat": "ai",
-   "title": "China’s A.I. Is Surging Across Africa. That Should Worry Silicon Valley.",
+   "title": "As advanced AI models go rogue, the Trump administration steps in",
    "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQ1M5U0I4dTItenBoZDVJVkxORWpNSnJ2X2V1SmhGQmstOGtydWxKTWQxMHFUVUVaMnhxUV9VQlhIa0Q0djB5VkFMUU1FX0ZILU0yMU5sa3VGU1VRZUVUOFZGY19FdlZrbnBaSkpOakVaWWt1?oc=5"
+   "src": "The Christian Science Monitor",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScW1TYVI0XzVtVkxnSnhhcnVHWDZ3VFk5eVVPWjBwVml4MGdMU25mZVlOU3ZZanhuM2pmdU9NV3FGN25CM21tNG5ncEZMNnRMTldKQnRmUEM0bGZQQi1SQjJLcGNlTjhBM3Z0aURoWWgteW5BdDFyNVBqaW1OUm_SAZgBQVVfeXFMUHdGNWRkalZlQl9OUnFWdmUtdzkxUEpFM010c3NwVGs2a04tNk5aMVJvclBnRl91Wlc2SnAtQjR3UEpxWDBlQVhPbXk3Q3RKcHA5dDhMYWJSUGZidEFweG9VOTBpRkw1V2FwQ3pHOTZSeFlqX296ZFlOTWJKRW91eml1TE1TNU84X1pQT3FRaUdqNDRrclFBRnc?oc=5"
   },
   {
    "cat": "robo",
@@ -17,10 +17,10 @@
   },
   {
    "cat": "ai",
-   "title": "Anthropic's AI model tried to trick humans into poisoning code during safety testing",
+   "title": "How China’s A.I. Is Surging Across Africa",
    "blurb": "",
-   "src": "Politico",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUFh4R2tCZU4wRFJjSmhLWUJKclduSFFBaVdCbW9LTnE5R3U5NGxXcDV2QWtJX3ZDZkpnU0k0cmNLd3o5ZXFWelJIZHZpNTFMS2t2MVIwRXUwSUliczZlLXRtWXFwQjFLOVRkc0piUjJVSUFSdDdfSWtra3RlVU45SmtjZVhLdw?oc=5"
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQ1M5U0I4dTItenBoZDVJVkxORWpNSnJ2X2V1SmhGQmstOGtydWxKTWQxMHFUVUVaMnhxUV9VQlhIa0Q0djB5VkFMUU1FX0ZILU0yMU5sa3VGU1VRZUVUOFZGY19FdlZrbnBaSkpOakVaWWt1?oc=5"
   },
   {
    "cat": "robo",
@@ -31,10 +31,10 @@
   },
   {
    "cat": "ai",
-   "title": "Mistral introduces Shieldstral to provide lightweight policy-aware moderation for AI models",
+   "title": "AI models used fake identities to trick humans in cyberattack: Officials",
    "blurb": "",
-   "src": "SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVVJjSVIwUWUyYms4d3B0OUJWS0U5bTEweTVpLXVXN1E1SGc5bHQyV2tSOWNCb0xNdnN1Y2x1V2dJOXFxUXpwbEF4eVVyRXE0b09pZTVkSUJlVkVGN28zWlVJcHJQRmZYVUVRMVZxT1c0ZWhxTzZldmZmR0lJUUFwVFpwS2p5RVExaGxoS215dlExbzlxSV9HZl9TT0t2cElVZjZSZVlQQmtsQnJJSmh3M2RFWkJyeFdjZ0VDcHRR?oc=5"
+   "src": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkVvbk9ob3JSTkNGZERRNjQzWnpZc2c2VUVDbUZuT0xnNG14Wmx0MlBrYWVhLVMyUFp1Y3NfaXlYQWpuM0lIWGE1bzVnSVZrdUdGSWZFbWlzX1Rnd1RrN0R2ZmpLc0xzZlRmNWd4cXNsczBuT19kaTRMVDVXOF9pX3ZrTmp5UGVIN2k3WmhrcXFkMzAyX0RrUTgtVHBTNFJYRElscTh1c201UXRD?oc=5"
   },
   {
    "cat": "robo",
@@ -45,24 +45,10 @@
   },
   {
    "cat": "ai",
-   "title": "AI models attempted ‘unsanctioned’ cyberattacks in tests, watchdog says",
+   "title": "AI safety warnings mount as frontier models test new limits",
    "blurb": "",
-   "src": "aljazeera.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTZ1VllCdW1sOXBDMWhlS0VCRW92a2tpZVcwUFV5M0FIRU5qUktKM1lOcWpSVjA1S3RkcWJEYlk1c0NFWndaWTl3eGRPNUpydDR3YkZhWm1JWjZ0VFdabER3WDR1YWI3elV5Yjc2YUxZb283X2tRY0pKRFd3SkpyUXdpUllLY19qR204SUcyVFBIYUl2TDZHWEd5SldUZjVVZG10elZNSkZ0d1d1azV1aNIBtgFBVV95cUxOQy1IbTBYV0dvQU1QMFJSSEJqaFlyVGJrNzZOZXNYSzctTGRWWHBFcGowdXN3bEhlUWo2M01JcjF2dHo5b2FJUHFram9YN3Q1NVdtOG9sNTFzM1VLaEF1OEZwMGxZSlY0cll1ZzF4ekNBSU5zWlZTOGxDNk9EQ2pvNTd6YWtqNnJtRm80d0NnTTY4aGMzZU5DaWVuVVk5UDhneU9SSnlNcjl1S28yOWluZlZtM2pPQQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Molex Introduces MiniMix Hybrid Power and Signal Connectors to Accelerate Humanoid Robotics Mass-Production Scaling",
-   "blurb": "",
-   "src": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVEYzOGM3TWx1aFIzeTRwMlVoWGJqZFlOMDd6SkY4ZlpSTFowUTRuY1JfeEVpeHN4VEdjWHJuWHI2UkV1NGhxUWljS252UnZpakdGODZUN1J5VXRWTFpsTS1PdnBBc3p5Tjd1bFBRcTVHN0F1NkZVVzhhSmhBdE1UY1ZaWk9NNksxZmhSNXAwSjNrcm9Nb3lJNFl4ZVc4V3p2M21jOEtRb1ZMVzRTVVl3RDlIbDBZamxKVkpWdXMxSHlWMmNjeG9jSUE4Z05UcUF4NVlHcVgwTU44NXlOMTBKWE9aYlVVblhHRjRSbXZ0eTFqaFFQZF9ONmhhY0lQWlVn?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Opinion | How China can corner the AI market with inferior technology",
-   "blurb": "",
-   "src": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUdZOGFyN21zT1JkNU5iM0ZESkpUaXlnLVVrNTRYc1lOSU9mQ3dEZEZpeVllT25uZEFNNk92MWRwdF80b0FQb1hxbUIySHZXam5OOEVVX3I3NUdZMnJCRzkzVWZDb1otbW9GdE5PTlBFYmtvYzFZTnVMMG01RnFrc1Rib3dEUGJaUXhNY0FUZw?oc=5"
+   "src": "WBFF",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOYkdkU1dfTWllQnNMblBUeFk3LVV2TXBudTJneEZpNlZrdFgtVkdrTlVOeFp2SkE4YlZTYWhHWEVxbHRMY1RDUnFEd0t2bUVzaE1zWFcweGduZXAtT1dwUUgwRTRQeGxOMmpFRHN0dVBPMmRLdjF6dkRjMDNkdWFiZGhiZ3JaM0JaV1BFblk4VkdGUUlnWEZLbnF3OFNqdG9kVi03ckFsdVZWQlBwZF9taUFvZWk2QzdQaTU2elZEcWRJTkFoTHFMbk02aWw5SFZzVExKX1Y4Q1JnWkhsMU44MDNXT2NadHNKSmhXNmVUcl9xZXI2cmN2cFkwQXJZR29paUo3dGdnVEQ1ZUk?oc=5"
   },
   {
    "cat": "robo",
@@ -73,10 +59,24 @@
   },
   {
    "cat": "ai",
-   "title": "AI models are escaping their cages. It’s time for a kill switch",
+   "title": "White House Tests AI Hackers, Skips Open Models",
    "blurb": "",
-   "src": "Washington Examiner",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2d0ZFE4bjBVbnZCOVdLd3h4STZCUDNCSlc3VEMyTFVSQ2E3SFZWNEE1VUZOWEx1MGJDbFRxdkxGRTVWUnNVMEl5UU1VcnN6djdTbXF0WHdUejh0MVJGQjl2WVNucm5GUGFVMkFJVTBLTFpyVV9UMndiNXdVX1ZrYXN0WGU3clhVSHRPbUhLZEctbDFFbTkwLU5R?oc=5"
+   "src": "PYMNTS.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnh4QmJlQWVqUmpqWXdXcGpjYkZOeWYzXzh4ZnlQSmY1ZE9NN3ZXSU4zbGV1ajMzbVVkSzhNVzQ1VXZiLWlGSkhRdzBsZTNiTUIxM2VpVmc4YnBCMEowa1FrTUpvUjBNN3ZwcW9felM2MWFvTmhydThxMFcyTTZTYUVGaGtxd3RMVl9jbkU2b19YcXY2c1hUcGhtTGUwX3ZLNnFWS0ZBZw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Molex Introduces MiniMix Hybrid Power and Signal Connectors to Accelerate Humanoid Robotics Mass-Production Scaling",
+   "blurb": "",
+   "src": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVEYzOGM3TWx1aFIzeTRwMlVoWGJqZFlOMDd6SkY4ZlpSTFowUTRuY1JfeEVpeHN4VEdjWHJuWHI2UkV1NGhxUWljS252UnZpakdGODZUN1J5VXRWTFpsTS1PdnBBc3p5Tjd1bFBRcTVHN0F1NkZVVzhhSmhBdE1UY1ZaWk9NNksxZmhSNXAwSjNrcm9Nb3lJNFl4ZVc4V3p2M21jOEtRb1ZMVzRTVVl3RDlIbDBZamxKVkpWdXMxSHlWMmNjeG9jSUE4Z05UcUF4NVlHcVgwTU44NXlOMTBKWE9aYlVVblhHRjRSbXZ0eTFqaFFQZF9ONmhhY0lQWlVn?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Report: AI models targeted real people during security testing",
+   "blurb": "",
+   "src": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1NTZjY2YU91aEJiNU5EMHRBeWJRWDBEWktEV1FiWnJQTWI2SFhsdzItOVNKX3hSaTNXNXVmVXdiOXZsTUNuRnExSDA0U3kyWTlFRnE5N193bXBpeXJ5VW9oTnJYUDlQUE9VeHZWZUcwMVVHTjZPd3EydzNMUXBuUzhjRVNGZ01QYzBobWM3NzJNMGs?oc=5"
   },
   {
    "cat": "robo",
