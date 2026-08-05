@@ -1,12 +1,68 @@
 {
- "updated": "2026-08-05T11:22:24.110Z",
+ "updated": "2026-08-05T16:43:26.215Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "China’s A.I. Is Surging Across Africa. That Should Worry Silicon Valley.",
+   "blurb": "",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQ1M5U0I4dTItenBoZDVJVkxORWpNSnJ2X2V1SmhGQmstOGtydWxKTWQxMHFUVUVaMnhxUV9VQlhIa0Q0djB5VkFMUU1FX0ZILU0yMU5sa3VGU1VRZUVUOFZGY19FdlZrbnBaSkpOakVaWWt1?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Two Teleoperated Humanoid Robots Complete Live Surgery",
+   "blurb": "",
+   "src": "Tech Briefs",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlBaQW5CNjVaZ1ZhOXVINlZoUXVBMFU3Q0JwU2NGNjRCZEJvRjl3dzNOZHJPcjhZYTB6RlFtbHB0aW04RFVQY0Z4YU1kdGpYOFB0YW5Zd3FjY3JCN0hTWEpTeEJpSVFWS2FCVDRwbGJRTG5RR0Z3SVI5VTZ5aHFzQUNVLWE5TjI4c3JfZmNpOVdlU0lrbFJsQWE0eEw1a2U3bzM0NXJHeWhSWlNUamRENnotSQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Anthropic's AI model tried to trick humans into poisoning code during safety testing",
+   "blurb": "",
+   "src": "Politico",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUFh4R2tCZU4wRFJjSmhLWUJKclduSFFBaVdCbW9LTnE5R3U5NGxXcDV2QWtJX3ZDZkpnU0k0cmNLd3o5ZXFWelJIZHZpNTFMS2t2MVIwRXUwSUliczZlLXRtWXFwQjFLOVRkc0piUjJVSUFSdDdfSWtra3RlVU45SmtjZVhLdw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "How To Build Your Very Own Humanoid Robot",
+   "blurb": "",
+   "src": "ETF Database",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVFQwTEIydnp1SXlHc1h3YjN0MXRveVlmZW12U2Z3SkdNMDdXSTRhQVNrS3lsTFhBNVJEcE1JenNMOTBNMUtPUVk2WTNJZ0dhX1d4VUhlVVY1UnhCdU4yVC13TUZISzZIQ0pfcC03RnR5anVqU2ljV0VlaFdnTFRnRFhIeUxfanpualFGYnJzREU?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Mistral introduces Shieldstral to provide lightweight policy-aware moderation for AI models",
+   "blurb": "",
+   "src": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVVJjSVIwUWUyYms4d3B0OUJWS0U5bTEweTVpLXVXN1E1SGc5bHQyV2tSOWNCb0xNdnN1Y2x1V2dJOXFxUXpwbEF4eVVyRXE0b09pZTVkSUJlVkVGN28zWlVJcHJQRmZYVUVRMVZxT1c0ZWhxTzZldmZmR0lJUUFwVFpwS2p5RVExaGxoS215dlExbzlxSV9HZl9TT0t2cElVZjZSZVlQQmtsQnJJSmh3M2RFWkJyeFdjZ0VDcHRR?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Human-aware robots adapt to partners, reducing back strain during team lifting",
+   "blurb": "",
+   "src": "Tech Xplore",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdzRTS05SZGVTSE15MHN4Wmp2V29kTjBzMkgwcUVKZEF2Vjl4aWpLQWU1cHg0MUc4LVVMdjdRaGxXSm9vTXdiamRER0plTEcyendwSjJ3Wm10YVE1OEgyM2REcF9qa1R1ekRmZ2ZNQVpPVXE0dURuRlJDbnNCd0VDVQ?oc=5"
+  },
   {
    "cat": "ai",
    "title": "AI models attempted ‘unsanctioned’ cyberattacks in tests, watchdog says",
    "blurb": "",
-   "src": "Al Jazeera",
+   "src": "aljazeera.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTZ1VllCdW1sOXBDMWhlS0VCRW92a2tpZVcwUFV5M0FIRU5qUktKM1lOcWpSVjA1S3RkcWJEYlk1c0NFWndaWTl3eGRPNUpydDR3YkZhWm1JWjZ0VFdabER3WDR1YWI3elV5Yjc2YUxZb283X2tRY0pKRFd3SkpyUXdpUllLY19qR204SUcyVFBIYUl2TDZHWEd5SldUZjVVZG10elZNSkZ0d1d1azV1aNIBtgFBVV95cUxOQy1IbTBYV0dvQU1QMFJSSEJqaFlyVGJrNzZOZXNYSzctTGRWWHBFcGowdXN3bEhlUWo2M01JcjF2dHo5b2FJUHFram9YN3Q1NVdtOG9sNTFzM1VLaEF1OEZwMGxZSlY0cll1ZzF4ekNBSU5zWlZTOGxDNk9EQ2pvNTd6YWtqNnJtRm80d0NnTTY4aGMzZU5DaWVuVVk5UDhneU9SSnlNcjl1S28yOWluZlZtM2pPQQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Molex Introduces MiniMix Hybrid Power and Signal Connectors to Accelerate Humanoid Robotics Mass-Production Scaling",
+   "blurb": "",
+   "src": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVEYzOGM3TWx1aFIzeTRwMlVoWGJqZFlOMDd6SkY4ZlpSTFowUTRuY1JfeEVpeHN4VEdjWHJuWHI2UkV1NGhxUWljS252UnZpakdGODZUN1J5VXRWTFpsTS1PdnBBc3p5Tjd1bFBRcTVHN0F1NkZVVzhhSmhBdE1UY1ZaWk9NNksxZmhSNXAwSjNrcm9Nb3lJNFl4ZVc4V3p2M21jOEtRb1ZMVzRTVVl3RDlIbDBZamxKVkpWdXMxSHlWMmNjeG9jSUE4Z05UcUF4NVlHcVgwTU44NXlOMTBKWE9aYlVVblhHRjRSbXZ0eTFqaFFQZF9ONmhhY0lQWlVn?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Opinion | How China can corner the AI market with inferior technology",
+   "blurb": "",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUdZOGFyN21zT1JkNU5iM0ZESkpUaXlnLVVrNTRYc1lOSU9mQ3dEZEZpeVllT25uZEFNNk92MWRwdF80b0FQb1hxbUIySHZXam5OOEVVX3I3NUdZMnJCRzkzVWZDb1otbW9GdE5PTlBFYmtvYzFZTnVMMG01RnFrc1Rib3dEUGJaUXhNY0FUZw?oc=5"
   },
   {
    "cat": "robo",
@@ -17,73 +73,17 @@
   },
   {
    "cat": "ai",
-   "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+   "title": "AI models are escaping their cages. It’s time for a kill switch",
    "blurb": "",
-   "src": "AI News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTExMbG9EMnNRR1l5NFpLbjNtSzNoX0pPTTVoOEVaSm5WZDJQWTZ3OVJZOGlUYTBSa1FoRlJ1VFdJUFFxaEd1WloyeFRlSVZ0YTdZS01WQjExODNNbnhubzRzNHZpRVl2NndaMzJXTUJ6Z3JnMWRWWmg2SjdjRVNLLTJ6S3NVcnRKc0RncVluMmdnZElnT2Vn?oc=5"
+   "src": "Washington Examiner",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2d0ZFE4bjBVbnZCOVdLd3h4STZCUDNCSlc3VEMyTFVSQ2E3SFZWNEE1VUZOWEx1MGJDbFRxdkxGRTVWUnNVMEl5UU1VcnN6djdTbXF0WHdUejh0MVJGQjl2WVNucm5GUGFVMkFJVTBLTFpyVV9UMndiNXdVX1ZrYXN0WGU3clhVSHRPbUhLZEctbDFFbTkwLU5R?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Guide to Avoiding Common Pitfalls for Chinese Humanoid Robots Expanding into Global Overseas Markets",
+   "title": "Hesai Named to Morgan Stanley’s Humanoid 100",
    "blurb": "",
-   "src": "eu.36kr.com",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyQXJmVmV1cnVhU21HZVFYTlJQY0JyVjhzanpJcG9ma1N3Q2YtTGhwUlI5MFY2bEFBUm5sZFdNS0s3YWJzSWZpZ0QzRG9wVEM2bGNJ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "OpenAI and Anthropic models ‘went rogue’ during UK cybersecurity test",
-   "blurb": "",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3dmZ3FReWJ6X0p4TjQ1dEVrZ0JHd3BKdDl3VjJULW1NVGxCV2pDaktaZHVHQko0WVRoQV9lb2FUSC1RdG1YZVhPRUhQZHlKTGtqZUp0YkQzcHp6ODFfbURCR0M2LWJuUGo1cUd2RXA0Y0tOR1hwNnpvWEJldWVTWEVyV0w0TUtuSGNGT1dEVzRjT1RhQlBkak9wdlhWZnFfU1czNzNqcTk1UmFPRVZlSjNXbTVOLUpmNkZTZE5hNHlMc19u?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "New York Bill Would Ban Humanoid Robots in Schools",
-   "blurb": "",
-   "src": "New York Focus",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94LXBfX1pLSktOMXhINTlzQldRblgwVlhLSU02LS1rYlNFdFdSY3NhSXp0Y3l3Z3NzRjRSNDVad3VOSWlUa3JPUTR3a3dRdVdYWDgtdVE5RjctOVZCODVWRTJ0YTh0a0JRaXJyRlRJWlo0WTFL?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "White House AI Guidelines Exempt U.S. Open Models From Government Review",
-   "blurb": "",
-   "src": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGlqeXItS3prNUZ6V3BSRlQ0MzJ0NkdFNHF1SkVvY1RQUmlIb2wta2s3elpvUVNqMU4xS01WVEpRWVh1cGFJQlRlWHM1dzZsX0M3MS1fN0xfaVVESjJCWGJLc1NrcmxjWFpadDh4SldFeTg0RXNlSjNhdG5mVWNoY19BcWl0WTVUTXJHTmRHQVIyMENZZHRvZEo5dmV2aWNxVE1WY2lqLVpiSkFyNmc?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Mitsubishi to Mass-Produce Humanoid Robots at Former Engine Plant",
-   "blurb": "",
-   "src": "Assembly Magazine",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjFQZHdEa3ZsTXpuT3M2RGZRSFVBbW5GWnIxam9nREtZZXRBMkRqSUN5OGJ1X0J0Ny1EQmgzUzF5YThWNnJ5SERyZHA1UUI0WUtHS3ZUdHNodkxaZDRLY2UtNTBzZ2piOTBDYi1qY1plMGRlR0VNaXZsWklRWHU1VUdhZFd4OC03eDRhamFHUGYxM3NGb3JGYU5uRnU0RllabURnWVdrTlVYQW4weGc?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "White House will exempt ‘open’ AI systems from security review",
-   "blurb": "",
-   "src": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2FLWUNZSExUajNLYzYtQzh2aVNJMkhsNlBJcjBZY1dEd3JFSXg1OEI0Nk9VM0NIRVhhb2J3c2VUSFpFaVBIQnk1aEhOMGpZWTJMazUxR3Z0YTEwRlEzUExuTHlzZkN2NUU5cjBqX1EwX1pJOHFVNWVObnk0YkVNTWhNNkJGNDFlRndnSnV4M2l0UDZrcmV1N2UtSVJoSHNJV0htMlg1T1g1VTg5eWc?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Walden’s Wheeled Humanoids Aim to Redefine Factory Floor Work",
-   "blurb": "",
-   "src": "IEEE Spectrum",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rbDBpX21LU0s1RkZvUVdlR0hYbFB5YzVCS3c1TXBQTW41b0lBUDUzZWpWT1FmYjd4N21ESXJVS0Z4aFN3WElSUW9EVjFGRUtNc0UwR2NKZk53VlZuVzNBRUROcFJVRVVZOXRnYWNCYWxxUQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "China Harnesses US AI Models to Advance Military Capabilities: Report",
-   "blurb": "",
-   "src": "The Defense Post",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aMVhzaWhFbG1PMFYzai1SOXNsMkVJSEhKS3B0Y1VQS0lmVGhON09WeHNHbkFIVVJNQzZNbTREQVB5YnU5X3A0Y0JxSW45ai1qYXI4OWVoVjktU2lSek9qX3JnczJ5alZiY0tpSUpCZUhRUdIBckFVX3lxTE5aMVhzaWhFbG1PMFYzai1SOXNsMkVJSEhKS3B0Y1VQS0lmVGhON09WeHNHbkFIVVJNQzZNbTREQVB5YnU5X3A0Y0JxSW45ai1qYXI4OWVoVjktU2lSek9qX3JnczJ5alZiY0tpSUpCZUhRUQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Are these new Chinese humanoid robots too human to tell apart?",
-   "blurb": "",
-   "src": "Futura, le média qui explore le monde",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0dWbFZwMlppalhlSDlFZGRqNEVaVWlkd3FHLVNjV0VIYlhiWEE5UVhTMnFMeGhTSVAwaWZUN0ZYekZZQW9xeU4ycm81V0NncDgyTTBmdTV3ay1ucHVpellYSEwzZWktTFZJYi1tQU5fU0xyUHdiWVVyeFZ6UzVMSnBvSGFUV1lueWxncjJndWRZcjU4SE1SOFRValhDSVNTaFNnSS1n?oc=5"
+   "src": "Hesai Technology",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzR0N2dk5wXzhncnNycENhNzNJUDk5ZnBNZVhFXzI1clQxSTM4dTAwNlRxNmFybGFHMDlQc0NIMjFGdG1xRGJjdGxxRERySkxKWWs2alZfWks5OUR6a2ZqV1BpczhTanRUc2VZZjNSQ3ByVkFvOGNycXdn?oc=5"
   }
  ]
 }
