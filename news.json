@@ -1,12 +1,26 @@
 {
- "updated": "2026-08-06T05:51:04.197Z",
+ "updated": "2026-08-06T11:24:57.869Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Meta says its AI model breached a third-party company during testing",
+   "title": "AI models are behaving unexpectedly. Experts warn of \"a really bumpy road\" ahead.",
    "blurb": "",
    "src": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2tKVm1PRndWU0VFanczdDY2SERPXzFIdUdmS1BQNm1fcTVlUTRCZFhzdnhoYm1mRE51RzZpZjBmUFVxclQwZTJGejRYQ0llbGIzd0JpanJLdEp4QjFKNzJtVFAtSGhxcmpGc3RUa25WSmU1UDk0UWdmQThvN3Z2LWQ4aw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGhKem5ucDVtWndHN28tSkJaa1JRVzZjWnN4Z2RNRnNRYnFnUFRxUXpmN3BlMkdCQmExWkZ4aFBNUktFV0RfSFNfdUdwUGs1RTk0MFBma1p4RlBXTkd3UVpkWUk3UzlITk5neW1HVzlhaXRpSU5DUFU2UlRCNUdrRWxLT2M?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Robots Are Coming — but Not Everywhere",
+   "blurb": "",
+   "src": "MIT Sloan Management Review Middle East",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12OUVab19rNXBQdnlxQ3piazZzclBRTExvZkhVSmFpN1dzaTVGbnJ1dm1vX1BGemJwX1RUNkZCYUd6aDY5Vmp3bjR4QTBBYWlieTRuajBOamx0U3owdGRwODV4Y3JrLTVidDZDN2ttdjJDdXJLNmpSUkRVUQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "A Meta AI Model Hacked Another Company During Cybersecurity Testing",
+   "blurb": "",
+   "src": "theinformation.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ?oc=5"
   },
   {
    "cat": "robo",
@@ -17,31 +31,45 @@
   },
   {
    "cat": "ai",
-   "title": "A Meta AI Model Hacked Another Company During Cybersecurity Testing",
+   "title": "An AI model from Meta also hacked another company during testing",
    "blurb": "",
-   "src": "The Information",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ?oc=5"
+   "src": "WPSD Local 6",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcEpzQ2Z0QTBxMFpZSFkwU29YLUVDWkltOGc1Y2d5TFdIQnVrWDdub3QxaGFEVFg5dDQtSGVZeDJDeF9md25xN0NGd3U0cE1xalFPWFVoZF84WjJvU1FwRWJvS0gzOGx0c2xTOXBmUXo2Si0wc2lzM1lhTk1sbmJ5T0p1T1laUFdlMGVFa0hTYW5xenUzVkVnQ2hJR2xieTRvWFdqQmRZZDhsX1ZwelQ4T0E0MUNpWmpCemJfUjQ5X2p2UTR4TDl2SXFxWGJEZ25xVm5OeXB1T1oxV0Nwd0Jj?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Two Teleoperated Humanoid Robots Complete Live Surgery",
+   "title": "New humanoid adapts to human movement to reduce workplace injuries",
    "blurb": "",
-   "src": "Tech Briefs",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlBaQW5CNjVaZ1ZhOXVINlZoUXVBMFU3Q0JwU2NGNjRCZEJvRjl3dzNOZHJPcjhZYTB6RlFtbHB0aW04RFVQY0Z4YU1kdGpYOFB0YW5Zd3FjY3JCN0hTWEpTeEJpSVFWS2FCVDRwbGJRTG5RR0Z3SVI5VTZ5aHFzQUNVLWE5TjI4c3JfZmNpOVdlU0lrbFJsQWE0eEw1a2U3bzM0NXJHeWhSWlNUamRENnotSQ?oc=5"
+   "src": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjZOS3NlM3M4U1VZVFBydVhVSXRXZV95VDlxUXRVZ3lZbWlJdE1xX0lRa0VLVmVNcnZPa1VEbW5LZTd1Tk1KS3Y5VkJkMGJxYU5Wbld4MjE4UllYMmEtTVVJaTdPa0VZcFR4Z1pPa0N2aFVZRk5faTFfNUdhNFpCMkg1S2xGTTB3eEphYw?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Meta says its AI model hacked into another company during testing",
+   "title": "Meta becomes latest firm to say its AI hacked another company",
    "blurb": "",
-   "src": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3c0Y2xSeVA4ZENLV0ZkWk42Tmw3Zm5SRVMtOEVodzF2a3diZFFLcVZKVXdCXzMtd2tGUkhkZHZkcS1UZHNrUkJKVktUZFJITmNrMlFqc1VkRng1QkdyT0dkUEUzMHp4R1RRZzFRcWFkNlBRaHBjb2daVmowNU1MZVN5TlE?oc=5"
+   "src": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YQVQ3TDVDai1EZmNvU21ycTFpak42NUxZbll0VkxSQTVVNUVyeVdOOWZQdmd0R1VUSlFtZURIdU1YYWFGZmRGaVVhR21vZG9nTlhfMHRzYVA5Zw?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Human-aware robots adapt to partners, reducing back strain during team lifting",
+   "title": "Samsung's Humanoid Robot Layout Exposed",
    "blurb": "",
-   "src": "Tech Xplore",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdzRTS05SZGVTSE15MHN4Wmp2V29kTjBzMkgwcUVKZEF2Vjl4aWpLQWU1cHg0MUc4LVVMdjdRaGxXSm9vTXdiamRER0plTEcyendwSjJ3Wm10YVE1OEgyM2REcF9qa1R1ekRmZ2ZNQVpPVXE0dURuRlJDbnNCd0VDVQ?oc=5"
+   "src": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15OW9pQ1JiX2Y5VjNVRTE0YnZJMnR3YjJoWVFxUUd1Y1cwV0xtR2FJUXFyaXBaZVVxZzNpT0ZaZjBiMnkzUXBTMHlRSmZ5ckVLY2tN?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Following Anthropic and OpenAI, Meta reported that its AI model had hacked another system",
+   "blurb": "",
+   "src": "Українські Національні Новини (УНН)",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUJRNkZhaDdKVzlLd25FanQ3THhBMzRZQkNYeDJMcTh5anlZOE9CNEhpa0tfYkVkcTBSaVVsNGFaZmtycHpDbFkxV3R1dTh2QVpaYm96aUxtY0F1a0JHaDhQcFRCSGRwRU13MnFMTTF1a015UUw4aWFONjBkVkREdFhlaGRTRzJsbnZQZTQ2by1JNVFRSDJOYmdwZF80THZDd0lwR1VabWU2TnZnS01XNlNB0gGyAUFVX3lxTE9pQlE2RmFoN0pXOUt3bkVqdDdMeEEzNFlCQ1h4MkxxOHlqeVk4T0I0SGlrS19iRWRxMFJpVWw0YVpma3JwekNsWTFXdHV1OHZBWlpib3ppTG1jQXVrQkdoOFBwVEJIZHBFTXcycUxNMXVrTXlRTDhpYU42MGRWRER0WGVoZFNHMmxudlBlNDZvLUk1UVFIMk5iZ3BkXzRMdkN3SXBHVVptZTZOdmdLTVc2U0E?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Humanoid robots the 'next stage' in farming",
+   "blurb": "",
+   "src": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3h6em9lTU1ldl9IdkZqUnlfalZEVHI1WFNvWnNhQVhUdHhDaHV0UC1NcHVfcUozX0xHRVR1ZEpNdWFyUmlNcGRjS2EyRFlkcmJTakJlM3VyVXR2dlRWaHhISUdveWFYRnoySHFRbUNQa3N3YkRkand6Z0VMNExjb3RnOGQ?oc=5"
   },
   {
    "cat": "ai",
@@ -52,38 +80,10 @@
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots Applications",
+   "title": "Human-aware robots adapt to partners, reducing back strain during team lifting",
    "blurb": "",
-   "src": "Semiconductor Engineering",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kdmxBa1lsOUJNTko3MHlJUng4X1J6Q2FiblgtWmlKeDJsVzNGdlhUbENQLTE1OGd2ZVNlTG9jZlMxWHRZT3k0WEVVaWF4R3Qwdmt1SGZTMEdXMlVmbk11bGJjOGdheDg4?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing",
-   "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeG9FOHFuNTdmY3ItcldFQUdvQmpBNWZRSU96LVdoN21IZVJ6TmFKZHRXSjZEMkNQOXhZT0hSeWNwZENLcHJDaWtpeGxCb0x1ZXljdjJtVjROS3RfXzJKMGxwa1BTUXV5QXhzN09XMmR1aHRfUGloYzdCUkphYTFwMHpNUktNWTB2UHFSOTlOSUZMejFQQ1A3eGYwSFJOMnMzekNrWlVJRU9rUEZOOEZfVzhFVQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "How To Build Your Very Own Humanoid Robot",
-   "blurb": "",
-   "src": "ETF Database",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVFQwTEIydnp1SXlHc1h3YjN0MXRveVlmZW12U2Z3SkdNMDdXSTRhQVNrS3lsTFhBNVJEcE1JenNMOTBNMUtPUVk2WTNJZ0dhX1d4VUhlVVY1UnhCdU4yVC13TUZISzZIQ0pfcC03RnR5anVqU2ljV0VlaFdnTFRnRFhIeUxfanpualFGYnJzREU?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Uh-Oh. Which Company’s AI Model Is Reportedly a Hacker Now, Too?",
-   "blurb": "",
-   "src": "Gizmodo",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1BLUHhYUEtJVWRUMzdVVTY0MUxEenlZUHJZbWR0OU1tc3ZQMWtYckZieF9ZNWN0M1pCaFdGZHp1NEhIY2tQaHp6MVZ6cFNhR0RaZERYNG1kd0hvRVVhbjVZb0VrdDF0LW1xWXA2bFRXdi00RlFoc0JyTTYxSnRzcFQ0RGhaVWlwN1QwMUcwZ2Y4Y01Wbmc?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Molex Introduces MiniMix Hybrid Power and Signal Connectors to Accelerate Humanoid Robotics Mass-Production Scaling",
-   "blurb": "",
-   "src": "PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVEYzOGM3TWx1aFIzeTRwMlVoWGJqZFlOMDd6SkY4ZlpSTFowUTRuY1JfeEVpeHN4VEdjWHJuWHI2UkV1NGhxUWljS252UnZpakdGODZUN1J5VXRWTFpsTS1PdnBBc3p5Tjd1bFBRcTVHN0F1NkZVVzhhSmhBdE1UY1ZaWk9NNksxZmhSNXAwSjNrcm9Nb3lJNFl4ZVc4V3p2M21jOEtRb1ZMVzRTVVl3RDlIbDBZamxKVkpWdXMxSHlWMmNjeG9jSUE4Z05UcUF4NVlHcVgwTU44NXlOMTBKWE9aYlVVblhHRjRSbXZ0eTFqaFFQZF9ONmhhY0lQWlVn?oc=5"
+   "src": "Tech Xplore",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdzRTS05SZGVTSE15MHN4Wmp2V29kTjBzMkgwcUVKZEF2Vjl4aWpLQWU1cHg0MUc4LVVMdjdRaGxXSm9vTXdiamRER0plTEcyendwSjJ3Wm10YVE1OEgyM2REcF9qa1R1ekRmZ2ZNQVpPVXE0dURuRlJDbnNCd0VDVQ?oc=5"
   }
  ]
 }
