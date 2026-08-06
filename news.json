@@ -1,12 +1,26 @@
 {
- "updated": "2026-08-05T22:14:02.784Z",
+ "updated": "2026-08-06T05:51:04.197Z",
  "items": [
   {
    "cat": "ai",
-   "title": "As advanced AI models go rogue, the Trump administration steps in",
+   "title": "Meta says its AI model breached a third-party company during testing",
    "blurb": "",
-   "src": "The Christian Science Monitor",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScW1TYVI0XzVtVkxnSnhhcnVHWDZ3VFk5eVVPWjBwVml4MGdMU25mZVlOU3ZZanhuM2pmdU9NV3FGN25CM21tNG5ncEZMNnRMTldKQnRmUEM0bGZQQi1SQjJLcGNlTjhBM3Z0aURoWWgteW5BdDFyNVBqaW1OUm_SAZgBQVVfeXFMUHdGNWRkalZlQl9OUnFWdmUtdzkxUEpFM010c3NwVGs2a04tNk5aMVJvclBnRl91Wlc2SnAtQjR3UEpxWDBlQVhPbXk3Q3RKcHA5dDhMYWJSUGZidEFweG9VOTBpRkw1V2FwQ3pHOTZSeFlqX296ZFlOTWJKRW91eml1TE1TNU84X1pQT3FRaUdqNDRrclFBRnc?oc=5"
+   "src": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2tKVm1PRndWU0VFanczdDY2SERPXzFIdUdmS1BQNm1fcTVlUTRCZFhzdnhoYm1mRE51RzZpZjBmUFVxclQwZTJGejRYQ0llbGIzd0JpanJLdEp4QjFKNzJtVFAtSGhxcmpGc3RUa25WSmU1UDk0UWdmQThvN3Z2LWQ4aw?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Developing Humanoid Robot That Learns Construction Skills From Human Workers",
+   "blurb": "",
+   "src": "Syracuse University Today",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmltS2hJUG9nZ0tFLTA2U0t1SXV6Ym02VG9scFdGOF9taUlnTnVwdW5QZ3dkU2hXWWNBUGpvNUplRkhDbXVrZk9oWHdaUjY4OWpHVWNUZFZoWnczN21weUJERW85V3ZsaWNORTdmMHN5RUo4S3Z5VHN6VFIxSVBkLUxYcmYzQmZYM1huajVPUnFTMkRrWFlvSEhXT2hxOG80NTVFMEdCT3l2bWRMMlE?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "A Meta AI Model Hacked Another Company During Cybersecurity Testing",
+   "blurb": "",
+   "src": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ?oc=5"
   },
   {
    "cat": "robo",
@@ -17,24 +31,10 @@
   },
   {
    "cat": "ai",
-   "title": "How China’s A.I. Is Surging Across Africa",
+   "title": "Meta says its AI model hacked into another company during testing",
    "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQ1M5U0I4dTItenBoZDVJVkxORWpNSnJ2X2V1SmhGQmstOGtydWxKTWQxMHFUVUVaMnhxUV9VQlhIa0Q0djB5VkFMUU1FX0ZILU0yMU5sa3VGU1VRZUVUOFZGY19FdlZrbnBaSkpOakVaWWt1?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "How To Build Your Very Own Humanoid Robot",
-   "blurb": "",
-   "src": "ETF Database",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVFQwTEIydnp1SXlHc1h3YjN0MXRveVlmZW12U2Z3SkdNMDdXSTRhQVNrS3lsTFhBNVJEcE1JenNMOTBNMUtPUVk2WTNJZ0dhX1d4VUhlVVY1UnhCdU4yVC13TUZISzZIQ0pfcC03RnR5anVqU2ljV0VlaFdnTFRnRFhIeUxfanpualFGYnJzREU?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI models used fake identities to trick humans in cyberattack: Officials",
-   "blurb": "",
-   "src": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkVvbk9ob3JSTkNGZERRNjQzWnpZc2c2VUVDbUZuT0xnNG14Wmx0MlBrYWVhLVMyUFp1Y3NfaXlYQWpuM0lIWGE1bzVnSVZrdUdGSWZFbWlzX1Rnd1RrN0R2ZmpLc0xzZlRmNWd4cXNsczBuT19kaTRMVDVXOF9pX3ZrTmp5UGVIN2k3WmhrcXFkMzAyX0RrUTgtVHBTNFJYRElscTh1c201UXRD?oc=5"
+   "src": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3c0Y2xSeVA4ZENLV0ZkWk42Tmw3Zm5SRVMtOEVodzF2a3diZFFLcVZKVXdCXzMtd2tGUkhkZHZkcS1UZHNrUkJKVktUZFJITmNrMlFqc1VkRng1QkdyT0dkUEUzMHp4R1RRZzFRcWFkNlBRaHBjb2daVmowNU1MZVN5TlE?oc=5"
   },
   {
    "cat": "robo",
@@ -45,24 +45,38 @@
   },
   {
    "cat": "ai",
-   "title": "AI safety warnings mount as frontier models test new limits",
+   "title": "As advanced AI models go rogue, the Trump administration steps in",
    "blurb": "",
-   "src": "WBFF",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOYkdkU1dfTWllQnNMblBUeFk3LVV2TXBudTJneEZpNlZrdFgtVkdrTlVOeFp2SkE4YlZTYWhHWEVxbHRMY1RDUnFEd0t2bUVzaE1zWFcweGduZXAtT1dwUUgwRTRQeGxOMmpFRHN0dVBPMmRLdjF6dkRjMDNkdWFiZGhiZ3JaM0JaV1BFblk4VkdGUUlnWEZLbnF3OFNqdG9kVi03ckFsdVZWQlBwZF9taUFvZWk2QzdQaTU2elZEcWRJTkFoTHFMbk02aWw5SFZzVExKX1Y4Q1JnWkhsMU44MDNXT2NadHNKSmhXNmVUcl9xZXI2cmN2cFkwQXJZR29paUo3dGdnVEQ1ZUk?oc=5"
+   "src": "The Christian Science Monitor",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScW1TYVI0XzVtVkxnSnhhcnVHWDZ3VFk5eVVPWjBwVml4MGdMU25mZVlOU3ZZanhuM2pmdU9NV3FGN25CM21tNG5ncEZMNnRMTldKQnRmUEM0bGZQQi1SQjJLcGNlTjhBM3Z0aURoWWgteW5BdDFyNVBqaW1OUm_SAZgBQVVfeXFMUHdGNWRkalZlQl9OUnFWdmUtdzkxUEpFM010c3NwVGs2a04tNk5aMVJvclBnRl91Wlc2SnAtQjR3UEpxWDBlQVhPbXk3Q3RKcHA5dDhMYWJSUGZidEFweG9VOTBpRkw1V2FwQ3pHOTZSeFlqX296ZFlOTWJKRW91eml1TE1TNU84X1pQT3FRaUdqNDRrclFBRnc?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Humanoid Robots Part 2: China's Playbook for Building Its Own Robot Supply Chain",
+   "title": "Humanoid Robots Applications",
    "blurb": "",
-   "src": "TrendForce",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PTWxCS2E5OGo5ZzhjZ05EMl9VbTdNZDRMclBBVWNGMjIzMWNKMWN4MVRJTUhkWG5qazFpTTlfRzVLeUQ4elpJR1dNUkxnYm93Wk41ZlNjLTMtSVBheXJpalZ4ZkdnVWNveXVsRUJxMkUybkh6VUVz?oc=5"
+   "src": "Semiconductor Engineering",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kdmxBa1lsOUJNTko3MHlJUng4X1J6Q2FiblgtWmlKeDJsVzNGdlhUbENQLTE1OGd2ZVNlTG9jZlMxWHRZT3k0WEVVaWF4R3Qwdmt1SGZTMEdXMlVmbk11bGJjOGdheDg4?oc=5"
   },
   {
    "cat": "ai",
-   "title": "White House Tests AI Hackers, Skips Open Models",
+   "title": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing",
    "blurb": "",
-   "src": "PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnh4QmJlQWVqUmpqWXdXcGpjYkZOeWYzXzh4ZnlQSmY1ZE9NN3ZXSU4zbGV1ajMzbVVkSzhNVzQ1VXZiLWlGSkhRdzBsZTNiTUIxM2VpVmc4YnBCMEowa1FrTUpvUjBNN3ZwcW9felM2MWFvTmhydThxMFcyTTZTYUVGaGtxd3RMVl9jbkU2b19YcXY2c1hUcGhtTGUwX3ZLNnFWS0ZBZw?oc=5"
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeG9FOHFuNTdmY3ItcldFQUdvQmpBNWZRSU96LVdoN21IZVJ6TmFKZHRXSjZEMkNQOXhZT0hSeWNwZENLcHJDaWtpeGxCb0x1ZXljdjJtVjROS3RfXzJKMGxwa1BTUXV5QXhzN09XMmR1aHRfUGloYzdCUkphYTFwMHpNUktNWTB2UHFSOTlOSUZMejFQQ1A3eGYwSFJOMnMzekNrWlVJRU9rUEZOOEZfVzhFVQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "How To Build Your Very Own Humanoid Robot",
+   "blurb": "",
+   "src": "ETF Database",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVFQwTEIydnp1SXlHc1h3YjN0MXRveVlmZW12U2Z3SkdNMDdXSTRhQVNrS3lsTFhBNVJEcE1JenNMOTBNMUtPUVk2WTNJZ0dhX1d4VUhlVVY1UnhCdU4yVC13TUZISzZIQ0pfcC03RnR5anVqU2ljV0VlaFdnTFRnRFhIeUxfanpualFGYnJzREU?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Uh-Oh. Which Company’s AI Model Is Reportedly a Hacker Now, Too?",
+   "blurb": "",
+   "src": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1BLUHhYUEtJVWRUMzdVVTY0MUxEenlZUHJZbWR0OU1tc3ZQMWtYckZieF9ZNWN0M1pCaFdGZHp1NEhIY2tQaHp6MVZ6cFNhR0RaZERYNG1kd0hvRVVhbjVZb0VrdDF0LW1xWXA2bFRXdi00RlFoc0JyTTYxSnRzcFQ0RGhaVWlwN1QwMUcwZ2Y4Y01Wbmc?oc=5"
   },
   {
    "cat": "robo",
@@ -70,20 +84,6 @@
    "blurb": "",
    "src": "PR Newswire",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVEYzOGM3TWx1aFIzeTRwMlVoWGJqZFlOMDd6SkY4ZlpSTFowUTRuY1JfeEVpeHN4VEdjWHJuWHI2UkV1NGhxUWljS252UnZpakdGODZUN1J5VXRWTFpsTS1PdnBBc3p5Tjd1bFBRcTVHN0F1NkZVVzhhSmhBdE1UY1ZaWk9NNksxZmhSNXAwSjNrcm9Nb3lJNFl4ZVc4V3p2M21jOEtRb1ZMVzRTVVl3RDlIbDBZamxKVkpWdXMxSHlWMmNjeG9jSUE4Z05UcUF4NVlHcVgwTU44NXlOMTBKWE9aYlVVblhHRjRSbXZ0eTFqaFFQZF9ONmhhY0lQWlVn?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Report: AI models targeted real people during security testing",
-   "blurb": "",
-   "src": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1NTZjY2YU91aEJiNU5EMHRBeWJRWDBEWktEV1FiWnJQTWI2SFhsdzItOVNKX3hSaTNXNXVmVXdiOXZsTUNuRnExSDA0U3kyWTlFRnE5N193bXBpeXJ5VW9oTnJYUDlQUE9VeHZWZUcwMVVHTjZPd3EydzNMUXBuUzhjRVNGZ01QYzBobWM3NzJNMGs?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Hesai Named to Morgan Stanley’s Humanoid 100",
-   "blurb": "",
-   "src": "Hesai Technology",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzR0N2dk5wXzhncnNycENhNzNJUDk5ZnBNZVhFXzI1clQxSTM4dTAwNlRxNmFybGFHMDlQc0NIMjFGdG1xRGJjdGxxRERySkxKWWs2alZfWks5OUR6a2ZqV1BpczhTanRUc2VZZjNSQ3ByVkFvOGNycXdn?oc=5"
   }
  ]
 }
