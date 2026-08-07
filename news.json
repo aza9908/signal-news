@@ -1,26 +1,12 @@
 {
- "updated": "2026-08-07T10:02:58.176Z",
+ "updated": "2026-08-07T15:58:18.656Z",
  "items": [
   {
    "cat": "ai",
-   "title": "Meta says AI model hacked into another company's systems during cybersecurity testing; 3rd company to report similar incident",
+   "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say",
    "blurb": "",
-   "src": "ABC7 Bay Area",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeUlJWXg4NjhnclhYLWFCUF9Dak1xTUxvbkU4czNMa3pSRkdiWHZlbzdFNXdBdElNRUIyU1dlbi1rWEdrMEZod2NCZzBsZ3hYbkZMWlp1a25zZEV5cXlEaFNhV3VnOGNrVXUyQlpGbTVFQkJqMHdKYTF1TktONG1SSlZMaHpwcUlQWmVUeFhya1RucFNabnRGWVZRVmdJUmNKU29VQnhsSE1aQndWM0ZOVHVZakYxU0d0NUhsWHhGR19PeWV3THpnTzhiZkNXbWhEVnNWdnV0OGx3NmVJNG54SUEtYUNCZ9IB6wFBVV95cUxPSHBSZlVRWWtRMUFvaks2RXk5Rjl2WkN0RnF0VVlRS1JfNWpHNXRUNUxqNTkyb2Q5Y1kxekJ3bXFQemU5RUxQeDdpMGlCRXkwaWU0amtvb0FPcjN4WUJjUGVrUkRKOWdxUHdFYk9Xby1zMkM5alRMOVE3Q1JKOThfN1dFc0pKcHlfbUxCaF9kREx3RURSMXB0TnNleUZsYkdVQUl6M2NjQldhRjAybUo5RWxvTHVmR2kwMHlfZ2ZkS1ZWZjdDaFRaTlFqcXJoMjAzMVBmZmdlckpxcEhiSnFyX18tSGdSejlWS3pR?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China’s Unitree Seeks $904 Million in First Mainland Robotic IPO",
-   "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFFXb1JsNU1MbXlVOFh1NGItVmRoZ3lPNVEyVmxBZ1NZWmZQSlowVmR0NndYX0R5aUItSEQ2R241TVNCR2V4OXdfUTNNU1g4MEtOZHhOU0M5a05QV2NnM05wRWJIRzR5M2ZFZkVfVDR1WW5GcEpYdzJ5RHQ3R1hzLXVlWW9zZ3lVN1Y1TjQ1V3R6REFVbU03ZTJoOHAyVVl5V3hYWXBwd1YtbUpIWnc3MW1KMXo?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-   "blurb": "",
-   "src": "WIRED",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5"
   },
   {
    "cat": "robo",
@@ -31,59 +17,73 @@
   },
   {
    "cat": "ai",
-   "title": "ByteDance targets mega AI model nearing Anthropic’s Mythos",
+   "title": "Moonshot’s Kimi AI model has also escaped from a test environment",
    "blurb": "",
-   "src": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnUmZkaXcyRWthc2hFbk1BYVhZYnNVRXhLWUxXS1VCMkxMVEhRSlI1RkJRclNNRUlhNG9heThEZzVEVUZQVkdLYmlVcFpFNmhlNkhJMzdrc1VfT2ZQSW9FNWswYUswcWhKN09nTXYxM0loTURNM2RUSE5abnVjVWI0NU4?oc=5"
+   "src": "csoonline.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDhaSlRfdWMtamhjSkRLcDBuRGpWQjBhN0JrZDU4M19CMlNpeTFsNFhwS0ZqX2V2SGZvSzBmMUdsWVo1clhQd1p4ZWFPLU12eGVuVnRDczVMbU4zT01mdmJDVWpPa2lNbjV0NmFLN0RkUktGUjZiV3dfUmhlQ0Rxd1dYeGZoWVpIU1lNbENHUTNfLWs5RmlFMkVXVExodXJtVnFqWEI0Y2RzYUFwUUFBRQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "In the Doghouse: FCC Bans New Foreign-Made Humanoid, Quadruped Robots",
+   "blurb": "",
+   "src": "ASIS International",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDVER1JyWW1mb3M0R180Sko0NFY4MmxGeVNrRXJhYWNCWkFJbWwtN25jcVpOX25Vd19SMVBtTGFDNkdweXZRaXVsRGs0ZmRCZW9kQjlNdVdkdzQxenUzd2M1LXVmMUNwcFFGakptUmJPeFZUc2VOelB2em9LcklzMW9OSnpYTVU2UFlLVGxCY2NIaWNNX2NySEdOcmxXcl9yUXZ0Y0s3R0oybXltVzlNM1J2bkZDd2NQSFpra1JfZnE3WnZ3UDY3U09GOGFUQQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+   "blurb": "",
+   "src": "TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2NpajBveEZEMlMxOS1TVjlwaDZJYmVmWU1EZnZHbTJBaHZWbkxYdG44aF92TkZ3MW9RUlM2dWlFTFMtTGZXb1R1a0oydzE0YU81WHh4S1pHd3JOaDd5OW5BT1Y4VWItaVBZekVYcFM2T2dMNWlBSjU0eGpnaXJOeDE0bkJSNDFKaVhmdFE5WFMzVEZYWG1BWGJmc1FENl9haTFBdTVFNVRzRVNzS0ZsNUtyQ1ZvdjFWbmc?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Mitsubishi joins the humanoid robot race — at a 1,000 unit per month pace",
+   "blurb": "",
+   "src": "Electrek",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGpDYUdKUTlVUnNSN2tSdFo5SC05b1ZpekV1WXNVWHBtWU16a0I4djJfRjJDRzVtVGJXLWtCd3ZVd0x4Z2dhMmxEZWtGSzN1QV9IQ0tmdGFMazlPS1NpWUxzSlZaWmNOcm11UDRlLUpRaFVGdzliZ2x2SmhFRjBsaUFWU21WbWkwWjVZcVl3MkQwNHdZRVYxWUR2dUQ4WVl4RHFadQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "AI model helps physics Nobel laureate out of a decade-old mathematical jam",
+   "blurb": "",
+   "src": "Physics World",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU09XalR6VWtiVW1Id0tmZkREVnRJcy1aSHhkQmxxUlB4TWwxeTg0cFlibmhCendXNVFVVUhkSllxUE5MbW00SEw5eUszaFUyNEJ0dzlqTTJMUzhwQnpUVTNlTzJIcjY4M1NCTmpqUnM3S3BuMUdjSlEyV25YR2huSTdORTFTSVFjdk1Fa2FaVWZybFVPdFM5NXJFRXRsZTNIWXZqUw?oc=5"
   },
   {
    "cat": "robo",
    "title": "Unitree IPO Turns 36-Year-Old Founder Into China’s First Humanoid Robot Billionaire",
    "blurb": "",
-   "src": "Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CaldPeGRWYm1lU0Q0M2MzeVBkcGdSR2syOC03UmZxVV96YV9Lb05YUThHeXJTQ0hseDhLLWFtVkE1WS1hNnJ2RDlXM2VUMUpzaVJpbXAybEc4RzlDZFM5anBOMUg3T0oxWUhORkpLT3lJOFlaMU0zajduU0dDZw?oc=5"
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjh6bmduYmI3RVFxMFh6SG5OXy1FeWdiOERhNFdrVEhxb1AwRW1aWXF0NEhGUy1WOC1fZTl1SFpUS245SUVsck1NenpMcWI1Z0ZsbHluS3lrSnU2VE92cWk0VUpXZ0pjOVJtYXZXMXZScWpQUlBIR0IxU1VIQjB2OVY5WGdEelpnTmlITnlCOUdzOXdBSE80ME1zWmtuckRybHBmcHRwVUFMY3dBa25NYUQxdDZPWkNjQmhEV2stT21BQ0NKZ3RxWg?oc=5"
   },
   {
    "cat": "ai",
-   "title": "China’s Top AI Model Evaded Testing Environment, Researchers Say",
+   "title": "Chinese AI model breaks through safety constraints",
+   "blurb": "",
+   "src": "semafor.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOck1sVHVqVXJ0bUtDaU1ta3NCQ0tjQW1iOWN2UmFybTNvVkRhN3AzVWluZ1N2eWpmSGNrY1RzVXVIYXd1RW16UFVudXlaa3lyb1I2UHMxTFVjN2ZYQnZ1dWFVMzZDSXFpUmpzYk5MbGVlb2FnaGxGTVEwa0xPdHdGdmZpNlR6SjdWWlByTlRJU3NVSnBBRWlBMQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "China’s Unitree Seeks $904 Million in First Mainland Robotic IPO",
    "blurb": "",
    "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNll3VTJMVGl6djhQajYzTGgzcmFuZUstUnVmY3FmaTZrUW4zMzlTRzRWb3ZkNEV6cFhrZW42RFhqVmVrYlM2RFBJV3dpT0RNT0hicWJ4dUF6dEw5Rk05MXhFZVVQSUowcjlrd2EyWG9weWF3VWZvaUJjdzZwak9GR2xVMXh5WVJxZXpjSVZnNFFRS3pmcG1KeGNGMlNhUzN5bXVwc09SNUMtbDhYWlVMN2E4Tl8?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid robots make quantum leaps",
-   "blurb": "",
-   "src": "chinadailyasia.com",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxMnYybEFMcjhFM0hteU9IbXhlWllEUVpNa29YdjRyQlRkZ2hhbFh2SFdBWWJwMHdpdjRfaGNJOTc5eVpMcllJOW5UeUN4SWZ2eGxVcjlRLUM?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFFXb1JsNU1MbXlVOFh1NGItVmRoZ3lPNVEyVmxBZ1NZWmZQSlowVmR0NndYX0R5aUItSEQ2R241TVNCR2V4OXdfUTNNU1g4MEtOZHhOU0M5a05QV2NnM05wRWJIRzR5M2ZFZkVfVDR1WW5GcEpYdzJ5RHQ3R1hzLXVlWW9zZ3lVN1Y1TjQ1V3R6REFVbU03ZTJoOHAyVVl5V3hYWXBwd1YtbUpIWnc3MW1KMXo?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Meta discloses another AI model that went rogue",
+   "title": "Meta says AI model hacked into another company's systems during cybersecurity testing; 3rd company to report similar incident",
    "blurb": "",
-   "src": "hcamag.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFlTbWd5eWdJMDB0aWlkLURITnFObWdnWGRFQnpwTy1JTU54RnpuY0hLdlY4MjAxWVR5em5yRURVSUYzN0I3YjlHeHVYekI2OVNZUGpjSGE5QnFHTVcxZjZsVDlwdlNlcTNJUWhnd0xkNms0emxGZnBkT3NHTzNvZUFXYUgzSkRSSDE0MENLWGZKdThnYWNjYUUta0Z3WmNMamh6R1lZSjhUMmF4c2c?oc=5"
+   "src": "ABC7 Bay Area",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeUlJWXg4NjhnclhYLWFCUF9Dak1xTUxvbkU4czNMa3pSRkdiWHZlbzdFNXdBdElNRUIyU1dlbi1rWEdrMEZod2NCZzBsZ3hYbkZMWlp1a25zZEV5cXlEaFNhV3VnOGNrVXUyQlpGbTVFQkJqMHdKYTF1TktONG1SSlZMaHpwcUlQWmVUeFhya1RucFNabnRGWVZRVmdJUmNKU29VQnhsSE1aQndWM0ZOVHVZakYxU0d0NUhsWHhGR19PeWV3THpnTzhiZkNXbWhEVnNWdnV0OGx3NmVJNG54SUEtYUNCZ9IB6wFBVV95cUxPSHBSZlVRWWtRMUFvaks2RXk5Rjl2WkN0RnF0VVlRS1JfNWpHNXRUNUxqNTkyb2Q5Y1kxekJ3bXFQemU5RUxQeDdpMGlCRXkwaWU0amtvb0FPcjN4WUJjUGVrUkRKOWdxUHdFYk9Xby1zMkM5alRMOVE3Q1JKOThfN1dFc0pKcHlfbUxCaF9kREx3RURSMXB0TnNleUZsYkdVQUl6M2NjQldhRjAybUo5RWxvTHVmR2kwMHlfZ2ZkS1ZWZjdDaFRaTlFqcXJoMjAzMVBmZmdlckpxcEhiSnFyX18tSGdSejlWS3pR?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots",
+   "title": "'World's first embodied all-terrain' humanoid robot Lumo unveiled",
    "blurb": "",
-   "src": "Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaF9UQzJxTU54eGUxTWtKaFhnS1pzcWpOcHZXMlpfUHdsRUczampIQkdXWE80Vm5ueEo1Q1lhU0FRU0NqRExsRHRmeXBSWW5OZHJJXzIwRzVXSXR5WGdsd0tnNDVWUWtrM01PZnY3LXpmaWd2LS1VQjF4cmJSdFhfS1VVV1Vld1pGUzRZb251N19hSHFQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say",
-   "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation",
-   "blurb": "",
-   "src": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUk1Hd2d1WFRNOHpKUkJ0aGR4UE1RYnR0cFJZRVhZb0NkNWtUejlGVHpHcUtOVkNQS2d2ZXlCRnJMVmg0QlFfV3R5TGR0NzJCQ0xrbjVGcW91MDdwSEUxZTd0V2RDc29uMjkyYmxIRmtUdl9ja3VUMWZyMU1iUnZFWFZyM1p2ZzlpOGV3aGRfelVabFpjZXNIazYxYzNxWWQxLXNucjUxV29HakHSAbABQVVfeXFMTnJLeHg2MTNEVzRLVV8wYjFCdzl3clhjMjctX28yVU9sSzkyMHdLTDIzX3NVVUFpU3lFX3dVTENPVFViTlBwOUFsMVpqOFBnTHB2MWhwQ1RFejltRk44MmlmMUFIRGkwbFF5azVKYUdENDRjZTJNZmdsUk00NHdJajFiQXFZN0JiMEpyUng5bTh3Vl82a3N0M3FpYk01S1pmVk91OXA3LTlLbjI0dU82TFc?oc=5"
+   "src": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFlNVy0zNWJObjhFN3E4OWF2VGpTUnhCWWVpYjZfLTFnNTIzTXVCVkY5Ums5OW9xZ0o3SzVFVGJ2WDdEaTRTOHgwdzNiNDhrbVo0MzMwbUdGdk80cmw4NDBfYjI2eGcxa1hvMDFSbVdCVGpqZUEwMXpzMFV3el9IbjU5c2Q3bkhl?oc=5"
   }
  ]
 }
