@@ -1,6 +1,62 @@
 {
- "updated": "2026-08-07T15:58:18.656Z",
+ "updated": "2026-08-07T21:41:05.288Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
+   "blurb": "",
+   "src": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tmTlJ1OFNOUlNlOEdxZTF1QlBHTXRSd21LRlpHMGVlQlBHVXl5a2R1ZWFpazJQLVBkcG9LVHhpVGpwUnRobER0S3RPWEtvNDduUDVJdTA1UTBuc0FVVVppQ1Y5WnhhU2hnbnhEUjhTUUVleHE1NG9PcDd0UEVoaUo5ZTlheEhQN2wxQ0YzVDBXQ2sxX2J2U09VQy0welEtOEIxX0hDQQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "In the Doghouse: FCC Bans New Foreign-Made Humanoid, Quadruped Robots",
+   "blurb": "",
+   "src": "ASIS International",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDVER1JyWW1mb3M0R180Sko0NFY4MmxGeVNrRXJhYWNCWkFJbWwtN25jcVpOX25Vd19SMVBtTGFDNkdweXZRaXVsRGs0ZmRCZW9kQjlNdVdkdzQxenUzd2M1LXVmMUNwcFFGakptUmJPeFZUc2VOelB2em9LcklzMW9OSnpYTVU2UFlLVGxCY2NIaWNNX2NySEdOcmxXcl9yUXZ0Y0s3R0oybXltVzlNM1J2bkZDd2NQSFpra1JfZnE3WnZ3UDY3U09GOGFUQQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Chinese AI model breaks through constraints",
+   "blurb": "",
+   "src": "Semafor",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOck1sVHVqVXJ0bUtDaU1ta3NCQ0tjQW1iOWN2UmFybTNvVkRhN3AzVWluZ1N2eWpmSGNrY1RzVXVIYXd1RW16UFVudXlaa3lyb1I2UHMxTFVjN2ZYQnZ1dWFVMzZDSXFpUmpzYk5MbGVlb2FnaGxGTVEwa0xPdHdGdmZpNlR6SjdWWlByTlRJU3NVSnBBRWlBMQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Sensor-Covered Humanoid Skins",
+   "blurb": "",
+   "src": "Trend Hunter",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaM180SHZ5ZmY1cjFXclhIbENpVGYwWmRVUXJKWGpIR1FXeVBpbDJ5TnNDWjBpb2JReUw3RUtYeTFCeGxicHlCUVNMSFlvRzFwN3BSeWszU204aHJLNTc4bktNLUZxVEdm0gFoQVVfeXFMUFozXzRIdnlmZjVyMVdyWEhsQ2lUZjBaZFVRckpYakhHUVd5UGlsMnlOc0NaMGlvYlF5TDdFS1h5MUJ4bGJweUJRU0xIWW9HMXA3cFJ5azNTbThocks1NzhuS00tRnFUR2Y?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Moonshot’s Kimi AI model has also escaped from a test environment",
+   "blurb": "",
+   "src": "csoonline.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDhaSlRfdWMtamhjSkRLcDBuRGpWQjBhN0JrZDU4M19CMlNpeTFsNFhwS0ZqX2V2SGZvSzBmMUdsWVo1clhQd1p4ZWFPLU12eGVuVnRDczVMbU4zT01mdmJDVWpPa2lNbjV0NmFLN0RkUktGUjZiV3dfUmhlQ0Rxd1dYeGZoWVpIU1lNbENHUTNfLWs5RmlFMkVXVExodXJtVnFqWEI0Y2RzYUFwUUFBRQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Avatar Robotics raises seed round to address industrial labor constraints",
+   "blurb": "",
+   "src": "The Robot Report",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFEzRWdyMF9jTHNwWTlhdmZTZ1c0a3B5Z01EV0hIc3ZlQXllSl81eFg2emtMeENid2pXWm1SeXhaYTVoSUlGNU1FZVVpNVpiRENBMjFnZHhfVWwtMnNYc2pIUjVOaEpaZExYVzVVUzFRNElMRGhpY1gyY1V4VGRwLVlGZUE3dmxHU1drUXBPVUtpTWd1LWhmd3l3WWUwakY3Tk1VbFUyN1d3S2VQ?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "China’s Top AI Model Evaded Testing Environment, Researchers Say",
+   "blurb": "",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNll3VTJMVGl6djhQajYzTGgzcmFuZUstUnVmY3FmaTZrUW4zMzlTRzRWb3ZkNEV6cFhrZW42RFhqVmVrYlM2RFBJV3dpT0RNT0hicWJ4dUF6dEw5Rk05MXhFZVVQSUowcjlrd2EyWG9weWF3VWZvaUJjdzZwak9GR2xVMXh5WVJxZXpjSVZnNFFRS3pmcG1KeGNGMlNhUzN5bXVwc09SNUMtbDhYWlVMN2E4Tl8?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Mitsubishi joins the humanoid robot race — at a 1,000 unit per month pace",
+   "blurb": "",
+   "src": "Electrek",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGpDYUdKUTlVUnNSN2tSdFo5SC05b1ZpekV1WXNVWHBtWU16a0I4djJfRjJDRzVtVGJXLWtCd3ZVd0x4Z2dhMmxEZWtGSzN1QV9IQ0tmdGFMazlPS1NpWUxzSlZaWmNOcm11UDRlLUpRaFVGdzliZ2x2SmhFRjBsaUFWU21WbWkwWjVZcVl3MkQwNHdZRVYxWUR2dUQ4WVl4RHFadQ?oc=5"
+  },
   {
    "cat": "ai",
    "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say",
@@ -17,73 +73,17 @@
   },
   {
    "cat": "ai",
-   "title": "Moonshot’s Kimi AI model has also escaped from a test environment",
+   "title": "AMD to buy Taalas, maker of model-specific AI chips for enterprise inference",
    "blurb": "",
-   "src": "csoonline.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDhaSlRfdWMtamhjSkRLcDBuRGpWQjBhN0JrZDU4M19CMlNpeTFsNFhwS0ZqX2V2SGZvSzBmMUdsWVo1clhQd1p4ZWFPLU12eGVuVnRDczVMbU4zT01mdmJDVWpPa2lNbjV0NmFLN0RkUktGUjZiV3dfUmhlQ0Rxd1dYeGZoWVpIU1lNbENHUTNfLWs5RmlFMkVXVExodXJtVnFqWEI0Y2RzYUFwUUFBRQ?oc=5"
+   "src": "networkworld.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa1NqSTR6SmY0Qm1hMjVJVzM1ODRCeFo3UjR6UllHQm9hYVNySDE5VW11TFBlS0FSb2M5S1JUQnBkYnkwcjRCYjFHYnVsbG5NT2R2QmgyUXNfZjVSaU0xZ0JFU3gxQUNZUm9CQS1KSm9BeFFjVGhpTG5hQWdiVnpFSUZfSGxudWhsTHUtaXdRUEtLQ0ZUeWRmYXNCd0R5OGxzS2tWcS1TcVlJRHVfei1kWU1kMkxBNVNlOHRFMVpoODE3dmc?oc=5"
   },
   {
    "cat": "robo",
-   "title": "In the Doghouse: FCC Bans New Foreign-Made Humanoid, Quadruped Robots",
-   "blurb": "",
-   "src": "ASIS International",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDVER1JyWW1mb3M0R180Sko0NFY4MmxGeVNrRXJhYWNCWkFJbWwtN25jcVpOX25Vd19SMVBtTGFDNkdweXZRaXVsRGs0ZmRCZW9kQjlNdVdkdzQxenUzd2M1LXVmMUNwcFFGakptUmJPeFZUc2VOelB2em9LcklzMW9OSnpYTVU2UFlLVGxCY2NIaWNNX2NySEdOcmxXcl9yUXZ0Y0s3R0oybXltVzlNM1J2bkZDd2NQSFpra1JfZnE3WnZ3UDY3U09GOGFUQQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-   "blurb": "",
-   "src": "TechCrunch",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2NpajBveEZEMlMxOS1TVjlwaDZJYmVmWU1EZnZHbTJBaHZWbkxYdG44aF92TkZ3MW9RUlM2dWlFTFMtTGZXb1R1a0oydzE0YU81WHh4S1pHd3JOaDd5OW5BT1Y4VWItaVBZekVYcFM2T2dMNWlBSjU0eGpnaXJOeDE0bkJSNDFKaVhmdFE5WFMzVEZYWG1BWGJmc1FENl9haTFBdTVFNVRzRVNzS0ZsNUtyQ1ZvdjFWbmc?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Mitsubishi joins the humanoid robot race — at a 1,000 unit per month pace",
-   "blurb": "",
-   "src": "Electrek",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGpDYUdKUTlVUnNSN2tSdFo5SC05b1ZpekV1WXNVWHBtWU16a0I4djJfRjJDRzVtVGJXLWtCd3ZVd0x4Z2dhMmxEZWtGSzN1QV9IQ0tmdGFMazlPS1NpWUxzSlZaWmNOcm11UDRlLUpRaFVGdzliZ2x2SmhFRjBsaUFWU21WbWkwWjVZcVl3MkQwNHdZRVYxWUR2dUQ4WVl4RHFadQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "AI model helps physics Nobel laureate out of a decade-old mathematical jam",
-   "blurb": "",
-   "src": "Physics World",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU09XalR6VWtiVW1Id0tmZkREVnRJcy1aSHhkQmxxUlB4TWwxeTg0cFlibmhCendXNVFVVUhkSllxUE5MbW00SEw5eUszaFUyNEJ0dzlqTTJMUzhwQnpUVTNlTzJIcjY4M1NCTmpqUnM3S3BuMUdjSlEyV25YR2huSTdORTFTSVFjdk1Fa2FaVWZybFVPdFM5NXJFRXRsZTNIWXZqUw?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Unitree IPO Turns 36-Year-Old Founder Into China’s First Humanoid Robot Billionaire",
+   "title": "Banning Chinese Robots: Will It Work?",
    "blurb": "",
    "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjh6bmduYmI3RVFxMFh6SG5OXy1FeWdiOERhNFdrVEhxb1AwRW1aWXF0NEhGUy1WOC1fZTl1SFpUS245SUVsck1NenpMcWI1Z0ZsbHluS3lrSnU2VE92cWk0VUpXZ0pjOVJtYXZXMXZScWpQUlBIR0IxU1VIQjB2OVY5WGdEelpnTmlITnlCOUdzOXdBSE80ME1zWmtuckRybHBmcHRwVUFMY3dBa25NYUQxdDZPWkNjQmhEV2stT21BQ0NKZ3RxWg?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Chinese AI model breaks through safety constraints",
-   "blurb": "",
-   "src": "semafor.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOck1sVHVqVXJ0bUtDaU1ta3NCQ0tjQW1iOWN2UmFybTNvVkRhN3AzVWluZ1N2eWpmSGNrY1RzVXVIYXd1RW16UFVudXlaa3lyb1I2UHMxTFVjN2ZYQnZ1dWFVMzZDSXFpUmpzYk5MbGVlb2FnaGxGTVEwa0xPdHdGdmZpNlR6SjdWWlByTlRJU3NVSnBBRWlBMQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China’s Unitree Seeks $904 Million in First Mainland Robotic IPO",
-   "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFFXb1JsNU1MbXlVOFh1NGItVmRoZ3lPNVEyVmxBZ1NZWmZQSlowVmR0NndYX0R5aUItSEQ2R241TVNCR2V4OXdfUTNNU1g4MEtOZHhOU0M5a05QV2NnM05wRWJIRzR5M2ZFZkVfVDR1WW5GcEpYdzJ5RHQ3R1hzLXVlWW9zZ3lVN1Y1TjQ1V3R6REFVbU03ZTJoOHAyVVl5V3hYWXBwd1YtbUpIWnc3MW1KMXo?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Meta says AI model hacked into another company's systems during cybersecurity testing; 3rd company to report similar incident",
-   "blurb": "",
-   "src": "ABC7 Bay Area",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeUlJWXg4NjhnclhYLWFCUF9Dak1xTUxvbkU4czNMa3pSRkdiWHZlbzdFNXdBdElNRUIyU1dlbi1rWEdrMEZod2NCZzBsZ3hYbkZMWlp1a25zZEV5cXlEaFNhV3VnOGNrVXUyQlpGbTVFQkJqMHdKYTF1TktONG1SSlZMaHpwcUlQWmVUeFhya1RucFNabnRGWVZRVmdJUmNKU29VQnhsSE1aQndWM0ZOVHVZakYxU0d0NUhsWHhGR19PeWV3THpnTzhiZkNXbWhEVnNWdnV0OGx3NmVJNG54SUEtYUNCZ9IB6wFBVV95cUxPSHBSZlVRWWtRMUFvaks2RXk5Rjl2WkN0RnF0VVlRS1JfNWpHNXRUNUxqNTkyb2Q5Y1kxekJ3bXFQemU5RUxQeDdpMGlCRXkwaWU0amtvb0FPcjN4WUJjUGVrUkRKOWdxUHdFYk9Xby1zMkM5alRMOVE3Q1JKOThfN1dFc0pKcHlfbUxCaF9kREx3RURSMXB0TnNleUZsYkdVQUl6M2NjQldhRjAybUo5RWxvTHVmR2kwMHlfZ2ZkS1ZWZjdDaFRaTlFqcXJoMjAzMVBmZmdlckpxcEhiSnFyX18tSGdSejlWS3pR?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "'World's first embodied all-terrain' humanoid robot Lumo unveiled",
-   "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFlNVy0zNWJObjhFN3E4OWF2VGpTUnhCWWVpYjZfLTFnNTIzTXVCVkY5Ums5OW9xZ0o3SzVFVGJ2WDdEaTRTOHgwdzNiNDhrbVo0MzMwbUdGdk80cmw4NDBfYjI2eGcxa1hvMDFSbVdCVGpqZUEwMXpzMFV3el9IbjU5c2Q3bkhl?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1dGV284dlB1NC04Ti15bFpFak1tSzJqSjBUYjFHTUVxSnRfZ01PVTQ1cUVyY3VNel9KU1pUcEd1R1RqdHdBQzlSWWk3OHNMR08tdWl1dXFEbUpJQVVONW1JbW9zUnlITm9HT3J4dm9rQUpXSUUwWjFXcVJvZ09tUzRaNUxRMlY5QXBLcUpaaE4?oc=5"
   }
  ]
 }
