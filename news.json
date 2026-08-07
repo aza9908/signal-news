@@ -1,6 +1,20 @@
 {
- "updated": "2026-08-07T01:00:58.845Z",
+ "updated": "2026-08-07T04:56:23.953Z",
  "items": [
+  {
+   "cat": "ai",
+   "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
+   "blurb": "",
+   "src": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTWtZcTJyQ3pWMkxJMlJGal9ZVEdleDBEaWdSc3U0aEIydjRCX1o3dlhJc0c1aEJWR0dsY2pVMUQ4d1pXeUdOLWE5MmVqWE14cEZGVlhCVklKLU4ySUVYTU93cXdKZUF0TW9vSmJoU005c01aVUhlVEotZVh1WHBUVER4SWlUd281b01SMElDVGNaRjJfOUgwYlVjS1JMNDg1QmtaY0pBS0hla05CMkhCVEhfazZ6WVk1N3Zya1VDcjhDcnFQSUY3RW9CdE91amZGazZ2ai1zNUM?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "China’s Unitree Seeks $904 Million in First Mainland Robotic IPO",
+   "blurb": "",
+   "src": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFFXb1JsNU1MbXlVOFh1NGItVmRoZ3lPNVEyVmxBZ1NZWmZQSlowVmR0NndYX0R5aUItSEQ2R241TVNCR2V4OXdfUTNNU1g4MEtOZHhOU0M5a05QV2NnM05wRWJIRzR5M2ZFZkVfVDR1WW5GcEpYdzJ5RHQ3R1hzLXVlWW9zZ3lVN1Y1TjQ1V3R6REFVbU03ZTJoOHAyVVl5V3hYWXBwd1YtbUpIWnc3MW1KMXo?oc=5"
+  },
   {
    "cat": "ai",
    "title": "Meta says AI model hacked into another company's systems during cybersecurity testing; 3rd company to report similar incident",
@@ -19,7 +33,7 @@
    "cat": "ai",
    "title": "The Trump Administration Has Created a De Facto Licensing System for Frontier AI Models",
    "blurb": "",
-   "src": "Center for American Progress",
+   "src": "americanprogress.org",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWURBMjRhRXAtdEM2WGJNRXFzNEVUZFpFeHJLMFVNdWU5dUh0YzRqUmVBRlVCNTl6blR1ZXFYemtCUTZ4ZjZ0VVQtb00tT1VUWE1vZnIzYWxaVWt5VmwtYzJqMmJBM2NxczZfdUIteVVDbUpqN1lWRnRWWm94VVBnVFZfS3NhbWl3S01lSXYyT2xZZi1zb0dQUkVTaXZ0TThrOEhRMk9CRFhQSERja2pxOVpDNnB3T3FFOVB0MFB1ZUg5WFdiT3hpZQ?oc=5"
   },
   {
@@ -31,24 +45,10 @@
   },
   {
    "cat": "ai",
-   "title": "Meta says its AI model hacked another company during testing",
+   "title": "Hopes & fears after scientists use AI model to create 16 new viruses not found in nature",
    "blurb": "",
-   "src": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRV9ldV9XMlVlWFNDVXVXVW01ZDhwcWNRMENJZE9LVmlnbE9QdmxBMGMzWTBLbFlObU1KM1BsOERkZ2tQZFJtRzJ4RDlsdEpIVW4tN3lISTFrX1VFTlhyLWh6d3ctcFR6QWtYdk0zU1drWTFPSVY0OVFfRTBVdXJlMEY1SUZQblF5d3VLRWgwbnNmQkNCTmJXZkdSTlQ0ajlocHU1NTE3R0VVUVBLU1Nuc0pnZVg?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Humanoid robots need these key technologies to work like humans, new guide shows",
-   "blurb": "",
-   "src": "Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS0RmZHlTUDduT3dYZUhYeTB1TzlDQmlwRldxU3NPOFBUUU9URDgzaTdVN0Z3aGxPZGlzS1NmR01FcW9JOVNNYjN2cHpudUs5UHBmX2I2bjJld1FkZmRVd2x4SlF3Nm1EaXZNcnR2cHVIajdmRjhXeEZYTXVUc2dfR3hSdEpTLUtPdDdjUDRzRFVrQktM?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Scientists Trained An AI Model In DNA—And It Invented 16 New Viruses",
-   "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWThpek9kUHFSVEk0Uk5aSGFrdDZMdmYtcEl6SUNkU3VKeTVISm43TDRxNVd6UDFsRDJqVm1NUWZUUm5oaDd1OGtwQjdvb2NKQ2NMU1JyVUpnUDlfeFJYSUVXcm5CckpNNnkwa0w5dmdBWXJvZ0RIYXN4d1NUMWZVNWF5WkhBTWJHaWhDWG4xcXBKNXBYR2FlUnBIdzk2Zm94R1VvNTRhTXFHV0ZSZnhlM195eWFqTTAzWWZSck1ndw?oc=5"
+   "src": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14NFhsVHJhUWIyeVhUZnBycWY3dGRfT0dRLWhDblNGYUR4TnVuaENZX2pPbE54Mkd6MG1ZTXNKbjIteEVVTTJfS2Mtbk1udTJid0U4UzV3bUV5RjI1YzEzbER6MHpHUkVHb2ZrYk9B?oc=5"
   },
   {
    "cat": "robo",
@@ -59,31 +59,31 @@
   },
   {
    "cat": "ai",
-   "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
+   "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say",
    "blurb": "",
-   "src": "pressdemocrat.com",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXWXdmWmZBYmh2N2ZYa1g2WExaVnA2Q250MGJfakZnVDRXRHl0WXBGNlBGeVpEU2lNSkNGSXBYa3VQdmgyUnlBWl90UUhFOU4wRDlEcEFLQXdjMDJ5bmtjeF92cVM?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Robots Are Coming — but Not Everywhere",
+   "title": "Humanoid robots need these key technologies to work like humans, new guide shows",
    "blurb": "",
-   "src": "MIT Sloan Management Review Middle East",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41T2JpYXQwbU5pTGxvblVaLWFtMTlLWlUzd3FpdjVtUGhfTlN6QmRPaWpkSmQ3MEItT3ZyNHNheC01TmNnUHEtMGVwcG9LZzFIMnJDZnRicTJJQ0c4UlBkbndqTWp4c3pRa05IM3JsYVdtc0luSDhqUWcyU3Y?oc=5"
+   "src": "interestingengineering.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS0RmZHlTUDduT3dYZUhYeTB1TzlDQmlwRldxU3NPOFBUUU9URDgzaTdVN0Z3aGxPZGlzS1NmR01FcW9JOVNNYjN2cHpudUs5UHBmX2I2bjJld1FkZmRVd2x4SlF3Nm1EaXZNcnR2cHVIajdmRjhXeEZYTXVUc2dfR3hSdEpTLUtPdDdjUDRzRFVrQktM?oc=5"
   },
   {
    "cat": "ai",
-   "title": "Meta breach adds to concerns about AI models going rogue",
+   "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
    "blurb": "",
-   "src": "National Desk",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdnhpX2hYdVJpWmt3UFlERjFxNlBuRnBlYmc5TkIxREdDMUU1OXllQVpKVUZkcF9vTTZPOUh3NUp1cUhEeUVtUnNMcDFJblFKUGd4elBfMjg0UlhJSGtkQzhOZGlyZ3VWSnFDVzEyeVBTVkZvOG16Z0FEZWdHUkw1UWxtWlV2VmZ2VGxlWmNGSm9meVdaM3BKNmZ0S3BnS2V5em1KTmZGMkVBdWs?oc=5"
+   "src": "WIRED",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5"
   },
   {
    "cat": "robo",
-   "title": "China’s Unitree Seeks $904 Million in First Mainland Robotic IPO",
+   "title": "Humanoid robots make quantum leaps",
    "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFFXb1JsNU1MbXlVOFh1NGItVmRoZ3lPNVEyVmxBZ1NZWmZQSlowVmR0NndYX0R5aUItSEQ2R241TVNCR2V4OXdfUTNNU1g4MEtOZHhOU0M5a05QV2NnM05wRWJIRzR5M2ZFZkVfVDR1WW5GcEpYdzJ5RHQ3R1hzLXVlWW9zZ3lVN1Y1TjQ1V3R6REFVbU03ZTJoOHAyVVl5V3hYWXBwd1YtbUpIWnc3MW1KMXo?oc=5"
+   "src": "China Daily",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vWnBjUW1pUzZubzVjTC1oazdzZFZtVnRsQWxjUXFBMWx3QzYxQ3czRTZpM0RlRzdFT1NLTzVBaEN2MWlBZ3l5NHluejdaZWVDcUZZMXZPUGNKaTJEWlN2cDRTUEg1YS1aYVJyRTctbWdIRWxvVmRVcHUtQV9tZw?oc=5"
   }
  ]
 }
