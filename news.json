@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T21:41:05.288Z",
+ "updated": "2026-08-08T04:12:03.631Z",
  "items": [
   {
    "cat": "ai",
@@ -7,6 +7,34 @@
    "blurb": "",
    "src": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tmTlJ1OFNOUlNlOEdxZTF1QlBHTXRSd21LRlpHMGVlQlBHVXl5a2R1ZWFpazJQLVBkcG9LVHhpVGpwUnRobER0S3RPWEtvNDduUDVJdTA1UTBuc0FVVVppQ1Y5WnhhU2hnbnhEUjhTUUVleHE1NG9PcDd0UEVoaUo5ZTlheEhQN2wxQ0YzVDBXQ2sxX2J2U09VQy0welEtOEIxX0hDQQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Robots Are Coming — but Not Everywhere",
+   "blurb": "",
+   "src": "MIT Sloan Management Review Middle East",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41T2JpYXQwbU5pTGxvblVaLWFtMTlLWlUzd3FpdjVtUGhfTlN6QmRPaWpkSmQ3MEItT3ZyNHNheC01TmNnUHEtMGVwcG9LZzFIMnJDZnRicTJJQ0c4UlBkbndqTWp4c3pRa05IM3JsYVdtc0luSDhqUWcyU3Y?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "China’s Top AI Model Evaded Testing Environment, Researchers Say",
+   "blurb": "",
+   "src": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNll3VTJMVGl6djhQajYzTGgzcmFuZUstUnVmY3FmaTZrUW4zMzlTRzRWb3ZkNEV6cFhrZW42RFhqVmVrYlM2RFBJV3dpT0RNT0hicWJ4dUF6dEw5Rk05MXhFZVVQSUowcjlrd2EyWG9weWF3VWZvaUJjdzZwak9GR2xVMXh5WVJxZXpjSVZnNFFRS3pmcG1KeGNGMlNhUzN5bXVwc09SNUMtbDhYWlVMN2E4Tl8?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
+   "blurb": "",
+   "src": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LbkJPUnUyQXIzRHQ0MXhIenM5M3d2SFlQZllBTngyWUUyT3lhYXdONERXUVNOOW4ydDQwQlBrcW5hTUtydmtObmt1aU9HTG1IVUNBWDZzR1VjRENaSjZrR2tSVGg3Mk5ZX1lmdUhOZXJVWjNocjVGR3VYSW0?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Moonshot’s Kimi AI model has also escaped from a test environment",
+   "blurb": "",
+   "src": "csoonline.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDhaSlRfdWMtamhjSkRLcDBuRGpWQjBhN0JrZDU4M19CMlNpeTFsNFhwS0ZqX2V2SGZvSzBmMUdsWVo1clhQd1p4ZWFPLU12eGVuVnRDczVMbU4zT01mdmJDVWpPa2lNbjV0NmFLN0RkUktGUjZiV3dfUmhlQ0Rxd1dYeGZoWVpIU1lNbENHUTNfLWs5RmlFMkVXVExodXJtVnFqWEI0Y2RzYUFwUUFBRQ?oc=5"
   },
   {
    "cat": "robo",
@@ -24,20 +52,6 @@
   },
   {
    "cat": "robo",
-   "title": "Sensor-Covered Humanoid Skins",
-   "blurb": "",
-   "src": "Trend Hunter",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaM180SHZ5ZmY1cjFXclhIbENpVGYwWmRVUXJKWGpIR1FXeVBpbDJ5TnNDWjBpb2JReUw3RUtYeTFCeGxicHlCUVNMSFlvRzFwN3BSeWszU204aHJLNTc4bktNLUZxVEdm0gFoQVVfeXFMUFozXzRIdnlmZjVyMVdyWEhsQ2lUZjBaZFVRckpYakhHUVd5UGlsMnlOc0NaMGlvYlF5TDdFS1h5MUJ4bGJweUJRU0xIWW9HMXA3cFJ5azNTbThocks1NzhuS00tRnFUR2Y?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Moonshot’s Kimi AI model has also escaped from a test environment",
-   "blurb": "",
-   "src": "csoonline.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDhaSlRfdWMtamhjSkRLcDBuRGpWQjBhN0JrZDU4M19CMlNpeTFsNFhwS0ZqX2V2SGZvSzBmMUdsWVo1clhQd1p4ZWFPLU12eGVuVnRDczVMbU4zT01mdmJDVWpPa2lNbjV0NmFLN0RkUktGUjZiV3dfUmhlQ0Rxd1dYeGZoWVpIU1lNbENHUTNfLWs5RmlFMkVXVExodXJtVnFqWEI0Y2RzYUFwUUFBRQ?oc=5"
-  },
-  {
-   "cat": "robo",
    "title": "Avatar Robotics raises seed round to address industrial labor constraints",
    "blurb": "",
    "src": "The Robot Report",
@@ -45,10 +59,10 @@
   },
   {
    "cat": "ai",
-   "title": "China’s Top AI Model Evaded Testing Environment, Researchers Say",
+   "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
    "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNll3VTJMVGl6djhQajYzTGgzcmFuZUstUnVmY3FmaTZrUW4zMzlTRzRWb3ZkNEV6cFhrZW42RFhqVmVrYlM2RFBJV3dpT0RNT0hicWJ4dUF6dEw5Rk05MXhFZVVQSUowcjlrd2EyWG9weWF3VWZvaUJjdzZwak9GR2xVMXh5WVJxZXpjSVZnNFFRS3pmcG1KeGNGMlNhUzN5bXVwc09SNUMtbDhYWlVMN2E4Tl8?oc=5"
+   "src": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5"
   },
   {
    "cat": "robo",
@@ -59,31 +73,17 @@
   },
   {
    "cat": "ai",
-   "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say",
-   "blurb": "",
-   "src": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
-   "blurb": "",
-   "src": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LbkJPUnUyQXIzRHQ0MXhIenM5M3d2SFlQZllBTngyWUUyT3lhYXdONERXUVNOOW4ydDQwQlBrcW5hTUtydmtObmt1aU9HTG1IVUNBWDZzR1VjRENaSjZrR2tSVGg3Mk5ZX1lmdUhOZXJVWjNocjVGR3VYSW0?oc=5"
-  },
-  {
-   "cat": "ai",
    "title": "AMD to buy Taalas, maker of model-specific AI chips for enterprise inference",
    "blurb": "",
-   "src": "networkworld.com",
+   "src": "Network World",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa1NqSTR6SmY0Qm1hMjVJVzM1ODRCeFo3UjR6UllHQm9hYVNySDE5VW11TFBlS0FSb2M5S1JUQnBkYnkwcjRCYjFHYnVsbG5NT2R2QmgyUXNfZjVSaU0xZ0JFU3gxQUNZUm9CQS1KSm9BeFFjVGhpTG5hQWdiVnpFSUZfSGxudWhsTHUtaXdRUEtLQ0ZUeWRmYXNCd0R5OGxzS2tWcS1TcVlJRHVfei1kWU1kMkxBNVNlOHRFMVpoODE3dmc?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Banning Chinese Robots: Will It Work?",
+   "title": "Sensor-Covered Humanoid Skins",
    "blurb": "",
-   "src": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1dGV284dlB1NC04Ti15bFpFak1tSzJqSjBUYjFHTUVxSnRfZ01PVTQ1cUVyY3VNel9KU1pUcEd1R1RqdHdBQzlSWWk3OHNMR08tdWl1dXFEbUpJQVVONW1JbW9zUnlITm9HT3J4dm9rQUpXSUUwWjFXcVJvZ09tUzRaNUxRMlY5QXBLcUpaaE4?oc=5"
+   "src": "Trend Hunter",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaM180SHZ5ZmY1cjFXclhIbENpVGYwWmRVUXJKWGpIR1FXeVBpbDJ5TnNDWjBpb2JReUw3RUtYeTFCeGxicHlCUVNMSFlvRzFwN3BSeWszU204aHJLNTc4bktNLUZxVEdm0gFoQVVfeXFMUFozXzRIdnlmZjVyMVdyWEhsQ2lUZjBaZFVRckpYakhHUVd5UGlsMnlOc0NaMGlvYlF5TDdFS1h5MUJ4bGJweUJRU0xIWW9HMXA3cFJ5azNTbThocks1NzhuS00tRnFUR2Y?oc=5"
   }
  ]
 }
