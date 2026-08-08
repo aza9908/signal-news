@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T09:39:50.641Z",
+ "updated": "2026-08-08T15:31:40.069Z",
  "items": [
   {
    "cat": "ai",
@@ -7,6 +7,20 @@
    "blurb": "",
    "src": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tmTlJ1OFNOUlNlOEdxZTF1QlBHTXRSd21LRlpHMGVlQlBHVXl5a2R1ZWFpazJQLVBkcG9LVHhpVGpwUnRobER0S3RPWEtvNDduUDVJdTA1UTBuc0FVVVppQ1Y5WnhhU2hnbnhEUjhTUUVleHE1NG9PcDd0UEVoaUo5ZTlheEhQN2wxQ0YzVDBXQ2sxX2J2U09VQy0welEtOEIxX0hDQQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "Wall Street Sees a Multitrillion-Dollar Humanoid Robot Market. These 2 Industrial Stocks Sell the Parts.",
+   "blurb": "",
+   "src": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVENJd29fY1dFQUxQcV9IWFlNQ1VWVHVmTFlLbjgyY1RPbmNjc05QNDFYUGhGTFBTN0Z1Y2RTTkhCOUJEMmpqWU9CYVZwZElKblM0TUJXMFVKX3NxY1J1bG8zRnB2QmtpUExJNmlYZ0JKUEtuVFZiMUF4cXd6OXRCZE9pWjlmWGJkSTlnRHlNUlFyV1p2ZTBaS08zUjBDYTMxNi1N?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Military use, cyberattacks and political messaging: How governments around the world are approaching AI",
+   "blurb": "",
+   "src": "i24NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXZlRmdVSnd4TTJUSU5ubGVuelAteFNTb3FDSG5FQWpTWlVBSkhoc3RNa1VLYjlFdnRIVFJaeHJLUnlfMWdKLUhEYlhJSU5SWEx3ZEFPZXdHdm1uU2dzZ01BbTRXeUM5aGZEOUlkbWtBZEVfaFVOMEVMbUFsNzA3d3VGU2JCeHVyU2t2Q05kWmtFUzhZdGtjVkgzOVRNOWRvUXJmLUxSQl9oQW9Ca0hOTnhiSVktcVNKandITFB6T1RCbFRFVzVsbG8yX0VNRmdIYmxOMm0wRk9MX0NGZHE0akZaajUzYWVyc2pXcWpxLXkwNjNTblBMcDhVNldteFE?oc=5"
   },
   {
    "cat": "robo",
@@ -24,45 +38,31 @@
   },
   {
    "cat": "robo",
-   "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
+   "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
+   "blurb": "",
+   "src": "The Robot Report",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVJSNU9LZTNFb2F2NFVUcjZ4RHhFOVdwcUlhVS1IcjhUTWtWYkJLWXBuZG1TUVFSU1VPckdxRUtEN1FuYmlkaXhJSUg1aDU3ampWVjlRZnNwdVVkSGNaQmZnTllmT1h1RkU1Zmplc1IxYVlVRHFPRTdIS1FzbG1lOGpVVEI1MkN4TmFOTWF5VXE3Mm1yajdFc2RyTGg5YURh?oc=5"
+  },
+  {
+   "cat": "ai",
+   "title": "Why Aren't Any AI Companies Watching Their Frontier Models to Make Sure They Don't Go on Hacking Sprees?",
+   "blurb": "",
+   "src": "Futurism",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdU55Mnoyc2VXTW9YY3M0WURQb3A0eEQtaHV4dVlYYldOTE5qQ2cwRTRIcWwycVdwNm1fSThaTW9sMDZVOWVOYmZDTmJtZ21KY0FsMGJLaE43VjJ6QWZ4U09vTTFoeXdCM3NKemlyOWhEblphaERRQ09Cb2hwODNLdzJFVmoyTGItSDBJXzhKa3ZuQQ?oc=5"
+  },
+  {
+   "cat": "robo",
+   "title": "China’s Robots Know Kung Fu and Can Scale Walls. Can They Woo Investors?",
    "blurb": "",
    "src": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LbkJPUnUyQXIzRHQ0MXhIenM5M3d2SFlQZllBTngyWUUyT3lhYXdONERXUVNOOW4ydDQwQlBrcW5hTUtydmtObmt1aU9HTG1IVUNBWDZzR1VjRENaSjZrR2tSVGg3Mk5ZX1lmdUhOZXJVWjNocjVGR3VYSW0?oc=5"
   },
   {
    "cat": "ai",
-   "title": "China’s Top AI Model Evaded Testing Environment, Researchers Say",
+   "title": "Scientists Trained An AI Model In DNA—And It Invented 16 New Viruses",
    "blurb": "",
-   "src": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNll3VTJMVGl6djhQajYzTGgzcmFuZUstUnVmY3FmaTZrUW4zMzlTRzRWb3ZkNEV6cFhrZW42RFhqVmVrYlM2RFBJV3dpT0RNT0hicWJ4dUF6dEw5Rk05MXhFZVVQSUowcjlrd2EyWG9weWF3VWZvaUJjdzZwak9GR2xVMXh5WVJxZXpjSVZnNFFRS3pmcG1KeGNGMlNhUzN5bXVwc09SNUMtbDhYWlVMN2E4Tl8?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "In the Doghouse: FCC Bans New Foreign-Made Humanoid, Quadruped Robots",
-   "blurb": "",
-   "src": "ASIS International",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDVER1JyWW1mb3M0R180Sko0NFY4MmxGeVNrRXJhYWNCWkFJbWwtN25jcVpOX25Vd19SMVBtTGFDNkdweXZRaXVsRGs0ZmRCZW9kQjlNdVdkdzQxenUzd2M1LXVmMUNwcFFGakptUmJPeFZUc2VOelB2em9LcklzMW9OSnpYTVU2UFlLVGxCY2NIaWNNX2NySEdOcmxXcl9yUXZ0Y0s3R0oybXltVzlNM1J2bkZDd2NQSFpra1JfZnE3WnZ3UDY3U09GOGFUQQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Moonshot’s Kimi AI model has also escaped from a test environment",
-   "blurb": "",
-   "src": "csoonline.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDhaSlRfdWMtamhjSkRLcDBuRGpWQjBhN0JrZDU4M19CMlNpeTFsNFhwS0ZqX2V2SGZvSzBmMUdsWVo1clhQd1p4ZWFPLU12eGVuVnRDczVMbU4zT01mdmJDVWpPa2lNbjV0NmFLN0RkUktGUjZiV3dfUmhlQ0Rxd1dYeGZoWVpIU1lNbENHUTNfLWs5RmlFMkVXVExodXJtVnFqWEI0Y2RzYUFwUUFBRQ?oc=5"
-  },
-  {
-   "cat": "robo",
-   "title": "Avatar Robotics raises seed round to address industrial labor constraints",
-   "blurb": "",
-   "src": "The Robot Report",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFEzRWdyMF9jTHNwWTlhdmZTZ1c0a3B5Z01EV0hIc3ZlQXllSl81eFg2emtMeENid2pXWm1SeXhaYTVoSUlGNU1FZVVpNVpiRENBMjFnZHhfVWwtMnNYc2pIUjVOaEpaZExYVzVVUzFRNElMRGhpY1gyY1V4VGRwLVlGZUE3dmxHU1drUXBPVUtpTWd1LWhmd3l3WWUwakY3Tk1VbFUyN1d3S2VQ?oc=5"
-  },
-  {
-   "cat": "ai",
-   "title": "Chinese AI model breaks through constraints",
-   "blurb": "",
-   "src": "Semafor",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOck1sVHVqVXJ0bUtDaU1ta3NCQ0tjQW1iOWN2UmFybTNvVkRhN3AzVWluZ1N2eWpmSGNrY1RzVXVIYXd1RW16UFVudXlaa3lyb1I2UHMxTFVjN2ZYQnZ1dWFVMzZDSXFpUmpzYk5MbGVlb2FnaGxGTVEwa0xPdHdGdmZpNlR6SjdWWlByTlRJU3NVSnBBRWlBMQ?oc=5"
+   "src": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWThpek9kUHFSVEk0Uk5aSGFrdDZMdmYtcEl6SUNkU3VKeTVISm43TDRxNVd6UDFsRDJqVm1NUWZUUm5oaDd1OGtwQjdvb2NKQ2NMU1JyVUpnUDlfeFJYSUVXcm5CckpNNnkwa0w5dmdBWXJvZ0RIYXN4d1NUMWZVNWF5WkhBTWJHaWhDWG4xcXBKNXBYR2FlUnBIdzk2Zm94R1VvNTRhTXFHV0ZSZnhlM195eWFqTTAzWWZSck1ndw?oc=5"
   },
   {
    "cat": "robo",
@@ -73,17 +73,17 @@
   },
   {
    "cat": "ai",
-   "title": "Chinese AI Model Kimi K3 Escapes Sandbox in Third-Party Test, Researchers Say",
+   "title": "Meta says AI model hacked into another company's systems during cybersecurity testing; 3rd company to report similar incident",
    "blurb": "",
-   "src": "Insurance Journal",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xTERVblNuNG1TWVd1NnB5VEpJOUQtYVlpUTZzTm9jZGlJclBKbl9QZEhtTzlrQnFIVXNhZXJzWHVwd3licUpxM2lpUjcxbnhzMUVtY1FxNzJnMHJkb256WEQ0UzQySnlTQ2tsV3pLeEVGQ3FBZUxtb05fYWlNdw?oc=5"
+   "src": "ABC7 Bay Area",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeUlJWXg4NjhnclhYLWFCUF9Dak1xTUxvbkU4czNMa3pSRkdiWHZlbzdFNXdBdElNRUIyU1dlbi1rWEdrMEZod2NCZzBsZ3hYbkZMWlp1a25zZEV5cXlEaFNhV3VnOGNrVXUyQlpGbTVFQkJqMHdKYTF1TktONG1SSlZMaHpwcUlQWmVUeFhya1RucFNabnRGWVZRVmdJUmNKU29VQnhsSE1aQndWM0ZOVHVZakYxU0d0NUhsWHhGR19PeWV3THpnTzhiZkNXbWhEVnNWdnV0OGx3NmVJNG54SUEtYUNCZ9IB6wFBVV95cUxPSHBSZlVRWWtRMUFvaks2RXk5Rjl2WkN0RnF0VVlRS1JfNWpHNXRUNUxqNTkyb2Q5Y1kxekJ3bXFQemU5RUxQeDdpMGlCRXkwaWU0amtvb0FPcjN4WUJjUGVrUkRKOWdxUHdFYk9Xby1zMkM5alRMOVE3Q1JKOThfN1dFc0pKcHlfbUxCaF9kREx3RURSMXB0TnNleUZsYkdVQUl6M2NjQldhRjAybUo5RWxvTHVmR2kwMHlfZ2ZkS1ZWZjdDaFRaTlFqcXJoMjAzMVBmZmdlckpxcEhiSnFyX18tSGdSejlWS3pR?oc=5"
   },
   {
    "cat": "robo",
-   "title": "Sensor-Covered Humanoid Skins",
+   "title": "Smarter robots: Agentic and physical AI converge in business",
    "blurb": "",
-   "src": "Trend Hunter",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaM180SHZ5ZmY1cjFXclhIbENpVGYwWmRVUXJKWGpIR1FXeVBpbDJ5TnNDWjBpb2JReUw3RUtYeTFCeGxicHlCUVNMSFlvRzFwN3BSeWszU204aHJLNTc4bktNLUZxVEdm0gFoQVVfeXFMUFozXzRIdnlmZjVyMVdyWEhsQ2lUZjBaZFVRckpYakhHUVd5UGlsMnlOc0NaMGlvYlF5TDdFS1h5MUJ4bGJweUJRU0xIWW9HMXA3cFJ5azNTbThocks1NzhuS00tRnFUR2Y?oc=5"
+   "src": "TechTarget",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZy1oUDY5NkpvV1JXZXF0WmRieTNjbzBXUTVONTB4eFlRYU5FTDk5T0JqRDFtTEVyS202T2lJbzhOdXhMeW1FUFdqc2puVjMzLVpXTDZsOWFHQVJsSG81cVVXRTNvTnNEUFBZc1FEYmtIV0MwdjVwUExaZHpqYkJVN05OT0lENU9QN0VlTlA2RlppNWdoMHJldFMwUC1Fdw?oc=5"
   }
  ]
 }
